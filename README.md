@@ -13,6 +13,10 @@ Some useful websites for programmers.
 
 When learning CS, there are some useful sites you must know to get always informed to do your technologies even better and learn new things. Here is a non-exhaustive list of some sites you should visit. This list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
 
+## next.js added bbauska 4/19/2022 12:21pm
+- [Next JS](https://github.com/vercel/next.js)
+ 
+
 ## Index
 <ul>
 <li><a href="#when-you-get-stuck">When you get stuck</a></li>
