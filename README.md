@@ -28,6 +28,10 @@
 
 [free React Courses](https://www.java67.com/2018/02/5-free-react-courses-for-web-developers.html)
 
+[free W3Cx on EdX.org](https://learning.edx.org/course/course-v1:W3Cx+HTML5.0x+1T2022/block-v1:W3Cx+HTML5.0x+1T2022+type@sequential+block@be863694ac4b45e492eae4c82576acc5/block-v1:W3Cx+HTML5.0x+1T2022+type@vertical+block@71deac64f61a420781f0ed127d36e696)
+
+[free code camp](https://github.com/freeCodeCamp/freeCodeCamp)
+
 <p>
 <h3>Brian's added shortcuts</h3>
 
