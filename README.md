@@ -45,6 +45,8 @@
 
 [free for dev](https://free-for.dev/#/?id=cdn-and-protection)
 
+[Online Job Search](https://www.makeuseof.com/best-websites-for-hiring-online/)
+
 </p>
 
 <h1>Several hundred websites a programmer should visit</h1>
