@@ -9,9 +9,11 @@
 [![Build Status](https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)
 
 <p>
+
 [github actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 [free for dev](https://free-for.dev/#/?id=cdn-and-protection)
+
 </p>
 
 <h1>Several hundred websites a programmer should visit</h1>
