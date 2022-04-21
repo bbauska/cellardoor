@@ -11,9 +11,7 @@
 <p>
 <h3>Brian's added shortcuts</h3>
 
-chrome-extension://dagohlmlhagincbfilmkadjgmdnkjinl/index.html#/config/?crawl=crawl2
-
-[Check Bot](chrome-extension://dagohlmlhagincbfilmkadjgmdnkjinl/index.html#/config/?crawl=crawl2)
+[Check Bot](https://www.checkbot.io/)
 
 [Front End Roadmap](https://roadmap.sh/frontend)
 
