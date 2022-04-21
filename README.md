@@ -11,6 +11,8 @@
 <p>
 <h3>Brian's added shortcuts</h3>
 
+[Check Bot](chrome-extension://dagohlmlhagincbfilmkadjgmdnkjinl/index.html#/config/?crawl=crawl2)
+
 [Front End Roadmap](https://roadmap.sh/frontend)
 
 [github actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
