@@ -8,9 +8,8 @@
 
 [![Build Status](https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)
 
-
-	https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white
-    https://free-for.dev/#/?id=cdn-and-protection
+[web 1](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+[web 2](https://free-for.dev/#/?id=cdn-and-protection)
     
 # Several hundred websites a programmer should visit
 Some useful websites for programmers.
