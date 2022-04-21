@@ -8,6 +8,20 @@
 
 [![Build Status](https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)
 
+<h1>Front-End Web Development Courses</h1>
+<h2>JavaScript Frameworks and Libraries</h2>
+<ol>
+    <li>REACT.js</li>
+    <li>Vue.js</li>
+    <li>Angular</li>
+    <li>Svelte.js</li>
+    <li>Backbone.js</li>
+    <li>Ember.js</li>
+    <li>Meteor JS</li>
+    <li>Polymer JS</li>
+    <li>Ext.JS</li>
+    <li>Node.js</li>
+</ol>
 <p>
 <h3>Brian's added shortcuts</h3>
 
