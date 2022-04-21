@@ -25,6 +25,9 @@
     <li>Ext.JS</li>
     <li>Node.js</li>
 </ol>
+
+[free React Courses](https://www.java67.com/2018/02/5-free-react-courses-for-web-developers.html)
+
 <p>
 <h3>Brian's added shortcuts</h3>
 
