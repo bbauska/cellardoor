@@ -34,18 +34,21 @@
 
 <p>
 <h3>Brian's added shortcuts</h3>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server">How to Set Up a Local Test Server</a>
 
-[How to Set Up a Local Test Server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)
+<!--- [How to Set Up a Local Test Server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)  --->
 
-[Check Bot](https://www.checkbot.io/)
+<a href="https://www.checkbot.io/">Check Bot</a>
+<!--- [Check Bot](https://www.checkbot.io/)  --->
 
-[Front End Roadmap](https://roadmap.sh/frontend)
+<a href="https://roadmap.sh/frontend">Front End Roadmap</a>
+<!--- [Front End Roadmap](https://roadmap.sh/frontend)   --->
 
-[github actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+<a href="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">github actions</a>
 
-[free for dev](https://free-for.dev/#/?id=cdn-and-protection)
+<a href="https://free-for.dev/#/?id=cdn-and-protection">Free for Dev</a>
 
-[Online Job Search](https://www.makeuseof.com/best-websites-for-hiring-online/)
+<a href="https://www.makeuseof.com/best-websites-for-hiring-online/">online Job Search</a>
 
 </p>
 
