@@ -35,7 +35,7 @@
 <p>
 <h3>Brian's added shortcuts</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server">How to Set Up a Local Test Server</a>
-
+<br/>
 <!--- [How to Set Up a Local Test Server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)  --->
 
 <a href="https://www.checkbot.io/">Check Bot</a>
