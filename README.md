@@ -7,9 +7,13 @@
 </h1>
 
 [![Build Status](https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)
-
+<!---------------------------------------------------------------------------------------------------->
+<hr>
 <h1>Front-End Web Development Courses</h1>
+<!---------------------------------------------------------------------------------------------------->
+<hr>
 <h2>JavaScript Frameworks and Libraries</h2>
+<!---------------------------------------------------------------------------------------------------->
 
 [Top 10](https://medium.com/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4)
 
@@ -18,13 +22,30 @@
     <a href="https://vuejs.org/"> <li>Vue.js</li></a>
     <a href="https://angular.io/"> <li>Angular</li></a>
     <li>Svelte.js</li>
-    <li>Backbone.js</li>
+   
     <li>Ember.js</li>
-    <li>Meteor JS</li>
-    <li>Polymer JS</li>
+    
+    <a href="https://www.meteor.com/"> <li> Meteror JS</li></a>
+  
+    <a href="https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview"> <li>Polymer</li></a>
     <li>Ext.JS</li>
-    <li>Node.js</li>
+    <a href="https://aurelia.io/"> <li>Auralia</li></a>
+    <a href="http://backbonejs.org/"> <li>Backbone.js</li><?a>
+    <a href="https://nodejs.org/en/"> <li>Node.js</li></a>
 </ol>
+
+<!---------------------------------------------------------------------------------------------------->
+
+https://hackr.io/blog/javascript-ui-library
+
+
+<h3><a href="https://github.com/django/django">Django Github Link</a></h3>
+<!---------------------------------------------------------------------------------------------------->
+
+<a href="
+
+<!---------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------->
 
 <a href="https://www.java67.com/2018/02/5-free-react-courses-for-web-developers.html">OLD Free <b>React</b> Course</a>
 
