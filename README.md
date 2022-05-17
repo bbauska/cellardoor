@@ -14,9 +14,9 @@
 [Top 10](https://medium.com/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4)
 
 <ol>
-    <li>REACT.js</li>
-    <li>Vue.js</li>
-    <li>Angular</li>
+    <a href="https://reactjs.org/"> <li>REACT.js</li></a>
+    <a href="https://vuejs.org/"> <li>Vue.js</li></a>
+    <a href="https://angular.io/"> <li>Angular</li></a>
     <li>Svelte.js</li>
     <li>Backbone.js</li>
     <li>Ember.js</li>
