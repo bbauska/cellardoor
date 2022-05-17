@@ -55,10 +55,13 @@
 
 <a href="https://github.com/twbs/bootstrap">CSS Bootstrap GitHub</a>
 
-<a href="https://github.com/tailwindlabs/tailwindcss">CSS TailwindCSS GitHub</a>
-<div align="right">
-  <b><a href="https://tailwindcss.com/#gh-light-mode-only">CSS Tailwind Light</a>
+<div align="left">
+   <a href="https://github.com/tailwindlabs/tailwindcss">CSS TailwindCSS GitHub</a>
 </div>
+<div align="center">
+    <b><a href="https://tailwindcss.com/#gh-light-mode-only">CSS Tailwind Light</b></a>
+</div>
+<!-- <a href="https://github.com/tailwindlabs/tailwindcss">CSS TailwindCSS GitHub</a> -->
 
 
 </p>
