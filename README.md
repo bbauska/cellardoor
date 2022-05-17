@@ -8,10 +8,10 @@
 
 [![Build Status](https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)
 <!---------------------------------------------------------------------------------------------------->
-<hr>
+<hr />
 <h1>Front-End Web Development Courses</h1>
 <!---------------------------------------------------------------------------------------------------->
-<hr>
+<hr />
 <h2>JavaScript Frameworks and Libraries</h2>
 <!---------------------------------------------------------------------------------------------------->
 
@@ -21,9 +21,10 @@
     <a href="https://reactjs.org/"> <li>REACT.js</li></a>
     <a href="https://vuejs.org/"> <li>Vue.js</li></a>
     <a href="https://angular.io/"> <li>Angular</li></a>
-    <li>Svelte.js</li>
+    <a href="https://svelte.dev/"> <li>Svelte.js</li></a>
    
-    <li>Ember.js</li>
+    <a href="https://emberjs.com/"> <li>Ember.js</li></a>
+    <a href="https://materializecss.com/"> <li>Materialize</li></a>
     
     <a href="https://www.meteor.com/"> <li> Meteror JS</li></a>
   
@@ -34,15 +35,14 @@
     <a href="https://nodejs.org/en/"> <li>Node.js</li></a>
 </ol>
 
+https://hackr.io/blog/web-development-frameworks
 <!---------------------------------------------------------------------------------------------------->
-
+<hr />
 https://hackr.io/blog/javascript-ui-library
 
 
 <h3><a href="https://github.com/django/django">Django Github Link</a></h3>
 <!---------------------------------------------------------------------------------------------------->
-
-<a href="
 
 <!---------------------------------------------------------------------------------------------------->
 <!---------------------------------------------------------------------------------------------------->
@@ -84,6 +84,7 @@ https://hackr.io/blog/javascript-ui-library
 </div>
 <!-- <a href="https://github.com/tailwindlabs/tailwindcss">CSS TailwindCSS GitHub</a> -->
 
+<hr />
 </p>
 
 <h1>Several hundred websites a programmer should visit</h1>
