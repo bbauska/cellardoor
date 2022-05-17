@@ -33,12 +33,13 @@
 [free code camp](https://github.com/freeCodeCamp/freeCodeCamp)
 
 <p>
-<h3>Brian's added shortcuts</h3>
+<h2>Brian's added shortcuts</h2>
+
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server">How to Set Up a Local Test Server</a>
 <br/>
-<!--- [How to Set Up a Local Test Server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)  --->
 
 <a href="https://www.checkbot.io/">Check Bot</a>
+<br/>&nbsp;
 <!--- [Check Bot](https://www.checkbot.io/)  --->
 
 <a href="https://roadmap.sh/frontend">Front End Roadmap</a>
