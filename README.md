@@ -22,14 +22,11 @@
     <a href="https://vuejs.org/"> <li>Vue.js</li></a>
     <a href="https://angular.io/"> <li>Angular</li></a>
     <a href="https://svelte.dev/"> <li>Svelte.js</li></a>
-   
     <a href="https://emberjs.com/"> <li>Ember.js</li></a>
-    <a href="https://materializecss.com/"> <li>Materialize</li></a>
-    
-    <a href="https://www.meteor.com/"> <li> Meteror JS</li></a>
-  
+    <a href="https://materializecss.com/"> <li>Materialize</li></a>    
+    <a href="https://www.meteor.com/"> <li> Meteror JS</li></a>  
     <a href="https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview"> <li>Polymer</li></a>
-    <li>Ext.JS</li>
+    <a href="https://docs.sencha.com/extjs/6.5.0/guides/getting_started/getting_started.html"> <li>Ext.JS</li></a>
     <a href="https://aurelia.io/"> <li>Auralia</li></a>
     <a href="http://backbonejs.org/"> <li>Backbone.js</li><?a>
     <a href="https://nodejs.org/en/"> <li>Node.js</li></a>
