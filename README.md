@@ -100,6 +100,10 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#jobs">Jobs</a></li>
 </ul>
 
+<h2>W3 How To CSS/HTML/JavaScript <a href="https://www.w3docs.com/snippets/html/how-to-redirect-a-web-page-in-html.html"> click here</a></h2>
+
+<h2>Please follow <a href="https://www.w3docs.com">this link</a>.</h1>
+    
 ## When you get stuck
 - [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
 - [devRant](https://www.devrant.io) : Community where you can rant and release your stress
