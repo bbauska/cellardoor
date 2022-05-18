@@ -973,6 +973,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <!----------------------------------------------- jobs ----------------------------------------------->
 <!---------------------------------------------------------------------------------------------------->
 <h2 id="jobs">Jobs</h2>
+
 - [AngelList](https://angel.co/) : AngelList is a 
     website for startups, angel investors, and job-seekers 
     looking to work at startups. 
