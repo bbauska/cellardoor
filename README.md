@@ -44,7 +44,9 @@
 <!---------------------------------------------------------------------------------------------------->
 <h2>Medium.com Libraries to Learn in 2020</h2>
 
-[Top 12+](https://medium.com/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4)
+<a href="https://medium.com/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4">Top 10 Frameworks</a>
+
+<a href="https://www.interviewbit.com/blog/web-development-frameworks/">Also, here</a>
 
 <ol>
     <a href="https://reactjs.org/"> <li>REACT.js</li></a>
@@ -63,6 +65,8 @@
 
 <h2>Web Development Frameworks</h2>
 <a href="https://hackr.io/blog/web-development-frameworks">hackr.io</a>
+
+<a href="https://www.interviewbit.com/blog/web-development-frameworks/">Frameworks</a>
 
 <!---------------------------------------------------------------------------------------------------->
 <hr />
