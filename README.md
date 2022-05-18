@@ -4,6 +4,12 @@
 <li><a href="#crypto">Cryptocurrency</a></li>
 <li><a href="#blockchain">Blockchain</a></li>
 <li><a href="#webdev">Web Development</a></li>
+<li><a href="#libraries">JavaScript Libraries</a></li>
+<li><a href="#open">Open Source Websites</a></li>
+<li><a href="#jobs">Jobs in IT</a></li>
+<li><a href="#dev-blogs">Developer Blogs</a></li>
+<li><a href="#video-tutorials">Video Tutorials</a></li>
+<li><a href="#mooc">MOOC - Learn Something New</a></li>
 </ol>
 
 <h1 align="center">
@@ -14,8 +20,9 @@
 <hr/>
 
 <!---------------------------------------------------------------------------------------------------->
-<h1>What I'm doing now: 5.18.2022 Wedenesday</h1>
+<h1 id="now">What I'm doing now: 5.18.2022 Wedenesday</h1>
 
+<!---------------------------------------------------------------------------------------------------->
 <h2 id="webdev">Web Development</h2>
 
 <h3><a href="https://gridbyexample.com/">Grid by Example from W3Cx-2of-5 - HTML5 and CSS Fundamentals</a></h3>
@@ -29,19 +36,6 @@
 
 <hr/>
 <!---------------------------------------------------------------------------------------------------->
-<h1>Blockchain</h1>
-
-<h2><a href="https://bbauska.github.io/CS198.2x/">Blockchain Technology - CS198.2 Berkeley</a></h2>
-
-<br/>
-
-<!---------------------------------------------------------------------------------------------------->
-<h2>Cryptocurrencies</h2>
-
-<h3><a href="https://capex.com/en/overview/cryptocurrencies-to-invest-2022">What to buy in Crypto?</a></h3>
-
-<hr/>
-<!---------------------------------------------------------------------------------------------------->
 <a href="https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)">Build Status</a>
 
 <hr/>
@@ -51,7 +45,7 @@
 <hr />
 <h2>JavaScript Frameworks and Libraries</h2>
 <!---------------------------------------------------------------------------------------------------->
-<h2>Medium.com Libraries to Learn in 2020</h2>
+<h2 id="libraries">Medium.com Libraries to Learn in 2020</h2>
 
 <a href="https://medium.com/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4">Top 10 Frameworks</a>
 
@@ -464,7 +458,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## MOOCs for learning something new
+<h2 id="mooc">MOOCs for learning something new</h2>
 - [Class Central](https://www.class-central.com) : a directory of 100,000+ student reviews of thousands of MOOCs.
 - [Classpert](https://classpert.com) : a website that gathers MOOCs and online courses from several providers, focusing on computer science and data science courses.
 - [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) : list of MOOCs for autodidacts
@@ -818,7 +812,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Video Tutorials
+<h2 id="video-tutorials">Video Tutorials</h2>
 - [Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ): Algorithm tutorials playlists by an Indian youtuber Aditya verma.
 - [codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos) : front end web dev tutorials
 - [Code School](https://www.codeschool.com) : A PluralSight Company and an Interactive learning destination for aspiring and experienced Developers
@@ -863,7 +857,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Blogs of Developers
+<h2 id="dev-blogs">Blogs of Developers</h2>
 - [Algo-Geeks](http://algo-geeks.blogspot.com) : Programming Puzzles, Math Tricks, Algorithms, etc
 - [Amit Merchant](https://www.amitmerchant.com) : Tutorials, tips & tricks, and rants about programming and design.
 - [Andy Heathershaw](https://www.andyheathershaw.uk) : Personal website and blog of software developer Andy Heathershaw
@@ -942,7 +936,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Open Source Websites
+<h2 id="open">Open Source Websites</h2>
 - [Open Hatch](https://openhatch.org) : OpenHatch is a non-profit dedicated to matching prospective free software contributors with communities, tools, and education.
 - [Source Forge](https://sourceforge.net) : SourceForge hosts nearly 280,000 projects (at last count). It serves more than 2 million downloads a day and includes apps and tools in a wide variety of categories.
 - [Google Code](https://code.google.com/projecthosting) : Google offers free hosting for open source projects using the Subversion or Mercurial version control systems. It offers 2 GB of storage, integrated code review tools, a wiki, and an issue tracker. The Google Code site also provides links to Google's many publicly available APIs and other developer tools.
@@ -966,7 +960,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Internships
+<h2>Internships</h2>
 - [Chegg](http://www.chegg.com) : It is an awesome resource for finding internships, scholarships, tutors, etc.
 - [Internshala](https://internshala.com) : You can search for internships here according to your skill sets for your interested location. It also helps you in getting a good PPO offer from the company.
 - [Letsintern](https://www.letsintern.com) : Get a smart and challenging internship for you from the LetsIntern.
@@ -975,8 +969,10 @@ When learning CS, there are some useful sites you must know to get always inform
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
-
-## Jobs
+<!---------------------------------------------------------------------------------------------------->
+<!----------------------------------------------- jobs ----------------------------------------------->
+<!---------------------------------------------------------------------------------------------------->
+<h2 id="jobs">Jobs</h2>
 - [AngelList](https://angel.co/) : AngelList is a 
     website for startups, angel investors, and job-seekers 
     looking to work at startups. 
@@ -1009,19 +1005,25 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-### Special Thanks
-- Please consider a GitHub star if you find this useful and/or consider contributing.
-- A special thanks to Ashish Padalkar (@ashish2199) for contributing a great amount of data and structure to the initial repository [Original Post](https://www.quora.com/How-to-Create-a-Blog-2/answer/Ashish-Padalkar?srid=OH96).
+<h3>Special Thanks</h3>
+<ul>
+<li>Please consider a GitHub star if you find this useful and/or consider contributing.</li><br/>
+<li>A special thanks to Ashish Padalkar (@ashish2199) for contributing a great amount of data and structure to the initial repository [Original Post](https://www.quora.com/How-to-Create-a-Blog-2/answer/Ashish-Padalkar?srid=OH96).</li>
+</ul>
 
 <!---------------------------------------------------------------------------------------------------->
-<h1 id="#blockchain">Blockchain</h1>
+<h2 id="blockchain">Blockchain</h2>
 
 <h2><a href="https://bbauska.github.io/CS198.2x/">Blockchain Technology - CS198.2 Berkeley</a></h2>
 
 <br/>
 
+<hr>
 <!---------------------------------------------------------------------------------------------------->
-<h2 id="#crypto">Cryptocurrencies</h2>
+<h2 id="crypto">Cryptocurrencies</h2>
 
 <h3><a href="https://capex.com/en/overview/cryptocurrencies-to-invest-2022">What to buy in Crypto?</a></h3>
+<br/>
+<h3><a href="https://bbauska.github.io/CS198.1x)">Bitcoin and Cryptocurrencies - CS198.1x Berkeley</a></h3>
 
+<br/>
