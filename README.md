@@ -7,6 +7,7 @@
 </h1>
 <hr/>
 
+<!---------------------------------------------------------------------------------------------------->
 <h1>What I'm doing now: 5.18.2022 Wedenesday</h1>
 
 <h2>Web Development</h2>
@@ -19,20 +20,22 @@
 <h3>W3Cx-3of5-HTML5 Coding Essentials and Best Practices</h3>
 <p>
     Documenting above courses in Word, then HTML, and, finally, GitHub</p>
-<hr/>
 
+<hr/>
+<!---------------------------------------------------------------------------------------------------->
 <h1>Blockchain</h1>
 
 <h2><a href="https://bbauska.github.io/CS198.2x/">Blockchain Technology - CS198.2 Berkeley</a></h2>
 
 <br/>
 
+<!---------------------------------------------------------------------------------------------------->
 <h2>Cryptocurrencies</h2>
 
 <h3><a href="https://capex.com/en/overview/cryptocurrencies-to-invest-2022">What to buy in Crypto?</a></h3>
 
 <hr/>
-
+<!---------------------------------------------------------------------------------------------------->
 <a href="https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)">Build Status</a>
 
 <hr/>
@@ -46,7 +49,7 @@
 
 <a href="https://medium.com/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4">Top 10 Frameworks</a>
 
-<a href="https://www.interviewbit.com/blog/web-development-frameworks/">Also, here</a>
+<a href="https://www.interviewbit.com/blog/web-development-frameworks/">More Frameworks, here</a>
 
 <ol>
     <a href="https://reactjs.org/"> <li>REACT.js</li></a>
@@ -66,9 +69,6 @@
 <h2>Web Development Frameworks</h2>
 <a href="https://hackr.io/blog/web-development-frameworks">hackr.io</a>
 
-<a href="https://www.interviewbit.com/blog/web-development-frameworks/">Frameworks</a>
-
-<!---------------------------------------------------------------------------------------------------->
 <hr />
 <h2><a href="https://hackr.io/blog/javascript-ui-library">hackr.io JavaScript Libraries</a></h2
 
