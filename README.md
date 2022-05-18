@@ -1,8 +1,10 @@
 <h1 align="center">cellardoor</h1>
 
-<a href="#crypto">1. Cryptocurrency</a></li>
-<a href="#blockchain">2. Blockchain</a></li>
-<a href="#webdev">3. Web Development</a></li>
+<ol>
+<li><a href="#crypto">Cryptocurrency</a></li>
+<li><a href="#blockchain">Blockchain</a></li>
+<li><a href="#webdev">Web Development</a></li>
+</ol>
 
 <h1 align="center">
     <br>
