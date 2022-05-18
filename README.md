@@ -5,14 +5,15 @@
     <img width="200" src="bender.jpg" alt="Cellar Door">
     <br>
 </h1>
-<h3>Blockchain Technologies</h3>
+<h1>Blockchain Technologies</h1>
 
 <a href="https://bbauska.github.io/CS198.2x/">Click here</a>
 <br/>
 
-[![Build Status](https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)
+<a href="https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)">Build Status</a>
+
+<hr/>
 <!---------------------------------------------------------------------------------------------------->
-<hr />
 <h1>Front-End Web Development Courses</h1>
 <!---------------------------------------------------------------------------------------------------->
 <hr />
