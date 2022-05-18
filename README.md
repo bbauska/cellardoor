@@ -5,9 +5,28 @@
     <img width="200" src="bender.jpg" alt="Cellar Door">
     <br>
 </h1>
-<h1>Blockchain Technologies</h1>
+<hr/>
 
-<a href="https://bbauska.github.io/CS198.2x/">CS198.2 Berkeley</a>
+<h1>What I'm doing now: 5-18.2022 Wedenesday</h1>
+
+<h2>Web Development</h2>
+
+Grid By Example
+<h3><a href="https://gridbyexample.com/">From W3Cx-2of-5 - HTML5 and CSS Fundamentals</a></h3>
+
+W3Cx-2of5-HTML5 and CSS Fundamentals
+then,
+W3Cx-3of5-HTML5 Coding Essentials and Best Practices
+
+<h3>Grid By Example</h3>
+<h3><a href="https://gridbyexample.com/">From W3Cx-2of-5 - HTML5 and CSS Fundamentals</a></h3>
+
+<hr/>
+
+<h1>Blockchain</h1>
+
+<h2><a href="https://bbauska.github.io/CS198.2x/">Blockchain Technology - CS198.2 Berkeley</a></h2>
+
 <br/>
 
 <h2>Cryptocurrencies</h2>
@@ -26,10 +45,6 @@
 <h2>JavaScript Frameworks and Libraries</h2>
 <!---------------------------------------------------------------------------------------------------->
 <h2>Medium.com Libraries to Learn in 2020</h2>
-<hr/>
-<h2>What I'm doing now: 5-18.2022 Wedenesday</h2>
-
-<h3><a href="https://gridbyexample.com/">From W3Cx-2of-5 - HTML5 and CSS Fundamentals</a></h3>
 
 [Top 12+](https://medium.com/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4)
 
