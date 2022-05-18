@@ -21,7 +21,7 @@
 <!---------------------------------------------------------------------------------------------------->
 <h2>Medium.com Libraries to Learn in 2020</h2>
 
-[Top 10](https://medium.com/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4)
+[Top 12+](https://medium.com/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4)
 
 <ol>
     <a href="https://reactjs.org/"> <li>REACT.js</li></a>
@@ -38,11 +38,12 @@
     <a href="https://nodejs.org/en/"> <li>Node.js</li></a>
 </ol>
 
-https://hackr.io/blog/web-development-frameworks
+<h2>Web Development Frameworks</h2>
+<a href="https://hackr.io/blog/web-development-frameworks">hackr.io</a>
+
 <!---------------------------------------------------------------------------------------------------->
 <hr />
-https://hackr.io/blog/javascript-ui-library
-
+<h2><a href="https://hackr.io/blog/javascript-ui-library">hackr.io JavaScript Libraries</a></h2
 
 <h3><a href="https://github.com/django/django">Django Github Link</a></h3>
 <!---------------------------------------------------------------------------------------------------->
