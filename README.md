@@ -7,8 +7,14 @@
 </h1>
 <h1>Blockchain Technologies</h1>
 
-<a href="https://bbauska.github.io/CS198.2x/">Click here</a>
+<a href="https://bbauska.github.io/CS198.2x/">CS198.2 Berkeley</a>
 <br/>
+
+<h2>Cryptocurrencies</h2>
+
+<h3><a href="https://capex.com/en/overview/cryptocurrencies-to-invest-2022">What to buy in Crypto?</a></h3>
+
+<hr/>
 
 <a href="https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)">Build Status</a>
 
