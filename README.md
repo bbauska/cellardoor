@@ -14,12 +14,10 @@
 Grid By Example
 <h3><a href="https://gridbyexample.com/">From W3Cx-2of-5 - HTML5 and CSS Fundamentals</a></h3>
 
-W3Cx-2of5-HTML5 and CSS Fundamentals
-then,
-W3Cx-3of5-HTML5 Coding Essentials and Best Practices
-
-<h3>Grid By Example</h3>
-<h3><a href="https://gridbyexample.com/">From W3Cx-2of-5 - HTML5 and CSS Fundamentals</a></h3>
+<h3>Taking Following Course online via edX,</h3>
+<h4>W3Cx-2of5-HTML5 and CSS Fundamentals</h4>
+<h4>then,</h4>
+<h4>W3Cx-3of5-HTML5 Coding Essentials and Best Practices</h4>
 
 <hr/>
 
