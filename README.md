@@ -100,9 +100,11 @@
 <!--- [Check Bot](https://www.checkbot.io/)  --->
 
 <a href="https://roadmap.sh/frontend">Front End Roadmap</a>
-<!--- [Front End Roadmap](https://roadmap.sh/frontend)   --->
 
+<!--- [Front End Roadmap](https://roadmap.sh/frontend)   --->
+<!------------------------------------------------------------------------------------------------------------------------------------
 <a href="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">github actions</a>
+------------------------------------------------------------------------------------------------------------------------------------->
 
 <a href="https://free-for.dev/#/?id=cdn-and-protection">Free for Dev</a>
 
@@ -112,9 +114,14 @@
 
 <a href="https://github.com/twbs/bootstrap">CSS Bootstrap GitHub</a>
 
+<a href="https://tailwindcss.com/#gh-light-mode-only">CSS Tailwind Light</a>
+
+<!-------------------------------------------------------------------------------------
 <div align="center">
     <b><a href="https://tailwindcss.com/#gh-light-mode-only">CSS Tailwind Light</b></a>
 </div>
+-------------------------------------------------------------------------------------->
+
 <div align="left">
    <a href="https://github.com/tailwindlabs/tailwindcss">CSS TailwindCSS GitHub</a>
 </div>
