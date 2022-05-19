@@ -21,10 +21,14 @@
 <hr/>
 
 <!---------------------------------------------------------------------------------------------------->
-<h1 id="now">What I'm doing now: 5.18.2022 Wedenesday</h1>
+<h1 id="now">What I'm doing now: 5.19.2022 Thursday</h1>
 
 <!---------------------------------------------------------------------------------------------------->
 <h2 id="webdev">Web Development</h2>
+
+<h3>Fix BMW front end</h3>
+<h4> 4 lb sledge</h4>
+<h4> 8 replacement bolts</h4>
 
 <h3><a href="https://gridbyexample.com/">Grid by Example from W3Cx-2of-5 - HTML5 and CSS Fundamentals</a></h3>
 
