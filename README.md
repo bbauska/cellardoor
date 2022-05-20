@@ -1,5 +1,15 @@
 <h1 align="center">cellardoor</h1>
 
+<a href="https://cheatsheets.shecodes.io/bootstrap">Cheat Sheet Bootstrap</a>
+
+<a href="https://cheatsheets.shecodes.io/html">Cheat Sheet HTML</a>
+
+<a href="https://cheatsheets.shecodes.io/css">Cheat Sheet CSS</a>
+
+<a href="https://cheatsheets.shecodes.io/javascript">Cheat Sheet JavaScript</a>
+
+<a href="https://cheatsheets.shecodes.io/react">Cheat Sheet React</a>
+
 <ol>
 <li><a href="#crypto">Cryptocurrency</a></li>
 <li><a href="#blockchain">Blockchain</a></li>
