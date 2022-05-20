@@ -10,6 +10,8 @@
 
 <a href="https://cheatsheets.shecodes.io/react">Cheat Sheet React</a>
 
+<a href="https://revealjs.com/themes/">Reveal Themes</a>
+
 <ol>
 <li><a href="#crypto">Cryptocurrency</a></li>
 <li><a href="#blockchain">Blockchain</a></li>
