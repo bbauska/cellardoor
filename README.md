@@ -1,5 +1,7 @@
 <h1 align="center">cellardoor</h1>
 
+<a href="https://symfony.com/ten-criteria">So there are 10 criteria for choosing the correct framework.</a>
+
 <a href="https://cheatsheets.shecodes.io/bootstrap">Cheat Sheet Bootstrap</a>
 
 <a href="https://cheatsheets.shecodes.io/html">Cheat Sheet HTML</a>
