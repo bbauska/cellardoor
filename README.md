@@ -68,31 +68,41 @@
 <a href="
 <h3>Web Development from W3C</h3>
 
-[W3Cx-1of5-CSS.0x](https://w3cx-1of5-css.0x.bauska.org/)
+<------------------------------------------------------------------------------------------------->
+
+<a href="https://w3cx-1of5-css.0x.bauska.org/">W3Cx-1of5-CSS.0x</a>
 
 <a href="https://bbauska.github.io/w3cx-1of5-css.0x/">W3Cx-1of5-CSS.0X</a>
 
 <a href="https://github.com/bbauska/W3Cx-1of5-css.0x">github W3Cx-1of5-CSS.0x</a>
 
-[W3Cx-2of5-HTM5.0x](https://w3cx-2of5-html5.0x.bauska.org/)
+<------------------------------------------------------------------------------------------------->
+
+<a href="https://w3cx-2of5-html5.0x.bauska.org/">W3Cx-2of5-HTML5.0x</a>
 
 <a href="https://bbauska.github.io/w3cx-2of5-html5.0x/">W3Cx-2of5-HTML5.0X</a>
 
 <a href="https://github.com/bbauska/W3Cx-2of5-HTML5.0x">github W3Xx-2of5-HTML5.0x</a>
 
-[W3Cx-3of5-HTML5.1x](https://w3cx-3of5-html5.1x.bauska.org/)
+<------------------------------------------------------------------------------------------------->
+
+<a href="https://w3cx-3of5-html5.1x.bauska.org/">W3Cx-3of5-HTML5.1x</a>
 
 <a href="https://bbauska.github.io/w3cx-3of5-html5.1x/">W3Cx-3of5-HTML5.1X</a>
 
 <a href="https://github.com/bbauska/W3Cx-3of5-HTML5.1x">github w3cx-30f5-HTML5.1x</a>
 
-[W3Cx-4of5-HTML5.2x](https://w3cx-4of5-html5.2x.bauska.org/)
+<------------------------------------------------------------------------------------------------->
+
+<a href="https://w3cx-4of5-html5.2x.bauska.org/">W3Cx-4of5-HTML5.2x</a>
 
 <a href="https://bbauska.github.io/w3cx-4of5-html5.2x/">W3Cx-4of5-HTML5.2X</a>
 
 <a href="https://github.com/bbauska/W3Cx-4of5-HTML5.2x">github w3cx-4of5-HTML5.2x</a>
 
-[W3Cx-5of5-JS.0x](https://w3cx-5of5-js.0x.bauska.org/)
+<------------------------------------------------------------------------------------------------->
+
+<a href="https://w3cx-5of5-js.0x.bauska.org/">W3Cx-5of5-JS.0x</a>
 
 <a href="https://bbauska.github.io/w3cx-5of5-js.0x/">W3Cx-5of5-JS.0X</a>
 
@@ -136,9 +146,14 @@
 
 <a href="https://www.java67.com/2018/02/5-free-react-courses-for-web-developers.html">OLD Free <b>React</b> Course</a>
 
+<a href="https://learning.edx.org/course/course-v1:W3Cx+HTML5.0x+1T2022/block-v1:W3Cx+HTML5.0x+1T2022+type@sequential+block@be863694ac4b45e492eae4c82576acc5/block-v1:W3Cx+HTML5.0x+1T2022+type@vertical+block@71deac64f61a420781f0ed127d36e696)">free W3CX on EdX.org</a>
+<!---
 [free W3Cx on EdX.org](https://learning.edx.org/course/course-v1:W3Cx+HTML5.0x+1T2022/block-v1:W3Cx+HTML5.0x+1T2022+type@sequential+block@be863694ac4b45e492eae4c82576acc5/block-v1:W3Cx+HTML5.0x+1T2022+type@vertical+block@71deac64f61a420781f0ed127d36e696)
-
+--->
+<a href="https://github.com/freeCodeCamp/freeCodeCamp">free code camp</a>
+<!---
 [free code camp](https://github.com/freeCodeCamp/freeCodeCamp)
+--->
 
 <p>
 <h2>Brian's added shortcuts</h2>
@@ -168,7 +183,7 @@
 <a href="https://tailwindcss.com/#gh-light-mode-only">CSS Tailwind Light</a>
 
 <!-------------------------------------------------------------------------------------
-<div align="center">
+<div align="left">
     <b><a href="https://tailwindcss.com/#gh-light-mode-only">CSS Tailwind Light</b></a>
 </div>
 -------------------------------------------------------------------------------------->
@@ -187,9 +202,9 @@ Some useful websites for programmers.
 When learning CS, there are some useful sites you must know to get always informed to do your technologies even better and learn new things. Here is a non-exhaustive list of some sites you should visit. This list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
 
 <h2>next.js added bbauska 4/19/2022 12:21pm</h2>
-
-- [Next JS](https://github.com/vercel/next.js)
- 
+<ul>
+<li> <a href="https://github.com/vercel/next.js">Next JS</a></li>
+</ul>
 
 <h2>Index</h2>
 
@@ -1139,4 +1154,4 @@ When learning CS, there are some useful sites you must know to get always inform
 
 <br/>
 
-<h4>Last update: 5-18-2022 5:35pm</h4>
+<h4>Last update: 5-21-2022 4:30pm</h4>
