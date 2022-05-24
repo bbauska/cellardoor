@@ -4,8 +4,6 @@
 
 <h3><a href="https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS173x+3T2021/block-v1:LinuxFoundationX+LFS173x+3T2021+type@sequential+block@1c3e17cb22c64f70b73abae00c80f0a3/block-v1:LinuxFoundationX+LFS173x+3T2021+type@vertical+block@eb20f7d37eeb4b7f8a477a9c916e4e0f](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS173x+3T2021/block-v1:LinuxFoundationX+LFS173x+3T2021+type@sequential+block@1c3e17cb22c64f70b73abae00c80f0a3/block-v1:LinuxFoundationX+LFS173x+3T2021+type@vertical+block@eb20f7d37eeb4b7f8a477a9c916e4e0f)">Linux Foundation's LFS173x on EDx</a></h3>
 
-<h3><a href="https://learning.edx.org/course/course-v1:TUMx+DWAPNx+1T_2018/block-v1:TUMx+DWAPNx+1T_2018+type@sequential+block@1fb923b99c084ffebd53decb9413e1ec/block-v1:TUMx+DWAPNx+1T_2018+type@vertical+block@c1c00b0416dd4f5abeaee778c5561347](https://learning.edx.org/course/course-v1:TUMx+DWAPNx+1T_2018/block-v1:TUMx+DWAPNx+1T_2018+type@sequential+block@1fb923b99c084ffebd53decb9413e1ec/block-v1:TUMx+DWAPNx+1T_2018+type@vertical+block@c1c00b0416dd4f5abeaee778c5561347)">DWAP    n Functions, Part I</a></h3>
-
 <hr/>
 <!------------------------------------------------------------------------------------>
 <h1 align="center">cellardoor</h1>
@@ -46,9 +44,8 @@
     <br>
 </h1>
 <hr/>
-
 <!---------------------------------------------------------------------------------------------------->
-<h1 id="now">What I'm doing now: 5.19.2022 Thursday</h1>
+<h1 id="now">What I'm doing now: 5.24.2022 Tuesday</h1>
 
 <!---------------------------------------------------------------------------------------------------->
 <h2 id="webdev">Web Development</h2>
@@ -56,7 +53,8 @@
 <h3>jQuery</h3>
 <h3>Fix BMW front end</h3>
     <h4>* 4 lb sledge</h4>
-    <h4>* 8 replacement bolts</h4>
+    <h4>* 4 replacement bolts</h4>
+<br/>
 <h3>Ford Fusion</h3>
     <h4>* Change oil</h4>
 
@@ -151,22 +149,15 @@
 <h2><a href="https://hackr.io/blog/javascript-ui-library">hackr.io JavaScript Libraries</a></h2
 
 <h3><a href="https://github.com/django/django">Django Github Link</a></h3>
+<hr/>
 <!---------------------------------------------------------------------------------------------------->
-
-<!---------------------------------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------------------------------->
-
+<p>
 <a href="https://www.java67.com/2018/02/5-free-react-courses-for-web-developers.html">OLD Free <b>React</b> Course</a>
 
 <a href="https://learning.edx.org/course/course-v1:W3Cx+HTML5.0x+1T2022/block-v1:W3Cx+HTML5.0x+1T2022+type@sequential+block@be863694ac4b45e492eae4c82576acc5/block-v1:W3Cx+HTML5.0x+1T2022+type@vertical+block@71deac64f61a420781f0ed127d36e696)">free W3CX on EdX.org</a>
-<!---
-[free W3Cx on EdX.org](https://learning.edx.org/course/course-v1:W3Cx+HTML5.0x+1T2022/block-v1:W3Cx+HTML5.0x+1T2022+type@sequential+block@be863694ac4b45e492eae4c82576acc5/block-v1:W3Cx+HTML5.0x+1T2022+type@vertical+block@71deac64f61a420781f0ed127d36e696)
---->
-<a href="https://github.com/freeCodeCamp/freeCodeCamp">free code camp</a>
-<!---
-[free code camp](https://github.com/freeCodeCamp/freeCodeCamp)
---->
 
+<a href="https://github.com/freeCodeCamp/freeCodeCamp">free code camp</a>
+</p>
 <p>
 <h2>Brian's added shortcuts</h2>
 
@@ -178,11 +169,6 @@
 <!--- [Check Bot](https://www.checkbot.io/)  --->
 
 <a href="https://roadmap.sh/frontend">Front End Roadmap</a>
-
-<!--- [Front End Roadmap](https://roadmap.sh/frontend)   --->
-<!-------------------------------------------------------------------------------------------------
-<a href="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">github actions</a>
--------------------------------------------------------------------------------------------------->
 
 <a href="https://free-for.dev/#/?id=cdn-and-protection">Free for Dev</a>
 
