@@ -59,7 +59,7 @@
     <h4>* 4 replacement bolts</h4>
 <br/>
 <h3>Ford Fusion</h3>
-    <h4>* Change oil</h4>
+    <h4><b>Change oil</b></h4>
 
 <h3><a href="https://gridbyexample.com/">Grid by Example from W3Cx-2of-5 - HTML5 and CSS Fundamentals</a></h3>
 
