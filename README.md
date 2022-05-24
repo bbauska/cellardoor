@@ -6,7 +6,7 @@
 
 <hr/>
 <!------------------------------------------------------------------------------------>
-<h1 align="center">cellardoor</h1>
+<h2 align="center">cellardoor</h2>
 
 <h3><a href="https://symfony.com/ten-criteria">So there are 10 criteria for choosing the correct framework.</a></h3>
 
@@ -164,7 +164,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server">How to Set Up a Local Test Server</a>
 <br/>
 
-<a href="https://www.checkbot.io/">Check Bot</a>
+<h3><a href="https://www.checkbot.io/">Check Bot</a>
+                                      </h3>
 <br/>&nbsp;
 <!--- [Check Bot](https://www.checkbot.io/)  --->
 
@@ -178,7 +179,7 @@
 
 <a href="https://github.com/twbs/bootstrap">CSS Bootstrap GitHub</a>
 
-<a href="https://tailwindcss.com/#gh-light-mode-only">CSS Tailwind Light</a>
+                                           <h3><a href="https://tailwindcss.com/#gh-light-mode-only">CSS Tailwind Light</a></h3>
 
 <!-------------------------------------------------------------------------------------
 <div align="left">
@@ -186,10 +187,9 @@
 </div>
 -------------------------------------------------------------------------------------->
 
-<div align="left">
+<h3><div align="left">
    <a href="https://github.com/tailwindlabs/tailwindcss">CSS TailwindCSS GitHub</a>
-</div>
-<!-- <a href="https://github.com/tailwindlabs/tailwindcss">CSS TailwindCSS GitHub</a> -->
+                                                        </div></h3>
 
 <hr />
 </p>
