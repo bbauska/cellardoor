@@ -5,7 +5,7 @@
 <h3><a href="https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS173x+3T2021/block-v1:LinuxFoundationX+LFS173x+3T2021+type@sequential+block@1c3e17cb22c64f70b73abae00c80f0a3/block-v1:LinuxFoundationX+LFS173x+3T2021+type@vertical+block@eb20f7d37eeb4b7f8a477a9c916e4e0f](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS173x+3T2021/block-v1:LinuxFoundationX+LFS173x+3T2021+type@sequential+block@1c3e17cb22c64f70b73abae00c80f0a3/block-v1:LinuxFoundationX+LFS173x+3T2021+type@vertical+block@eb20f7d37eeb4b7f8a477a9c916e4e0f)">Linux Foundation's LFS173x on EDx</a></h3>
 
 <hr/>
-<!------------------------------------------------------------------------------------>
+<!------------------------------------------------------------------------------------------------>
 <h2 align="center">cellardoor</h2>
 
 <h3><a href="https://symfony.com/ten-criteria">So there are 10 criteria for choosing the correct framework.</a></h3>
@@ -44,10 +44,10 @@
     <br>
 </h1>
 <hr/>
-<!---------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------>
 <h1 id="now">What I'm doing now: 5.24.2022 Tuesday</h1>
 
-<!---------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------>
 <h2 id="webdev">Web Development</h2>
 
 <h3>jQuery</h3>
@@ -68,7 +68,7 @@
     Documenting above courses in Word, then HTML, and, finally, GitHub</p>
 
 <hr/>
-<!---------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------>
 <a href="https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)">Build Status</a>
 
 <hr/>
@@ -92,7 +92,7 @@
 
 <a href="https://bbauska.github.io/w3cx-2of5-html5.0x/">W3Cx-2of5-HTML5.0X</a>
 
-<a href="https://github.com/bbauska/W3Cx-2of5-HTML5.0x">github W3Xx-2of5-HTML5.0x</a>
+<a href="https://github.com/bbauska/W3Cx-2of5-HTML5.0x">markdown github W3Xx-2of5-HTML5.0x</a>
 
 <!------------------------------------------------------------------------------------------------>
 
@@ -100,7 +100,7 @@
 
 <a href="https://bbauska.github.io/w3cx-3of5-html5.1x/">W3Cx-3of5-HTML5.1X</a>
 
-<a href="https://github.com/bbauska/W3Cx-3of5-HTML5.1x">github w3cx-30f5-HTML5.1x</a>
+<a href="https://github.com/bbauska/W3Cx-3of5-HTML5.1x">markdown github w3cx-30f5-HTML5.1x</a>
 
 <!------------------------------------------------------------------------------------------------>
 
@@ -108,7 +108,7 @@
 
 <a href="https://bbauska.github.io/w3cx-4of5-html5.2x/">W3Cx-4of5-HTML5.2X</a>
 
-<a href="https://github.com/bbauska/W3Cx-4of5-HTML5.2x">github w3cx-4of5-HTML5.2x</a>
+<a href="https://github.com/bbauska/W3Cx-4of5-HTML5.2x">markdown github w3cx-4of5-HTML5.2x</a>
 
 <!------------------------------------------------------------------------------------------------>
 
@@ -116,7 +116,7 @@
 
 <a href="https://bbauska.github.io/w3cx-5of5-js.0x/">W3Cx-5of5-JS.0X</a>
 
-<a href="https://github.com/bbauska/W3Cx-5of5-JS.0x">github w3cx-50f5-JS.0x</a>
+<h4>5. <a href="https://github.com/bbauska/W3Cx-5of5-JS.0x">markdown github w3cx-50f5-JS.0x</a></h4>
 
 <hr />
 <h2>JavaScript Frameworks and Libraries</h2>
@@ -1140,7 +1140,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 <br/>
 
-<hr>
+<hr />
 <!------------------------------------------------------------------------------------------------>
 <!--------------------------------------------- crypto ------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
