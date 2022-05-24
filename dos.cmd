@@ -29,4 +29,5 @@ nslookup-reverse
 Find Mail Servers for a Domain
 Type nslookup  -querytype=mx  domain name
 
-
+<ul>
+cURL is a command-line tool to get or send data using URL syntax.
