@@ -1,3 +1,6 @@
+<!------------------------------------------------------------------------------------------------>
+<!----------------------------------- readme.md of cellardoor ------------------------------------>
+<!------------------------------------------------------------------------------------------------>
 <h3><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design">Mozilla's Responsive Design</a></h3>
 
 <h3><a href="https://dash.cloudflare.com/dns">Cloudflare login</a></h3>
@@ -75,50 +78,51 @@
 <!------------------------------------------------------------------------------------------------>
 <h1>Front-End Web Development Courses</h1>
 <!------------------------------------------------------------------------------------------------>
-<a href="
-<h3>Web Development from W3C</h3>
+<br/>
+<h2>Web Development from W3C</h2>
 
 <!------------------------------------------------------------------------------------------------>
 
 <a href="https://w3cx-1of5-css.0x.bauska.org/">W3Cx-1of5-CSS.0x</a>
 
-<a href="https://bbauska.github.io/w3cx-1of5-css.0x/">W3Cx-1of5-CSS.0X</a>
+<a href="https://bbauska.github.io/w3cx-1of5-css.0x/">github.io W3Cx-1of5-CSS.0X</a>
 
-<a href="https://github.com/bbauska/W3Cx-1of5-css.0x">github W3Cx-1of5-CSS.0x</a>
+<h3>1. <a href="https://github.com/bbauska/W3Cx-1of5-css.0x">markdown github W3Cx-1of5-CSS.0x</a></h3>
 
 <!------------------------------------------------------------------------------------------------>
 
 <a href="https://w3cx-2of5-html5.0x.bauska.org/">W3Cx-2of5-HTML5.0x</a>
 
-<a href="https://bbauska.github.io/w3cx-2of5-html5.0x/">W3Cx-2of5-HTML5.0X</a>
+<a href="https://bbauska.github.io/w3cx-2of5-html5.0x/">github.io W3Cx-2of5-HTML5.0X</a>
 
-<a href="https://github.com/bbauska/W3Cx-2of5-HTML5.0x">markdown github W3Xx-2of5-HTML5.0x</a>
+<h3>2. <a href="https://github.com/bbauska/W3Cx-2of5-HTML5.0x">markdown github W3Xx-2of5-HTML5.0x</a></h3>
 
 <!------------------------------------------------------------------------------------------------>
 
 <a href="https://w3cx-3of5-html5.1x.bauska.org/">W3Cx-3of5-HTML5.1x</a>
 
-<a href="https://bbauska.github.io/w3cx-3of5-html5.1x/">W3Cx-3of5-HTML5.1X</a>
+<a href="https://bbauska.github.io/w3cx-3of5-html5.1x/">github.io W3Cx-3of5-HTML5.1X</a>
 
-<a href="https://github.com/bbauska/W3Cx-3of5-HTML5.1x">markdown github w3cx-30f5-HTML5.1x</a>
+<h3>3. <a href="https://github.com/bbauska/W3Cx-3of5-HTML5.1x">markdown github w3cx-30f5-HTML5.1x</a></h3>
 
 <!------------------------------------------------------------------------------------------------>
 
 <a href="https://w3cx-4of5-html5.2x.bauska.org/">W3Cx-4of5-HTML5.2x</a>
 
-<a href="https://bbauska.github.io/w3cx-4of5-html5.2x/">W3Cx-4of5-HTML5.2X</a>
+<a href="https://bbauska.github.io/w3cx-4of5-html5.2x/">github.io W3Cx-4of5-HTML5.2X</a>
 
-<a href="https://github.com/bbauska/W3Cx-4of5-HTML5.2x">markdown github w3cx-4of5-HTML5.2x</a>
+<h3>4. <a href="https://github.com/bbauska/W3Cx-4of5-HTML5.2x">markdown github w3cx-4of5-HTML5.2x</a></h3>
 
 <!------------------------------------------------------------------------------------------------>
 
 <a href="https://w3cx-5of5-js.0x.bauska.org/">W3Cx-5of5-JS.0x</a>
 
-<a href="https://bbauska.github.io/w3cx-5of5-js.0x/">W3Cx-5of5-JS.0X</a>
+<a href="https://bbauska.github.io/w3cx-5of5-js.0x/">github.io W3Cx-5of5-JS.0X</a>
 
-<h4>5. <a href="https://github.com/bbauska/W3Cx-5of5-JS.0x">markdown github w3cx-50f5-JS.0x</a></h4>
+<h3>5. <a href="https://github.com/bbauska/W3Cx-5of5-JS.0x">markdown github w3cx-50f5-JS.0x</a></h3>
 
 <hr />
+<!---------------------------------------------------------------------------------------------------->
 <h2>JavaScript Frameworks and Libraries</h2>
 <!---------------------------------------------------------------------------------------------------->
 <h2 id="libraries">Medium.com Libraries to Learn in 2020</h2>
@@ -1152,4 +1156,4 @@ When learning CS, there are some useful sites you must know to get always inform
 
 <br/>
 
-<h4>Last update: 5-23-2022 10:38pm</h4>
+<h4>Last update: 5-24-2022 1:39pm</h4>
