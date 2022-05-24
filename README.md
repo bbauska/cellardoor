@@ -169,9 +169,9 @@
 <br/>
 
 <h3><a href="https://www.checkbot.io/">Check Bot</a>
-                                      </h3>
+</h3>
+
 <br/>&nbsp;
-<!--- [Check Bot](https://www.checkbot.io/)  --->
 
 <a href="https://roadmap.sh/frontend">Front End Roadmap</a>
 
@@ -183,17 +183,13 @@
 
 <a href="https://github.com/twbs/bootstrap">CSS Bootstrap GitHub</a>
 
-                                           <h3><a href="https://tailwindcss.com/#gh-light-mode-only">CSS Tailwind Light</a></h3>
+<h3><a href="https://tailwindcss.com/#gh-light-mode-only">CSS Tailwind Light</a></h3>
 
-<!-------------------------------------------------------------------------------------
-<div align="left">
-    <b><a href="https://tailwindcss.com/#gh-light-mode-only">CSS Tailwind Light</b></a>
-</div>
 -------------------------------------------------------------------------------------->
 
 <h3><div align="left">
    <a href="https://github.com/tailwindlabs/tailwindcss">CSS TailwindCSS GitHub</a>
-                                                        </div></h3>
+</div></h3>
 
 <hr />
 </p>
