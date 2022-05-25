@@ -35,6 +35,8 @@
 <li><a href="https://cheatsheets.shecodes.io/react">Cheat Sheet React</a><br/></li>
 </ul>
 
+<hr/>
+<!------------------------------------------------------------------------------------------------>
 <a href="https://revealjs.com/themes/">Reveal Themes</a>
 
 <ol>
@@ -50,6 +52,8 @@
 <li><a href="#tutorials">Tutorials</a></li>
 </ol>
 
+<hr/>
+<!------------------------------------------------------------------------------------------------>
 <h1 align="center">
     <br>
     <img width="200" src="./images/bender.jpg" alt="Cellar Door">
@@ -95,6 +99,8 @@
   <li><h4><a href="https://www.youtube.com/watch?v=iQhQu1ZrTno">How to remove & replace Control Arm Bushings</a></h4></li>
 </ul>
 
+<hr/>
+<!------------------------------------------------------------------------------------------------>
 <h3>Ford Fusion</h3>
 <h4><b>Change oil</b></h4>
 
