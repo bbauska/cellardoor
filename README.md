@@ -1,8 +1,7 @@
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------------- readme.md of cellardoor ------------------------------------>
 <!------------------------------------------------------------------------------------------------>
-<h3>Creating Landing Page with GatsbyJS</h3>
-https://codeburst.io/guide-building-%D0%B0-landing-page-with-gatsbyjs-488e4a2c793b
+<h2 align="center"><a href="https://codeburst.io/guide-building-%D0%B0-landing-page-with-gatsbyjs-488e4a2c793b">Creating a Landing Page with GatsbyJS</a></h2>
 
 
 
