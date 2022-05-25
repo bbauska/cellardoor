@@ -90,22 +90,22 @@
 <h4>4 replacement bolts</h4>
 <br/>
 <!------------------------------------------------------------------------------------------------>
-<h2>Fix BMW front end</h2>
+<h1>Fix BMW front end</h1>
 
-<h3><b><i>1st</i></b> Outer Tie Rods (Remove & Replace)</h3>
+<h2><b><i>1st</i></b> Outer Tie Rods (Remove & Replace)</h2>
 <ul>
-  <li><h4><a href="https://www.youtube.com/watch?v=usfbSLE_1aI&t=726s">Control Arms, Bushings, Ball Joints, Tie Rods, & End Links</a></h4></li>
-  <li><h4><a href="https://www.youtube.com/watch?v=75Qt_O5x2M0">See here for directions</a></h4></li>
-  <li><h4><a href="https://www.youtube.com/watch?v=faKhwzbO6H4">A1auto directions</a></h4></li>
-  <li><h4><a href="https://www.youtube.com/watch?v=75Qt_O5x2M0">50's Kid Tie Rod R & R</a></h4></li>
+  <li><h3><a href="https://www.youtube.com/watch?v=usfbSLE_1aI&t=726s">Control Arms, Bushings, Ball Joints, Tie Rods, & End Links</a></h3></li>
+  <li><h3><a href="https://www.youtube.com/watch?v=75Qt_O5x2M0">See here for directions</a></h3></li>
+  <li><h3><a href="https://www.youtube.com/watch?v=faKhwzbO6H4">A1auto directions</a></h3></li>
+  <li><h3><a href="https://www.youtube.com/watch?v=75Qt_O5x2M0">50's Kid Tie Rod R & R</a></h3></li>
 </ul>
 <hr />
-<h3>Lower Control Arms R & R</h3>
+<h2>Lower Control Arms R & R</h2>
 <ul>
-    <li><h4><a href="https://www.youtube.com/watch?v=e5xaIwkA_oE">Shoplife R & R</a></li><br/>
-    <li><h4><a href="https://www.youtube.com/watch?v=5olCf8zpad4">a1auto Lower Control Arm Remove & Replace</a></h4></li><br/>
-    <li><h4><a href="https://www.youtube.com/watch?v=aR4UPFbjgnI">50's Guy Lower Control Arm R & R</a></h4></li><br/>
-    <li><h4><a href="https://www.youtube.com/watch?v=iQhQu1ZrTno">How to remove & replace Control Arm Bushings</a></h4></li>
+    <li><h3><a href="https://www.youtube.com/watch?v=e5xaIwkA_oE">Shoplife R & R</a></h4></li>
+    <li><h3><a href="https://www.youtube.com/watch?v=5olCf8zpad4">a1auto Lower Control Arm Remove & Replace</a></h3></li>
+    <li><h3><a href="https://www.youtube.com/watch?v=aR4UPFbjgnI">50's Guy Lower Control Arm R & R</a></h3></li>
+    <li><h3><a href="https://www.youtube.com/watch?v=iQhQu1ZrTno">How to remove & replace Control Arm Bushings</a></h3></li>
 </ul>
 <hr />
 
