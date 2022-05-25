@@ -82,6 +82,7 @@
    alt="BMW logo"
    width="40%" />
 </p>
+
 <hr/>
 <h3>Tools/Parts</h3>
 <h4>2-4 lb sledge hammer</h4>
@@ -106,6 +107,14 @@
 <ul>
   <li><h4><a href="https://www.youtube.com/watch?v=iQhQu1ZrTno">How to remove & replace Control Arm Bushings</a></h4></li>
 </ul>
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------------- tools for front-end alignment --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/2004 bmw front end alignment supplies tools needed.png"
+   alt="Tools needed for front-end alignment"
+   width="40%" />
+</p>
 
 <hr />
 <!------------------------------------------------------------------------------------------------>
