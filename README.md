@@ -62,7 +62,7 @@
 <h2 id="webdev">Web Development</h2>
 
 <h3>jQuery</h3>
-
+<hr/>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <h2>Fix BMW front end</h2>
@@ -78,10 +78,9 @@
 </ul>
 
 <h3>Control Arm Bushings R & R</h3>
-  <h4><a href="https://www.youtube.com/watch?v=iQhQu1ZrTno">How to remove & replace Control Arm Bushings</a></h4>
-
-<h4>Control Arm Bushings R and R</h4>
-<a href="https://www.youtube.com/watch?v=iQhQu1ZrTno">How to remove & replace Control Arm Bushings</a>
+<ul>
+  <li><h4><a href="https://www.youtube.com/watch?v=iQhQu1ZrTno">How to remove & replace Control Arm Bushings</a></h4></li>
+</ul>
 
 
 <h3>Tools/Parts</h3>
