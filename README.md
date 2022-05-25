@@ -67,7 +67,9 @@
 <!------------------------------------------------------------------------------------------------>
 <h3>Fix BMW front end</h3>
 <h3>Outer Tie Rods (Remove & Replace)</h3>
-  <h4><a href="https://www.youtube.com/watch?v=75Qt_O5x2M0">See here for directions</a></h4>
+  <h4><a href="https://www.youtube.com/watch?v=75Qt_O5x2M0">See here for directions</a></h4><br/>&nbsp;
+  <h4><a href="https://www.youtube.com/watch?v=faKhwzbO6H4">A1auto directions</a></h4>
+<hr />
 
 <h3>Control Arm Bushings R & R</h3>
   <h4><a href="https://www.youtube.com/watch?v=iQhQu1ZrTno">How to remove & replace Control Arm Bushings</a></h4>
