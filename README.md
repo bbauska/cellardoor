@@ -92,6 +92,7 @@
 <h2>Fix BMW front end</h2>
 <h3><b><i>1st</i></b> Outer Tie Rods (Remove & Replace)</h3>
 <ul>
+  <li><h4><a href="https://www.youtube.com/watch?v=usfbSLE_1aI&t=726s">Control Arms, Bushings, Ball Joints, Tie Rods, & End Links</a></h4></li>
   <li><h4><a href="https://www.youtube.com/watch?v=75Qt_O5x2M0">See here for directions</a></h4></li>
   <li><h4><a href="https://www.youtube.com/watch?v=faKhwzbO6H4">A1auto directions</a></h4></li>
 </ul>
