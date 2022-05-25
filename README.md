@@ -73,6 +73,7 @@
 <h3>W3Cx-3of5-HTML5 Coding Essentials and Best Practices</h3>
 <p>
     Documenting above courses in Word, then HTML, and, finally, GitHub</p>
+
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------------ bmw logo -------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
@@ -105,12 +106,12 @@
   <li><h4><a href="https://www.youtube.com/watch?v=iQhQu1ZrTno">How to remove & replace Control Arm Bushings</a></h4></li>
 </ul>
 
-<hr/>
+<hr />
 <!------------------------------------------------------------------------------------------------>
 <h3>Ford Fusion</h3>
 <h4><b>Change oil</b></h4>
 
-<hr/>
+<hr />
 
 <h3><a href="https://gridbyexample.com/">Grid by Example from W3Cx-2of-5 - HTML5 and CSS Fundamentals</a></h3>
 <!------------------------------------------------------------------------------------------------>
