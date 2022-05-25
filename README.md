@@ -1,6 +1,13 @@
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------------- readme.md of cellardoor ------------------------------------>
 <!------------------------------------------------------------------------------------------------>
+<h3>Creating Landing Page with GatsbyJS</h3>
+https://codeburst.io/guide-building-%D0%B0-landing-page-with-gatsbyjs-488e4a2c793b
+
+
+
+
+
 <h3><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design">Mozilla's Responsive Design</a></h3>
 
 <h3><a href="https://dash.cloudflare.com/dns">Cloudflare login</a></h3>
