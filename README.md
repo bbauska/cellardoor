@@ -102,7 +102,7 @@
 <hr />
 <h2>Lower Control Arms R & R</h2>
 <ul>
-    <li><h3><a href="https://www.youtube.com/watch?v=e5xaIwkA_oE">Shoplife R & R</a></h4></li>
+    <li><h3><a href="https://www.youtube.com/watch?v=e5xaIwkA_oE">Shoplife R & R</a></h3></li>
     <li><h3><a href="https://www.youtube.com/watch?v=5olCf8zpad4">a1auto Lower Control Arm Remove & Replace</a></h3></li>
     <li><h3><a href="https://www.youtube.com/watch?v=aR4UPFbjgnI">50's Guy Lower Control Arm R & R</a></h3></li>
     <li><h3><a href="https://www.youtube.com/watch?v=iQhQu1ZrTno">How to remove & replace Control Arm Bushings</a></h3></li>
