@@ -37,7 +37,7 @@
 
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<a href="https://revealjs.com/themes/">Reveal Themes</a>
+<a href="https://revealjs.com/themes/",target="_blank">Reveal Themes</a>
 
 <ol>
 <li><a href="#crypto">Cryptocurrency</a></li>
