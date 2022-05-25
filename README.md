@@ -62,12 +62,20 @@
 <h2 id="webdev">Web Development</h2>
 
 <h3>jQuery</h3>
+
 <h3>Fix BMW front end</h3>
-    <h4>* 4 lb sledge</h4>
-    <h4>* 4 replacement bolts</h4>
+<h4>outer ball joints</h4>
+  <a href="">See here for directions</a>
+<h4>2-4 lb sledge hammer</h4>
+<h4>Control Arm Bushings R and R</h4>
+<a href="https://www.youtube.com/watch?v=iQhQu1ZrTno">How to remove & replace Control Arm Bushings</a>
+
+<h4>pickle fork or clutch puller</h4>
+<h4>4 replacement bolts</h4>
 <br/>
+
 <h3>Ford Fusion</h3>
-    <h4><b>Change oil</b></h4>
+<h4><b>Change oil</b></h4>
 
 <h3><a href="https://gridbyexample.com/">Grid by Example from W3Cx-2of-5 - HTML5 and CSS Fundamentals</a></h3>
 
