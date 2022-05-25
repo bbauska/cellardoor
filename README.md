@@ -63,9 +63,16 @@
 
 <h3>jQuery</h3>
 
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------------------------------------------------------------------------>
 <h3>Fix BMW front end</h3>
-<h4>outer ball joints</h4>
-  <a href="">See here for directions</a>
+<h3>Outer Tie Rods (Remove & Replace)</h3>
+  <h4><a href="https://www.youtube.com/watch?v=75Qt_O5x2M0">See here for directions</a></h4>
+
+<h3>Control Arm Bushings R & R</h3>
+  <h4><a href="https://www.youtube.com/watch?v=iQhQu1ZrTno">How to remove & replace Control Arm Bushings</a></h4>
+
+<h3>Tools/Parts</h3>
 <h4>2-4 lb sledge hammer</h4>
 <h4>Control Arm Bushings R and R</h4>
 <a href="https://www.youtube.com/watch?v=iQhQu1ZrTno">How to remove & replace Control Arm Bushings</a>
@@ -93,6 +100,7 @@
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <h1>Front-End Web Development Courses</h1>
+<!------------------------------------------------------------------------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <br/>
 <h2>Web Development from W3C</h2>
