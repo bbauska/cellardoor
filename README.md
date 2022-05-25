@@ -1,6 +1,7 @@
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------------- readme.md of cellardoor ------------------------------------>
 <!------------------------------------------------------------------------------------------------>
+<!----------------------------------- web development on git ------------------------------------->
 <h2 align="center"><a href="https://codeburst.io/guide-building-%D0%B0-landing-page-with-gatsbyjs-488e4a2c793b">Creating a Landing Page with GatsbyJS</a></h2>
 
 
@@ -8,6 +9,8 @@
 
 
 <h3><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design">Mozilla's Responsive Design</a></h3>
+
+<!------------------------------ dns bauska.org / bauska.net -------------------------------------->
 
 <h3><a href="https://dash.cloudflare.com/dns">Cloudflare login</a></h3>
 
@@ -17,7 +20,7 @@
 <!------------------------------------------------------------------------------------------------>
 <h2 align="center">cellardoor</h2>
 
-<h3><a href="https://symfony.com/ten-criteria">So there are 10 criteria for choosing the correct framework.</a></h3>
+<h3><a href="https://symfony.com/ten-criteria">10 criteria for choosing the correct framework</a></h3>
 
 <h4>The following are 'shecodes.io'</h4>
 <ul>
@@ -55,7 +58,6 @@
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <h1 id="now">What I'm doing now: 5.24.2022 Tuesday</h1>
-
 <!------------------------------------------------------------------------------------------------>
 <h2 id="webdev">Web Development</h2>
 
