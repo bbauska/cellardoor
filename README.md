@@ -67,6 +67,12 @@
 
 <h3>jQuery</h3>
 <hr/>
+<h2>Taking Following Course online via edX,</h2>
+<h3>W3Cx-2of5-HTML5 and CSS Fundamentals</h3>
+<h3>then,</h3>
+<h3>W3Cx-3of5-HTML5 Coding Essentials and Best Practices</h3>
+<p>
+    Documenting above courses in Word, then HTML, and, finally, GitHub</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------------ bmw logo -------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
@@ -104,14 +110,11 @@
 <h3>Ford Fusion</h3>
 <h4><b>Change oil</b></h4>
 
-<h3><a href="https://gridbyexample.com/">Grid by Example from W3Cx-2of-5 - HTML5 and CSS Fundamentals</a></h3>
+<hr/>
 
-<h2>Taking Following Course online via edX,</h2>
-<h3>W3Cx-2of5-HTML5 and CSS Fundamentals</h3>
-<h3>then,</h3>
-<h3>W3Cx-3of5-HTML5 Coding Essentials and Best Practices</h3>
-<p>
-    Documenting above courses in Word, then HTML, and, finally, GitHub</p>
+<h3><a href="https://gridbyexample.com/">Grid by Example from W3Cx-2of-5 - HTML5 and CSS Fundamentals</a></h3>
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------------------------------------------------------------------------>
 
 <hr/>
 <!------------------------------------------------------------------------------------------------>
