@@ -91,6 +91,7 @@
 <br/>
 <!------------------------------------------------------------------------------------------------>
 <h2>Fix BMW front end</h2>
+
 <h3><b><i>1st</i></b> Outer Tie Rods (Remove & Replace)</h3>
 <ul>
   <li><h4><a href="https://www.youtube.com/watch?v=usfbSLE_1aI&t=726s">Control Arms, Bushings, Ball Joints, Tie Rods, & End Links</a></h4></li>
@@ -102,12 +103,12 @@
 <ul>
     <li><a href="https://www.youtube.com/watch?v=e5xaIwkA_oE">Shoplife R & R</a></li><br/>
     <li><a href="https://www.youtube.com/watch?v=5olCf8zpad4">a1auto Lower Control Arm Remove & Replace</a></li><br/>
+    <li><a href="https://www.youtube.com/watch?v=aR4UPFbjgnI">50's Guy Lower Control Arm R & R</a></li><br/>
+    <li><h4><a href="https://www.youtube.com/watch?v=iQhQu1ZrTno">How to remove & replace Control Arm Bushings</a></h4></li>
 </ul>
+<hr />
 
-<h3>Control Arm Bushings R & R</h3>
-<ul>
-  <li><h4><a href="https://www.youtube.com/watch?v=iQhQu1ZrTno">How to remove & replace Control Arm Bushings</a></h4></li>
-</ul>
+<h3>Tools Required to Self-Align</h3>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------- tools for front-end alignment --------------------------------->
 <!------------------------------------------------------------------------------------------------>
