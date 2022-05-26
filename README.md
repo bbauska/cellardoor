@@ -133,14 +133,12 @@
 
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<h1>Front-End Web Development Courses</h1>
-<!------------------------------------------------------------------------------------------------>
+<h1 align="center">Front-End Web Development Courses</h1>
 <!------------------------------------------------------------------------------------------------>
 <br/>
 <h2>Web Development from W3C</h2>
 
 <!------------------------------------------------------------------------------------------------>
-
 <a href="https://w3cx-1of5-css.0x.bauska.org/">W3Cx-1of5-CSS.0x</a>
 
 <a href="https://bbauska.github.io/w3cx-1of5-css.0x/">github.io W3Cx-1of5-CSS.0X</a>
@@ -148,7 +146,6 @@
 <h3>1. <a href="https://github.com/bbauska/W3Cx-1of5-css.0x">markdown github W3Cx-1of5-CSS.0x</a></h3>
 
 <!------------------------------------------------------------------------------------------------>
-
 <a href="https://w3cx-2of5-html5.0x.bauska.org/">W3Cx-2of5-HTML5.0x</a>
 
 <a href="https://bbauska.github.io/w3cx-2of5-html5.0x/">github.io W3Cx-2of5-HTML5.0X</a>
@@ -156,7 +153,6 @@
 <h3>2. <a href="https://github.com/bbauska/W3Cx-2of5-HTML5.0x">markdown github W3Xx-2of5-HTML5.0x</a></h3>
 
 <!------------------------------------------------------------------------------------------------>
-
 <a href="https://w3cx-3of5-html5.1x.bauska.org/">W3Cx-3of5-HTML5.1x</a>
 
 <a href="https://bbauska.github.io/w3cx-3of5-html5.1x/">github.io W3Cx-3of5-HTML5.1X</a>
@@ -164,7 +160,6 @@
 <h3>3. <a href="https://github.com/bbauska/W3Cx-3of5-HTML5.1x">markdown github w3cx-30f5-HTML5.1x</a></h3>
 
 <!------------------------------------------------------------------------------------------------>
-
 <a href="https://w3cx-4of5-html5.2x.bauska.org/">W3Cx-4of5-HTML5.2x</a>
 
 <a href="https://bbauska.github.io/w3cx-4of5-html5.2x/">github.io W3Cx-4of5-HTML5.2X</a>
@@ -172,7 +167,6 @@
 <h3>4. <a href="https://github.com/bbauska/W3Cx-4of5-HTML5.2x">markdown github w3cx-4of5-HTML5.2x</a></h3>
 
 <!------------------------------------------------------------------------------------------------>
-
 <a href="https://w3cx-5of5-js.0x.bauska.org/">W3Cx-5of5-JS.0x</a>
 
 <a href="https://bbauska.github.io/w3cx-5of5-js.0x/">github.io W3Cx-5of5-JS.0X</a>
@@ -181,27 +175,26 @@
 
 <hr />
 <!---------------------------------------------------------------------------------------------------->
-<h2>JavaScript Frameworks and Libraries</h2>
+<h2 align="center">JavaScript Frameworks and Libraries</h2>
 <!---------------------------------------------------------------------------------------------------->
-<h2 id="libraries">Medium.com Libraries to Learn in 2020</h2>
+<h3 id="libraries">Medium.com Libraries to Learn in 2020</h3>
 
 <a href="https://medium.com/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4">Top 10 Frameworks</a>
 
 <a href="https://www.interviewbit.com/blog/web-development-frameworks/">More Frameworks, here</a>
-
 <ol>
-    <a href="https://reactjs.org/"> <li>REACT.js</li></a>
-    <a href="https://vuejs.org/"> <li>Vue.js</li></a>
-    <a href="https://angular.io/"> <li>Angular</li></a>
-    <a href="https://svelte.dev/"> <li>Svelte.js</li></a>
-    <a href="https://emberjs.com/"> <li>Ember.js</li></a>
-    <a href="https://materializecss.com/"> <li>Materialize</li></a>    
-    <a href="https://www.meteor.com/"> <li> Meteror JS</li></a>  
-    <a href="https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview"> <li>Polymer</li></a>
-    <a href="https://docs.sencha.com/extjs/6.5.0/guides/getting_started/getting_started.html"> <li>Ext.JS</li></a>
-    <a href="https://aurelia.io/"> <li>Auralia</li></a>
-    <a href="http://backbonejs.org/"> <li>Backbone.js</li><?a>
-    <a href="https://nodejs.org/en/"> <li>Node.js</li></a>
+<li> <a href="https://reactjs.org/"> <li>REACT.js</li></a>
+<li> <a href="https://vuejs.org/"> <li>Vue.js</li></a>
+<li> <a href="https://angular.io/"> <li>Angular</li></a>
+<li> <a href="https://svelte.dev/"> <li>Svelte.js</li></a>
+<li> <a href="https://emberjs.com/"> <li>Ember.js</li></a>
+<li> <a href="https://materializecss.com/"> <li>Materialize</li></a>    
+<li> <a href="https://www.meteor.com/"> <li> Meteror JS</li></a>  
+<li> <a href="https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview"> <li>Polymer</li></a>
+<li> <a href="https://docs.sencha.com/extjs/6.5.0/guides/getting_started/getting_started.html"> <li>Ext.JS</li></a>
+<li> <a href="https://aurelia.io/"> <li>Auralia</li></a>
+<li> <a href="http://backbonejs.org/"> <li>Backbone.js</li><?a>
+<li> <a href="https://nodejs.org/en/"> <li>Node.js</li></a>
 </ol>
 
 <h2>Web Development Frameworks</h2>
@@ -1153,7 +1146,9 @@ When learning CS, there are some useful sites you must know to get always inform
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
-
+<!------------------------------------------------------------------------------------------------>
+<!----------------------------------------- internships ------------------------------------------>
+<!------------------------------------------------------------------------------------------------>
 <h2>Internships</h2>
 
 - [Chegg](http://www.chegg.com) : It is an awesome resource for finding internships, scholarships, tutors, etc.
@@ -1227,5 +1222,5 @@ When learning CS, there are some useful sites you must know to get always inform
 <h3><a href="https://CS1981x.bauska.net">Bitcoin and Cryptocurrencies - CS198.1x Berkeley</a></h3>
 
 <br/>
-
-<h4>Last update: 5-24-2022 1:39pm</h4>
+<!-------------------------------------------- the end ------------------------------------------->
+<h4>Last update: 5-26-2022 1:06pm</h4>
