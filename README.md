@@ -61,18 +61,24 @@
 </h1>
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<h1 id="now">What I'm doing now: 5.24.2022 Tuesday</h1>
+<h1 id="now">What I'm doing now: 5.27.2022 Friday</h1>
 <!------------------------------------------------------------------------------------------------>
 <h2 id="webdev">Web Development</h2>
 
+<h2>Change oil in 2010 Ford Fusion</h2>
+<h2>Check Fluid level - brakes, water, automatic transmission</h2>
+<br/>
+
 <h3>jQuery</h3>
 <hr/>
-<h2>Taking Following Course online via edX,</h2>
-<h3>W3Cx-2of5-HTML5 and CSS Fundamentals</h3>
-<h3>then,</h3>
-<h3>W3Cx-3of5-HTML5 Coding Essentials and Best Practices</h3>
+<h3>Taking Following Course online via coursera;</h3>
+<h3>Web Development UI Frameworks</h3>
+
+<!--- <h3>W3Cx-2of5-HTML5 and CSS Fundamentals</h3>  --->
+<!--- <h3>then,</h3>  --->
+<!--- <h3>W3Cx-3of5-HTML5 Coding Essentials and Best Practices</h3> --->
 <p>
-    Documenting above courses in Word, then HTML, and, finally, GitHub</p>
+    Documenting above courses in Word, Markdown, then, HTML within GitHub</p>
 
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------------ bmw logo -------------------------------------------->
@@ -88,6 +94,7 @@
 <h4>2-4 lb sledge hammer</h4>
 <h4>pickle fork or clutch puller</h4>
 <h4>4 replacement bolts</h4>
+<h4>21mm, 18mm, and the usuals 12mm on down</h4>
 <br/>
 <!------------------------------------------------------------------------------------------------>
 <h1>Fix BMW front end</h1>
@@ -116,7 +123,7 @@
 <p align="center" width="100%">
 <img src="/images/2004 bmw front end alignment supplies tools needed.png"
    alt="Tools needed for front-end alignment"
-   width="40%" />
+   width="30%" />
 </p>
 
 <hr />
