@@ -1057,7 +1057,59 @@ Questions, Answers, Explanation, Interview, Entrance, Exams, Solutions</li></a>
 <!-------------------------------------- open source websites ------------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <h2><a href="#">Open Source Websites</a></h2>
-<ul>
+
+<link rel="stylesheet"
+   href="https://www.w3schools.com/w3css/4/w3.css">
+
+	<div class="w3-container w3-center">
+		<!-- w3-text-green sets the text colour to green. -->
+		<!-- w3-xxlarge sets font size to 32px. -->
+		<h2 class="w3-text-green w3-xxlarge">Jobs</h2>
+	</div>
+
+<style>
+	ul {
+		padding: 0;
+		list-style: none;
+		background: #f2f2f2;
+	}
+
+	ul li {
+		display: block;
+		position: relative;
+		line-height: 21px;
+		text-align: left;
+	}
+
+	ul li a {
+		display: block;
+		padding: 8px 25px;
+		color: #333;
+		text-decoration: none;
+	}
+
+	ul li a:hover {
+		color: #fff;
+		background: #939393;
+	}
+
+	ul li ul.dropdown {
+		min-width: 25%;
+		/* Set width of the dropdown */
+		background: #f2f2f2;
+		display: none;
+		position: absolute;
+		z-index: 999;
+		left: 0;
+	}
+
+	ul li:hover ul.dropdown {
+		display: block;
+		/* Display the dropdown */
+	}
+	</style>
+
+<ul class="dropdown">
 <li><a href="https://openhatch.org">Open Hatch : OpenHatch is a non-profit dedicated to matching prospective free software contributors with communities, tools, and education.</a></li>
 <li><a href="https://sourceforge.net">Source Forge : SourceForge hosts nearly 280,000 projects (at last count). It serves more than 2 million downloads a day and includes apps and tools in a wide variety of categories.</a></li>
 <li><a href="https://code.google.com/projecthosting">Google Code : Google offers free hosting for open source projects using the Subversion or Mercurial version control systems. It offers 2 GB of storage, integrated code review tools, a wiki, and an issue tracker. The Google Code site also provides links to Google's many publicly available APIs and other developer tools.</a></li>
