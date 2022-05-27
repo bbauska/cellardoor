@@ -1237,8 +1237,59 @@ This is an ultra-simplified example of all the major pieces of a modern compiler
 <!-------------------------------------------- jobs ---------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <h2 id="jobs">Jobs</h2>
+<!------------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
 
-<ul>
+<style>
+	ul {
+		padding: 0;
+		list-style: none;
+		background: #f2f2f2;
+	}
+
+	ul li {
+		display: block;
+		position: relative;
+		line-height: 21px;
+		text-align: left;
+	}
+
+	ul li a {
+		display: block;
+		padding: 8px 25px;
+		color: #333;
+		text-decoration: none;
+	}
+
+	ul li a:hover {
+		color: #fff;
+		background: #939393;
+	}
+
+	ul li ul.dropdown {
+		min-width: 100%;
+		/* Set width of the dropdown */
+		background: #f2f2f2;
+		display: none;
+		position: absolute;
+		z-index: 999;
+		left: 0;
+	}
+
+	ul li:hover ul.dropdown {
+		display: block;
+		/* Display the dropdown */
+	}
+	</style>
+
+	<ul>
+		<li>
+			<a href="#">Job Sites</a>
+
+
+------------------------------------------------------------------->
+<ul class="dropdown">
 <li><a href="https://angel.co/">AngelList: Website for startups, angel investors, and jobs-seekers looking to work at startup.</a></li>
 <li><a href="https://hiring.careerbuilder.com">CareerBuilder: One of the largest job boards, providing job listings, resume posting, and career advice and resources to job seekers.</a></li>
 <li><a href="https://www.dice.com">Dice : Dice is the leading site for tech job seekers.
@@ -1264,6 +1315,9 @@ This is an ultra-simplified example of all the major pieces of a modern compiler
 <li><a href="https://www.linkedin.com/jobs">Linkedin jobs : A very nice research tool for programming jobs</a></li>
 <li><a href="https://germantechjobs.de/">GermanTech Jobs : Dedicated job board for tech roles in Germany - with salary brackets</a></li>
 <li><a href="https://weworkremotely.com/">We Work Remotely : The largest remote work community in the world.</a></li>
+			</ul>
+		</li>
+	</ul>
 </ul>
 
 <h3>Special Thanks</h3>
