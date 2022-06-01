@@ -65,7 +65,7 @@
 <!------------------------------------------------------------------------------------------------>
 <h2 id="webdev">Web Development</h2>
 
-<h2>Change oil in 2010 Ford Fusion</h2>
+<h2>Done 100% synthetic - Change oil in 2010 Ford Fusion</h2>
 <h2>Check Fluid level - brakes, water, automatic transmission</h2>
 <br/>
 
