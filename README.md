@@ -684,13 +684,14 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 <h2>Seminar, research writing, talks, etc</h2>
-
-- [Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html) : A collection of advice about how to do research and how to communicate effectively (primarily for computer scientists).
-- [PHD MS Articles](http://www.cse.iitd.ac.in/~srsarangi/articles.html) : articles and views
-- [Seminar and reports](https://www.cse.iitb.ac.in/~ranade/communicationskills.html) : Everyone must read this tiny book before writing the seminar report
-- [Latex reference](http://latex.knobs-dials.com) : Arbitrary reference
-- [Begin Latex in minutes](https://github.com/LewisVo/Begin-Latex-in-minutes) : Brief Intro to LaTeX for beginners that helps you use LaTeX with the ease
-- [Lshort](https://tobi.oetiker.ch/lshort/lshort.pdf) : The Not So Short Introduction to LATEX2ε
+<ul>
+<li><a href="http://www.cs.cmu.edu/~mleone/how-to.html">Advice on Research and Writing : A collection of advice about how to do research and how to communicate effectively (primarily for computer scientists).</a><br/></li>
+<li><a href="http://www.cse.iitd.ac.in/~srsarangi/articles.html">PHD MS Articles : articles and views.</a><br/></li>
+<li><a href="https://www.cse.iitb.ac.in/~ranade/communicationskills.html">Seminar and reports : Everyone must read this tiny book before writing the seminar report.</a><br/></li>
+<li><a href="http://latex.knobs-dials.com">Latex reference : Arbitrary reference.</a><br/></li>
+<li><a href="https://github.com/LewisVo/Begin-Latex-in-minutes">Begin Latex in minutes : Brief Intro to LaTeX for beginners that help you use LaTeX with ease.</a><br/></li>
+<li><a href="https://tobi.oetiker.ch/lshort/lshort.pdf">Lshort : The Not So Short Introduction to LATEX2ε.</a></li>
+</ul>
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -858,6 +859,18 @@ When learning CS, there are some useful sites you must know to get always inform
 <!----------------------------------------- tutorials -------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <h2 id="tutorials">Tutorials</h2>
+<li><a href="http://overapi.com">Collecting all the cheat sheets : cheat sheets for lots of programming languages.</a><br/></li>
+<li><a href="https://guides.github.com/features/mastering-markdown/">More about Github-flavored markdown.</a><br/></li>
+<li><a href="http://freeengineer.org/learnUNIXin10minutes.html">Learn UNIX in 10 minutes.</a><br/></li>
+<li><a href="http://linuxcommand.org">Learning the shell.</a><br/></li>
+<li><a href="https://linuxjourney.com">Linux Journey : good site for learning Linux.</a><br/></li>
+<li><a href="https://ryanstutorials.net/linuxtutorial/">Linux Tutorial : good resource for learning Linux.</a><br/></li>
+<li><a href="https://wildlyinaccurate.com/a-hackers-guide-to-git/">A Hacker's Guide to Git : for those wanting to learn git with a solid foundation.</a><br/></li>
+<li><a href="https://dzone.com">Programming, Web Development, and DevOps news, tutorials, and tools for beginners to experts.</a><br/></li>
+<li><a href="http://snapsvg.io">Snap SVG : The JavaScript SVG library for the modern web.</a><br/></li>
+<li><a href="https://javascript.info/">Javascript.info : The Modern JavaScript Tutorial.</a><br/></li>
+<li><a href="https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894">The Linux Command Line: A Complete Introduction.</a></li>
+</ul>
 
 - [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/) : for those wanting to learn git with a solid foundation
 - [Best Of - Gustavo Duarte](http://duartes.org/gustavo/blog/best-of/) : contains articles on various topics
@@ -917,20 +930,22 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 <h2>Watch others code</h2>
-
-- [Education Ecosystem](https://www.education-ecosystem.com) : screencast of people building applications, websites, games, etc.
-- [Twitch.tv](https://www.twitch.tv/directory/game/Science%20%26%20Technology) : The programming community of twitch.
+<ul>
+<li><a href="https://www.education-ecosystem.com">Education Ecosystem : screencast of people building applications, websites, games, etc.</a><br/></li>
+<li><a href="https://www.twitch.tv/directory/game/Science%20%26%20Technology">Twitch.tv : The programming community of twitch.</a></li>
+</ul>
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 <h2>What should a programmer know</h2>
-
-- [Can I use](https://caniuse.com/) : A website that provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
-- [GitHub.com Build software better, together](https://github.com) : Place to showcase your project and collaborate with others. (Must know Git to use it effectively)
-- [GitLab](https://about.gitlab.com) : An alternative to GitHub that offers free unlimited (private) repositories and unlimited collaborators.
-- [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/) : article for knowing what our level as a programmer is.
+<ul>
+<li><a href="https://caniuse.com/">Can I use : A website that provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.</a><br/></li>
+<li><a href="https://github.com">GitHub.com Build software better, together : Place to showcase your project and collaborate with others. (Must know Git to use it effectively).</a><br/></li>
+<li><a href="https://about.gitlab.com">GitLab : An alternative to GitHub that offers free unlimited (private) repositories and unlimited collaborators.</a><br/></li>
+<li><a href="http://sijinjoseph.com/programmer-competency-matrix/">Programmer Competency Matrix : article for knowing what our level as a programmer is.</a></li>
+</ul>
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -964,15 +979,15 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 <h2>Computer Books</h2>
-
-- [Become a Programmer, Motherfucker (list of books)](http://programming-motherfucker.com/become.html) : Exhaustive list of books from Zed A. Shaw.
-- [Best books for GATE CSE](http://gatecse.in/best-books-for-gatecse/)
-- [cses.fi/book.html](https://cses.fi/book.html)
-- [github.com/vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
-- [GitBook](https://www.gitbook.com) : GitBook helps your team write, collaborate, and publish content online.
-- [Data Science course](https://jakevdp.github.io/PythonDataScienceHandbook/) : Python Data Science Handbook
-- [Goal Kicker](https://goalkicker.com) : Programming Notes for Professionals books
-- [The GraphQL Guide](https://graphql.guide) : The complete guide to GraphQL, the new REST ✨
+<ul>
+<li><a href="http://programming-motherfucker.com/become.html">Become a Programmer, Motherfucker (list of books) : Exhaustive list of books from Zed A. Shaw.</a></li><br/>
+<li><a href="- [Best books for GATE CSE](http://gatecse.in/best-books-for-gatecse/)
+<li><a href="- [cses.fi/book.html](https://cses.fi/book.html)
+<li><a href="- [github.com/vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
+<li><a href="- [GitBook](https://www.gitbook.com) : GitBook helps your team write, collaborate, and publish content online.
+<li><a href="- [Data Science course](https://jakevdp.github.io/PythonDataScienceHandbook/) : Python Data Science Handbook
+<li><a href="- [Goal Kicker](https://goalkicker.com) : Programming Notes for Professionals books
+<li><a href="- [The GraphQL Guide](https://graphql.guide) : The complete guide to GraphQL, the new REST ✨
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -1172,10 +1187,10 @@ When learning CS, there are some useful sites you must know to get always inform
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------------- jobs ---------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<h2 id="jobs">Jobs</h2>
+<h1 id="jobs">Jobs</h1>
 
 <ul>
-<li><a href="https://angel.co/">AngelList: Website for startups, angel investors, and jobs-seekers looking to work at startup.</a></li>
+<li><a href="https://angel.co/">AngelList: Website for startups, angel investors, and jobs-seekers looking to work at startup.</a></li><br/>
 <li><a href="https://hiring.careerbuilder.com">CareerBuilder: One of the largest job boards, providing job listings, resume posting, and career advice and resources to job seekers.</a></li>
 <li><a href="https://www.dice.com">Dice : Dice is the leading site for tech job seekers.
     You can search by company, job title, keyword, employment type, and location.</a></li>
@@ -1233,4 +1248,4 @@ When learning CS, there are some useful sites you must know to get always inform
 
 <br/>
 <!-------------------------------------------- the end ------------------------------------------->
-<h4>Last update: 5-26-2022 1:06pm</h4>
+<h4>Last update: 06-02-2022 10:32am</h4>
