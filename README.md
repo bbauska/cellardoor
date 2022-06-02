@@ -37,7 +37,7 @@
 
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<a href="https://revealjs.com/themes/",target="_blank">Reveal Themes</a>
+<a href="https://revealjs.com/themes/" target="_blank">Reveal Themes</a>
 
 <ol>
 <li><a href="#crypto">Cryptocurrency</a></li>
@@ -101,18 +101,18 @@
 
 <h2><b><i>1st</i></b> Outer Tie Rods (Remove & Replace)</h2>
 <ul>
-  <li><h3><a href="https://www.youtube.com/watch?v=usfbSLE_1aI&t=726s",target="_blank">Control Arms, Bushings, Ball Joints, Tie Rods, & End Links</a></h3></li>
-  <li><h3><a href="https://www.youtube.com/watch?v=75Qt_O5x2M0",target="_blank">See here for directions</a></h3></li>
-  <li><h3><a href="https://www.youtube.com/watch?v=faKhwzbO6H4",target="_blank">A1auto directions</a></h3></li>
-  <li><h3><a href="https://www.youtube.com/watch?v=75Qt_O5x2M0",target="_blank">50's Kid Tie Rod R & R</a></h3></li>
+  <li><h3><a href="https://www.youtube.com/watch?v=usfbSLE_1aI&t=726s" target="_blank">Control Arms, Bushings, Ball Joints, Tie Rods, & End Links</a></h3></li>
+  <li><h3><a href="https://www.youtube.com/watch?v=75Qt_O5x2M0" target="_blank">See here for directions</a></h3></li>
+  <li><h3><a href="https://www.youtube.com/watch?v=faKhwzbO6H4" target="_blank">A1auto directions</a></h3></li>
+  <li><h3><a href="https://www.youtube.com/watch?v=75Qt_O5x2M0" target="_blank">50's Kid Tie Rod R & R</a></h3></li>
 </ul>
 <hr />
 <h2>Lower Control Arms R & R</h2>
 <ul>
-    <li><h3><a href="https://www.youtube.com/watch?v=e5xaIwkA_oE",target="_blank">Shoplife R & R</a></h3></li>
-    <li><h3><a href="https://www.youtube.com/watch?v=5olCf8zpad4",target="_blank">a1auto Lower Control Arm Remove & Replace</a></h3></li>
-    <li><h3><a href="https://www.youtube.com/watch?v=aR4UPFbjgnI",target="_blank">50's Guy Lower Control Arm R & R</a></h3></li>
-    <li><h3><a href="https://www.youtube.com/watch?v=iQhQu1ZrTno",target="_blank">How to remove & replace Control Arm Bushings</a></h3></li>
+    <li><h3><a href="https://www.youtube.com/watch?v=e5xaIwkA_oE" target="_blank">Shoplife R & R</a></h3></li>
+    <li><h3><a href="https://www.youtube.com/watch?v=5olCf8zpad4" target="_blank">a1auto Lower Control Arm Remove & Replace</a></h3></li>
+    <li><h3><a href="https://www.youtube.com/watch?v=aR4UPFbjgnI" target="_blank">50's Guy Lower Control Arm R & R</a></h3></li>
+    <li><h3><a href="https://www.youtube.com/watch?v=iQhQu1ZrTno" target="_blank">How to remove & replace Control Arm Bushings</a></h3></li>
 </ul>
 <hr />
 
@@ -149,11 +149,11 @@
 <h2>Web Development from W3C</h2>
 
 <!------------------------------------------------------------------------------------------------>
-<a href="https://w3cx-1of5-css.0x.bauska.org/">W3Cx-1of5-CSS.0x</a>
+<a href="https://w3cx-1of5-css.0x.bauska.org/" target="_blank">W3Cx-1of5-CSS.0x</a>
 
-<a href="https://bbauska.github.io/w3cx-1of5-css.0x/">github.io W3Cx-1of5-CSS.0X</a>
+<a href="https://bbauska.github.io/w3cx-1of5-css.0x/" target="_blank">github.io W3Cx-1of5-CSS.0X</a>
 
-<h3>1. <a href="https://github.com/bbauska/W3Cx-1of5-css.0x">markdown github W3Cx-1of5-CSS.0x</a></h3>
+<h3>1. <a href="https://github.com/bbauska/W3Cx-1of5-css.0x target="_blank"">markdown github W3Cx-1of5-CSS.0x</a></h3>
 
 <!------------------------------------------------------------------------------------------------>
 <a href="https://w3cx-2of5-html5.0x.bauska.org/">W3Cx-2of5-HTML5.0x</a>
@@ -981,13 +981,14 @@ When learning CS, there are some useful sites you must know to get always inform
 <h2>Computer Books</h2>
 <ul>
 <li><a href="http://programming-motherfucker.com/become.html">Become a Programmer, Motherfucker (list of books) : Exhaustive list of books from Zed A. Shaw.</a></li><br/>
-<li><a href="- [Best books for GATE CSE](http://gatecse.in/best-books-for-gatecse/)
-<li><a href="- [cses.fi/book.html](https://cses.fi/book.html)
-<li><a href="- [github.com/vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) : More than 500 free ebooks on almost any language you can think of
-<li><a href="- [GitBook](https://www.gitbook.com) : GitBook helps your team write, collaborate, and publish content online.
-<li><a href="- [Data Science course](https://jakevdp.github.io/PythonDataScienceHandbook/) : Python Data Science Handbook
-<li><a href="- [Goal Kicker](https://goalkicker.com) : Programming Notes for Professionals books
-<li><a href="- [The GraphQL Guide](https://graphql.guide) : The complete guide to GraphQL, the new REST ✨
+<li><a href="http://gatecse.in/best-books-for-gatecse/">Best books for GATE CSE.</a></li><br/>
+<li><a href="https://cses.fi/book.html">cses.fi/book.html.</a></li><br/>
+<li><a href="https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md">github.com/vhf/free-programming-books : More than 500 free ebooks on almost any language you can think of.</a></li><br/>
+<li><a href="https://www.gitbook.com">GitBook : GitBook helps your team write, collaborate, and publish content online.</a></li><br/>
+<li><a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Data Science course : Python Data Science Handbook.</a></li><br/>
+<li><a href="https://goalkicker.com">Goal Kicker : Programming Notes for Professionals books.</a></li><br/>
+<li><a href="https://graphql.guide">The GraphQL Guide : The complete guide to GraphQL, the new REST ✨.</a></li>
+</ul>
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -1131,41 +1132,41 @@ When learning CS, there are some useful sites you must know to get always inform
 <!------------------------------------------------------------------------------------------------>
 <h2 id="open">Open Source Websites</h2>
 <ul>
-<li><a href="https://openhatch.org">Open Hatch : OpenHatch is a non-profit dedicated to matching prospective free software contributors with communities, tools, and education.</a></li>
+<li><a href="https://openhatch.org" target="_blank">Open Hatch : OpenHatch is a non-profit dedicated to matching prospective free software contributors with communities, tools, and education.</a></li>
 
-<li><a href="https://sourceforge.net">Source Forge : SourceForge hosts nearly 280,000 projects (at last count). It serves more than 2 million downloads a day and includes apps and tools in a wide variety of categories</a></li>.
+<li><a href="https://sourceforge.net" target="_blank">Source Forge : SourceForge hosts nearly 280,000 projects (at last count). It serves more than 2 million downloads a day and includes apps and tools in a wide variety of categories</a></li>.
 
-<li><a href="https://code.google.com/projecthosting">Google Code : Google offers free hosting for open source projects using the Subversion or Mercurial version control systems. It offers 2 GB of storage, integrated code review tools, a wiki, and an issue tracker. The Google Code site also provides links to Google's many publicly available APIs and other developer tools.</a></li>
+<li><a href="https://code.google.com/projecthosting" target="_blank">Google Code : Google offers free hosting for open source projects using the Subversion or Mercurial version control systems. It offers 2 GB of storage, integrated code review tools, a wiki, and an issue tracker. The Google Code site also provides links to Google's many publicly available APIs and other developer tools.</a></li>
 
-<li><a href="https://launchpad.net">Launch Pad : Maintained by Canonical, LaunchPad is particularly targeted at projects that run on Ubuntu. It provides hosting for more than 21,000 projects that use the Bazaar version control system.</a></li>
+<li><a href="https://launchpad.net" target="_blank">Launch Pad : Maintained by Canonical, LaunchPad is particularly targeted at projects that run on Ubuntu. It provides hosting for more than 21,000 projects that use the Bazaar version control system.</a></li>
 
-<li><a href="https://opensource.google.com">Google Open Source : Google Open Source</a></li>
+<li><a href="https://opensource.google.com" target="_blank">Google Open Source : Google Open Source</a></li>
 
-<li><a href="https://developers.redhat.com">Red Hat Developer : The world's leading provider of open source solutions</a></li>
+<li><a href="https://developers.redhat.com" target="_blank">Red Hat Developer : The world's leading provider of open source solutions</a></li>
 
-<li><a href="https://opensource.com">Open Source : Open Source</a></li>
+<li><a href="https://opensource.com" target="_blank">Open Source : Open Source</a></li>
 
-<li><a href="https://summerofcode.withgoogle.com">Google Summer of Code : Google Summer of Code is a global program focused on bringing more student developers into open source software development. Students work with an open-source organization on a 3-month programming project during their break from school.</a></li>
+<li><a href="https://summerofcode.withgoogle.com" target="_blank">Google Summer of Code : Google Summer of Code is a global program focused on bringing more student developers into open source software development. Students work with an open-source organization on a 3-month programming project during their break from school.</a></li>
 
-<li><a href="http://www.oswd.org">Open Source Web Design : Open Source Web Design is a platform for sharing standards-compliant free web design templates. We give web publishers a voice through good design.</a></li>
+<li><a href="http://www.oswd.org" target="_blank">Open Source Web Design : Open Source Web Design is a platform for sharing standards-compliant free web design templates. We give web publishers a voice through good design.</a></li>
 
-<li><a href="https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016">Mozilla Winter of Security : The Winter of Security (MWOS) is a program organized by Mozilla's Security teams to involve students with Security projects. Students who have to perform a semester project as part of their university curriculum can apply to one of the MWOS projects.</a></li>
+<li><a href="https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016" target="_blank">Mozilla Winter of Security : The Winter of Security (MWOS) is a program organized by Mozilla's Security teams to involve students with Security projects. Students who have to perform a semester project as part of their university curriculum can apply to one of the MWOS projects.</a></li>
 
-<li><a href="https://bitbucket.org">Bit Bucket : Like GitHub, BitBucket hosts both public and private projects. On this site, open-source projects and private projects with fewer than five users are free. It hosts more than 48,000 repositories, many of which are searchable on the site.</a></li>
+<li><a href="https://bitbucket.org" target="_blank">Bit Bucket : Like GitHub, BitBucket hosts both public and private projects. On this site, open-source projects and private projects with fewer than five users are free. It hosts more than 48,000 repositories, many of which are searchable on the site.</a></li>
 
-<li><a href="https://www.mediawiki.org/wiki/MediaWiki">Media Wiki : MediaWiki is a free software open source wiki package written in PHP, originally for use on Wikipedia. It is now also used by several other projects of the non-profit Wikimedia Foundation and by many other wikis, including this website, the home of MediaWiki.</a></li>
+<li><a href="https://www.mediawiki.org/wiki/MediaWiki" target="_blank">Media Wiki : MediaWiki is a free software open source wiki package written in PHP, originally for use on Wikipedia. It is now also used by several other projects of the non-profit Wikimedia Foundation and by many other wikis, including this website, the home of MediaWiki.</a></li>
 
-<li><a href="https://codecuriosity.org">Code Curiosity : CodeCuriosity is a platform that encourages contributions to open source. Everyone is rewarded for their efforts, no matter how big or small they are.</a></li>
+<li><a href="https://codecuriosity.org" target="_blank">Code Curiosity : CodeCuriosity is a platform that encourages contributions to open source. Everyone is rewarded for their efforts, no matter how big or small they are.</a></li>
 
-<li><a href="https://www.codetriage.com">Code Triage : Help out your favorite open-source projects and become a better developer while doing it.</a></li>
+<li><a href="https://www.codetriage.com" target="_blank">Code Triage : Help out your favorite open-source projects and become a better developer while doing it.</a></li>
 
-<li><a href="http://issuehub.io">Issue Hub : Contribute to Open Source. Search issue labels to find the right project for you</a></li>
+<li><a href="http://issuehub.io" target="_blank">Issue Hub : Contribute to Open Source. Search issue labels to find the right project for you</a></li>
 
-<li><a href="http://up-for-grabs.net">Up for Grabs : This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project or to help share the load of working on open source projects.</a></li>
+<li><a href="http://up-for-grabs.net" target="_blank">Up for Grabs : This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project or to help share the load of working on open source projects.</a></li>
 
-<li><a href="http://www.firsttimersonly.com">First Timers Only : Contributing to open source for the first time can be scary and a little overwhelming. Perhaps you’re a Code Newbie or maybe you’ve been coding for a while but haven’t found a project you felt comfortable contributing to.</a></li>
+<li><a href="http://www.firsttimersonly.com" target="_blank">First Timers Only : Contributing to open source for the first time can be scary and a little overwhelming. Perhaps you’re a Code Newbie or maybe you’ve been coding for a while but haven’t found a project you felt comfortable contributing to.</a></li>
 
-<li><a href="http://yourfirstpr.github.io">Your First PR : Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere.</a></li>
+<li><a href="http://yourfirstpr.github.io" target="_blank">Your First PR : Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere.</a></li>
 </ul>
 
 <div align="right">
@@ -1190,31 +1191,31 @@ When learning CS, there are some useful sites you must know to get always inform
 <h1 id="jobs">Jobs</h1>
 
 <ul>
-<li><a href="https://angel.co/">AngelList: Website for startups, angel investors, and jobs-seekers looking to work at startup.</a></li><br/>
-<li><a href="https://hiring.careerbuilder.com">CareerBuilder: One of the largest job boards, providing job listings, resume posting, and career advice and resources to job seekers.</a></li>
-<li><a href="https://www.dice.com">Dice : Dice is the leading site for tech job seekers.
+<li><a href="https://angel.co/" target="_blank">AngelList: Website for startups, angel investors, and jobs-seekers looking to work at startup.</a></li><br/>
+<li><a href="https://hiring.careerbuilder.com" target="_blank">CareerBuilder: One of the largest job boards, providing job listings, resume posting, and career advice and resources to job seekers.</a></li>
+<li><a href="https://www.dice.com" target="_blank">Dice : Dice is the leading site for tech job seekers.
     You can search by company, job title, keyword, employment type, and location.</a></li>
-<li><a href="https://devsnap.io">Devsnap : Devsnap is a job aggregator for developer jobs. </a></li>
-<li><a href="https://devitjobs.uk/">IT Jobs in UK : Transparent job board for UK based developers.</a></li>
-<li><a href="https://www.glassdoor.co.in">Glassdoor : Find the job that's right for you.
+<li><a href="https://devsnap.io" target="_blank">Devsnap : Devsnap is a job aggregator for developer jobs. </a></li>
+<li><a href="https://devitjobs.uk/" target="_blank">IT Jobs in UK : Transparent job board for UK based developers.</a></li>
+<li><a href="https://www.glassdoor.co.in" target="_blank">Glassdoor : Find the job that's right for you.
     Search all the open positions on the web. Get your own personalized salary estimate.</a></li>
-<li><a href="http://iaesteunitedstates.org">IAESTE : Find more and amazing international internships and jobs.</a></li>
-<li><a href="https://www.indeed.com">Indeed : Find international jobs on Indeed and get a market salary for your dedication and devotion.</a></li>
-<li><a href="https://www.instahyre.com">Instahyre : Your dream job is here. Showcase yourself to a curated list of top companies. Complete privacy and no spam.</a></li>
-<li><a href="https://thementat.com">Mentat : Get your dream job 10x faster. Never apply for a job ever again, talk directly to decision-makers and hiring managers.</a></li>
-<li><a href="https://www.themuse.com">The Muse : Find everything you need to succeed from dream jobs to career advice. You can do a lot here on The Muse like exploring companies, browsing jobs, career advice,  discover careers,  career coaching. Try it.</a></li>
-<li><a href="https://www.paysa.com">Paysa : Paysa helps you in finding new and interesting jobs according to your wish.</a></li>
-<li><a href="https://www.simplyhired.com">SimplyHired : Simply Hired is a free job search engine (and mobile app) that takes the hassle out of getting hired and provides you with all the information you need to make a sound career move.</a></li>
-<li><a href="SwissDev Jobs](https://swissdevjobs.ch">SwissDev Jobs : Tech job board for Software Engineers that want to work in Switzerland.</a></li>
-<li><a href="https://theundercoverrecruiter.com">Undercover Recruiter : Become Recruiter,
+<li><a href="http://iaesteunitedstates.org" target="_blank">IAESTE : Find more and amazing international internships and jobs.</a></li>
+<li><a href="https://www.indeed.com" target="_blank">Indeed : Find international jobs on Indeed and get a market salary for your dedication and devotion.</a></li>
+<li><a href="https://www.instahyre.com" target="_blank">Instahyre : Your dream job is here. Showcase yourself to a curated list of top companies. Complete privacy and no spam.</a></li>
+<li><a href="https://thementat.com" target="_blank">Mentat : Get your dream job 10x faster. Never apply for a job ever again, talk directly to decision-makers and hiring managers.</a></li>
+<li><a href="https://www.themuse.com" target="_blank">The Muse : Find everything you need to succeed from dream jobs to career advice. You can do a lot here on The Muse like exploring companies, browsing jobs, career advice,  discover careers,  career coaching. Try it.</a></li>
+<li><a href="https://www.paysa.com" target="_blank">Paysa : Paysa helps you in finding new and interesting jobs according to your wish.</a></li>
+<li><a href="https://www.simplyhired.com" target="_blank">SimplyHired : Simply Hired is a free job search engine (and mobile app) that takes the hassle out of getting hired and provides you with all the information you need to make a sound career move.</a></li>
+<li><a href="SwissDev Jobs](https://swissdevjobs.ch" target="_blank">SwissDev Jobs : Tech job board for Software Engineers that want to work in Switzerland.</a></li>
+<li><a href="https://theundercoverrecruiter.com" target="_blank">Undercover Recruiter : Become Recruiter,
   Candidate or Employer. You can get your job easily here.</a></li>
-<li><a href="https://whoishiring.io">Who is Hiring : An awesome resource for searching,
+<li><a href="https://whoishiring.io" target="_blank">Who is Hiring : An awesome resource for searching,
   filtering, and finding new and attractive jobs according to your needs and interests.</a></li>
-<li><a href="https://www.ziprecruiter.com">ZipRecruiter : The Smartest Way to Get Hired.</a></li>
-<li><a href="https://remoteml.com/">RemoteML: Remote Machine Learning jobs.</a></li>
-<li><a href="https://www.linkedin.com/jobs">Linkedin jobs : A very nice research tool for programming jobs</a></li>
-<li><a href="https://germantechjobs.de/">GermanTech Jobs : Dedicated job board for tech roles in Germany - with salary brackets</a></li>
-<li><a href="https://weworkremotely.com/">We Work Remotely : The largest remote work community in the world.</a></li>
+<li><a href="https://www.ziprecruiter.com" target="_blank">ZipRecruiter : The Smartest Way to Get Hired.</a></li>
+<li><a href="https://remoteml.com/" target="_blank">RemoteML: Remote Machine Learning jobs.</a></li>
+<li><a href="https://www.linkedin.com/jobs" target="_blank">Linkedin jobs : A very nice research tool for programming jobs</a></li>
+<li><a href="https://germantechjobs.de/" target="_blank">GermanTech Jobs : Dedicated job board for tech roles in Germany - with salary brackets</a></li>
+<li><a href="https://weworkremotely.com/" target="_blank">We Work Remotely : The largest remote work community in the world.</a></li>
 </ul>
 
 <div align="right">
@@ -1248,4 +1249,4 @@ When learning CS, there are some useful sites you must know to get always inform
 
 <br/>
 <!-------------------------------------------- the end ------------------------------------------->
-<h4>Last update: 06-02-2022 10:32am</h4>
+<h4>Last update: 06-02-2022 11:23am</h4>
