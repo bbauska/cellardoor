@@ -61,13 +61,17 @@
 </h1>
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<h1 id="now">What I'm doing now: 5.27.2022 Friday</h1>
+<h1 id="now">What I'm doing now: 06.06.2022 Monday</h1>
 <!------------------------------------------------------------------------------------------------>
 <h2 id="webdev">Web Development</h2>
+<h3>w3cx-3of5.bauska.org</h3>
 
 <h2>Done 100% synthetic - Change oil in 2010 Ford Fusion</h2>
 <h2>Check Fluid level - brakes, water, automatic transmission</h2>
 <br/>
+<h3>Front-end outer tierod ends</h3>
+
+<h3>Rear Windows 2010 Ford Fusion</h3>
 
 <h3>jQuery</h3>
 <hr/>
