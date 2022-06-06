@@ -24,7 +24,7 @@
 
 <h4>The following are 'shecodes.io'</h4>
 <ul>
-    <li><a href="https://cheatsheets.shecodes.io/bootstrap">Cheat Sheet Bootstrap</a><br/></li>
+<li><a href="https://cheatsheets.shecodes.io/bootstrap">Cheat Sheet Bootstrap</a><br/></li>
 
 <li><a href="https://cheatsheets.shecodes.io/html">Cheat Sheet HTML</a><br/></li>
 
@@ -135,8 +135,6 @@
 
 <h3><a href="https://gridbyexample.com/">Grid by Example from W3Cx-2of-5 - HTML5 and CSS Fundamentals</a></h3>
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------------------------------------------------------------------------>
-
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <a href="https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)">Build Status</a>
