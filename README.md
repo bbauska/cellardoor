@@ -6,13 +6,13 @@
     <a href="https://cellardoor.bauska.org" target="_blank";>Front-End Web UI Frameworks and Tools: Bootstrap 4</a></h1>
 <h5 align="center">(courser.org)</h5>
 
-<h2 align="center"><a href="https://codeburst.io/guide-building-%D0%B0-landing-page-with-gatsbyjs-488e4a2c793b">Creating a Landing Page with GatsbyJS</a></h2>
+<h2 align="center"><a href="https://codeburst.io/guide-building-%D0%B0-landing-page-with-gatsbyjs-488e4a2c793b" target="_blank";>Creating a Landing Page with GatsbyJS</a></h2>
 
-<h3><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design">Mozilla's Responsive Design</a></h3>
+<h3><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design" target="_blank";>Mozilla's Responsive Design</a></h3>
 
 <!------------------------------ dns bauska.org / bauska.net -------------------------------------->
 
-<h3><a href="https://dash.cloudflare.com/dns">Cloudflare login</a></h3>
+<h3><a href="https://dash.cloudflare.com/dns" target="_blank";>Cloudflare login</a></h3>
 
 <h3><a href="https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS173x+3T2021/block-v1:LinuxFoundationX+LFS173x+3T2021+type@sequential+block@1c3e17cb22c64f70b73abae00c80f0a3/block-v1:LinuxFoundationX+LFS173x+3T2021+type@vertical+block@eb20f7d37eeb4b7f8a477a9c916e4e0f](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS173x+3T2021/block-v1:LinuxFoundationX+LFS173x+3T2021+type@sequential+block@1c3e17cb22c64f70b73abae00c80f0a3/block-v1:LinuxFoundationX+LFS173x+3T2021+type@vertical+block@eb20f7d37eeb4b7f8a477a9c916e4e0f)">Linux Foundation's LFS173x on EDx</a></h3>
 
@@ -20,11 +20,11 @@
 <!------------------------------------------------------------------------------------------------>
 <h2 align="center">cellardoor</h2>
 
-<h3><a href="https://symfony.com/ten-criteria">10 criteria for choosing the correct framework</a></h3>
+<h3><a href="https://symfony.com/ten-criteria" target="_blank";>10 criteria for choosing the correct framework</a></h3>
 
 <h4>The following are 'shecodes.io'</h4>
 <ul>
-<li><a href="https://cheatsheets.shecodes.io/bootstrap">Cheat Sheet Bootstrap</a><br/></li>
+<li><a href="https://cheatsheets.shecodes.io/bootstrap" target="_blank";>Cheat Sheet Bootstrap</a><br/></li>
 
 <li><a href="https://cheatsheets.shecodes.io/html">Cheat Sheet HTML</a><br/></li>
 
