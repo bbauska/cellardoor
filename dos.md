@@ -55,6 +55,14 @@ ex: $ nslookup -type=txt bauska.org
 nslookup -type=any [domain-name]<br>
 ex: $ nslookup type=any bauska.org
 
+<h4>View Information About a Specific Name Server</h4>
+nslookup [domain-name] [name-server]<br>
+ex: $ nslookup bauska.org  alan.ns.cloudflare.com
+
+<h4>View Debugging Information</h4>
+nslookup -debug [domain-name]<br>
+ex: $ nslookup -debug bauska.org
+
 <hr>
 
 cURL is a command-line tool to get or send data using URL syntax.
