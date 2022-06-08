@@ -61,13 +61,14 @@
 </h1>
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<h1 id="now">What I'm doing now: 06.06.2022 Monday</h1>
+<h1 id="now">What I'm doing now: 06.08.2022 Wednesday</h1>
 <!------------------------------------------------------------------------------------------------>
 <h2 id="webdev">Web Development</h2>
 <h3>w3cx-3of5.bauska.org</h3>
 
 <h2>Done 100% synthetic - Change oil in 2010 Ford Fusion</h2>
-<h2>Check Fluid level - brakes, water, automatic transmission</h2>
+<h2>Done Check Fluid level - brakes, water, automatic transmission</h2>
+<h2>Front Contrl Arm Bushings</h2>
 <br/>
 <h3>Front-end outer tierod ends</h3>
 
@@ -105,7 +106,7 @@
 
 <h2><b><i>1st</i></b> Outer Tie Rods (Remove & Replace)</h2>
 <ul>
-  <li><h3><a href="https://www.youtube.com/watch?v=usfbSLE_1aI&t=726s" target="_blank">Control Arms, Bushings, Ball Joints, Tie Rods, & End Links</a></h3></li>
+  <li><h3><a href="https://www.youtube.com/watch?v=usfbSLE_1aI&t=726s" target="_blank">FCP Euro Control Arms, Bushings, Ball Joints, Tie Rods, & End Links</a></h3></li>
   <li><h3><a href="https://www.youtube.com/watch?v=faKhwzbO6H4" target="_blank">A1auto directions</a></h3></li>
   <li><h3><a href="https://www.youtube.com/watch?v=75Qt_O5x2M0" target="_blank">50's Kid Tie Rod R & R</a></h3></li>
 </ul>
@@ -114,8 +115,7 @@
 <ul>
     <li><h3><a href="https://www.youtube.com/watch?v=e5xaIwkA_oE" target="_blank">Shoplife R & R</a></h3></li>
     <li><h3><a href="https://www.youtube.com/watch?v=5olCf8zpad4" target="_blank">a1auto Lower Control Arm Remove & Replace</a></h3></li>
-    <li><h3><a href="https://www.youtube.com/watch?v=aR4UPFbjgnI" target="_blank">50's Guy Lower Control Arm R & R</a></h3></li>
-    <li><h3><a href="https://www.youtube.com/watch?v=iQhQu1ZrTno" target="_blank">How to remove & replace Control Arm Bushings</a></h3></li>
+    <li><h3><a href="https://www.youtube.com/watch?v=aR4UPFbjgnI" target="_blank">50's Kid Lower Control Arm R & R</a></h3></li>
 </ul>
 <hr />
 
