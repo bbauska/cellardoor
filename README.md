@@ -68,7 +68,7 @@
 
 <h2>Done 100% synthetic - Change oil in 2010 Ford Fusion</h2>
 <h2>Done Check Fluid level - brakes, water, automatic transmission</h2>
-<h2>Front Contrl Arm Bushings</h2>
+<h2>Front Control Arm Bushings</h2>
 <br/>
 <h3>Front-end outer tierod ends</h3>
 
@@ -111,7 +111,7 @@
   <li><h3><a href="https://www.youtube.com/watch?v=75Qt_O5x2M0" target="_blank">50's Kid Tie Rod R & R</a></h3></li>
 </ul>
 <hr />
-<h2>Lower Control Arms R & R</h2>
+<h2>Front Lower Control Arm Bushings R & R</h2>
 <ul>
     <li><h3><a href="https://www.youtube.com/watch?v=e5xaIwkA_oE" target="_blank">Shoplife R & R</a></h3></li>
     <li><h3><a href="https://www.youtube.com/watch?v=5olCf8zpad4" target="_blank">a1auto Lower Control Arm Remove & Replace</a></h3></li>
