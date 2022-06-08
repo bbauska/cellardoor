@@ -144,49 +144,54 @@
 
 <hr/>
 <!------------------------------------------------------------------------------------------------>
+<!------------------------------ front-end web development courses ------------------------------->
+<!------------------------------------------------------------------------------------------------>
 <h1 align="center">Front-End Web Development Courses</h1>
 <!------------------------------------------------------------------------------------------------>
 <br/>
 <h2>Web Development from W3C</h2>
 
 <!------------------------------------------------------------------------------------------------>
+<h3>1. <a href="https://github.com/bbauska/W3Cx-1of5-CSS.0x" target="_blank">markdown github W3Cx-1of5-CSS.0x</a></h3>
+
 <a href="https://w3cx-1of5-css.0x.bauska.org/" target="_blank">W3Cx-1of5-CSS.0x</a>
 
 <a href="https://bbauska.github.io/w3cx-1of5-css.0x/" target="_blank">github.io W3Cx-1of5-CSS.0X</a>
 
-<h3>1. <a href="https://github.com/bbauska/W3Cx-1of5-CSS.0x" target="_blank">markdown github W3Cx-1of5-CSS.0x</a></h3>
 <!------------------------------------------------------------------------------------------------>
+<h3>2. <a href="https://github.com/bbauska/W3Cx-2of5-HTML5.0x" target="_blank">markdown github W3Xx-2of5-HTML5.0x</a></h3>
+
 <a href="https://w3cx-2of5-html5.0x.bauska.org/">W3Cx-2of5-HTML5.0x</a>
 
 <a href="https://bbauska.github.io/w3cx-2of5-html5.0x/">github.io W3Cx-2of5-HTML5.0X</a>
 
-<h3>2. <a href="https://github.com/bbauska/W3Cx-2of5-HTML5.0x" target="_blank">markdown github W3Xx-2of5-HTML5.0x</a></h3>
-
 <!------------------------------------------------------------------------------------------------>
+<h3>3. <a href="https://github.com/bbauska/W3Cx-3of5-HTML5.1x" target="_blank">markdown github w3cx-30f5-HTML5.1x</a></h3>
+
 <a href="https://w3cx-3of5-html5.1x.bauska.org/">W3Cx-3of5-HTML5.1x</a>
 
 <a href="https://bbauska.github.io/w3cx-3of5-html5.1x/">github.io W3Cx-3of5-HTML5.1X</a>
 
-<h3>3. <a href="https://github.com/bbauska/W3Cx-3of5-HTML5.1x" target="_blank">markdown github w3cx-30f5-HTML5.1x</a></h3>
-
 <!------------------------------------------------------------------------------------------------>
+<h3>4. <a href="https://github.com/bbauska/W3Cx-4of5-HTML5.2x" target="_blank">markdown github w3cx-4of5-HTML5.2x</a></h3>
+
 <a href="https://w3cx-4of5-html5.2x.bauska.org/">W3Cx-4of5-HTML5.2x</a>
 
 <a href="https://bbauska.github.io/w3cx-4of5-html5.2x/">github.io W3Cx-4of5-HTML5.2X</a>
 
-<h3>4. <a href="https://github.com/bbauska/W3Cx-4of5-HTML5.2x" target="_blank">markdown github w3cx-4of5-HTML5.2x</a></h3>
-
 <!------------------------------------------------------------------------------------------------>
+<h3>5. <a href="https://github.com/bbauska/W3Cx-5of5-JS.0x" target="_blank">markdown github w3cx-50f5-JS.0x</a></h3>
+
 <a href="https://w3cx-5of5-js.0x.bauska.org/">W3Cx-5of5-JS.0x</a>
 
 <a href="https://bbauska.github.io/w3cx-5of5-js.0x/">github.io W3Cx-5of5-JS.0X</a>
 
-<h3>5. <a href="https://github.com/bbauska/W3Cx-5of5-JS.0x" target="_blank">markdown github w3cx-50f5-JS.0x</a></h3>
-
 <hr />
-<!---------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<!---------------------------- javascript frameworks and libraries ------------------------------->
+<!------------------------------------------------------------------------------------------------>
 <h2 align="center">JavaScript Frameworks and Libraries</h2>
-<!---------------------------------------------------------------------------------------------------->
+
 <h3 id="libraries">Medium.com Libraries to Learn in 2020</h3>
 
 <a href="https://medium.com/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4">Top 10 Frameworks</a>
@@ -207,6 +212,9 @@
 <li> <a href="https://nodejs.org/en/"> <li>Node.js</li></a>
 </ol>
 
+<!------------------------------------------------------------------------------------------------>
+<!--------------------------------- web development frameworks ----------------------------------->
+<!------------------------------------------------------------------------------------------------>
 <h2>Web Development Frameworks</h2>
 <a href="https://hackr.io/blog/web-development-frameworks">hackr.io</a>
 
@@ -215,7 +223,7 @@
 
 <h3><a href="https://github.com/django/django">Django Github Link</a></h3>
 <hr/>
-<!---------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------>
 <p>
 <a href="https://www.java67.com/2018/02/5-free-react-courses-for-web-developers.html">OLD Free <b>React</b> Course</a>
 
@@ -246,7 +254,7 @@
 
 <h3><a href="https://tailwindcss.com/#gh-light-mode-only">CSS Tailwind Light</a></h3>
 
--------------------------------------------------------------------------------------->
+-------------------------------------------------------------------------------------------------->
 
 <h3><div align="left">
    <a href="https://github.com/tailwindlabs/tailwindcss">CSS TailwindCSS GitHub</a>
@@ -265,6 +273,9 @@ When learning CS, there are some useful sites you must know to get always inform
 <li> <a href="https://github.com/vercel/next.js">Next JS</a></li>
 </ul>
 
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------------- index (internal) ----------------------------------------->
+<!------------------------------------------------------------------------------------------------>
 <h2>Index</h2>
 
 <ul>
@@ -307,7 +318,10 @@ When learning CS, there are some useful sites you must know to get always inform
 <h2>W3 How To CSS/HTML/JavaScript <a href="https://www.w3docs.com/snippets/html/how-to-redirect-a-web-page-in-html.html"> click here</a></h2>
 
 <h2>Please follow <a href="https://www.w3docs.com">this link</a>.</h1>
-    
+
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------------- when you get stuck --------------------------------------->
+<!------------------------------------------------------------------------------------------------>
 <h2>When you get stuck</h2>
 
 - [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
@@ -321,6 +335,9 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------------------------- news ---------------------------------------------->
+<!------------------------------------------------------------------------------------------------>
 <h2>News</h2>
 
 - [ACM TechNews](http://technews.acm.org) : TechNews
@@ -355,6 +372,9 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------------------------- magazines -------------------------------------------->
+<!------------------------------------------------------------------------------------------------>
 <h2>Magazines</h2>
 
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
@@ -519,6 +539,9 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------------------- interview preparation -------------------------------------->
+<!------------------------------------------------------------------------------------------------>
 <h2>Interview Preparation</h2>
 
 - [10 Frequently asked SQL Query Interview Questions](http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
@@ -586,6 +609,9 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+<!------------------------------------------------------------------------------------------------>
+<!--------------------------------------- documentaries ------------------------------------------>
+<!------------------------------------------------------------------------------------------------>
 <h2>Documentaries</h2>
 
 - [Breaking the Code](https://ia801908.us.archive.org/27/items/youtube-S23yie-779k/) : Biography of Alan Turing
@@ -608,7 +634,11 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------------------------- mooc ---------------------------------------------->
+<!------------------------------------------------------------------------------------------------>
 <h2 id="mooc">MOOCs for learning something new</h2>
+
 - [Class Central](https://www.class-central.com) : a directory of 100,000+ student reviews of thousands of MOOCs.
 - [Classpert](https://classpert.com) : a website that gathers MOOCs and online courses from several providers, focusing on computer science and data science courses.
 - [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) : list of MOOCs for autodidacts
@@ -625,6 +655,9 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+<!------------------------------------------------------------------------------------------------>
+<!------------------------- sites for preferred programming language ----------------------------->
+<!------------------------------------------------------------------------------------------------>
 <</h2>h2>Sites related to your preferred programming language (For me C++)</h2>
 
 - [Best books for learning java must read](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html) : Get basics of Java
@@ -662,6 +695,9 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------------------------- learn ai --------------------------------------------->
+<!------------------------------------------------------------------------------------------------>
 <h2>Learn AI</h2>
 
 - [aima](http://aima.cs.berkeley.edu) : The leading textbook in Artificial Intelligence (4th most cited publication of the century). Includes Github repositories and more AI resources!
@@ -683,6 +719,9 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+<!------------------------------------------------------------------------------------------------>
+<!---------------------------- seminar, research writings and talks ------------------------------>
+<!------------------------------------------------------------------------------------------------>
 <h2>Seminar, research writing, talks, etc</h2>
 <ul>
 <li><a href="http://www.cs.cmu.edu/~mleone/how-to.html">Advice on Research and Writing : A collection of advice about how to do research and how to communicate effectively (primarily for computer scientists).</a><br/></li>
@@ -697,6 +736,9 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+<!------------------------------------------------------------------------------------------------>
+<!---------------------------------- everything in one plase ------------------------------------->
+<!------------------------------------------------------------------------------------------------>
 <h2>Everything in one place</h2>
 
 - [API Documentation](http://devdocs.io) : A one-place well-known API Documentation with a searchable interface
@@ -721,6 +763,9 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------------- youtube channels ----------------------------------------->
+<!------------------------------------------------------------------------------------------------>
 <h2>YouTube Channels</h2>
 
 - [C++Now (BoostCon)](https://www.youtube.com/channel/UC5e__RG9K3cHrPotPABnrwg) : C++Now (previously BoostCon) conference
@@ -775,6 +820,9 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+<!------------------------------------------------------------------------------------------------>
+<!--------------------------------------- good articles ------------------------------------------>
+<!------------------------------------------------------------------------------------------------>
 <h2>Good Articles</h2>
 
 - [14 Things I Wish I’d Known When Starting with MongoDB](https://www.infoq.com/articles/Starting-With-MongoDB/)
@@ -808,6 +856,9 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------------------------- podcasts --------------------------------------------->
+<!------------------------------------------------------------------------------------------------>
 <h2>Podcasts</h2>
 
 - [Coding Blocks](http://www.codingblocks.net) : A podcast covering topics such as best programming practices, design patterns, coding for performance, object-oriented coding, database design and implementation, tips, tricks and a whole lot of other things.
@@ -838,6 +889,9 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+<!------------------------------------------------------------------------------------------------>
+<!--------------------------------- building a simple compiler ----------------------------------->
+<!------------------------------------------------------------------------------------------------>
 <h2>Building a Simple Compiler/Interpreter</h2>
 
 - [:snowman: Possibly the smallest compiler ever](https://github.com/thejameskyle/the-super-tiny-compiler) : This is an ultra-simplified example of all the major pieces of a modern compiler written in easy to read JavaScript.
