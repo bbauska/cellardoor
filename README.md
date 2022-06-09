@@ -1,7 +1,7 @@
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------------- readme.md of cellardoor ------------------------------------>
 
-<a href=https://learning.edx.org/course/course-v1:W3Cx+HTML5.0x+1T2022/block-v1:W3Cx+HTML5.0x+1T2022+type@sequential+block@0045398377b14c60b9a3820ead6441d6/block-v1:W3Cx+HTML5.0x+1T2022+type@vertical+block@a40220f07c494fb88d47047b8c6d20bc,target=”_blank”>Go Here</a>
+<a href="https://learning.edx.org/course/course-v1:W3Cx+HTML5.0x+1T2022/block-v1:W3Cx+HTML5.0x+1T2022+type@sequential+block@0045398377b14c60b9a3820ead6441d6/block-v1:W3Cx+HTML5.0x+1T2022+type@vertical+block@a40220f07c494fb88d47047b8c6d20bc", target=”_blank”>Go Here, just 'cuz</a>
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------------- web development on git ------------------------------------->
@@ -197,13 +197,15 @@
 
 <h3 id="libraries">Medium.com Libraries to Learn in 2020</h3>
 
-<h2><a href="https://medium.com/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4">Top 10 Frameworks</a></h2>
+<h2><a href="https://medium.com/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4">Top 12+ Frameworks</a></h2>
 
 <a href="https://www.interviewbit.com/blog/web-development-frameworks/">More Frameworks, here</a>
 <ol>
 <li> <a href="https://reactjs.org/">REACT.js</a></li>
-<li> <a href="https://reactjs.org/docs/getting-started.html">Getting Started with React</a><//li>
-<li> <a href="https://github.com/tbakerx/react-resume-template">React Resume Template on Github</a></li>
+    <ul>
+    <li> <a href="https://reactjs.org/docs/getting-started.html">Getting Started with React</a><//li>
+    <li> <a href="https://github.com/tbakerx/react-resume-template">React Resume Template on Github</a></li>
+    </ul>
 <li> <a href="https://vuejs.org/">Vue.js</a></li>
 <li> <a href="https://angular.io/">Angular</a></li>
 <li> <a href="https://svelte.dev/">Svelte.js</a></li>
