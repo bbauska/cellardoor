@@ -1,4 +1,6 @@
 <h2>Windows DOS Command Language Interpreter (CLI)</h2>
+<br/>
+<h3>doskey /history</h3><br/>
 <p>
 Reverse Lookup IP address to domain name
 Type nslookup IP address<br>
@@ -62,6 +64,21 @@ ex: $ nslookup bauska.org  alan.ns.cloudflare.com
 <h4>View Debugging Information</h4>
 nslookup -debug [domain-name]<br>
 ex: $ nslookup -debug bauska.org
+
+<hr>
+
+<h3>netsh</h3>
+<p>C:\Windows\system32>doskey /history</p>
+
+<h4>netsh</h4>
+<p>
+$ netsh wmic nic where ntEnabled=true
+<h4>netsh wlan show interfaces</h4>
+<h4>
+netsh wlan show capabilities<br/>
+netsh wlan show wirelesscapabilities<br/>
+netsh wlan show profiles<br/>
+netsh wlan show profile name="MySpectrumWiFie1-5G" key=clear<br/>
 
 <hr>
 
