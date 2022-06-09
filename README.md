@@ -197,22 +197,24 @@
 
 <h3 id="libraries">Medium.com Libraries to Learn in 2020</h3>
 
-<a href="https://medium.com/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4">Top 10 Frameworks</a>
+<h2><a href="https://medium.com/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4">Top 10 Frameworks</a></h2>
 
 <a href="https://www.interviewbit.com/blog/web-development-frameworks/">More Frameworks, here</a>
 <ol>
-<li> <a href="https://reactjs.org/"> <li>REACT.js</li></a>
-<li> <a href="https://vuejs.org/"> <li>Vue.js</li></a>
-<li> <a href="https://angular.io/"> <li>Angular</li></a>
-<li> <a href="https://svelte.dev/"> <li>Svelte.js</li></a>
-<li> <a href="https://emberjs.com/"> <li>Ember.js</li></a>
-<li> <a href="https://materializecss.com/"> <li>Materialize</li></a>    
-<li> <a href="https://www.meteor.com/"> <li> Meteror JS</li></a>  
-<li> <a href="https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview"> <li>Polymer</li></a>
-<li> <a href="https://docs.sencha.com/extjs/6.5.0/guides/getting_started/getting_started.html"> <li>Ext.JS</li></a>
-<li> <a href="https://aurelia.io/"> <li>Auralia</li></a>
-<li> <a href="http://backbonejs.org/"> <li>Backbone.js</li><?a>
-<li> <a href="https://nodejs.org/en/"> <li>Node.js</li></a>
+<li> <a href="https://reactjs.org/">REACT.js</a></li>
+<li> <a href="https://reactjs.org/docs/getting-started.html">Getting Started with React</a><//li>
+<li> <a href="https://github.com/tbakerx/react-resume-template">React Resume Template on Github</a></li>
+<li> <a href="https://vuejs.org/">Vue.js</a></li>
+<li> <a href="https://angular.io/">Angular</a></li>
+<li> <a href="https://svelte.dev/">Svelte.js</a></li>
+<li> <a href="https://emberjs.com/">Ember.js</a></li>
+<li> <a href="https://materializecss.com/">Materialize</a></li>
+<li> <a href="https://www.meteor.com/">Meteror JS</a></li>
+<li> <a href="https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview">Polymer</a></li>
+<li> <a href="https://docs.sencha.com/extjs/6.5.0/guides/getting_started/getting_started.html">Ext.JS</a></li>
+<li> <a href="https://aurelia.io/">Auralia</a></li>
+<li> <a href="http://backbonejs.org/">Backbone.js</a></li>
+<li> <a href="https://nodejs.org/en/">Node.js</a></li>
 </ol>
 
 <!------------------------------------------------------------------------------------------------>
