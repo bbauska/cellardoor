@@ -1,7 +1,8 @@
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------------- readme.md of cellardoor ------------------------------------>
-
+<h1>
 <a href="https://learning.edx.org/course/course-v1:W3Cx+HTML5.0x+1T2022/block-v1:W3Cx+HTML5.0x+1T2022+type@sequential+block@0045398377b14c60b9a3820ead6441d6/block-v1:W3Cx+HTML5.0x+1T2022+type@vertical+block@a40220f07c494fb88d47047b8c6d20bc", target=”_blank”>Go Here, just 'cuz</a>
+</h1>
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------------- web development on git ------------------------------------->
@@ -197,26 +198,26 @@
 
 <h3 id="libraries">Medium.com Libraries to Learn in 2020</h3>
 
-<h2><a href="https://medium.com/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4">Top 12+ Frameworks</a></h2>
+<h2><a href="https://medium.com/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4">Top 12 Frameworks</a></h2>
 
 <a href="https://www.interviewbit.com/blog/web-development-frameworks/">More Frameworks, here</a>
 <ol>
-<li> <a href="https://reactjs.org/">REACT.js</a></li>
+<li> <a href="https://reactjs.org/" target="_blank">REACT.js</a></li>
     <ul>
-    <li> <a href="https://reactjs.org/docs/getting-started.html">Getting Started with React</a><//li>
-    <li> <a href="https://github.com/tbakerx/react-resume-template">React Resume Template on Github</a></li>
+    <li> <a href="https://reactjs.org/docs/getting-started.html" target="_blank">Getting Started with React</a><//li>
+    <li> <a href="https://github.com/tbakerx/react-resume-template" target="_blank">React Resume Template on Github</a></li>
     </ul>
-<li> <a href="https://vuejs.org/">Vue.js</a></li>
-<li> <a href="https://angular.io/">Angular</a></li>
-<li> <a href="https://svelte.dev/">Svelte.js</a></li>
-<li> <a href="https://emberjs.com/">Ember.js</a></li>
-<li> <a href="https://materializecss.com/">Materialize</a></li>
-<li> <a href="https://www.meteor.com/">Meteror JS</a></li>
-<li> <a href="https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview">Polymer</a></li>
-<li> <a href="https://docs.sencha.com/extjs/6.5.0/guides/getting_started/getting_started.html">Ext.JS</a></li>
-<li> <a href="https://aurelia.io/">Auralia</a></li>
-<li> <a href="http://backbonejs.org/">Backbone.js</a></li>
-<li> <a href="https://nodejs.org/en/">Node.js</a></li>
+<li> <a href="https://vuejs.org/" target="_blank">Vue.js</a></li>
+<li> <a href="https://angular.io/" target="_blank">Angular</a></li>
+<li> <a href="https://svelte.dev/" target="_blank">Svelte.js</a></li>
+<li> <a href="https://emberjs.com/" target="_blank">Ember.js</a></li>
+<li> <a href="https://materializecss.com/" target="_blank">Materialize</a></li>
+<li> <a href="https://www.meteor.com/" target="_blank">Meteror JS</a></li>
+<li> <a href="https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview" target="_blank">Polymer</a></li>
+<li> <a href="https://docs.sencha.com/extjs/6.5.0/guides/getting_started/getting_started.html" target="_blank">Ext.JS</a></li>
+<li> <a href="https://aurelia.io/" target="_blank">Auralia</a></li>
+<li> <a href="http://backbonejs.org/" target="_blank">Backbone.js</a></li>
+<li> <a href="https://nodejs.org/en/" target="_blank">Node.js</a></li>
 </ol>
 
 <!------------------------------------------------------------------------------------------------>
@@ -1310,4 +1311,4 @@ When learning CS, there are some useful sites you must know to get always inform
 
 <br/>
 <!-------------------------------------------- the end ------------------------------------------->
-<h4>Last update: 06-02-2022 11:23am</h4>
+<h4>Last update: 06-09-2022 12:32pm</h4>
