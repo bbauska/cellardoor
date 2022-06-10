@@ -66,7 +66,7 @@
 </h1>
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<h1 id="now">What I'm doing now: 06.08.2022 Wednesday</h1>
+<h1 id="now">What I'm doing now: 06.10.2022 Friday - .gitignore & fix cs198.2x </h1>
 <!------------------------------------------------------------------------------------------------>
 <h2 id="webdev">Web Development</h2>
 <h3>w3cx-3of5.bauska.org</h3>
@@ -1312,4 +1312,4 @@ When learning CS, there are some useful sites you must know to get always inform
 
 <br/>
 <!-------------------------------------------- the end ------------------------------------------->
-<h4>Last update: 06-09-2022 12:32pm</h4>
+<h4>Last update: 06-10-2022 10:12am</h4>
