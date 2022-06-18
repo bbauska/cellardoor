@@ -21,9 +21,9 @@
 
 <h3><a href="https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS173x+3T2021/block-v1:LinuxFoundationX+LFS173x+3T2021+type@sequential+block@1c3e17cb22c64f70b73abae00c80f0a3/block-v1:LinuxFoundationX+LFS173x+3T2021+type@vertical+block@eb20f7d37eeb4b7f8a477a9c916e4e0f](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS173x+3T2021/block-v1:LinuxFoundationX+LFS173x+3T2021+type@sequential+block@1c3e17cb22c64f70b73abae00c80f0a3/block-v1:LinuxFoundationX+LFS173x+3T2021+type@vertical+block@eb20f7d37eeb4b7f8a477a9c916e4e0f)">Linux Foundation's LFS173x on EDx</a></h3>
 
-<p align="center" width="100%">
+<div align="center">
 <hr width="50%" color="green" size="3px" />
-</p>
+</div>
 
 <!------------------------------------------------------------------------------------------------>
 <h2 align="center">cellardoor</h2>
