@@ -69,9 +69,10 @@
 </h1>
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<h1 id="now">What I'm doing now: 06.10.2022 Friday - .gitignore & fix cs198.2x </h1>
+<h1 id="now">What I'm doing now: 06.18.2022 Saturday - .gitignore & fix cs198.2x </h1>
 <!------------------------------------------------------------------------------------------------>
 <h2 id="webdev">Web Development</h2>
+<a hfef="https://github.com/freeCodeCamp/freeCodeCamp">Free Code Camp awesomeness</a>
 <h3>w3cx-3of5.bauska.org</h3>
 
 <h2>Done 100% synthetic - Change oil in 2010 Ford Fusion</h2>
