@@ -9,7 +9,7 @@
 <!----------------------------------- web development on git ------------------------------------->
 <h1 align="center">
     <a href="https://cellardoor.bauska.org" target="_blank">Front-End Web UI Frameworks and Tools: Bootstrap 4</a></h1>
-<h5 align="center">(courser.org)</h5>
+<h5 align="center">(coursera.org)</h5>
 
 <h2 align="center">
 <a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">Free Code Camp</a></h2>
