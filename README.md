@@ -20,7 +20,7 @@
 <h3><a href="https://dash.cloudflare.com/dns" target="_blank";>Cloudflare login</a></h3>
 
 <h3><a href="https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS173x+3T2021/block-v1:LinuxFoundationX+LFS173x+3T2021+type@sequential+block@1c3e17cb22c64f70b73abae00c80f0a3/block-v1:LinuxFoundationX+LFS173x+3T2021+type@vertical+block@eb20f7d37eeb4b7f8a477a9c916e4e0f](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS173x+3T2021/block-v1:LinuxFoundationX+LFS173x+3T2021+type@sequential+block@1c3e17cb22c64f70b73abae00c80f0a3/block-v1:LinuxFoundationX+LFS173x+3T2021+type@vertical+block@eb20f7d37eeb4b7f8a477a9c916e4e0f)">Linux Foundation's LFS173x on EDx</a></h3>
-<p align="center">
+<p align="center"
 <hr align="left" width="75%" color="darkblue" size="5px" />
 </p>
 <!------------------------------------------------------------------------------------------------>
