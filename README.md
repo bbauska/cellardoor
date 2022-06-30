@@ -76,7 +76,7 @@
 </h1>
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<h1 id="now">What I'm doing now: 06.18.2022 Saturday - .gitignore & fix cs198.2x </h1>
+<h1 id="now">What I'm doing now: 06.29.2022 Wednesday - .gitignore & fix cs198.2x </h1>
 <!------------------------------------------------------------------------------------------------>
 <h2 id="webdev">Web Development</h2>
 <a href="https://github.com/freeCodeCamp/freeCodeCamp">Free Code Camp awesomeness</a>
@@ -84,6 +84,7 @@
 
 <h2>Done 100% synthetic - Change oil in 2010 Ford Fusion</h2>
 <h2>Done Check Fluid level - brakes, water, automatic transmission</h2>
+<h2>Slipping Transmission at low gear</h2>
 
 <br/>
 
@@ -185,7 +186,7 @@
 <a href="https://bbauska.github.io/w3cx-2of5-html5.0x/">github.io W3Cx-2of5-HTML5.0X</a>
 
 <!------------------------------------------------------------------------------------------------>
-<h3>3. <a href="https://github.com/bbauska/W3Cx-3of5-HTML5.1x" target="_blank">markdown github w3cx-30f5-HTML5.1x</a></h3>
+<h3>3. <a href="https://github.com/bbauska/W3Cx-3of5-HTML5.1x" target="_blank">markdown github w3cx-3of5-HTML5.1x</a></h3>
 
 <a href="https://w3cx-3of5.bauska.org/">W3Cx-3of5-HTML5.1x</a>
 
@@ -199,7 +200,7 @@
 <a href="https://bbauska.github.io/w3cx-4of5-html5.2x/">github.io W3Cx-4of5-HTML5.2X</a>
 
 <!------------------------------------------------------------------------------------------------>
-<h3>5. <a href="https://github.com/bbauska/W3Cx-5of5-JS.0x" target="_blank">markdown github w3cx-50f5-JS.0x</a></h3>
+<h3>5. <a href="https://github.com/bbauska/W3Cx-5of5-JS.0x" target="_blank">markdown github w3cx-5of5-JS.0x</a></h3>
 
 <a href="https://w3cx-5of5.bauska.org/">W3Cx-5of5-JS.0x</a>
 
