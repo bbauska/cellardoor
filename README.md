@@ -14,6 +14,9 @@
 <h2 align="center">
 <a href="https://www.freecodecamp.org/news/learn-typescript-beginners-guide/" target="_blank">Teach Me TypeScript</a></h2>
 
+<h2 align="center">
+<a href="https://github.com/akashyap2013/Complete_HTML_CSS_Blog_Website" target="_blank">blog for inthroughtheoutdoor</a></h2>
+https://github.com/akashyap2013/Complete_HTML_CSS_Blog_Website
 
 <h2 align="center">
 <a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">Free Code Camp</a></h2>
