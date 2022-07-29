@@ -80,23 +80,15 @@ https://github.com/akashyap2013/Complete_HTML_CSS_Blog_Website
 </h1>
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<h1 id="now">What I'm doing now: 06.29.2022 Wednesday - .gitignore & fix cs198.2x </h1>
+<h1 id="now">What I'm doing now: 06.29.2022 Wednesday - .gitignore & fix cs198.2x </h1>226
 <!------------------------------------------------------------------------------------------------>
 <h2 id="webdev">Web Development</h2>
 <a href="https://github.com/freeCodeCamp/freeCodeCamp">Free Code Camp awesomeness</a>
 <h3>w3cx-3of5.bauska.org</h3>
-
-<h2>Done 100% synthetic - Change oil in 2010 Ford Fusion</h2>
-<h2>Done Check Fluid level - brakes, water, automatic transmission</h2>
-<h2>Slipping Transmission at low gear</h2>
-
-<br/>
-
+<hr />
 <h2>2004 bmw 325i E46 m54</h2>
 <h3>Front Control Arm Bushings</h3>
 <h3>Front-End Outer Tierod Ends</h3>
-
-<h3>Rear Windows 2010 Ford Fusion</h3>
 
 <h3>jQuery</h3>
 <hr/>
@@ -142,7 +134,7 @@ https://github.com/akashyap2013/Complete_HTML_CSS_Blog_Website
     <li><h3><a href="https://www.youtube.com/watch?v=aR4UPFbjgnI" target="_blank">50's Kid Lower Control Arm R & R</a></h3></li>
 </ul>
 <hr />
-
+<!----
 <h3>Tools Required to Self-Align</h3>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------- tools for front-end alignment --------------------------------->
@@ -152,11 +144,17 @@ https://github.com/akashyap2013/Complete_HTML_CSS_Blog_Website
    alt="Tools needed for front-end alignment"
    width="30%" />
 </p>
-
+---->
 <hr />
 <!------------------------------------------------------------------------------------------------>
-<h3>Ford Fusion</h3>
-<h4><b>Change oil</b></h4>
+<h2>Ford Fusion</h3>
+<h3>Done 100% synthetic - Change oil in 2010 Ford Fusion</h3>
+<h3>Done Check Fluid level - brakes, water, automatic transmission</h3>
+<h3>Slipping Transmission at low gear - replace filter, flush, refill tranny</h3>
+<h3>Front Tires: 226/50/r17 </h3>
+<h3>Driver's electric windows lift mechanism</h3>
+<h3>Rear Windows 2010 Ford Fusion</h3>
+<br/>
 
 <hr />
 
