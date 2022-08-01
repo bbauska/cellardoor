@@ -80,7 +80,10 @@ https://github.com/akashyap2013/Complete_HTML_CSS_Blog_Website
 </h1>
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<h1 id="now">What I'm doing now: 06.29.2022 Wednesday - .gitignore & fix cs198.2x </h1>226
+<h1 id="now">What I'm doing now: 08.01.2022 Monday - .gitignore & fix cs198.2x </h1>
+<br/>
+<h2> - make appointment for tow truck Wednesday </h2>
+<h2> - parts for ford - back window, regulator, change tranny oil </h2>
 <!------------------------------------------------------------------------------------------------>
 <h2 id="webdev">Web Development</h2>
 <a href="https://github.com/freeCodeCamp/freeCodeCamp">Free Code Camp awesomeness</a>
