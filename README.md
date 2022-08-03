@@ -1333,3 +1333,84 @@ When learning CS, there are some useful sites you must know to get always inform
 <br/>
 <!-------------------------------------------- the end ------------------------------------------->
 <h4>Last update: 06-28-2022 8:56pm</h4>
+<h1>WIP</h1>
+
+<h3>Here are our ten core certifications:</h3>
+<a href="https://github.com/freeCodeCamp/freeCodeCamp#the-learning-platform">freecodecamp courses online.</a>
+
+<h4>1. Responsive Web Design Courses:</h4>
+<ol type="1">
+<li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app">Learn HTML by Building a Cat Photo App</a></li>
+<li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu">Learn Basic CSS by Building a Cafe Menu</a></li>
+<li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-colors-by-building-a-set-of-colored-markers">Learn CSS Colors by Building a Set of Colored Markers</a></li>
+<li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-forms-by-building-a-registration-form">Learn HTML Forms by Building a Registration Form</a></li>
+<li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-the-css-box-model-by-building-a-rothko-painting">Learn the CSS Box Model by Building a Rothko Painting</a></li>
+<li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-flexbox-by-building-a-photo-gallery">Learn CSS Flexbox by Building a Photo Gallery</a></li>
+<li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-typography-by-building-a-nutrition-label">Learn Typography by Building a Nutrition Label</a></li>
+<li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-accessibility-by-building-a-quiz">Learn Accessibility by Building a Quiz</a></li>
+<li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet">Learn More About CSS Pseudo Selectors By Building A Balance Sheet</a></li>
+<li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-intermediate-css-by-building-a-picasso-painting">Learn Intermediate CSS by Building a Picasso Painting</a></li>
+<li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-responsive-web-design-by-building-a-piano">Learn Responsive Web Design by Building a Piano</a></li>
+<li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-variables-by-building-a-city-skyline">Learn CSS Variables by Building a City Skyline</a></li>
+<li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-grid-by-building-a-magazine">Learn CSS Grid by Building a Magazine</a></li>
+<li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-transforms-by-building-a-penguin">Learn CSS Transforms by Building a Penguin</a></li>
+<li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-animation-by-building-a-ferris-wheel">Learn CSS Animations by Building a Ferris Wheel</a></li>
+</ol>
+
+Projects: Survey Form, Tribute Page, Technical Documentation Page, Product Landing Page, Personal Portfolio Webpage
+
+2. JavaScript Algorithms and Data Structures Certification
+Basic JavaScript
+ES6
+Regular Expressions
+Debugging
+Basic Data Structures
+Basic Algorithm Scripting
+Object-Oriented Programming
+Functional Programming
+Intermediate Algorithm Scripting
+
+Projects: Palindrome Checker, Roman Numeral Converter, Caesar's Cipher, Telephone Number Validator, Cash Register
+3. Front End Libraries Certification
+Bootstrap
+jQuery
+Sass
+React
+Redux
+React and Redux
+
+Projects: Random Quote Machine, Markdown Previewer, Drum Machine, JavaScript Calculator, 25 + 5 Clock
+4. Data Visualization Certification
+Data Visualization with D3
+JSON APIs and Ajax
+
+Projects: Bar Chart, Scatterplot Graph, Heat Map, Choropleth Map, Treemap Diagram
+5. APIs and Microservices Certification
+Managing Packages with Npm
+Basic Node and Express
+MongoDB and Mongoose
+
+Projects: Timestamp Microservice, Request Header Parser, URL Shortener, Exercise Tracker, File Metadata Microservice
+6. Quality Assurance Certification
+Quality Assurance and Testing with Chai
+Advanced Node and Express
+
+Projects: Metric-Imperial Converter, Issue Tracker, Personal Library, Sudoku Solver, American British Translator
+7. Scientific Computing with Python Certification
+Introduction to Python for Everybody
+
+Projects: Arithmetic Formatter, Time Calculator, Budget App, Polygon Area Calculator, Probability Calculator
+8. Data Analysis with Python Certification
+Data Analysis with Python Course
+NumPy
+
+Projects: Mean-Variance-Standard Deviation Calculator, Demographic Data Analyzer, Medical Data Visualizer, Page View Time Series Visualizer, Sea Level Predictor
+9. Information Security Certification
+Information Security with HelmetJS
+Python for Penetration Testing
+
+Projects: Stock Price Checker, Anonymous Message Board, Port Scanner, SHA-1 Password Cracker, Secure Real Time Multiplayer Game
+10. Machine Learning with Python Certification
+TensorFlow
+How Neural Networks Work
+
