@@ -5,6 +5,9 @@
 <a href="https://learning.edx.org/course/course-v1:W3Cx+HTML5.0x+1T2022/block-v1:W3Cx+HTML5.0x+1T2022+type@sequential+block@0045398377b14c60b9a3820ead6441d6/block-v1:W3Cx+HTML5.0x+1T2022+type@vertical+block@a40220f07c494fb88d47047b8c6d20bc", target=”_blank”>Go Here, just 'cuz</a>
 </h1>
 --->
+<h1>react and redux</h1>
+
+<h2>finish W3cx3of5</h2>
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------------- web development on git ------------------------------------->
