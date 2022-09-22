@@ -10,7 +10,7 @@
 <h2><a href="https://www.coursera.org/learn/front-end-react/lecture/zHA5u/welcome-to-front-end-web-development-with-react">React from Coursera.org</a>></h2>
 <h2><a href="https://www.coursera.org/lecture/front-end-react/introduction-to-redux-uXBP7">Redux from Coursera.org</a></h2>
 
-<h2>finish W3cx3of5</h2>
+<h2>finish W3Cx-3of5-HTML5.1</h2>
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------------- web development on git ------------------------------------->
