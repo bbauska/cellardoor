@@ -16,7 +16,7 @@
 <h1>angular from google</h1>
 
 <h2><a href="https://www.udemy.com/course/angular-for-beginners-course/learn/lecture/12852496#overview">Angular for Beginners</a></h2>
-
+<hr>
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------------- web development on git ------------------------------------->
 <h1 align="center">
