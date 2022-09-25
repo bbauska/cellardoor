@@ -11,6 +11,11 @@
 <h2><a href="https://www.coursera.org/lecture/front-end-react/introduction-to-redux-uXBP7">Redux from Coursera.org</a></h2>
 
 <h2><a href="https://github.com/bbauska/W3Cx-3of5-HTML5.1x">Finish W3Cx-3of5-HTML5.1x</a></h2>
+<br/>
+<hr>
+<h1>angular from google</h1>
+
+<h2><a href="https://www.udemy.com/course/angular-for-beginners-course/learn/lecture/12852496#overview">Angular for Beginners</a></h2>
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------------- web development on git ------------------------------------->
