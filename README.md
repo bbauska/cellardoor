@@ -7,7 +7,7 @@
 --->
 <h1>react and redux</h1>
 
-<h2><a href="https://www.coursera.org/learn/front-end-react/lecture/zHA5u/welcome-to-front-end-web-development-with-react">React from Coursera.org</a></h2>
+<h2><a href="https://www.coursera.org/learn/front-end-react/lecture/zHA5u/welcome-to-front-end-web-development-with-react">React from Coursera.org (originally Facebook)</a></h2>
 <h2><a href="https://www.coursera.org/lecture/front-end-react/introduction-to-redux-uXBP7">Redux from Coursera.org</a></h2>
 
 <h2><a href="https://github.com/bbauska/W3Cx-3of5-HTML5.1x">Finish W3Cx-3of5-HTML5.1x</a></h2>
