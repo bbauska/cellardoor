@@ -93,11 +93,10 @@ https://github.com/akashyap2013/Complete_HTML_CSS_Blog_Website
 <!------------------------------------------------------------------------------------------------>
 <h1 id="now">What I'm doing now: 08.01.2022 Monday - .gitignore & fix cs198.2x </h1>
 <br/>
-<h2> - make appointment for tow truck Wednesday </h2>
-<h2> - parts for ford - back window, regulator, change tranny oil </h2>
+<h2> - parts for ford - back window, change tranny oil, new blades, washer fluid. </h2>
 <!------------------------------------------------------------------------------------------------>
 <h2 id="webdev">Web Development</h2>
-<a href="https://github.com/freeCodeCamp/freeCodeCamp">Free Code Camp awesomeness</a>
+<a href="https://github.com/freeCodeCamp/freeCodeCamp">Free Code Camp awesomeness.</a>
 <h3>w3cx-3of5.bauska.org</h3>
 <hr />
 <h2>2004 bmw 325i E46 m54</h2>
