@@ -129,6 +129,7 @@ https://github.com/akashyap2013/Complete_HTML_CSS_Blog_Website
 <h4>pickle fork or clutch puller</h4>
 <h4>4 replacement bolts</h4>
 <h4>21mm, 18mm, and the usuals 12mm on down</h4>
+<h4>Torch to heat up bolts for loosening</h4>
 <br/>
 <!------------------------------------------------------------------------------------------------>
 <h1>Fix BMW front end</h1>
