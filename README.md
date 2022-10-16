@@ -1463,12 +1463,12 @@ How Neural Networks Work
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
+[1]: http://www.twitter.com/brianbauska
+[2]: http://www.facebook.com/brianbauska
+[3]: https://plus.google.com/+BrianBauska
+[4]: http://brianbauska.tumblr.com
+[5]: http://dribbble.com/brianbauska
+[6]: http://www.github.com/brianbauska
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
