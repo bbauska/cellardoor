@@ -27,9 +27,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [AutoHotkey](#autohotkey)
 * [AutoIt](#autoit)
 * [Autotools](#autotools)
+
 * [Awk](#awk)
 * [Bash](#bash)
 * [Basic](#basic)
+
 * [BeanShell](#beanshell)
 * [BETA](#beta)
 * [C](#c)
@@ -39,7 +41,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Cilk](#cilk)
 * [Clojure](#clojure)
 * [CMake](#cmake)
+
 * [COBOL](#cobol)
+
 * [CoffeeScript](#coffeescript)
 * [ColdFusion](#coldfusion)
 * [Component Pascal](#component-pascal)
@@ -99,6 +103,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
   * [Spring Data](#spring-data)
   * [Spring Security](#spring-security)
   * [Wicket](#wicket)
+
 * [JavaScript](#javascript)
   * [AngularJS](#angularjs)
   * [Aurelia](#aurelia)
@@ -117,11 +122,13 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
   * [Next.js](#next.js)
   * [Node.js](#nodejs)
   * [Om](#om)
+
   * [React](#react)
   * [React Native](#react-native)
   * [Redux](#redux)
   * [Svelte](#svelte)
   * [Vue.js](#vuejs)
+
 * [Jenkins](#jenkins)
 * [Julia](#julia)
 * [Kotlin](#kotlin)
@@ -130,7 +137,9 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
   * [LaTeX](#latex)
   * [TeX](#tex)
 * [Limbo](#limbo)
+
 * [Linux](#linux)
+
 * [Lisp](#lisp)
 * [Livecode](#livecode)
 * [Lua](#lua)
@@ -142,8 +151,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Mercurial](#mercurial)
 * [Mercury](#mercury)
 * [Modelica](#modelica)
+
 * [MongoDB](#mongodb)
+
 * [MySQL](#mysql)
+
 * [Neo4J](#neo4j)
 * [.NET Core / .NET](#net-core)
 * [.NET Framework](#net-framework)
@@ -157,6 +169,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [OpenResty](#openresty)
 * [OpenSCAD](#openscad)
 * [Perl](#perl)
+
 * [PHP](#php)
   * [CakePHP](#cakephp)
   * [CodeIgniter](#codeigniter)
@@ -164,6 +177,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
   * [Laravel](#laravel)
   * [Symfony](#symfony)
   * [Zend](#zend)
+
 * [PicoLisp](#picolisp)
 * [PostgreSQL](#postgresql)
 * [PowerShell](#powershell)
@@ -172,14 +186,18 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
   * [Constraint Logic Programming](#constraint-logic-programming-extended-prolog)
 * [PureScript](#purescript)
 * [Python](#python)
+
   * [Django](#django)
   * [Flask](#flask)
+
   * [Kivy](#kivy)
   * [Pandas](#pandas)
   * [Pyramid](#pyramid)
   * [Tornado](#tornado)
 * [QML](#qml)
+
 * [R](#r)
+
 * [Racket](#racket)
 * [Raku](#raku)
 * [Raspberry Pi](#raspberry-pi)
@@ -202,8 +220,10 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Snap](#snap)
 * [Spark](#spark)
 * [Splunk](#splunk)
+
 * [SQL (implementation agnostic)](#sql-implementation-agnostic)
 * [SQL Server](#sql-server)
+
 * [Standard ML](#standard-ml)
 * [Subversion](#subversion)
 * [Swift](#swift)
@@ -213,9 +233,11 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Teradata](#teradata)
 * [Tizen](#tizen)
 * [TLA](#tla)
+
 * [TypeScript](#typescript)
   * [Angular](#angular)
   * [Deno](#deno)
+
 * [Unix](#unix)
 * [Verilog](#verilog)
 * [VHDL](#vhdl)
@@ -377,7 +399,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [GNU awk](https://learnbyexample.github.io/learn_gnuawk/) - Sundeep Agarwal
 
 
-### Bash
+<h3 id="bash">Bash</h3>
 
 * [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - M. Cooper (HTML)
 * [Bash Guide for Beginners (2008)](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - M. Garrels (HTML)
@@ -401,7 +423,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Writing Shell Scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php) - William E. Shotts, Jr. (HTML)
 
 
-### Basic
+<h3 id="basic">Basic</h3>
 
 * [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://10print.org) - Nick Montfort, Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, Mark C. Marino, Michael Mateas, Casey Reas, Mark Sample, Noah Vawter
 * [A beginner's guide to Gambas](http://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf) - John W. Rittinghouse (PDF)
@@ -565,7 +587,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Quick CMake tutorial](https://www.jetbrains.com/help/clion/quick-cmake-tutorial.html) (HTML)
 
 
-### COBOL
+<h3 id="cobol">COBOL</h3>
 
 * [COBOL Programming Fundamental](http://yusman.staff.gunadarma.ac.id/Downloads/files/33460/COBOL_Programming_Fundamental.pdf) (PDF)
 * [Enterprise COBOL for z/OS documentation library](http://www-01.ibm.com/support/docview.wss?uid=swg27036733)
@@ -629,14 +651,13 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Learning Dart](https://riptutorial.com/Download/dart.pdf) - Compiled from StackOverflow documentation (PDF)
 
 
-### DB2
+<h3 id="db2">DB2</h3>
 
 * [Getting started with DB2 Express-C](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_DB2_Express_v9.7_p4.pdf) (PDF)
 * [Getting started with IBM Data Studio for DB2](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_IBM_Data_Studio_for_DB2_p3.pdf) (PDF)
 * [Getting started with IBM DB2 development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_DB2_App_Dev_p2.pdf) (PDF)
 
-
-### DBMS
+<h3 id="dbms">DBMS</h3>
 
 * [Database Management Systems eBooks For All Edition](http://www.lincoste.com/ebooks/english/pdf/computers/database_management_systems.pdf) (PDF)
 
@@ -790,7 +811,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Using C on the UNIX System](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system) - David A. Curry
 
 
-### Git
+<h3 id="git">Git</h3>
 
 * [A git Primer](https://danielmiessler.com/study/git/) - Daniel Miessler
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) - Mark Lodato
@@ -846,7 +867,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Web apps in Go, the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
 
 
-### GraphQL
+<h3 id="graphql">GraphQL</h3>
 
 * [Fullstack GraphQL](https://github.com/GraphQLCollege/fullstack-graphql)
 * [Learning graphqL](https://riptutorial.com/Download/graphql.pdf) (PDF)
@@ -878,7 +899,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Hack Documentation](https://docs.hhvm.com/hack/)
 
 
-### Hadoop
+<h3 id="hadoop">Hadoop</h3>
 
 * [Big Data Analytics with Hadoop 3](https://www.packtpub.com/free-ebooks/big-data-analytics-hadoop-3) - Sridhar Alla (Packt account *required*)
 * [Cloudera Impala](https://docs.cloudera.com/documentation/enterprise/latest/PDF/cloudera-impala.pdf) - John Russel (PDF)
@@ -920,7 +941,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Kha Handbook](https://github.com/KTXSoftware/Kha/wiki/Tutorials)
 
 
-### HTML / CSS
+<h3 id="html">HTML / CSS</h3>
 
 * [A beginner's guide to HTML&CSS](http://learn.shayhowe.com/html-css/)
 * [A free guide to learn HTML and CSS](http://marksheet.io)
@@ -967,7 +988,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Web Visual Effects with CSS3](https://leanpub.com/web-visual-effects-with-css3/read) - Thomas Mak
 
 
-#### Bootstrap
+<h3 id="bootstrap">Bootstrap</h3>
 
 * [Twitter Bootstrap 3 Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/twitterbootstrap3) - Peter Shaw
 * [Twitter Bootstrap 4 Succinctly](https://www.syncfusion.com/ebooks/twitterbootstrap4-succinctly) - Peter Shaw
@@ -1077,7 +1098,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The JasperReports Ultimate Guide, Third Edition](http://jasperreports.sourceforge.net/JasperReports-Ultimate-Guide-3.pdf) (PDF)
 
 
-#### Solidity
+<h3 id="solidity">Solidity</h3>
 
 * [Introductory guide for Solidity](https://www.tutorialspoint.com/solidity/index.htm)
 * [The Solidity Reference Guide](https://docs.soliditylang.org)
@@ -1113,7 +1134,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Official Free Online Guide for Apache Wicket framework](http://wicket.apache.org/learn/#guide)
 
 
-### JavaScript
+<h3 id="javascript">JavaScript</h3>
 
 * [Airbnb JavaScript Style Guide() {](https://airbnb.io/javascript/) - Airbnb (HTML)
 * [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) - Dr. Axel Rauschmayer (HTML)
@@ -1172,7 +1193,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson (HTML, PDF, EPUB, MOBI)
 
 
-#### AngularJS
+<h3 id="angularjs">AngularJS</h3>
 
 > :information_source: See also &#8230; [Angular](#angular)
 
@@ -1266,7 +1287,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Ionic 4 Succinctly](https://www.syncfusion.com/ebooks/ionic-4-succinctly) - Ed Freitas
 
 
-#### jQuery
+<h4 id="jquery">jQuery</h4>
 
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book/)
 * [jQuery Notes for Professionals](https://goalkicker.com/jQueryBook/) - Compiled from StackOverflow Documentation (PDF)
@@ -1310,7 +1331,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Om Tutorial](http://awkay.github.io/om-tutorial/)
 
 
-#### React
+<h4 id="react">React</h4>
 
 * [Airbnb React/JSX Style Guide](https://airbnb.io/javascript/react/) - Airbnb
 * [Hacking with React](http://www.hackingwithreact.com)
@@ -1419,7 +1440,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Inferno Programming With Limbo](http://doc.cat-v.org/inferno/books/inferno_programming_with_limbo/)
 
 
-### Linux
+<h3 id="linux">Linux</h3>
 
 * [Ad Hoc Data Analysis From The Unix Command Line](https://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line) - Wikibooks
 * [Advanced Linux Programming](https://mentorembedded.github.io/advancedlinuxprogramming/) (PDF)
@@ -1559,7 +1580,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Modelica by Example](http://book.xogeny.com)
 
 
-### MongoDB
+<h3 id="mongodb">MongoDB</h3>
 
 * [Introduction to MongoDB](https://www.tutorialspoint.com/mongodb) - Tutorials Point
 * [Learning MongoDB](https://riptutorial.com/Download/mongodb.pdf) - Based on Unaffiliated  Stack Overflow Documentation (PDF)
@@ -1569,7 +1590,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
 
 
-### MySQL
+<h3 id="mysql">MySQL</h3>
 
 * [MySQL 8.0 Tutorial Excerpt](https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/tutorial.html) (HTML) [(PDF)](https://downloads.mysql.com/docs/mysql-tutorial-excerpt-8.0-en.pdf)
 * [MySQL Notes for Professionals](https://goalkicker.com/MySQLBook/) - Compiled from StackOverflow Documentation (PDF)
@@ -1710,7 +1731,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Web Client Programming with Perl](http://www.oreilly.com/openbook/webclient/)
 
 
-### PHP
+<h3 id="php">PHP</h3>
 
 * [Clean Code PHP](https://github.com/jupeter/clean-code-php)
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
@@ -1778,7 +1799,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [PicoLisp Works](https://github.com/tj64/picolisp-works)
 
 
-### PostgreSQL
+<h3 id="postgresql">PostgreSQL</h3>
 
 * [Postgres Official Documentation](http://www.postgresql.org/docs/)
 * [Postgres Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/postgres) (PDF, Kindle) (email address *requested*, not required)
@@ -1788,7 +1809,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Internals of PostgreSQL for database administrators and system developers](http://www.interdb.jp/pg)
 
 
-### PowerShell
+<h3 id="powershell">PowerShell</h3>
 
 * [A Unix Person's Guide to PowerShell](https://leanpub.com/aunixpersonsguidetopowershell) - The DevOps Collective, Inc. (PDF, ePub, MOBI, HTML) *(Leanpub account or valid email requested)*
 * [Creating HTML Reports in PowerShell](https://leanpub.com/creatinghtmlreportsinwindowspowershell) - The DevOps Collective, Inc. (PDF, ePub, MOBI, HTML) *(Leanpub account or valid email requested)*
@@ -2020,7 +2041,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Qt5 Cadaques](http://qmlbook.github.io) - Juergen Bocklage-Ryannel and Johan Thelin (HTML, PDF, ePub) (:construction: *in process*)
 
 
-### R
+<h3 id="r">R</h3>
 
 * [Advanced R Programming](http://adv-r.had.co.nz) - Hadley Wickham
 * [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.html) -David M. Smith and William N. Venables
@@ -2292,7 +2313,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Splunk 7.x Quick Start Guide](https://www.packtpub.com/free-ebooks/splunk-7x-quick-start-guide) - James H. Baxter (Packt account *required*)
 
 
-### SQL (implementation agnostic)
+<h3 id="sql">SQL (implementation agnostic)</h3>
 
 * [Developing Time-Oriented Database Applications in SQL](https://www2.cs.arizona.edu/~rts/tdbbook.pdf) - Richard T. Snodgrass (PDF)
 * [Introduction to SQL](https://github.com/bobbyiliev/introduction-to-sql) - Bobby Iliev (Markdown, PDF)
@@ -2303,7 +2324,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Use The Index, Luke!: A Guide To SQL Database Performance](http://use-the-index-luke.com)
 
 
-### SQL Server
+<h3 id="sql-server">SQL Server</h3>
 
 * [Best of SQLServerCentral.com Vol 7](http://www.red-gate.com/community/books/ssc-7) *(RedGate, By SQLServerCentral Authors)
 * [Brad's Sure Guide to SQL Server Maintenance Plans](http://www.red-gate.com/community/books/sql-server-maintenance-plans) - Brad McGehee (PDF) (email address *requested*)
@@ -2395,7 +2416,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Specifying Systems: The TLA+ Language and Tools for Hardware and Software Engineers](http://research.microsoft.com/en-us/um/people/lamport/tla/book.html) - Leslie Lamport (Postscript or PDF)
 
 
-### TypeScript
+<h3 id="typescript">TypeScript</h3>
 
 * [Learn TypeScript in Y Minutes](https://learnxinyminutes.com/docs/typescript/)
 * [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/toc.html) - Dr. Axel Rauschmayer
@@ -2450,7 +2471,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [VHDL Tutorial: Learn By Example](http://esd.cs.ucr.edu/labs/tutorial/)
 
 
-### Vim
+<h3 id="vim">Vim</h3>
 
 * [A Byte of Vim](http://www.swaroopch.com/notes/vim/)
 * [Learn Vim (the Smart Way)](https://github.com/iggredible/Learn-Vim) (HTML) (:construction: *in process*)
@@ -2464,7 +2485,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Vim Regular Expressions 101](http://vimregex.com)
 
 
-### Visual Basic
+<h3 id="visualbasic">Visual Basic</h3>
 
 * [Visual Basic .NET Notes for Professionals](https://goalkicker.com/VisualBasic_NETBook/) - Compiled from StackOverflow Documentation (PDF)
 * [Visual Basic Official Docs](https://docs.microsoft.com/en-us/dotnet/visual-basic)
