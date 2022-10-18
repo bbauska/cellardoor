@@ -45,4 +45,20 @@ encoding.html
 .Spotlight-V100
 .Trashes
 ehthumbs.db
+
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+
+# OS or Editor folders
+.DS_Store
 Thumbs.db
+.cache
