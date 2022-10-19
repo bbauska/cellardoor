@@ -1,11 +1,12 @@
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------------- readme.md of cellardoor ------------------------------------>
 <!-- icons with padding -->
-[![alt text][1.1]][1]
-[![alt text][2.1]][1]
-[![alt text][3.1]][1]
-[![alt text][4.1]][1]
-[![alt text][5.1]][1]
+
+[![Facebook][1.1]][1]
+[![Tweet tweet][2.1]][1]
+[![YouTube][3.1]][1]
+[![Snapchat][4.1]][1]
+[![Github][7.1]][1]
 
 [1.1]: https://github.com/bbauska/bbauska/blob/main/images/1-fb-blue-white.png?raw=true (facebook icon with padding)
 [2.1]: https://github.com/bbauska/bbauska/blob/main/images/2-twitter-bird.png?raw=true (twitter icon with padding)
@@ -47,6 +48,7 @@
 <a href="https://learning.edx.org/course/course-v1:W3Cx+HTML5.0x+1T2022/block-v1:W3Cx+HTML5.0x+1T2022+type@sequential+block@0045398377b14c60b9a3820ead6441d6/block-v1:W3Cx+HTML5.0x+1T2022+type@vertical+block@a40220f07c494fb88d47047b8c6d20bc", target=”_blank”>Go Here, just 'cuz</a>
 </h1>
 --->
+
 <a href="https://twitter.com/brianbauska?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @brianbauska</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <link rel="stylesheet" href="https://d1azc1qln24ryf.cloudfront.net/114779/Socicon/style-cf.css?rd5re8">
