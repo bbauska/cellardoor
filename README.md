@@ -23,7 +23,7 @@
 [8.1]: https://github.com/bbauska/bbauska/blob/main/images/8-medium.png?raw=true)  (medium icon)
 [9:1]: https://github.com/bbauska/bbauska/blob/main/images/9-codepen.png?raw=true (codepen icon)
 [10:1]: https://github.com/bbauska/bbauska/blob/main/images/10-instagram.png?raw=true (instagram icon)
-[11:1]: https://github.com/bbauska/bbauska/blob/main/images/11-linked.png?raw=true (linkedin icon)
+[11:1]: https://github.com/bbauska/bbauska/blob/main/images/11-linkedin.png?raw=true (linkedin icon)
 
 <!-- icons without padding -->
 <!---
