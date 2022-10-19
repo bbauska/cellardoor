@@ -1,7 +1,17 @@
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------------- readme.md of cellardoor ------------------------------------>
 <!-- icons with padding -->
-[![Facebook][1.1]][1] [![Tweet tweet][2.1]][1] 
+[![Facebook][1.1]][1]
+[![Tweet tweet][2.1]][1]
+[![Youtube][3.1]][1]
+[![Snapchat][4.1]][1]
+[![E-mail][5.1]][1]
+[![G-mail][6.1]][1]
+[![Github][7.1]][1]
+[![Medium][8.1]][1]
+[![Codepen][9.1]][1]
+[![Instagram][10.1]][1]
+[![Linkedin][11.1]][1]
 
 [1.1]: https://github.com/bbauska/bbauska/blob/main/images/1-fb-blue-white.png?raw=true (facebook icon with padding)
 [2.1]: https://github.com/bbauska/bbauska/blob/main/images/2-twitter-bird.png?raw=true (twitter icon with padding)
