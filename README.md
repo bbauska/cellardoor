@@ -1485,14 +1485,14 @@ You have access to icons with padding, and icons without padding.
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.facebook.com/brianbauska
-[2]: http://www.twitter.com/brianbauska
+[1]: https://www.facebook.com/brianbauska
+[2]: https://www.twitter.com/brianbauska
 [3]: https://www.youtube.com/brianbauska
-[4]: http://www.snapchat.com/brianbauska
-[5]: http://www.google.com/brianbauska
-[6]: http://www.google.com/brianbauska
-[7]: http://dribbble.com/brianbauska
-[8]: http://www.github.com/brianbauska
-[9]: http://dribbble.com/brianbauska
+[4]: https://www.snapchat.com/brianbauska
+[5]: https://www.google.com/brianbauska
+[6]: https://www.google.com/brianbauska
+[7]: https://dribbble.com/brianbauska
+[8]: https://www.github.com/brianbauska
+[9]: https://dribbble.com/brianbauska
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
