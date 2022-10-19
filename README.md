@@ -2,6 +2,11 @@
 <!----------------------------------- readme.md of cellardoor ------------------------------------>
 <!-- icons with padding -->
 [![alt text][1.1]][1]
+[![alt text][2.1]][1]
+[![alt text][3.1]][1]
+[![alt text][4.1]][1]
+[![alt text][5.1]][1]
+
 [1.1]: https://github.com/bbauska/bbauska/blob/main/images/1-fb-blue-white.png?raw=true (facebook icon with padding)
 [2.1]: https://github.com/bbauska/bbauska/blob/main/images/2-twitter-bird.png?raw=true (twitter icon with padding)
 [3.1]: https://github.com/bbauska/bbauska/blob/main/images/3-youtube-red-white.png?raw=true (youtube icon with padding)
