@@ -91,9 +91,9 @@ https://github.com/akashyap2013/Complete_HTML_CSS_Blog_Website
 </h1>
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<h1 id="now">What I'm doing now: 08.01.2022 Monday - .gitignore & fix cs198.2x </h1>
+<h2 id="now">What I'm doing now: 08.01.2022 Monday - .gitignore & fix cs198.2x </h2>
 <br/>
-<h2> - parts for ford - back window, change tranny oil, new blades, washer fluid. </h2>
+<h2>parts for ford - back window, change tranny oil, new blades, washer fluid. </h2>
 <!------------------------------------------------------------------------------------------------>
 <h2 id="webdev">Web Development</h2>
 <a href="https://github.com/freeCodeCamp/freeCodeCamp">Free Code Camp awesomeness.</a>
