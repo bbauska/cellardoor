@@ -5,6 +5,25 @@
 <a href="https://learning.edx.org/course/course-v1:W3Cx+HTML5.0x+1T2022/block-v1:W3Cx+HTML5.0x+1T2022+type@sequential+block@0045398377b14c60b9a3820ead6441d6/block-v1:W3Cx+HTML5.0x+1T2022+type@vertical+block@a40220f07c494fb88d47047b8c6d20bc", target=”_blank”>Go Here, just 'cuz</a>
 </h1>
 --->
+<link rel="stylesheet" href="https://d1azc1qln24ryf.cloudfront.net/114779/Socicon/style-cf.css?rd5re8">
+<ul class="socicons-list">
+     <li>
+       <a href='https://www.facebook.com/brian.bauska/' target='_blank'><span class="socicon-facebook"></span></a>
+      </li>
+       <li>
+       <a href='https://www.instagram.com/brianbauska/' target='_blank'><span class="socicon-instagram"></span></a>
+      </li>
+      <li>
+       <a href='https://twitter.com/home' target='_blank'><span class="socicon-twitter"></span></a>
+      </li>
+     <li>
+       <a href='https://myaccount.google.com/?utm_source=sign_in_no_continue&pli=1' target='_blank'><span class="socicon-googleplus"></span></a>
+      </li>
+        <li>
+       <a href='https://www.behance.net/onboarding/adobe' target='_blank'><span class="socicon-behance"></span></a>
+      </li>
+    </ul> 
+
 <h1>react and redux</h1>
 
 <h2><a href="https://www.coursera.org/learn/front-end-react/lecture/zHA5u/welcome-to-front-end-web-development-with-react">React from Coursera.org (originally Facebook)</a></h2>
@@ -1540,3 +1559,37 @@ color: #1DA1F2;
 .wrapper i:hover {   
 margin-top: -3px;   text-shadow: 0px 14px 10px rgba(0, 0, 0, 0.4); 
 } 
+
+<!- another test --->
+
+.socicons-list {
+list-style: none;  
+display: flex;  
+justify-content: center;
+} 
+.socicons-list li {
+margin: 30px 10px;
+} 
+.socicons-list li a {
+text-decoration: none;  
+padding: 30px;  
+font-size: 30px;  
+border-radius: 50%;  
+color: #fff;  
+background-color: #f1f1f1;  
+transition: all ease-in-out 150ms;
+} 
+.socicons-list li a:hover {
+text-shadow: 0 5px 10px #212121;
+} 
+.socicons-list li:nth-child(1) a {
+background-color: #3e5b98;
+} 
+.socicons-list li:nth-child(2) a {
+background-color: #c13584;
+} 
+.socicons-list li:nth-child(3) a {
+background-color: #4da7de;
+} 
+.socicons-list li:nth-child(4) a{background-color: #dd4b39;} 
+.socicons-list li:nth-child(5) a{background-color: #1769ff;} 
