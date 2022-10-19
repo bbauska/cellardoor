@@ -1,6 +1,44 @@
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------------- readme.md of cellardoor ------------------------------------>
 <!--- 
+<!-- icons with padding -->
+
+[1.1]: https://github.com/bbauska/bbauska/blob/main/images/1-fb-blue-white.png?raw=true (facebook icon with padding)
+[2.1]: https://github.com/bbauska/bbauska/blob/main/images/2-twitter-bird.png?raw=true (twitter icon with padding)
+[3.1]: https://github.com/bbauska/bbauska/blob/main/images/3-youtube-red-white.png?raw=true (youtube icon with padding)
+[4.1]: https://github.com/bbauska/bbauska/blob/main/images/4-snapchat-sq-ghost.png?raw=true (snapchat icon with padding)
+[5.1]: https://github.com/bbauska/bbauska/blob/main/images/5-email-bw.png?raw=true (e-mail icon with padding)
+[6.1]: https://github.com/bbauska/bbauska/blob/main/images/6-gmail.png?raw=true  (google mail icon with padding)
+[7.1]: https://github.com/bbauska/bbauska/blob/main/images/7-github-bw.png?raw=true (github icon with padding)
+[8.1]: https://github.com/bbauska/bbauska/blob/main/images/8-medium.png?raw=true)  (medium icon #1)
+[9:1]: https://github.com/bbauska/bbauska/blob/main/images/9-codepen.png?raw=true (codepen icon #1)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (facebook icon #2)
+[2.2]: http://i.imgur.com/fep1WsG.png (twitter icon #2)
+[3.2]: https://github.com/bbauska/bbauska/blob/main/images/3-youtube-red-white.png?raw=true (youtube icon #2)
+[4.2]: https://github.com/bbauska/bbauska/blob/main/images/4-snapchat-sq-ghost.png?raw=true (snapchat icon #2)
+[5.2]: https://github.com/bbauska/bbauska/blob/main/images/5-email-bw.png?raw=true (e-mail icon #2)
+[6.2]: https://github.com/bbauska/bbauska/blob/main/images/6-gmail.png?raw=true  (google mail icon #2)
+[7.2]: https://github.com/bbauska/bbauska/blob/main/images/7-github-bw.png?raw=true (github icon #2)
+[8.2]: https://github.com/bbauska/bbauska/blob/main/images/8-medium.png?raw=true)  (medium icon #2)
+[9:2]: https://github.com/bbauska/bbauska/blob/main/images/9-codepen.png?raw=true (codepen icon)
+
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: https://www.facebook.com/brianbauska
+[2]: https://www.twitter.com/brianbauska
+[3]: https://www.youtube.com/brianbauska
+[4]: https://www.snapchat.com/brianbauska
+[5]: https://www.google.com/brianbauska
+[6]: https://www.google.com/brianbauska
+[7]: https://dribbble.com/brianbauska
+[8]: https://www.github.com/brianbauska
+[9]: https://dribbble.com/brianbauska
+
 <h1>
 <a href="https://learning.edx.org/course/course-v1:W3Cx+HTML5.0x+1T2022/block-v1:W3Cx+HTML5.0x+1T2022+type@sequential+block@0045398377b14c60b9a3820ead6441d6/block-v1:W3Cx+HTML5.0x+1T2022+type@vertical+block@a40220f07c494fb88d47047b8c6d20bc", target=”_blank”>Go Here, just 'cuz</a>
 </h1>
@@ -1486,27 +1524,27 @@ Format: ![Alt Text](url)
 
 <!-- icons with padding -->
 
-    [1.1]: https://github.com/bbauska/bbauska/blob/main/images/1-fb-blue-white.png?raw=true (facebook icon with padding)
-    [2.1]: https://github.com/bbauska/bbauska/blob/main/images/2-twitter-bird.png?raw=true (twitter icon with padding)
-    [3.1]: https://github.com/bbauska/bbauska/blob/main/images/3-youtube-red-white.png?raw=true (youtube icon with padding)
-    [4.1]: https://github.com/bbauska/bbauska/blob/main/images/4-snapchat-sq-ghost.png?raw=true (snapchat icon with padding)
-    [5.1]: https://github.com/bbauska/bbauska/blob/main/images/5-email-bw.png?raw=true (e-mail icon with padding)
-    [6.1]: https://github.com/bbauska/bbauska/blob/main/images/6-gmail.png?raw=true  (google mail icon with padding)
-    [7.1]: https://github.com/bbauska/bbauska/blob/main/images/7-github-bw.png?raw=true (github icon with padding)
-    [8.1]: https://github.com/bbauska/bbauska/blob/main/images/8-medium.png?raw=true)  (medium icon #1)
-    [9:1]: https://github.com/bbauska/bbauska/blob/main/images/9-codepen.png?raw=true (codepen icon #1)
+[1.1]: https://github.com/bbauska/bbauska/blob/main/images/1-fb-blue-white.png?raw=true (facebook icon with padding)
+[2.1]: https://github.com/bbauska/bbauska/blob/main/images/2-twitter-bird.png?raw=true (twitter icon with padding)
+[3.1]: https://github.com/bbauska/bbauska/blob/main/images/3-youtube-red-white.png?raw=true (youtube icon with padding)
+[4.1]: https://github.com/bbauska/bbauska/blob/main/images/4-snapchat-sq-ghost.png?raw=true (snapchat icon with padding)
+[5.1]: https://github.com/bbauska/bbauska/blob/main/images/5-email-bw.png?raw=true (e-mail icon with padding)
+[6.1]: https://github.com/bbauska/bbauska/blob/main/images/6-gmail.png?raw=true  (google mail icon with padding)
+[7.1]: https://github.com/bbauska/bbauska/blob/main/images/7-github-bw.png?raw=true (github icon with padding)
+[8.1]: https://github.com/bbauska/bbauska/blob/main/images/8-medium.png?raw=true)  (medium icon #1)
+[9:1]: https://github.com/bbauska/bbauska/blob/main/images/9-codepen.png?raw=true (codepen icon #1)
 
 <!-- icons without padding -->
 
-    [1.2]: http://i.imgur.com/wWzX9uB.png (facebook icon #2)
-    [2.2]: http://i.imgur.com/fep1WsG.png (twitter icon #2)
-    [3.2]: https://github.com/bbauska/bbauska/blob/main/images/3-youtube-red-white.png?raw=true (youtube icon #2)
-    [4.2]: https://github.com/bbauska/bbauska/blob/main/images/4-snapchat-sq-ghost.png?raw=true (snapchat icon #2)
-    [5.2]: https://github.com/bbauska/bbauska/blob/main/images/5-email-bw.png?raw=true (e-mail icon #2)
-    [6.2]: https://github.com/bbauska/bbauska/blob/main/images/6-gmail.png?raw=true  (google mail icon #2)
-    [7.2]: https://github.com/bbauska/bbauska/blob/main/images/7-github-bw.png?raw=true (github icon #2)
-    [8.2]: https://github.com/bbauska/bbauska/blob/main/images/8-medium.png?raw=true)  (medium icon #2)
-    [9:2]: https://github.com/bbauska/bbauska/blob/main/images/9-codepen.png?raw=true (codepen icon)
+[1.2]: http://i.imgur.com/wWzX9uB.png (facebook icon #2)
+[2.2]: http://i.imgur.com/fep1WsG.png (twitter icon #2)
+[3.2]: https://github.com/bbauska/bbauska/blob/main/images/3-youtube-red-white.png?raw=true (youtube icon #2)
+[4.2]: https://github.com/bbauska/bbauska/blob/main/images/4-snapchat-sq-ghost.png?raw=true (snapchat icon #2)
+[5.2]: https://github.com/bbauska/bbauska/blob/main/images/5-email-bw.png?raw=true (e-mail icon #2)
+[6.2]: https://github.com/bbauska/bbauska/blob/main/images/6-gmail.png?raw=true  (google mail icon #2)
+[7.2]: https://github.com/bbauska/bbauska/blob/main/images/7-github-bw.png?raw=true (github icon #2)
+[8.2]: https://github.com/bbauska/bbauska/blob/main/images/8-medium.png?raw=true)  (medium icon #2)
+[9:2]: https://github.com/bbauska/bbauska/blob/main/images/9-codepen.png?raw=true (codepen icon)
 
 
 <!-- links to your social media accounts -->
