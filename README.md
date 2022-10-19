@@ -1442,7 +1442,14 @@ You have access to icons with padding, and icons without padding.
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
+<!-- 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+--->
 
+<a href="https://github.com/bbauska/bbauska/blob/main/images/1-fb-blue-white.png?raw=true">Facebook blue & white</a>
+	https://github.com/bbauska/bbauska/blob/main/images/1-fb-blue-white.png?raw=true
+	
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
@@ -1452,7 +1459,6 @@ You have access to icons with padding, and icons without padding.
 [![alt text][7.1]][7]
 [![alt text][8.1]][8]
 [![alt text][9.1]][9]
-
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
@@ -1496,3 +1502,41 @@ You have access to icons with padding, and icons without padding.
 [9]: https://dribbble.com/brianbauska
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<div class="wrapper">
+<a target="_blank" href="your_url_here"><i class="fa fa-3x fa-google-plus"></i></a>    
+<a target="_blank" href="your_url_here"><i class="fa fa-3x fa-facebook-square"></i></a>    
+<a target="_blank" href="your_url_here"><i class="fa fa-3x fa-twitter-square"></i> 
+</div></a> 
+Add the styles to your style.css file (you can add your own, or use this example):
+
+body {
+   text-align: center;
+ } 
+.wrapper {   
+display: inline-flex;   
+justify-content: center; 
+} 
+.wrapper i {   
+padding: 5px;
+text-shadow: 0px 3px 4px rgba(0, 0, 0, 0.3);   
+transition: all ease-in-out 150ms;
+}
+/* .wrapper i {   
+padding: 10px;
+text-shadow: 0px 6px 8px rgba(0, 0, 0, 0.6);   
+transition: all ease-in-out 150ms; 
+}  */
+.wrapper a:nth-child(1) {   
+color: #dd4b39; 
+} 
+.wrapper a:nth-child(2) {   
+color: #4867AA; 
+} 
+.wrapper a:nth-child(3) {   
+color: #1DA1F2; 
+} 
+.wrapper i:hover {   
+margin-top: -3px;   text-shadow: 0px 14px 10px rgba(0, 0, 0, 0.4); 
+} 
