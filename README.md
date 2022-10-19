@@ -19,7 +19,7 @@
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (facebook icon #2)
+[1.2]: https://github.com/bbauska/cellardoor/blob/main/images/1-fb-blue-white.png?raw=true (facebook icon #2)
 [2.2]: http://i.imgur.com/fep1WsG.png (twitter icon #2)
 [3.2]: https://github.com/bbauska/bbauska/blob/main/images/3-youtube-red-white.png?raw=true (youtube icon #2)
 [4.2]: https://github.com/bbauska/bbauska/blob/main/images/4-snapchat-sq-ghost.png?raw=true (snapchat icon #2)
