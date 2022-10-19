@@ -1,6 +1,5 @@
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------------- readme.md of cellardoor ------------------------------------>
-<!--- 
 <!-- icons with padding -->
 
 [1.1]: https://github.com/bbauska/bbauska/blob/main/images/1-fb-blue-white.png?raw=true (facebook icon with padding)
@@ -25,7 +24,6 @@
 [8.2]: https://github.com/bbauska/bbauska/blob/main/images/8-medium.png?raw=true)  (medium icon #2)
 [9:2]: https://github.com/bbauska/bbauska/blob/main/images/9-codepen.png?raw=true (codepen icon)
 
-
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
@@ -39,6 +37,7 @@
 [8]: https://www.github.com/brianbauska
 [9]: https://dribbble.com/brianbauska
 
+<!---
 <h1>
 <a href="https://learning.edx.org/course/course-v1:W3Cx+HTML5.0x+1T2022/block-v1:W3Cx+HTML5.0x+1T2022+type@sequential+block@0045398377b14c60b9a3820ead6441d6/block-v1:W3Cx+HTML5.0x+1T2022+type@vertical+block@a40220f07c494fb88d47047b8c6d20bc", target=”_blank”>Go Here, just 'cuz</a>
 </h1>
