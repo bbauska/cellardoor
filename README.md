@@ -22,14 +22,15 @@
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[7.1]: https://github.com/bbauska/bbauska/blob/main/images/7-github.png?raw=true (dribbble icon with padding)
-[8.1]: https://github.com/bbauska/bbauska/blob/main/images/8-medium.png?raw=true (github icon with padding)
+[1.1]: http://github.com/bbauska/bbauska/blob/main/images/1-fb-blue-white.png (facebook icon with padding)
+[2.1]: http://github.com/bbauska/bbauska/blob/main/images/2-twitter-bird.png (twitter icon with padding)
+[3.1]: https://github.com/bbauska/bbauska/blob/main/images/3-youtube-red-white.png?raw=true (youtube icon with padding)
+[4.1]: https://github.com/bbauska/bbauska/blob/main/images/4-snapchat-sq-ghost.png?raw=true (snapchat icon with padding)
+[5.1]: https://github.com/bbauska/bbauska/blob/main/images/5-email-bw.png?raw=true (e-mail icon with padding)
+[6.1]: https://github.com/bbauska/bbauska/blob/main/images/6-gmail.png?raw=true (g-mail icon with padding)
+[7.1]: https://github.com/bbauska/bbauska/blob/main/images/7-github.png?raw=true (github icon with padding)
+[8.1]: https://github.com/bbauska/bbauska/blob/main/images/7-github.png?raw=true (dribbble icon with padding)
+[9.1]: https://github.com/bbauska/bbauska/blob/main/images/8-medium.png?raw=true (github icon with padding)
 
 <!-- icons without padding -->
 
@@ -97,6 +98,8 @@ Here's the code in case you're too lazy to [fork this](https://github.com/carlse
     [![alt text][4.1]][4]
     [![alt text][5.1]][5]
     [![alt text][6.1]][6]
+    [![alt text][7.1]][7]
+    [![alt text][8.1]][8]
 
 
     <!-- links to social media icons -->
@@ -110,6 +113,8 @@ Here's the code in case you're too lazy to [fork this](https://github.com/carlse
     [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
     [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
     [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+    [7.1]: https://github.com/bbauska/bbauska/blob/main/images/7-github.png?raw=true (dribbble icon with padding)
+    [8.1]: https://github.com/bbauska/bbauska/blob/main/images/8-medium.png?raw=true (github icon with padding)
 
     <!-- icons without padding -->
 
@@ -130,6 +135,8 @@ Here's the code in case you're too lazy to [fork this](https://github.com/carlse
     [4]: http://carlsed.tumblr.com
     [5]: http://dribbble.com/carlsednaoui
     [6]: http://www.github.com/carlsednaoui
+    [5]: http://dribbble.com/bbauska
+    [6]: http://www.github.com/bbauska
 
     <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
