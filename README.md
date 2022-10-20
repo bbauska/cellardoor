@@ -10,10 +10,12 @@
 [![alt text][6.1]][6]
 [![alt text][7.1]][7]
 [![alt text][8.1]][8]
+
+<!---
 [![alt text][9.1]][9]
 [![alt text][10.1]][10]
 [![alt text][11.1]][11]
-
+--->
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
