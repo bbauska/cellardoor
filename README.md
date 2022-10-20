@@ -8,6 +8,11 @@
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
 [![alt text][6.1]][6]
+[![alt text][7.1]][7]
+[![alt text][8.1]][8]
+[![alt text][9.1]][9]
+[![alt text][10.1]][10]
+[![alt text][11.1]][11]
 
 
 <!-- links to social media icons -->
@@ -21,6 +26,8 @@
 [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[7.1]: https://github.com/bbauska/bbauska/blob/main/images/7-github.png?raw=true (dribbble icon with padding)
+[8.1]: https://github.com/bbauska/bbauska/blob/main/images/8-medium.png?raw=true (github icon with padding)
 
 <!-- icons without padding -->
 
