@@ -12,19 +12,13 @@
 [![alt text][8.1]][8]
 [![alt text][9.1]][9]
 
-<!---
-[![alt text][9.1]][9]
-[![alt text][10.1]][10]
-[![alt text][11.1]][11]
---->
-
 <!-- links to social media icons -->
 <!-- no need to change these -->
 
 <!-- icons with padding -->
 
-[1.1]: http://github.com/bbauska/bbauska/blob/main/images/1-fb-blue-white.png (facebook icon with padding)
-[2.1]: http://github.com/bbauska/bbauska/blob/main/images/2-twitter-bird.png (twitter icon with padding)
+[1.1]: https://github.com/bbauska/bbauska/blob/main/images/1-fb-blue-white.png?raw=true (facebook icon with padding)
+[2.1]: https://github.com/bbauska/bbauska/blob/main/images/2-twitter-bird.png?raw=true (twitter icon with padding)
 [3.1]: https://github.com/bbauska/bbauska/blob/main/images/3-youtube-red-white.png?raw=true (youtube icon with padding)
 [4.1]: https://github.com/bbauska/bbauska/blob/main/images/4-snapchat-sq-ghost.png?raw=true (snapchat icon with padding)
 [5.1]: https://github.com/bbauska/bbauska/blob/main/images/5-email-bw.png?raw=true (e-mail icon with padding)
