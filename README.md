@@ -28,8 +28,8 @@
 --->
 <!-- icons without padding -->
 <!---
-[1.2]: http://i.imgur.com/wWzX9uB.png (facebook icon #2)
-[2.2]: http://i.imgur.com/fep1WsG.png (twitter icon #2)
+[1.2]: https://github.com/bbauska/bbauska/blob/main/images/1-fb-blue-white.png?raw=true (facebook icon with padding)
+[2.2]: https://github.com/bbauska/bbauska/blob/main/images/2-twitter-bird.png?raw=true (twitter icon with padding)
 [3.2]: https://github.com/bbauska/bbauska/blob/main/images/3-youtube-red-white.png?raw=true (youtube icon #2)
 [4.2]: https://github.com/bbauska/bbauska/blob/main/images/4-snapchat-sq-ghost.png?raw=true (snapchat icon #2)
 [5.2]: https://github.com/bbauska/bbauska/blob/main/images/5-email-bw.png?raw=true (e-mail icon #2)
@@ -37,6 +37,8 @@
 [7.2]: https://github.com/bbauska/bbauska/blob/main/images/7-github-bw.png?raw=true (github icon #2)
 [8.2]: https://github.com/bbauska/bbauska/blob/main/images/8-medium.png?raw=true)  (medium icon #2)
 [9:2]: https://github.com/bbauska/bbauska/blob/main/images/9-codepen.png?raw=true (codepen icon)
+[10:2]: https://github.com/bbauska/bbauska/blob/main/images/10-instagram.png?raw=true (instagram icon)
+[11:2]: https://github.com/bbauska/bbauska/blob/main/images/11-linkedin.png?raw=true (linkedin icon)
 --->
 
 <!-- links to your social media accounts -->
