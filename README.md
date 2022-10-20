@@ -13,6 +13,7 @@
 [![Instagram][10.1]][1]<br>
 [![Linkedin][11.1]][1]<br>
 <br>
+<!---
 [1.1]: https://github.com/bbauska/bbauska/blob/main/images/1-fb-blue-white.png?raw=true (facebook icon with padding)
 [2.1]: https://github.com/bbauska/bbauska/blob/main/images/2-twitter-bird.png?raw=true (twitter icon with padding)
 [3.1]: https://github.com/bbauska/bbauska/blob/main/images/3-youtube-red-white.png?raw=true (youtube icon with padding)
@@ -24,7 +25,7 @@
 [9:1]: https://github.com/bbauska/bbauska/blob/main/images/9-codepen.png?raw=true (codepen icon)
 [10:1]: https://github.com/bbauska/bbauska/blob/main/images/10-instagram.png?raw=true (instagram icon)
 [11:1]: https://github.com/bbauska/bbauska/blob/main/images/11-linkedin.png?raw=true (linkedin icon)
-
+--->
 <!-- icons without padding -->
 <!---
 [1.2]: http://i.imgur.com/wWzX9uB.png (facebook icon #2)
