@@ -20,7 +20,7 @@
 [4.1]: https://github.com/bbauska/bbauska/blob/main/images/4-snapchat-sq-ghost.png?raw=true (snapchat icon with padding)
 [5.1]: https://github.com/bbauska/bbauska/blob/main/images/5-email-bw.png?raw=true (e-mail icon with padding)
 [6.1]: https://github.com/bbauska/bbauska/blob/main/images/6-gmail.png?raw=true  (google mail icon with padding)
-[7.1]: https://github.com/bbauska/bbauska/blob/main/images/7-github.png?raw=true (github icon with padding)
+[7.1]: https://github.com/bbauska/bbauska/blob/main/images/7-github-bw.png?raw=true (github icon with padding)
 [8.1]: https://github.com/bbauska/bbauska/blob/main/images/8-medium.png?raw=true)  (medium icon)
 [9:1]: https://github.com/bbauska/bbauska/blob/main/images/9-codepen.png?raw=true (codepen icon)
 [10:1]: https://github.com/bbauska/bbauska/blob/main/images/10-instagram.png?raw=true (instagram icon)
