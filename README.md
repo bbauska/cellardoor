@@ -28,7 +28,6 @@
 [9.1]: https://github.com/bbauska/bbauska/blob/main/images/9-codepen.png?raw=true (codepen icon with padding)
 
 <!--
-<!-- icons without padding -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 [3.2]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
