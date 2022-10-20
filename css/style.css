@@ -215,3 +215,56 @@ body{
 .list__item:nth-child(5)::after{
 	background-color: #d31414;
 }
+.menu{
+  margin: 0;
+  pading: 0;
+  text-transform: uppercase;
+}
+
+.menu ul{
+  margin: 0;
+  pading: 0;
+  list-style-type: none;
+  background: #ffffff;
+  height: 25px;
+  line-height: 25px;
+  
+}
+
+.menu ul li{
+  margin: 0;
+  padding: 0;
+  float: left;
+  position: relative;
+}
+
+.menu ul li a{
+  margin: 0;
+  padding: 0 10px;
+  text-decoration: none;
+  color: #000000;
+  display: block;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+
+.menu ul li:hover ul{ display:block;}
+
+.menu ul li ul{
+  position: absolute;
+  left: 0;
+  top: 20px;
+  display: none;
+  padding: 0;
+  
+}
+
+.menu ul li ul li{
+  padding: 6px 0;
+  background: #ffffff;
+  height: 25px;
+  line-height: 25px;
+  width: 100%;
+  
+}
