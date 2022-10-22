@@ -3,6 +3,11 @@
 #### New: typescript
 #### Also: Cognos Analytics training class
 ##### Take a refresher course through IBM Cognos BI/Analytics.  
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
