@@ -41,7 +41,7 @@ ul {
     color: #fff;
 }
 ul.social-icons {
-    margin-top: 10px;
+    margin-top: 6px;
 }
 .social-icons li {
     vertical-align: top;
@@ -53,7 +53,7 @@ ul.social-icons {
     text-decoration: none;
 }
 .fa-facebook {
-    padding:10px 14px;
+    padding:6px 10px;
     -o-transition:.5s;
     -ms-transition:.5s;
     -moz-transition:.5s;
@@ -65,7 +65,7 @@ ul.social-icons {
     background-color: #3d5b99;
 }
 .fa-twitter {
-    padding:10px 12px;
+    padding:6px 10px;
     -o-transition:.5s;
     -ms-transition:.5s;
     -moz-transition:.5s;
@@ -77,7 +77,7 @@ ul.social-icons {
     background-color: #00aced;
 }
 .fa-rss {
-    padding:10px 14px;
+    padding:6px 10px;
     -o-transition:.5s;
     -ms-transition:.5s;
     -moz-transition:.5s;
@@ -89,7 +89,7 @@ ul.social-icons {
     background-color: #eb8231;
 }
 .fa-youtube {
-    padding:10px 14px;
+    padding:6px 10px;
     -o-transition:.5s;
     -ms-transition:.5s;
     -moz-transition:.5s;
@@ -101,7 +101,7 @@ ul.social-icons {
     background-color: #e64a41;
 }
 .fa-linkedin {
-    padding:10px 14px;
+    padding:6px 10px;
     -o-transition:.5s;
     -ms-transition:.5s;
     -moz-transition:.5s;
