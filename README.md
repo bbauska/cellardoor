@@ -1,5 +1,9 @@
 <!-- display the social media buttons in your README -->
 
+New: typescript
+Also: Cognos Analytics training class
+Take a refresher course through IBM Cognos BI/Analytics.  
+
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
