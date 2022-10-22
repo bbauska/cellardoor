@@ -41,7 +41,7 @@ ul {
     color: #fff;
 }
 ul.social-icons {
-    margin-top: 6px;
+    margin-top: 3px;
 }
 .social-icons li {
     vertical-align: top;
@@ -113,7 +113,7 @@ ul.social-icons {
     background-color: #0073a4;
 }
 .fa-github {
-    padding:10px 14px;
+    padding:6px 10px;
     -o-transition:.5s;
     -ms-transition:.5s;
     -moz-transition:.5s;
@@ -144,7 +144,7 @@ body{
 	justify-content: center;
 	align-items: center;
 	list-style: none;
-	margin: 10px;
+	margin: 6px;
 	width: 100px;
 	height: 100px;
 	border-radius: 50%;
