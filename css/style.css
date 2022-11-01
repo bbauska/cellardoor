@@ -5,6 +5,7 @@ text-align: center;
   font-size: 6px;
   width: 70px;
 }  
+<!-- social network icons -->
 .fa-facebook {  
   background: #3B5998;  
   color: #1877f2;  
@@ -49,7 +50,7 @@ text-align: center;
 .fa:hover {
     opacity: 0.9;
 }
-<!------------------- flip down menu options ------------------>
+<!-- flip down shingle menu options -->
 * {
   	margin: 0; 
 		padding: 0;
@@ -192,4 +193,3 @@ text-align: center;
 		border-bottom: dotted 1px rgba(255,255,255,.15);
 		background: rgba(0,223,252,.02);
 	}
-</style>
