@@ -1,3 +1,55 @@
+.fa {  
+  padding: 10px;
+text-align: center;  
+  margin: 6px 2px;  
+  font-size: 6px;
+  width: 70px;
+}  
+.fa-facebook {  
+  background: #3B5998;  
+  color: #1877f2;  
+}  
+.fa-twitter {  
+  background: #55ACEE;  
+  color: 1da1f2;  
+}  
+.fa-pinterest {  
+  background: #cb2027;  
+  color: bd081c;  
+}  
+.fa-linkedin {  
+  background: #007bb5;  
+  color: 0a66c2;  
+}  
+.fa-instagram {  
+  background: #125688;  
+  color: c32aa3;  
+}  
+.fa-youtube {  
+  background: #bb0000;  
+  color: ff0000;  
+}  
+.fa-google {  
+  background: #dd4b39;  
+  color: 4285f4;  
+}  
+.fa-snapchat-ghost {  
+  background: #fffc00;  
+  color: fffc00;  
+  text-shadow: -4px 0 black, 0 4px black, 4px 0 black, 0 -4px black;  
+}  
+.fa-skype {
+  background: #00aff0;
+  color: white;
+}
+.fa-medium {
+  background: #00aff0;  
+  color: 02b875;
+}
+.fa:hover {
+    opacity: 0.9;
+}
+<!------------------- flip down menu options ------------------>
 * {
   	margin: 0; 
 		padding: 0;
@@ -140,163 +192,4 @@
 		border-bottom: dotted 1px rgba(255,255,255,.15);
 		background: rgba(0,223,252,.02);
 	}
-@import url(https://fonts.googleapis.com/css?family=Lato);
-@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
-@keyframes swingdown {
-    0% {
-      opacity: .99999;
-      transform: rotateX(90deg);
-    }
-
-    30% {     
-      transform: rotateX(-20deg) rotateY(5deg);
-      animation-timing-function: ease-in-out;
-    }
-
-    65% {
-      transform: rotateX(20deg) rotateY(-3deg);
-      animation-timing-function: ease-in-out;
-    }
-
-    100% {
-      transform: rotateX(0);
-      animation-timing-function: ease-in-out;
-    }
-  }
-
-/* A simple, css only, (some-what) responsive menu */
-
-body { 
-  background: #ccc;
-  font-family: helvetica, arial, serif;
-  font-size: 13px;
-  text-transform: uppercase;
-  text-align: center;
-}
- 
-.wrap {
-  display: inline-block;
-  -webkit-box-shadow: 0 0 70px #fff;
-  -moz-box-shadow: 0 0 70px #fff;
-  box-shadow: 0 0 70px #fff;
-  margin-top: 40px;
-}
-
-/* a little "umph" */
-.decor {
-  background: #6EAF8D;
-  background: -webkit-linear-gradient(left, #CDEBDB 50%, #6EAF8D 50%);
-  background: -moz-linear-gradient(left, #CDEBDB 50%, #6EAF8D 50%);
-  background: -o-linear-gradient(left, #CDEBDB 50%, #6EAF8D 50%);
-  background: linear-gradient(left, white 50%, #6EAF8D 50%);
-  background-size: 50px 25%;;
-  padding: 2px;
-  display: block;
-}
-
-a {
-  text-decoration: none;
-  color: #fff;
-  display: block;
-}
-
-ul {
-  list-style: none;
-  position: relative;
-  text-align: left;
-}
-
-li {
-  float: left;
-}
-
-/* clear'n floats */
-ul:after {
-  clear: both;
-}
-
-ul:before,
-ul:after {
-    content: " ";
-    display: table;
-}
-
-nav {
-  position: relative;
-  background: #2B2B2B;
-  background-image: -webkit-linear-gradient(bottom, #2B2B2B 7%, #333333 100%);
-  background-image: -moz-linear-gradient(bottom, #2B2B2B 7%, #333333 100%);
-  background-image: -o-linear-gradient(bottom, #2B2B2B 7%, #333333 100%);
-  background-image: linear-gradient(bottom, #2B2B2B 7%, #333333 100%);
-  text-align: center;
-  letter-spacing: 1px;
-  text-shadow: 1px 1px 1px #0E0E0E;
-  -webkit-box-shadow: 2px 2px 3px #888;
-  -moz-box-shadow: 2px 2px 3px #888;
-  box-shadow: 2px 2px 3px #888;
-  border-bottom-right-radius: 8px;
-  border-bottom-left-radius: 8px;
-}
-
-/* prime */
-ul.primary li a {
-  display: block;
-  padding: 20px 30px;
-  border-right: 1px solid #3D3D3D;
-}
-
-ul.primary li:last-child a {
-  border-right: none;
-}
-
-ul.primary li a:hover {
-  
-  color: #000;
-}
-
-/* subs */
-ul.sub {
-  position: absolute;
-  z-index: 200;
-  box-shadow: 2px 2px 0 #BEBEBE;
-  width: 35%;
-  display:none;
-}
-
-ul.sub li {
-  float: none;
-  margin: 0;
-}
-
-ul.sub li a {
-  border-bottom: 1px dotted #ccc;
-  border-right: none;
-  color: #000;
-  padding: 15px 30px;
-}
-
-ul.sub li:last-child a {
-  border-bottom: none;
-}
-
-ul.sub li a:hover {
-  color: #000;
-  background: #eeeeee;
-}
-
-/* sub display*/
-ul.primary li:hover ul {
-  display: block;
-  background: #fff;
-}
-
-/* keeps the tab background white */
-ul.primary li:hover a {
-  background: #fff;
-  color: #666;
-  text-shadow: none;
-}
-
-ul.primary li:hover > a{
-  color: #000;
-} 
+</style>
