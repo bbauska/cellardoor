@@ -4,7 +4,7 @@
 #### Also: Cognos Analytics training class
 
 
-<h3 html="https://validator.w3.org/nu/">Nu HTML Checker</h3>
+<h3><a html="https://validator.w3.org/nu/">Nu HTML Checker</a></h3>
 
 ##### Take a refresher course through IBM Cognos BI/Analytics.  
 <br/>
