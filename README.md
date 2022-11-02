@@ -2,6 +2,10 @@
 
 #### New: typescript
 #### Also: Cognos Analytics training class
+
+
+<h3 html="https://validator.w3.org/nu/">Nu HTML Checker</h3>
+
 ##### Take a refresher course through IBM Cognos BI/Analytics.  
 <br/>
 <br/>
