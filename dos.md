@@ -1,9 +1,10 @@
 <h2>Windows DOS Command Language Interpreter (CLI)</h2>
 <br/>
-<h3>doskey /history</h3><br/>
+<h3>$ doskey /history</h3><br/>
 <p>
 Reverse Lookup IP address to domain name
-Type nslookup IP address<br>
+Type $ nslookup (IP address)<br>
+ex: $ nslookup 192.168.0.1
 </p>
 @echo off<br>
 doskey ls=dir<br>
