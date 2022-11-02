@@ -58,7 +58,7 @@ text-align: center;
 	}
 
 	body {
-		background-image: url('mars-1.png');
+		background-image: url('/images/mars-1.png');
 		background-repeat: no-repeat;
 		background-attachment: fixed;
 		background-size: cover;
