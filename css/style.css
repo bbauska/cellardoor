@@ -51,6 +51,27 @@ text-align: center;
     opacity: 0.9;
 }
 <!-- flip down shingle menu options -->
+hr { 
+	display: block;
+	width: 50%;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	margin-left: 25px;
+	margin-right: auto;
+	border-style: inset;
+	border-width: 2px;
+	background-color: red;
+	color: red;
+	height: 2px;
+} 
+
+ul.list-styles {
+  list-style-type: circle;
+}
+ul.list-styles2 {
+  list-style-type: square;
+}
+
 * {
   	margin: 0; 
 		padding: 0;
