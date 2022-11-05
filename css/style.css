@@ -14,38 +14,58 @@ text-align: center;
   background: #55ACEE;  
   color: 1da1f2;  
 }  
-.fa-pinterest {  
-  background: #cb2027;  
-  color: bd081c;  
-}  
-.fa-linkedin {  
-  background: #007bb5;  
-  color: 0a66c2;  
-}  
-.fa-instagram {  
-  background: #125688;  
-  color: c32aa3;  
-}  
 .fa-youtube {  
   background: #bb0000;  
   color: ff0000;  
-}  
-.fa-google {  
-  background: #dd4b39;  
-  color: 4285f4;  
-}  
+}
 .fa-snapchat-ghost {  
   background: #fffc00;  
   color: fffc00;  
   text-shadow: -4px 0 black, 0 4px black, 4px 0 black, 0 -4px black;  
 }  
+.fa-email {  
+  background: #;  
+  color: ;  
+}  
+.fa-google {  
+  background: #;  
+  color: ;  
+}  
+.fa-github {  
+  background: #125688;  
+  color: c32aa3;  
+}  
+.fa-medium {
+  background: #00aff0;  
+  color: 02b875;
+}
+.fa-codepen {
+  background: #;  
+  color: ;
+}
+.fa-instagram {  
+  background: #125688;  
+  color: c32aa3;  
+}  
+.fa-linkedin {  
+  background: #007bb5;  
+  color: 0a66c2;  
+}  
+.fa-indeed {  
+  background: #;  
+  color: ;  
+}
+.fa-quora {  
+  background: #;  
+  color: ;  
+}
 .fa-skype {
   background: #00aff0;
   color: white;
 }
-.fa-medium {
-  background: #00aff0;  
-  color: 02b875;
+.fa-pinterest {
+  background: #cb2027;
+  color: bd081c;
 }
 .fa:hover {
     opacity: 0.9;
@@ -94,6 +114,18 @@ ul.list-styles2 {
 	}
 
 	#container:after {
+		content: "";
+		display: block;
+		clear: both;
+		height: 0;
+	}
+
+	#container2 {
+		position: relative;
+		width: 940px;		
+	}
+
+	#container2:after {
 		content: "";
 		display: block;
 		clear: both;
@@ -165,7 +197,6 @@ ul.list-styles2 {
 		overflow: hidden;
 		transform-origin: 50% 0%;
 	}
-
 
 	#menu li:hover ul {
 		
