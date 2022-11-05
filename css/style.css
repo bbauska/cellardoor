@@ -120,18 +120,6 @@ ul.list-styles2 {
 		height: 0;
 	}
 
-	#container2 {
-		position: relative;
-		width: 940px;		
-	}
-
-	#container2:after {
-		content: "";
-		display: block;
-		clear: both;
-		height: 0;
-	}
-
 	#menu {
 		position: relative;
 		float: left;
