@@ -26,6 +26,8 @@
 [![alt text][11.1]][11]
 [![alt text][12.1]][12]
 [![alt text][13.1]][13]
+[![alt text][14.1]][13]
+[![alt text][15.1]][13]
 
 <!-- links to social media icons -->
 
@@ -44,6 +46,8 @@
 [11.1]: https://github.com/bbauska/bbauska/blob/main/images/11-linkedin.png?raw=true (linkedin icon)
 [12.1]: https://github.com/bbauska/bbauska/blob/main/images/12-indeed.png?raw=true (indeed icon)
 [13.1]: https://github.com/bbauska/bbauska/blob/main/images/13-quora.png?raw=true (quora icon)
+[14.1]: https://github.com/bbauska/bbauska/blob/main/images/14-skype.png?raw=true (skype icon)
+[15.1]: https://github.com/bbauska/bbauska/blob/main/images/15-pinterest-bw.png?raw=true (pinterest icon)
 
 <!-- links to my social media accounts -->
 
@@ -60,6 +64,8 @@
 [11]: https://linkedin.com/BBauska
 [12]: https://indeed.com/BBauska
 [13]: https://quora.com/BBauska
+[14]: https://skype.com/BrianBauska
+[15]: https://pinterest.com/BrianBauska
 
 #### Social Icons 
 
@@ -76,3 +82,5 @@
 [11:1]: https://github.com/bbauska/bbauska/blob/main/images/11-linkedin.png?raw=true (linkedin icon)
 [12:1]: https://github.com/bbauska/bbauska/blob/main/images/12-indeed.png?raw=true (indeed icon)
 [13:1]: https://github.com/bbauska/bbauska/blob/main/images/13-quora.png?raw=true (quora icon)
+[14:1]: https://github.com/bbauska/bbauska/blob/main/images/14-skype.png?raw=true (quora icon)
+[15:1]: https://github.com/bbauska/bbauska/blob/main/images/15-pinterest.png?raw=true (quora icon)
