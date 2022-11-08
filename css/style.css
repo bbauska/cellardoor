@@ -1,67 +1,67 @@
 <!-- social network icons -->
 .fa {  
   padding: 12px;
-text-align: center;  
+  text-align: center;  
   margin: 6px 2px;  
   font-size: 8px;
   width: 104px;
-}  
-.fa-facebook {  
-  background: #3B5998;  
-  color: #1877f2;  
-}  
-.fa-twitter {  
-  background: #55ACEE;  
-  color: 1da1f2;  
-}  
-.fa-youtube {  
-  background: #bb0000;  
-  color: ff0000;  
 }
-.fa-snapchat-ghost {  
-  background: #fffc00;  
-  color: fffc00;  
-  text-shadow: -4px 0 black, 0 4px black, 4px 0 black, 0 -4px black;  
+.fa-facebook {
+  background: #3b5998; /* 385998 */
+  color: 1877f2;
 }  
-.fa-email {  
-  background: #;  
-  color: ;  
-}  
-.fa-google {  
-  background: #;  
-  color: ;  
-}  
-.fa-github {  
-  background: #125688;  
-  color: c32aa3;  
-}  
+.fa-twitter {
+  background: #55ACEE;
+  color: 1da1f2;
+}
+.fa-youtube {
+  background: #282828;  /* bb0000 */
+  color: ff0000;
+}
+.fa-snapchat-ghost {
+  background: #ffffff;
+  color: fffc00;
+  text-shadow: -4px 0 black, 0 4px black, 4px 0 black, 0 -4px black;
+}
+.fa-email {
+  background: #4285f4;  /* e-mail (generic) */
+  color: f88c05;
+}
+.fa-google {
+  background: #4285f4;  /* google mail */
+  color: FBBC05;
+}
+.fa-github {
+  background: #125688;
+  color: c32aa3;
+}
 .fa-medium {
-  background: #00aff0;  
-  color: 02b875;
+  background: #00aff0;
+  color: 02B875;
 }
 .fa-codepen {
-  background: #;  
-  color: ;
+  background: #0e8eff;
+  color: 76daff;
 }
-.fa-instagram {  
-  background: #125688;  
-  color: c32aa3;  
-}  
-.fa-linkedin {  
-  background: #007bb5;  
-  color: 0a66c2;  
-}  
-.fa-indeed {  
-  background: #;  
-  color: ;  
+.fa-instagram {
+  background: #125688;
+  color: c32aa3;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: 0a66c2;
+}
+.fa-indeed {
+  background: #2164f3;
+  color: ffffff;
 }
 .fa-quora {  
-  background: #;  
-  color: ;  
+  background: #ffffff;  
+  color: aa2200;  
 }
 .fa-skype {
-  background: #00aff0;
-  color: white;
+  background: #0078d7;
+  color: 00aff0;
 }
 .fa-pinterest {
   background: #cb2027;
@@ -237,3 +237,8 @@ ul.list-styles2 {
 		border-bottom: dotted 1px rgba(255,255,255,.15);
 		background: rgba(0,223,252,.02);
 	}
+ img {
+      display: block;
+      margin: 0 auto;
+      width: 40%;
+    }
