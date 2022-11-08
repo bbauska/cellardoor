@@ -82,5 +82,5 @@
 [11:1]: https://github.com/bbauska/bbauska/blob/main/images/11-linkedin.png?raw=true (linkedin icon)
 [12:1]: https://github.com/bbauska/bbauska/blob/main/images/12-indeed.png?raw=true (indeed icon)
 [13:1]: https://github.com/bbauska/bbauska/blob/main/images/13-quora.png?raw=true (quora icon)
-[15:1]: https://github.com/bbauska/bbauska/blob/main/images/15-skype.png?raw=true (quora icon)
-[16:1]: https://github.com/bbauska/bbauska/blob/main/images/16-pinterest.png?raw=true (quora icon)
+[15:1]: https://github.com/bbauska/bbauska/blob/main/images/15-skype.png?raw=true (skype icon)
+[16:1]: https://github.com/bbauska/bbauska/blob/main/images/16-pinterest.png?raw=true (pinterest icon)
