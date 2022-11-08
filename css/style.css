@@ -1,4 +1,4 @@
-<!-- social network icons -->
+/*** social network icons ***/
 .fa {  
   padding: 12px;
   text-align: center;  
@@ -70,7 +70,7 @@
 .fa:hover {
     opacity: 0.9;
 }
-<!-- flip down shingle menu options -->
+/* flip down shingle menu */
 hr { 
 	display: block;
 	width: 50%;
