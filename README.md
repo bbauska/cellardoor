@@ -26,8 +26,8 @@
 [![alt text][11.1]][11]
 [![alt text][12.1]][12]
 [![alt text][13.1]][13]
-[![alt text][15.1]][13]
-[![alt text][16.1]][13]
+[![alt text][15.1]][15]
+[![alt text][16.1]][16]
 
 <!-- links to social media icons -->
 
