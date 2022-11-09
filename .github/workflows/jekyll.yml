@@ -1,4 +1,4 @@
-name: Brian's Jekyll site CI cellardoor.bauska.org motherfucker!
+name: Brian's Jekyll site CI cellardoor.bauska.org!
 
 on:
   push:
