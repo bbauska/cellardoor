@@ -1,9 +1,9 @@
 /*** social network icons ***/
 .fa {  
-  padding: 12px;
+  padding: 6px;
   text-align: center;  
-  margin: 6px 2px;  
-  font-size: 8px;
+  margin: 3px 1px;  
+  font-size: 6px;
   width: 104px;
 }
 .fa-facebook {
@@ -21,7 +21,7 @@
 .fa-snapchat-ghost {
   background: #ffffff;
   color: fffc00;
-  text-shadow: -4px 0 black, 0 4px black, 4px 0 black, 0 -4px black;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 .fa-email {
   background: #4285f4;  /* e-mail (generic) */
