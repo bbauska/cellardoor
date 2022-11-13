@@ -6,7 +6,25 @@
 
 <h3><a href="https://validator.w3.org/nu/">Nu HTML Checker</a></h3>
 
-##### Take a refresher course through IBM Cognos BI/Analytics.  
+##### Take a refresher course through IBM Cognos BI/Analytics.
+
+<h3><a href="https://www.ibm.com/docs/en/cognos-analytics/11.1.0?topic=manuals">IBM Cognos Analytics v11.1.x manuals</a>
+<ul>
+<li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ca_gtstd.pdf">Getting Started</a></li>
+
+<li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ug_ca_dshb.pdf">Dashboards and Stories</a></li>
+
+<li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ca_explorations.pdf">Explorations</a></li>
+
+<li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ug_cr_rptstd.pdf">Reporting</a></li>
+</ul>
+
+<h4><a href="
+
+<h4><a href="
+
+<h4><a href="
+
 <br/>
 <br/>
 <br/>
