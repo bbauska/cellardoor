@@ -1,75 +1,86 @@
 /*** social network icons ***/
-.fa {  
-  padding: 6px;
-  text-align: center;  
-  margin: 3px 1px;  
-  font-size: 6px;
-  width: 104px;
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+@mixin flex ($direction, $justify, $align) {
+  display:flex;
+  flex-direction: $direction;
+  justify-content: $justify;
+  align-items: $align;
 }
-.fa-facebook {
-  background: #3b5998; /* 385998 */
-  color: 1877f2;
-}  
-.fa-twitter {
-  background: #55ACEE;
-  color: 1da1f2;
+
+$neu-shadow: 9px 9px 16px rgba(163,177,198,0.6), -9px -9px 16px rgba(255,255,255,0.5);
+
+$new-shadow-active: 0px 0px 10px 6px rgba(0,0,0,0.1);
+
+* {
+  margin: 0px;
+  box-sizing: border-box;
 }
-.fa-youtube {
-  background: #282828;  /* bb0000 */
-  color: ff0000;
+
+html,
+body {
+  @include flex(row, center, center);
+  background: #eceff1;
+  height: 100vh;
+  width: 100vw;
+  font-family: "Open Sans";
 }
-.fa-snapchat-ghost {
-  background: #ffffff;
-  color: fffc00;
-  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+
+.buttons-container {
+  @include flex(row, space-between, center);
+  width:60%;
+  flex-wrap: wrap;
 }
-.fa-email {
-  background: #4285f4;  /* e-mail (generic) */
-  color: f88c05;
+
+.button {
+  @include flex(row, center, center);
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  box-shadow: $neu-shadow;
+  margin-bottom: 1em;
+   
+  &:hover {
+    // border: 2px solid white;
+    cursor:pointer;
+    box-shadow: $new-shadow-active;
+    color: white;
+  }
 }
-.fa-google {
-  background: #4285f4;  /* google mail */
-  color: FBBC05;
+
+.facebook:hover {
+  background: #3b5998;
 }
-.fa-github {
-  background: #125688;
-  color: c32aa3;
+
+.twitter:hover {
+  background: #1da1f2;
 }
-.fa-medium {
-  background: #00aff0;
-  color: 02B875;
+.youtube:hover {
+  background: #ff0000;
 }
-.fa-codepen {
-  background: #0e8eff;
-  color: 76daff;
+
+.instagram:hover {
+  background:linear-gradient(135deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
 }
-.fa-instagram {
-  background: #125688;
-  color: c32aa3;
+
+.github:hover {
+  background: black;
 }
-.fa-linkedin {
-  background: #007bb5;
-  color: 0a66c2;
+
+.codepen:hover {
+  background: #1e1f26;
 }
-.fa-indeed {
-  background: #2164f3;
-  color: ffffff;
+
+.snapchat:hover {
+  background: #fffc00;
 }
-.fa-quora {  
-  background: #ffffff;  
-  color: aa2200;  
+.quora:hover {
+  background: #aa2200;
 }
-.fa-skype {
-  background: #0078d7;
-  color: 00aff0;
+.amazon:hover {
+  background: #ff9900;
 }
-.fa-pinterest {
-  background: #cb2027;
-  color: bd081c;
-}
-.fa:hover {
-    opacity: 0.9;
-}
+
 /* flip down shingle menu */
 hr { 
 	display: block;
