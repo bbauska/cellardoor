@@ -1,86 +1,3 @@
-/*** social network icons ***/
-@import url(https://fonts.googleapis.com/css?family=Open+Sans);
-
-@mixin flex ($direction, $justify, $align) {
-  display:flex;
-  flex-direction: $direction;
-  justify-content: $justify;
-  align-items: $align;
-}
-
-$neu-shadow: 9px 9px 16px rgba(163,177,198,0.6), -9px -9px 16px rgba(255,255,255,0.5);
-
-$new-shadow-active: 0px 0px 10px 6px rgba(0,0,0,0.1);
-
-* {
-  margin: 0px;
-  box-sizing: border-box;
-}
-
-html,
-body {
-  @include flex(row, center, center);
-  background: #eceff1;
-  height: 100vh;
-  width: 100vw;
-  font-family: "Open Sans";
-}
-
-.buttons-container {
-  @include flex(row, space-between, center);
-  width:60%;
-  flex-wrap: wrap;
-}
-
-.button {
-  @include flex(row, center, center);
-  border-radius: 50%;
-  width: 60px;
-  height: 60px;
-  box-shadow: $neu-shadow;
-  margin-bottom: 1em;
-   
-  &:hover {
-    // border: 2px solid white;
-    cursor:pointer;
-    box-shadow: $new-shadow-active;
-    color: white;
-  }
-}
-
-.facebook:hover {
-  background: #3b5998;
-}
-
-.twitter:hover {
-  background: #1da1f2;
-}
-.youtube:hover {
-  background: #ff0000;
-}
-
-.instagram:hover {
-  background:linear-gradient(135deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
-}
-
-.github:hover {
-  background: black;
-}
-
-.codepen:hover {
-  background: #1e1f26;
-}
-
-.snapchat:hover {
-  background: #fffc00;
-}
-.quora:hover {
-  background: #aa2200;
-}
-.amazon:hover {
-  background: #ff9900;
-}
-
 /* flip down shingle menu */
 hr { 
 	display: block;
@@ -253,3 +170,85 @@ ul.list-styles2 {
       margin: 0 auto;
       width: 40%;
     }
+/*** social network icons ***/
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+@mixin flex ($direction, $justify, $align) {
+  display:flex;
+  flex-direction: $direction;
+  justify-content: $justify;
+  align-items: $align;
+}
+
+$neu-shadow: 9px 9px 16px rgba(163,177,198,0.6), -9px -9px 16px rgba(255,255,255,0.5);
+
+$new-shadow-active: 0px 0px 10px 6px rgba(0,0,0,0.1);
+
+* {
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  @include flex(row, center, center);
+  background: #eceff1;
+  height: 100vh;
+  width: 100vw;
+  font-family: "Open Sans";
+}
+
+.buttons-container {
+  @include flex(row, space-between, center);
+  width:60%;
+  flex-wrap: wrap;
+}
+
+.button {
+  @include flex(row, center, center);
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  box-shadow: $neu-shadow;
+  margin-bottom: 1em;
+   
+  &:hover {
+    // border: 2px solid white;
+    cursor:pointer;
+    box-shadow: $new-shadow-active;
+    color: white;
+  }
+}
+
+.facebook:hover {
+  background: #3b5998;
+}
+
+.twitter:hover {
+  background: #1da1f2;
+}
+.youtube:hover {
+  background: #ff0000;
+}
+
+.instagram:hover {
+  background:linear-gradient(135deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
+}
+
+.github:hover {
+  background: black;
+}
+
+.codepen:hover {
+  background: #1e1f26;
+}
+
+.snapchat:hover {
+  background: #fffc00;
+}
+.quora:hover {
+  background: #aa2200;
+}
+.amazon:hover {
+  background: #ff9900;
+}
