@@ -1,12 +1,13 @@
 <!doctype html>
 <!----------------------------------- index.html of cellardoor ----------------------------------->
-<html>
+<html lang="en" dir="ltr">
   <head>
     <title>Cellardoor</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">   
-  <meta name="viewport" content="width=device-width">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+      <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
   </head>
 <body>
   <h1 style="text-align:left;color:green">Cellardoor</h1>
@@ -799,85 +800,41 @@ JavaScript Frameworks and Libraries</h3>
 
 <hr>
 
-<!------------------------------ cs198.2x uc @ berkeley blockchain ------------------------------->
-
 <!------------------------------------- social media icons --------------------------------------->
-<div class='buttons-container'>
-  <div class='button facebook'>
-    <i class="fab fa-facebook-f fa-2x"></i>
-  </div>
-  <div class='button twitter'>
-    <i class="fab fa-twitter fa-2x"></i>
-  </div>
-  <div class='button youtube'>
-    <i class="fab fa-youtube fa-2x"></i>
-  </div>
-  <div class='button github'>
-    <i class="fab fa-github fa-2x"></i>
-  </div>
-  <div class='button instagram'>
-    <i class="fab fa-instagram fa-2x"></i>
-  </div>
-  <div class='button codepen'>
-    <i class="fab fa-codepen fa-2x"></i>
-  </div>
-  <div class='button snapchat'>
-    <i class="fab fa-snapchat fa-2x"></i>
-  </div>
-  <div class='button quora'>
-    <i class="fab fa-quora fa-2x"></i>
-  </div>
-  <div class='button amazon'>
-    <i class="fab fa-amazon fa-2x"></i>
-  </div>
-</div>
-<!--
-<a href="https://www.facebook.com/brian.bauska/" class="fa fa-facebook"></a>
-&nbsp;
-<a href="https://twitter.com/hubspot?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow  
-  @hubspot</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-&nbsp;
-<a href="https://www.youtube.com/brian.bauska" class="fa fa-youtube"></a>
-&nbsp;
-<a href="https://web.snapchat.com//brianbauska2019" class="fa fa-snapchat-ghost"></a>
-&nbsp;
-<a href="mailto:brianbauska@gmail.com?subject=From Cellardoor.bauska.org&cc=bauskabrian@gmail.com" class="fa fa-inbox"></a>
-&nbsp;
-<a href="mailto:brianbauska@gmail.com?subject=From Cellardoor.bauska.org&cc=bauskabrian@gmail.com" class="fa fa-google"></a>
-&nbsp;
-<a href="https://github.com/bbauska" class="fa fa-github"></a>
-&nbsp;
-<a href="http://www.medium.com" class="fa fa-medium"></a>
-&nbsp;
-<a href="https://www.codepen.io/BBauska" class="fa fa-codepen"></a>
-&nbsp;
-<a href="https://www.instagram.com" class="fa fa-instagram"></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/brian-bauska-89240679/" class="fa fa-linkedin"></a>
-&nbsp;
-<a href="https://www.indeed.com/bbauska" class="fa fa-fire-flame-curved"></a>
-&nbsp;
-<a href="https://www.quora.com/BrianBauska" class="fa fa-quora"></a>
-&nbsp;
-<a href="https://www.skype/live:brianbauska_1" class="fa fa-skype"></a>
-&nbsp;
-<a href="https://www.pinterest.com/Brian-Bauska" class="fa fa-pinterest"></a>
---->
+      <div class="center">
+         <div class="icons first">
+<li><a href="https://www.facebook.com/brian.bauska/" class="fa fa-facebook-f"></a></li>
+<li><a href="https://twitter.com/hubspot?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></li>
+<li><a href="https://www.youtube.com/brian.bauska" class="fa fa-youtube"></a></li>
+<li><a href="https://www.linkedin.com/in/brian-bauska-89240679/" class="fa fa-linkedin-in"></a></li>
+<li><a href="https://web.snapchat.com//brianbauska2019" class="fa fa-snapchat-ghost"></a></li>
+<li><a href="https://github.com/bbauska" class="fa fa-github"></a></li>
+<li><a href="https://www.instagram.com" class="fa fa-instagram"></a></li>
+<li><a href="https://www.quora.com/BrianBauska" class="fa fa-quora"></a></li>
+<li><a href="https://www.amazon.com/MistyFischer" class="fa fa-amazon"></a></li>
+         </div>
+         <div class="icons second">
+            <li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
+            <li><a href="#"><span class="fab fa-twitter"></span></a></li>
+            <li><a href="#"><span class="fab fa-youtube"></span></a></li>
+            <li><a href="#"><span class="fab fa-linkedin-in"></span></a></li>
+            <li><a href="#"><span class="fab fa-snapchat"></span></a></li>
+            <li><a href="#"><span class="fab fa-github"></span></a></li>
+            <li><a href="#"><span class="fab fa-instagram"></span></a></li>
+            <li><a href="#"><span class="fab fa-quora"></span></a></li>
+            <li><a href="#"><span class="fab fa-amazon"></span></a></li>
+         </div>
+      </div>
+      <script>
+         $('.first li').click(function(){
+           $(this).toggleClass("shadow-1").siblings();
+           $(this).toggleClass("fill-color").siblings();
+         });
+         $('.second li').click(function(){
+           $(this).toggleClass("shadow-2").siblings();
+           $(this).toggleClass("fill-color").siblings();
+         });
+      </script>
+   </body>
 
-<!--- last updated 11-5-2022 9:31pm --->
-<!---
-[1.1]: https://github.com/bbauska/bbauska/blob/main/images/1-fb-blue-white.png?raw=true (facebook icon)
-[2.1]: https://github.com/bbauska/bbauska/blob/main/images/2-twitter-bird.png?raw=true (twitter icon)
-[3.1]: https://github.com/bbauska/bbauska/blob/main/images/3-youtube-red-white.png?raw=true (youtube icon)
-[4.1]: https://github.com/bbauska/bbauska/blob/main/images/4-snapchat-sq-ghost.png?raw=true (snapchat icon)
-[5.1]: https://github.com/bbauska/bbauska/blob/main/images/5-email-bw.png?raw=true (e-mail icon)
-[6.1]: https://github.com/bbauska/bbauska/blob/main/images/6-gmail.png?raw=true (g-mail icon)
-[7.1]: https://github.com/bbauska/bbauska/blob/main/images/7-github.png?raw=true (github icon)
-[8.1]: https://github.com/bbauska/bbauska/blob/main/images/8-medium.png?raw=true (medium icon)
-[9.1]: https://github.com/bbauska/bbauska/blob/main/images/9-codepen.png?raw=true (codepen icon)
-[10:1]: https://github.com/bbauska/bbauska/blob/main/images/10-instagram.png?raw=true (instagram icon)
-[11:1]: https://github.com/bbauska/bbauska/blob/main/images/11-linkedin.png?raw=true (linkedin icon)
-[12:1]: https://github.com/bbauska/bbauska/blob/main/images/12-indeed.png?raw=true (indeed icon)
-[13:1]: https://github.com/bbauska/bbauska/blob/main/images/13-quora.png?raw=true (quora icon)
---->
 </html>
