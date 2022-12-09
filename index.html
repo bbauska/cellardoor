@@ -1,180 +1,964 @@
-<!DOCTYPE html>
-<!------------------------------------------------------------------------------------------------>
-<!----------------------------- index.html from briansblog in main ------------------------------->
-<!------------------------------------------------------------------------------------------------>
-<html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="" />
-        <meta name="author" content="" />
-        <title>Brian's Blog</title>
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
-        <!-- Font Awesome icons (free version)-->
-        <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
-        <!-- Google fonts-->
-        <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
-        <!-- Core theme CSS (includes Bootstrap)-->
-        <link href="css/briansblog-styles.css" rel="stylesheet" />
-    </head>
+<!doctype html>
+<!----------------------------------- index.html of cellardoor ----------------------------------->
+<html lang="en" dir="ltr">
+  <head>
+    <title>Cellardoor</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+      <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+<!----------------padd 10px, font-size 15px, width 25px, margin 5px 2px ----------------------->
+<style>
+.fa {
+  padding: 10px;
+  font-size: 15px;
+  width: 25px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
 
-    <body>
-        <!-- Navigation-->
-        <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
-            <div class="container px-4 px-lg-5">
-                <a class="navbar-brand" href="index.html">Start Brian's Blog</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                    Menu
-                    <i class="fas fa-bars"></i>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarResponsive">
-                    <ul class="navbar-nav ms-auto py-4 py-lg-0">
-                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="index.html">Home (index)</a></li>
-                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="about.html">About</a></li>
-                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="post.html">Brian's Post</a></li>
- 			            <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="https://www.educba.com/software-development/software-development-tutorials/linux-tutorial/">Linux Tutorials</a></li>
-                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="contact.html">Contact (not available)</a></li>
-                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="links.html">Links</a></li>
-                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="more-links.html">More Links</a></li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-        <!-- Page Header-->
-        <header class="masthead" style="background-image: url('assets/img/home-bg.jpg')">
-<!--            <header class="masthead" style-"background-image: url('assets/img/Aurora Australis - Indian Ocean - approaching Australia.png')">  -->
-            <div class="container position-relative px-4 px-lg-5">
-                <div class="row gx-4 gx-lg-5 justify-content-center">
-                    <div class="col-md-10 col-lg-8 col-xl-7">
-                        <div class="site-heading">
-                            <h1>Brian's Blog</h1>
-                            <span class="subheading">Read on</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </header>
-        <!-- Main Content-->
-        <div class="container px-4 px-lg-5">
-            <div class="row gx-4 gx-lg-5 justify-content-center">
-                <div class="col-md-10 col-lg-8 col-xl-7">
-                    <!-- Post preview-->
-                    <div class="post-preview">
-                        <a href="post.html">
-                            <h2 class="post-title">To Do</h2>
-				<h3 class="post-subtitle">Read a book, take a class, learn something.  Or join wall street and take OPIUM (other people's money).<br>
-                            Put {most} people before yourself, then mankind survives.</h3></a>
-                            <h4 class="post-meta">
-                        </a>
-                        <p class="post-meta">
-                            Posted by
-                            <a href="index.html">Brian's Blog</a>
-                            on July 24, 2021
-                        </p>
-                    </div>
-                    <!-- Divider-->
-                    <hr class="my-4" />
-                    <!-- Post preview-->
-                    <div class="post-preview">
-                        <a href="post.html">
-			  <h2 class="post-title">Astronaut's Speach</h2>
-			  <h3 class="post-subtitle">The view of the earth from the moon fascinated me - a small disk, 240,000 miles away. <br>
-				  It was hard to think that that little thing held so many problems, so many frustrations. <br>
-				  Raging nationalistic interests, famines, wars, pestilence don't show from that distance. <br>
-				  I'm convinced that some wayward stranger in a space-craft, coming from some other part of the heavens, could look at earth and never know that it was inhabited at all. <br>
-				  But the same wayward stranger would certainly know instinctively that if the earth were inhabited, then the destinies of all who lived on it must inevitably be interwoven and joined. <br>
-				  We are one hunk of ground, water, air, clouds, floating around in space. <br>
-				  From out there it really is 'one world'.</h3> </a>
-                        <p class="post-meta">
-                            Posted by
-                            <a href="index.html">Brian's Blog</a>
-                            on Aug 25, 2021..8:30am
-                        </p>
-                    </div>
-                    <!-- Divider-->
-                    <hr class="my-4" />
-                    <!-- Post preview-->
-                    <div class="post-preview">
-                        <a href="dragnet.html">
-				<h2 class="post-title">Heartbeats</h2>
-				<h3 class="post-subtitle">Just the facts ma'am.  dragnet (1967-1970)</h3>
-						</a>
-                        <p class="post-meta">
-                            Posted by
-                            <a href="index.html">Brian's Blog...again</a>
-                            on July 24, 2021...same as before
-                        </p>
-                    </div>
-                    <!-- Divider-->
-                    <hr class="my-4" />
-                    <!-- Post preview-->
-                    <div class="post-preview">
-                        <a href="post.html">
-                            <h2 class="post-title">Predictions</h2>
-                            <h3 class="post-subtitle">We predict too much for the next year and yet far too little for the next ten.</h3>
-                        </a>
-                        <p class="post-meta">
-                            Posted by
-                            <a href="index.html">Brian's Blog - the only one here.</a>
-                            on August 21, 2021
-                        </p>
-                    </div>
-                    <!-- Divider-->
-                    <hr class="my-4" />
-                    <!-- Post preview-->
-                    <div class="post-preview">
-                        <a href="post.html">
-                            <h2 class="post-title">To Future Generations</h2>
-                            <h3 class="post-subtitle">Many say exploration is part of our destiny, but it’s actually our duty to future generations.</h3>
-                        </a>
-                        <p class="post-meta">
-                            Posted by
-                            <a href="http://ufo.bauska.net">Space exploration.  More specifically, NASA.</a>
-                            on July 8, 2021
-                        </p>
-                    </div>
-                   <!-- Divider-->
-                    <hr class="my-4" />
-                    <!-- Post preview-->
-                    <div class="post-preview">
-                        <a href="post.html">
-                            <h2 class="post-title">Emperor of Icecream<br> by Wallace Stevens, 1954</h2>
-                            <h3 class="post-subtitle">
-							<blockquote>
-							Call the roller of big cigars,<br>
-The muscular one, and bid him whip<br>
-In kitchen cups concupiscent curds.<br>
-Let the wenches dawdle in such dress<br>
-As they are used to wear, and let the boys<br>
-Bring flowers in last month's newspapers.<br>
-Let be be finale of seem.<br>
-The only emperor is the emperor of ice-cream.<br>
+.fa:hover {
+    opacity: 0.4;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.fa-skype {
+  background: #00aff0;
+  color: white;
+}
+
+.fa-android {
+  background: #a4c639;
+  color: white;
+}
+
+.fa-dribbble {
+  background: #ea4c89;
+  color: white;
+}
+
+.fa-vimeo {
+  background: #45bbff;
+  color: white;
+}
+
+.fa-tumblr {
+  background: #2c4762;
+  color: white;
+}
+
+.fa-vine {
+  background: #00b489;
+  color: white;
+}
+
+.fa-foursquare {
+  background: #45bbff;
+  color: white;
+}
+
+.fa-stumbleupon {
+  background: #eb4924;
+  color: white;
+}
+
+.fa-flickr {
+  background: #f40083;
+  color: white;
+}
+
+.fa-yahoo {
+  background: #430297;
+  color: white;
+}
+
+.fa-soundcloud {
+  background: #ff5500;
+  color: white;
+}
+
+.fa-reddit {
+  background: #ff5700;
+  color: white;
+}
+
+.fa-rss {
+  background: #ff6600;
+  color: white;
+}
+<!--------------------------------------->
+	  </style>
+  </head>
+<body>
+  <h1 style="text-align:left;color:green">Cellardoor</h1>
+<!--------------------------- shingles menu for cellardoor.bauska.org ----------------------------->
+<div id="container">
+<ul id="menu">
+  <li><a href="#">Latest & Greatest</a>
+    <ul>
+      <li><a href="https://validator.w3.org/nu/" target="_blank" rel="noopener noreferrer">Nu HTML Checker</a></li>
+      <li><a href="https://github.com/mui/material-ui?ref=hackernoon.com" target="_blank" rel="noopener noreferrer">MUI Core foundational React UI</a></li>
+      <li><a href="https://egghead.io/q/css?access_state=free" target="_blank" rel="noopener noreferrer">CSS - Get It, Learn It, Be It!</a></li>
+      <li><a href="#documentaries">List of Documentaries</a></li>
+      <li><a href="https://blog.bauska.org" target="_blank" rel="noopener noreferrer">My newest blog - Brian's Blog at blog.bauska.org</a></li>
+      <li><a href="https://cad101en.bauska.org" target="_blank" rel="noopener noreferrer">IBM Cloud Development using HTML, CSS & JS</a></li>
+      <li><a href="#good-articles">List of Articles</a></li>
+      <li><a href="#dev-blogs">List of Developer Blogs</a></li>
+      <li><a href="#podcasts">List of Podcasts</a></li>
+      <li><a href="" target="_blank" rel="noopener noreferrer">blank holder of menu item</a></li>
+    </ul>
+  </li>
+  <li><a href="">Learn React, Lists of Tutorials</a>
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=bMknfKXIFA8" target="_blank" rel="noopener noreferrer">React Course - Beginner's Tutorial for React JavaScript Library</a></li>
+      <li><a href=" https://hackernoon.com/tagged/react-top-story" target="_blank" rel="noopener noreferrer">React Top Story</a></li>
+      <li><a href="https://freefrontend.com/bootstrap-dropdowns/" target="_blank" rel="noopener noreferrer">Responsive Bootstrap Dropdown Templates</a></li>
+      <li><a href="#tutorials">List of Online Tutorials</a></li>
+      <li><a href="#video-tutorials">List of Video Tutorials</a></li>
+      <li><a href="#bash-and-shell-scripting">List of Bash and Shell Scripting</a></li>
+      <li><a href="#open-source-websites">List of Open Source Websites</a></li>
+      <li><a href="#magazines">List of Magazines</a></li>
+      <li><a href="#computer-books">Long List of Computer Books</a></li>
+      <li><a href="#moocs">MOOCs for Learning Something New</a></li>
+    </ul>
+  </li>
+<!-------------------------------------------------------------------------------------------------
+  <li><a href="">Job Search</a>
+    <ul>
+      <li><a href="#interview-prep">List of Interview Prep</a></li>
+      <li><a href="#jobs">List Jobs</a></li>
+      <li><a href="#general-tools">List of General Tools</a></li>
+      <li><a href="#everything">List of Everything in One Place</a></li>
+      <li><a href="https://www.makeuseof.com/best-websites-for-hiring-online/" target="_blank" rel="noopener noreferrer">Online Job Search</a></li>
+    </ul>
+  </li>
+-------------------------------------------------------------------------------------------------->
+  <li><a href="">W3Cx</a>
+    <ul>
+      <li><a href="https://w3cx-1of5.bauska.org/" target="_blank" rel="noopener noreferrer">W3Cx-1of5-CSS.0x</a></li>
+      <li><a href="https://w3cx-2of5.bauska.org/" target="_blank" rel="noopener noreferrer">W3Cx-2of5-HTML5.0x</a></li>
+      <li><a href="https://w3cx-3of5.bauska.org/" target="_blank" rel="noopener noreferrer">W3Cx-3of5-HTML5.1x</a></li>
+      <li><a href="https://w3cx-4of5.bauska.org/" target="_blank" rel="noopener noreferrer">W3Cx-4of5-HTML5.2x</a></li>
+      <li><a href="https://w3cx-5of5.bauska.org/" target="_blank" rel="noopener noreferrer">W3Cx-5of5-JS.0x</a></li>
+    </ul>  
+  </li>
+  <li><a href="">Route 2, Monroe PO</a>
+    <ul>
+      <li><a href="https://github.com/bbauska/cellardoor/blob/main/images/route%202%20-%20start%20b4%20old%20owen%20&%20219th%20street.png?raw=true" target="_blank" rel="noopener noreferrer">1st leg of 14</a></li>
+      <li><a href="https://github.com/bbauska/cellardoor/blob/main/images/route%202%20-%202%20-%20old%20owen%20-%20225th%20to%20calhoun%20&%20back.png?raw=true" target="_blank" rel="noopener noreferrer">2nd </a></li>
+      <li><a href="https://github.com/bbauska/cellardoor/blob/main/images/route%202%20-%203%20-%20old%20owen%20-%20226th%20then%20228th%20&%20retrace.png?raw=true" target="_blank" rel="noopener noreferrer">3rd leg</a></li>
+      <li><a href="https://github.com/bbauska/cellardoor/blob/main/images/route%202%20-%204%20-%20florence%20acres%20rd%20-%20146th%20&%20retrace.png?raw=true" target="_blank" rel="noopener noreferrer">4th </a></li>
+      <li><a href="https://github.com/bbauska/cellardoor/blob/main/images/route%202%20-%205%20-%20florence%20acres%20rd%20-%20243rd%20to%20old%20owen%20&%20u-turn.png?raw=true" target="_blank" rel="noopener noreferrer">5th </a></li>
+      <li><a href="https://github.com/bbauska/cellardoor/blob/main/images/route%202%20-%206%20-%20florence%20acres%20rd%20-%20left%20at%20cromwell.png?raw=true" target="_blank" rel="noopener noreferrer">6th leg</a></li>
+      <li><a href="https://github.com/bbauska/cellardoor/blob/main/images/route%202%20-%207%20-cromwell%20rd%20-%20%20r%20at%20250th%20&%20retrace.png?raw=true" target="_blank" rel="noopener noreferrer">7th</a></li>
+     </ul>
+  </li>
+  <li><a href="">Support</a>
+    <ul>
+      <li><a href="#bored">List of Bored?</a></li>
+      <li><a href="https://validator.w3.org/nu/" target="_blank" rel="noopener noreferrer">Nu HTML Checker, again</a></li>
+      <li><a href="https://www.coursera.org/learn/bootstrap-4" target="_blank" rel="noopener noreferrer">Front-End Web UI Frameworks and Tools: Bootstrap 4 (Coursera)</a></li>
+      <li><a href="#when-you-get-stuck" target="_blank" rel="noopener noreferrer">When you get stuck</a></li>
+      <li><a href="#libraries">Libraries</a></li>
+      <li><a href="#webtools">7 Web Development Tools to Help Your Business</a></li>
+    </ul>
+  </li>
+  <li><a href="">Contact Me</a></li>
+</ul>
+</div>
+<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
+<!----------------------------------- documentaries websites ------------------------------------->
+<h3 id="documentaries">Documentaries</h3>
+
+<ul class="list-styles">
+  <li><a href="https://ia801908.us.archive.org/27/items/youtube-S23yie-779k/" target="_blank" rel="noopener noreferrer">Breaking the Code : Biography of Alan Turing.</a></li>
+  <li><a href="https://www.youtube.com/watch?v=4NIb9l3imAo" target="_blank" rel="noopener noreferrer">Cracking The Code Interview : Cracking the Code Interview.</a></li>
+  <li><a href="https://www.youtube.com/watch?v=Eg5-tdAwclo" target="_blank" rel="noopener noreferrer">Cracking the Coding Interview : Cracking the Coding Interview, Fullstack Speaker Series.</a></li>
+  <li><a href="https://www.youtube.com/watch?v=iOq5kSKqeR4" target="_blank" rel="noopener noreferrer">Harvard CS50 - Asymptotic Notation (video) : Asymptotic Notation explained by Harvard.</a></li>
+  <li><a href="https://www.youtube.com/watch?v=Mv2XQgpbTNE" target="_blank" rel="noopener noreferrer">Machine Code Instructions (video) : Code instructions.</a></li>
+  <li><a href="https://www.youtube.com/watch?v=0iPiYxjsYKk" target="_blank" rel="noopener noreferrer">Machine that Changed the World - a very good documentary about the history of computers
+  Part 1 is unavailable for free streaming due to widespread copyright claims. Part 2: Inventing the Future.</a></li>
+  <li><a href="https://www.youtube.com/watch?v=d7DKVfOXr54" target="_blank" rel="noopener noreferrer">Part 3: The Paperback Computer.</a></li>
+  <li><a href="https://www.youtube.com/watch?v=enWWlx7-t0k" target="_blank" rel="noopener noreferrer">Part 4: The Thinking Machine.</a></li>
+  <li><a href="https://www.youtube.com/watch?v=fLLXiP7diEo" target="_blank" rel="noopener noreferrer">Part 5: The World at Your Fingertips.</a></li>
+  <li><a href="https://www.youtube.com/watch?v=s1i-dnAH9Y4" target="_blank" rel="noopener noreferrer">Mechanical Computer (All Parts) : a very good video from the 1950s explaining how mechanical computers used to work without all the modern-day electronics.</a></li>
+  <li><a href="https://teachyourselfcs.com" target="_blank" rel="noopener noreferrer">Teach Yourself Computer Science : Teach Yourself Computer Science.</a></li>
+  <li><a href="https://www.youtube.com/watch?v=XMm0HsmOTFI" target="_blank" rel="noopener noreferrer">The Code : Story of Linux documentary.</a></li>
+  <li><a href="https://www.youtube.com/watch?v=9vz06QO3UkQ" target="_blank" rel="noopener noreferrer">The Internet's Own Boy : The Story of Aaron Swartz.</a></li>
+</ul>
+<hr>
+<!--------------------------------- end documentaries websites ----------------------------------->
+<!----------------------------------- good articles websites ------------------------------------->
+<h3 id="good-articles">Good Articles</h3>
+
+<ul class="list-styles2">
+  <li><a href="https://www.infoq.com/articles/Starting-With-MongoDB/" target="_blank" rel="noopener noreferrer">14 Things I Wish I’d Known When Starting with MongoDB.</a></li>
+  <li><a href="http://carlcheo.com/compsci" target="_blank" rel="noopener noreferrer">40 Keys Computer Science Concepts Explained In Layman’s Terms.</a></li>
+  <li><a href="https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory" target="_blank" rel="noopener noreferrer">A Gentle Introduction To Graph Theory.</a></li>
+  <li><a href="http://moonscript.org" target="_blank">A programmer-friendly language that compiles to Lua.</a></li>
+  <li><a href="https://stevewedig.com/2014/02/03/software-developers-reading-list/" target="_blank" rel="noopener noreferrer"">A Software Developer’s Reading List : Some good books and links in there.</a></li>
+  <li><a href="http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/" target="_blank" rel="noopener noreferrer">Code a TCP/IP stack : Let's code a TCP/IP stack, 5 : TCP Retransmission.</a></li>
+  <li><a href="https://codewords.recurse.com/issues/four/the-language-of-choice" target="_blank" rel="noopener noreferrer">Codewords.recurse : The language of choice.</a></li>
+  <li><a href="https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions" target="_blank"> rel="noopener noreferrer"Data structure and Algorithms : List of some algorithms and data structures with their solutions.</a></li>
+  <li><a href="https://www.wikiwand.com/en/Java_bytecode" target="_blank" rel="noopener noreferrer">Dive into the byte code.</a></li>
+  <li><a href="http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/" target="_blank" rel="noopener noreferrer">Expectations of a Junior Developer.</a></li>
+  <li><a href="https://studio3t.com/knowledge-base/articles/mongodb-getting-started/" target="_blank" rel="noopener noreferrer">Getting Started with MongoDB – An Introduction.</a></li>
+  <li><a href="https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html" target="_blank" rel="noopener noreferrer">Linux Inside.</a></li>
+  <li><a href="https://www.wikiwand.com/en/List_of_algorithms" target="_blank" rel="noopener noreferrer">List of algorithms.</a></li>
+  <li><a href="https://www.databasestar.com/normalization-in-dbms/" target="_blank" rel="noopener noreferrer">Step by Step Guide to Database Normalization : A guide to database normalization.</a></li>
+  <li><a href="http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/" target="_blank" rel="noopener noreferrer">The Key To Accelerating Your Coding Skills.</a></li>
+  <li><a href="https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/" target="_blank" rel="noopener noreferrer">Unicode.</a></li>
+  <li><a href="http://multithreaded.stitchfix.com" target="_blank" rel="noopener noreferrer">We are reinventing the retail industry through innovative technology.</a></li>
+  <li><a href="http://kunststube.net/encoding/" target="_blank" rel="noopener noreferrer">What every programmer absolutely, positively needs to know about encodings and character sets to work with text.</a></li>
+  <li><a href="http://futuretech.blinkenlights.nl/misc/cpumemory.pdf" target="_blank" rel="noopener noreferrer">What every programmer should know about memory - PDF.</a></li>
+  <li><a href="https://qotoqot.com/blog/improving-focus/" target="_blank" rel="noopener noreferrer">qotoqot - improving-focus : How I got to 200 productive hours a month.</a></li>
+  <li><a href="http://www.pixelbeat.org/docs/unix-parallel-tools.html" target="_blank" rel="noopener noreferrer">Pixel Beat - Unix : Parallel processing with Unix tools.</a></li>
+  <li><a href="https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7" target="_blank" rel="noopener noreferrer">Learning Vim : What I Wish I Knew.</a></li>
+  <li><a href="http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel" target="_blank" rel="noopener noreferrer">Write a Kernel : Kernel 101 – Let’s write a Kernel.</a></li>
+  <li><a href="https://addyosmani.com/resources/essentialjsdesignpatterns/book/" target="_blank" rel="noopener noreferrer">Learning JavaScript Design Patterns : the online version of the Learning. JavaScript Design Patterns published by O'Reilly, released by the author Addy Osmani under CC BY-NC-ND 3.0.</a></li>
+  <li><a href="https://requestbin.com/blog/working-with-webhooks/" target="_blank" rel="noopener noreferrer">Working with Webhooks : a comprehensive guide on webhooks.</a></li>
+  <li><a href="https://www.mrdbourke.com/how-i-got-tensorflow-developer-certified/" target="_blank" rel="noopener noreferrer">How I got TensorFlow Developer Certified : Step By Step guide to pass Tensorflow Developer Certification.</a></li>
+</ul>
+
+<hr>
+<!--------------------------------- end good articles websites ----------------------------------->
+<!---------------------------------------- bored websites ---------------------------------------->
+<h3 id="bored">When you get bored from CS related stuff</h3>
+<ul class="list-styles2">
+  <li><a href="https://www.youtube.com/user/barcroftmedia/featured" target="_blank" rel="noopener noreferrer">Barcroft TV : Daily short documentaries about the incredible variety of people that make up the world.</a><br></li>
+  <li><a href="https://www.youtube.com/user/bigthink/videos" target="_blank" rel="noopener noreferrer">Big Think : Expert driven, actionable, educational content, featuring experts ranging from Bill Clinton to Bill Nye (deutsch-bag).</a><br></li>
+  <li><a href="https://www.youtube.com/user/coldfustion/videos" target="_blank" rel="noopener noreferrer">ColdFusion : Past, present, and future of technology.</a><br></li>
+  <li><a href="https://www.youtube.com/user/crashcourse/videos" target="_blank" rel="noopener noreferrer">CrashCourse : small courses on various subjects.</a><br></li>
+  <li><a href="https://www.youtube.com/user/everyframeapainting/videos" target="_blank" rel="noopener noreferrer">Every Frame a Painting : High-quality analysis of films and filmmaking.</a><br></li>
+  <li><a href="https://www.youtube.com/user/NationalGeographic/videos" target="_blank" rel="noopener noreferrer">National Geographic : High volume of high-quality content from all over the world.</a><br></li>
+  <li><a href="https://www.reddit.com/r/ProgrammerHumor/" target="_blank" rel="noopener noreferrer">r/ProgrammerHumor : Subreddit dedicated to exactly what it sounds like.</a><br></li>
+  <li><a href="https://www.reddit.com" target="_blank" rel="noopener noreferrer">Reddit the front page of the internet : Where free time goes to die.</a><br></li>
+  <li><a href="https://www.youtube.com/user/VineMontanaTV/videos" target="_blank" rel="noopener noreferrer">Ridddle : A youtube channel about science, mainly, but not only, the universe and space.</a><br></li>
+  <li><a href="https://regexcrossword.com" target="_blank" rel="noopener noreferrer">Regex Crossword : A simple crossword game where clues are regex that must be matched.</a><br></li>
+  <li><a href="https://www.youtube.com/user/scishow/videos" target="_blank" rel="noopener noreferrer">SciShow : Answers to interesting questions that you've always wondered about.</a><br></li>
+  <li><a href="https://www.youtube.com/user/destinws2/videos" target="_blank" rel="noopener noreferrer">SmarterEveryDay : Lots of amazing scientific information about the world around us, usually captured with a high-speed camera.</a><br></li>
+  <li><a href="https://www.youtube.com/user/TEDtalksDirector/videos" target="_blank" rel="noopener noreferrer">TED : Great talks about technology, entertainment, and design.</a><br></li>
+  <li><a href="https://www.youtube.com/user/TestTubeNetwork/videos" target="_blank" rel="noopener noreferrer">TestTube News : Interesting information about news from around the world.</a><br></li>
+  <li><a href="http://www.bbc.com/future/story/20170601-the-secret-to-a-long-and-healthy-life-eat-less" target="_blank" rel="noopener noreferrer">How to live for a long time ? : The secret of longevity.</a><br></li>
+  <li><a href="https://www.youtube.com/user/Vsauce/videos" target="_blank" rel="noopener noreferrer">Vsauce : The best youtube channel.</a><br></li>
+  <li><a href="http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/dr-bronwyn-tarr#" target="_blank">Ox A cuk : How to live a happy life.</a><br></li>
+  <li><a href="https://www.lonelyspeck.com/the-milky-way-in-los-angeles-light-pollution/" target="_blank" rel="noopener noreferrer">lonelyspeck : Expose to the Right for Astrophotography in Light Pollution – Palos Verdes, Los Angeles, California.</a></li>
+</ul>
+
+<hr>
+<!-------------------------------------- end bored websites -------------------------------------->
+<!--------------------------------- watch others code websites ----------------------------------->
+<h3 id="dev-blogs">Watch others code</h3>
+
+<ul class="list-styles2">
+  <li><a href="https://www.education-ecosystem.com" target="_blank" rel="noopener noreferrer">Education Ecosystem : screencast of people building applications, websites, games, etc.</a></li>
+  <li><a href="https://www.twitch.tv/directory/game/Science%20%26%20Technology" target="_blank" rel="noopener noreferrer">Twitch.tv : The programming community of twitch.</a></li>
+</ul>
+
+<hr>
+<!------------------------------- end watch others code websites --------------------------------->
+<!------------------------------------------ podcasts -------------------------------------------->
+<h3 id="podcasts">Podcasts</h3>
+
+<ul class="list-styles">
+  <li><a href="http://www.codingblocks.net" target="_blank" rel="noopener noreferrer">Coding Blocks : A podcast covering topics such as best programming practices, design patterns, coding for performance, object-oriented coding, database design and implementation, tips, tricks and a whole lot of other things.</a></li>
+  <li><a href="http://developeronfire.com/episodes" target="_blank" rel="noopener noreferrer">Developer On Fire : A podcast that shares the humanity of developers and tells stories of some of the amazing people in software, hosted by Dave Rael.</a></li>
+  <li><a href="https://spec.fm/podcasts/developer-tea" target="_blank" rel="noopener noreferrer">Developer Tea : A podcast for developers designed to fit inside your tea break.</a></li>
+  <li><a href="http://frontendhappyhour.com" target="_blank" rel="noopener noreferrer">Front End Happy Hour : A podcast featuring a panel of Software Engineers from Netflix, Evernote, Atlassian &amp; LinkedIn talking over drinks about all things Front End development.</a></li>
+  <li><a href="http://www.fullstackradio.com" target="_blank" rel="noopener noreferrer">Full Stack Radio : Everything from product design and user experience to unit testing and system administration.</a></li>
+  <li><a href="http://groovypodcast.podbean.com" target="_blank" rel="noopener noreferrer">Groovy Podcast : A podcast dedicated to the Groovy programming language and its ecosystem.</a></li>
+  <li><a href="https://devchat.tv/iphreaks" target="_blank" rel="noopener noreferrer">IPhreaks : A weekly group discussion about iOS development and related technology by development veterans. We discuss Apple, tools, practices, and code.</a></li>
+  <li><a href="https://devchat.tv/js-jabber" target="_blank" rel="noopener noreferrer">JavaScript Jabber : A weekly discussion about JavaScript, front-end development, community, careers, and frameworks.</a></li>
+  <li><a href="https://learntocodewith.me/podcast/" target="_blank" rel="noopener noreferrer">Learn To Code With Me Podcast : A Season by season of tech podcast episodes by Laurence Bradford with topics ranging from Career in Tech to lessons in doing tech business.</a></li>
+  <li><a href="https://lispcast.com/category/podcast/" target="_blank" rel="noopener noreferrer">LispCast : A podcast by Eric Normand, a functinal programming expert talking about FP concepts.</a></li>
+  <li><a href="http://msdevshow.com" target="_blank" rel="noopener noreferrer">MS Dev Show : Jason Young and Carl Schweitzer talk about the latest in developer news covering topics such as the Azure cloud, Windows, Windows Phone, Visual Studio, and cross-platform development using the Microsoft platform.</a></li>
+  <li><a href="https://devchat.tv/react-native-radio" rel="noopener noreferrer">React Native Radio : A weekly discussion of the tools, techniques, and technologies used to build mobile applications with JavaScript and React.</a></li>
+  <li><a href="https://softskills.audio/" target="_blank">Soft Skills Engineering : A weekly advice podcast for software developers about non-technical topics.</a></li>
+  <li><a href="https://softwareengineeringdaily.com" target="_blank" rel="noopener noreferrer">Software Engineering Daily : A daily technical interview about software topics.</a></li>
+  <li><a href="http://www.se-radio.net" target="_blank" rel="noopener noreferrer">Software Engineering Radio : A podcast targeted at the professional software developer. The goal is to be a lasting educational resource, not a newscast.</a></li>
+  <li><a href="https://syntax.fm" target="_blank" rel="noopener noreferrer">Syntax : A Tasty Treats Podcast for Web Developers by Wes Bos &amp; Scott Tolinski.</a></li>
+  <li><a href="http://bikeshed.fm"  target="_blank" rel="noopener noreferrer">The Bike Shed : Guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and others.</a></li>
+  <li><a href="https://changelog.com/podcast" target="_blank" rel="noopener noreferrer">The Changelog : A weekly conversation that gets to the heart of open source technologies and the people who create them.</a></li>
+  <li><a href="https://cynicaldeveloper.com" target="_blank" rel="noopener noreferrer">The Cynical Developer : A podcast that aims to help you to improve your development knowledge and career, through explaining the latest and greatest in development technology and providing you with what you need to succeed as a developer. Covering Desktop, web, and mobile development, mainly around the .Net Stack but often looking into other software and frameworks.</a></li>
+  <li><a href="blockchain.global/blockchain-innovation" target="_blank" rel="noopener noreferrer">Blockchain Insider by 11:FS : Podcast to learn about the Blockchain Technology.</a></li>
+  <li><a target="_blank" rel="noopener noreferrer" href="unchainedpodcast.co">Unchained Podcast to learn about the Blockchain Technology.</a></li>
+  <li><a href="https://talkpython.fm/" target="_blank" rel="noopener noreferrer">Talk python to me Podcast to learn about Python through interviews and discussions.</a></li>
+  <li><a href="https://pythonbytes.fm" target="_blank" rel="noopener noreferrer">Python bytes Podcast to learn about the latest happenings and trends in Python.</a></li>
+</ul>
+
+<hr>
+<!---------------------------------- end podcasts - shingle #2 ----------------------------------->
+<!------------------------------------------ tutorials ------------------------------------------->
+<h3 id="tutorials">Tutorials</h3>
+
+<ul class="list-styles">
+  <li><a href="https://wildlyinaccurate.com/a-hackers-guide-to-git/" target="_blank" rel="noopener noreferrer">A Hacker's Guide to Git : for those wanting to learn git with a solid foundation.</a></li>
+  <li><a href="http://duartes.org/gustavo/blog/best-of/" target="_blank" rel="noopener noreferrer">Best Of - Gustavo Duarte : contains articles on various topics</a></li>
+  <li><a href="http://cs.lmu.edu/~ray/classes/dsa/" target="_blank" rel="noopener noreferrer">CMSI 281: Data Structures : lightweight introduction to DS</a></li>
+  <li><a href="http://overapi.com" target="_blank" rel="noopener noreferrer">Collecting all the cheat sheets : cheat sheets for lots of programming languages.</a></li>
+  <li><a href="http://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html" target="_blank" rel="noopener noreferrer">C Programming.</a></li>
+  <li><a href="https://cryptohack.org/" target="_blank" rel="noopener noreferrer">CryptoHack : Learn cryptography through challenges and tutorials. Has a leaderboard and new challenges are added every few months.</a></li>
+  <li><a href="https://hackr.io/tutorials/learn-c-plus-plus" target="_blank" rel="noopener noreferrer">Programming Community Curated C++ Resources : resources recommended by developers.</a></li>
+  <li><a href="https://www.slideshare.net/olvemaudal/deep-c" target="_blank" rel="noopener noreferrer">Deep C : very good presentation on C language.</a></li>
+  <li><a href="https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612" target="_blank" rel="noopener noreferrer">Design Patterns: Elements of Reusable Object-Oriented Software : aka the "Gang Of Four" book, or GOF.</a></li>
+  <li><a href="http://prismoskills.appspot.com/lessons/Dynamic_Programming/Chapter_01_-_Introduction.jsp" target="_blank" rel="noopener noreferrer">Dynamic programming - PrismoSkills : very good resource if want to learn how to solve DP problems.</a></li>
+  <li><a href="https://flexboxfroggy.com" target="_blank" rel="noopener noreferrer">Flexbox Froggy : a game that teaches you how to use CSS flexbox properties.</a></li>
+  <li><a href="https://maryrosecook.com/blog/post/git-from-the-inside-out" target="_blank" rel="noopener noreferrer">Git from the inside out.</a></li>
+  <li><a href="https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124" target="_blank" rel="noopener noreferrer">Head First Design Patterns.</a></li>
+  <li><a href="http://cs.fit.edu/~mmahoney/cse2050/how2cpp.html" target="_blank" rel="noopener noreferrer">How to Program in C++ : Good resource for revising C++ topics and STL.</a></li>
+  <li><a href="http://www.mysqltutorial.org/" target="_blank" rel="noopener noreferrer">MySQL Tutorial.</a></li>
+  <li><a href="https://indradhanush.github.io/blog/writing-a-unix-shell-part-3/" target="_blank" rel="noopener noreferrer">Writing a Unix Shell.</a></li>
+  <li><a href="http://www.le.ac.uk/users/rjm1/cotter/index.htm" target="_blank" rel="noopener noreferrer">Introduction to C Programming.</a></li>
+  <li><a href="http://freeengineer.org/learnUNIXin10minutes.html" target="_blank" rel="noopener noreferrer">Learn UNIX in 10 minutes.</a></li>
+  <li><a href="http://linuxcommand.org" target="_blank" rel="noopener noreferrer">Learning the shell.</a></li>
+
+  <li><a href="https://linuxjourney.com" target="_blank" rel="noopener noreferrer">Linux Journey : good site for learning Linux.</a></li>
+  <li><a href="https://ryanstutorials.net/linuxtutorial/" target="_blank" rel="noopener noreferrer">Linux Tutorial : good resource for learning Linux.</a></li>
+  <li><a href="https://missing.csail.mit.edu/" target="_blank" rel="noopener noreferrer">Missing Semester : The missing semester of your computer science education.</a></li>
+  <li><a href="https://guides.github.com/features/mastering-markdown/" target="_blank" rel="noopener noreferrer">More about Github-flavored markdown.</a></li>
+  <li><a href="http://www.techotopia.com/index.php/MySQL_Essentials" target="_blank" rel="noopener noreferrer">MySQL Essentials.</a></li>
+  <li><a href="http://opendatastructures.org" target="_blank" rel="noopener noreferrer">Open Data Structures : Excellent resource for learning about DS and algos, provides code in various languages C++, Java, and pseudocode.</a></li>
+  <li><a href="https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/" target="_blank" rel="noopener noreferrer">OS Course Notes : Chapter-wise course notes according to Galvin's book.</a></li>
+  <li><a href="https://dzone.com" target="_blank">Programming, Web Development, and DevOps news, tutorials, and tools for beginners to experts.</a></li>
+  <li><a href="http://www.cheat-sheets.org/sites/sql.su/" target="_blank" rel="noopener noreferrer">SQL (Structured Query Language) in one page : SQL.SU : a very good SQL cheat sheet.</a></li>
+  <li><a href="https://www.subtle.press/course/poor-mans-ci" target="_blank" rel="noopener noreferrer">Subtle | Poor Man's CI : Learn how continuous integration platforms work under the hood, by building one of your own on top of git with Node.js.</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/TCP/IP_Illustrated" target="_blank" rel="noopener noreferrer">TCP/IP Illustrated Series.</a></li>
+  <li><a href="http://guide.bash.academy" target="_blank" rel="noopener noreferrer">The Bash Guide : a very good guide for learning the Bash Shell.</a></li>
+  <li><a href="https://www.chiark.greenend.org.uk/~sgtatham/cdescent/" target="_blank" rel="noopener noreferrer">The Descent to C : for those moving to C from some higher programming language like java or python.</a></li>
+  <li><a href="https://www.amazon.com/LinuxCommand-Line-Complete-Introduction/dp/1593273894" target="_blank" rel="noopener noreferrer">The Linux Command Line: A Complete Introduction.</a></li>
+  <li><a href="http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info" target="_blank" rel="noopener noreferrer">The Unix Programming Environment.</a></li>
+  <li><a href="https://www.topcoder.com/community/data-science/data-science-tutorials/" target="_blank" rel="noopener noreferrer">TopCoder Tutorials.</a></li>
+  <li><a href="https://www.tutorialspoint.com" target="_blank" rel="noopener noreferrer">Tutorialspoint : Text and Video Tutorials for UPSC, IAS, PCS, Civil Services, Banking, Aptitude, Questions, Answers, Explanation, Interview, Entrance, Exams, Solutions.</a></li>
+  <li><a href="https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057" target="_blank" rel="noopener noreferrer">UNIX and Linux System Administration Handbook, 4th Edition.</a></li>
+  <li><a href="https://vimtutorplus.herokuapp.com/exercise/1" target="_blank" rel="noopener noreferrer">VimTutor+ : Learn VIM from the browser.</a></li>
+  <li><a href="https://www.w3schools.com" target="_blank" rel="noopener noreferrer">W3Schools Online Web Tutorials.</a></li>
+  <li><a href="https://www.dartmouth.edu/~rc/classes/ksh/print_pages.shtml" target="_blank" rel="noopener noreferrer">Unix Shell : Unix shell scripting with ksh/bash.</a></li>
+  <li><a href="http://snapsvg.io" target="_blank" rel="noopener noreferrer">Snap SVG : The JavaScript SVG library for the modern web.</a></li>
+  <li><a href="https://vim.rtorr.com" target="_blank" rel="noopener noreferrer">vim.rtorr : Vim Cheat Sheet.</a></li>
+  <li><a href="http://www.openvim.com/tutorial.html" target="_blank" rel="noopener noreferrer">Open Vim :  Interactive Vim tutorials.</a></li>
+  <li><a href="http://thume.ca/2017/06/17/tree-diffing/" target="_blank" rel="noopener noreferrer">Algorithm Using Dynamic Programming and A* : Designing a Tree Diff Algorithm Using Dynamic Programming and A*.</a></li>
+  <li><a href="https://www.learnpython.org" target="_blank" rel="noopener noreferrer">Learn Python : Free Interactive Python Tutorial.</a></li>
+  <li><a href="https://www.viva64.com/en/b/0533/" target="_blank" rel="noopener noreferrer">C++17 : A guide of C++17.</a></li>
+  <li><a href="http://www.bash.academy" target="_blank" rel="noopener noreferrer">The Bash Academy : The Bash Academy is an initiative to promote the bash shell language and educate people on its use.</a></li>
+  <li><a href="http://learnshell.org" target="_blank" rel="noopener noreferrer">Learn Shell Programming : This website is intended for everyone who wishes to learn programming with Unix/Linux shell interpreters.</a></li>
+  <li><a href="https://hackr.io/tutorials/learn-java" target="_blank" rel="noopener noreferrer">Java tutorial : A programming community &amp; a great place to find the best online programming courses and tutorials.</a></li>
+  <li><a href="https://explainshell.com/" target="_blank" rel="noopener noreferrer">Explain Shell: Match command-line arguments to their help text.</a></li>
+  <li><a href="https://speaking.io/" target="_blank" rel="noopener noreferrer">Speaking io : Tips for public speaking.</a></li>
+  <li><a href="https://javascript.info/" target="_blank" rel="noopener noreferrer">Javascript.info : The Modern JavaScript Tutorial.</a></li>
+</ul>
+
+<hr>
+<!---------------------------------------- end tutorials ----------------------------------------->
+<!--------------------------------------- video-tutorials ---------------------------------------->
+<h3 id="video-tutorials">Video Tutorials</h3>
+
+<ul class="list-styles">
+  <li><a href="https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ" target="_blank" rel="noopener noreferrer">Aditya Verma: Algorithm tutorials playlists by an Indian youtuber Aditya verma.</a></li>
+  <li><a href="https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos" target="_blank"><em>codedamn : Front-End Web Dev Tutorials.</em></a></li>
+  <li><a href="https://www.codeschool.com" target="_blank">Code School : A PluralSight Company and an Interactive learning destination for aspiring and experienced Developers.</a></li>
+  <li><a href="https://www.youtube.com/user/CodingMadeEasy/videos" target="_blank">CodingMadeEasy : C++ tutorials.</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PL6B940F08B9773B9F" target="_blank">CS1: Higher Computing - Richard Buckland UNSW : a very good introductory CS course.</a></li>
+  <li><a href="https://www.youtube.com/user/derekbanas/videos" target="_blank"><em>Derek Banas : Good Quality Tutorials.</em></a></li>
+  <li><a href="http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms" target="_blank">Design and Analysis of Algorithms.</a></li>
+  <li><a href="https://www.youtube.com/user/DevTipsForDesigners/videos" target="_blank"><em>DevTips : Web Dev Tutorials.</em></a></li>
+  <li><a href="https://freecourses.github.io" target="_blank">FreeCourses : Free courses about programming.</a></li>
+  <li><a href="https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos" target="_blank">Kathryn Hodge: Has good videos for beginners.</a></li>
+  <li><a href="https://www.youtube.com/user/mycodeschool/videos" target="_blank">Mycodeschool : Data structures and algorithms tutorials.</a></li>
+  <li><a href="https://www.pluralsight.com" target="_blank">Pluralsight : Learn Software Development, DevOps and Data Science through multiple short courses.</a></li>
+  <li><a href="https://www.youtube.com/user/thenewboston/videos" target="_blank">thenewboston : good but with too much talk as compared to actual content.</a></li>
+  <li><a href="https://www.youtube.com/user/tusharroy2525/videos" target="_blank">Tushar Roy : Algorithm and Data structure tutorial by an Indian Youtuber.</a></li>
+  <li><a href="http://derekwyatt.org/vim/tutorials/index.html" target="_blank">Vim Tutorial Videos - Flarfnoogins : good video tutorial for learning vim.</a></li>
+  <li><a href="https://forum.xda-developers.com/general/xda-university" target="_blank">XDA-University - Helping You Learn Android Development.</a></li>
+  <li><a href="https://www.khanacademy.org/computing/computer-science" target="_blank">Khan Academy : learn about computer science for free.</a></li>
+  <li><a href="https://www.youtube.com/watch?v=1PhArSujR_A" target="_blank">Functional programming : John Carmack on Functional Programming (2013).</a></li>
+  <li><a href="https://vimeo.com/album/2838732" target="_blank">Video about vims] : A serie of tutorials about Vim.</a></li>
+  <li><a href="https://masteringnextjs.com/" target="_blank">Mastering Next.js : A free serie of videos to learn Next.js.</a></li>
+</ul>
+
+<hr>
+<!------------------------------------- end video-tutorials -------------------------------------->
+<!----------------------------- bash and shell scripting websites -------------------------------->
+<h3 id="bash-and-shell-scripting">Bash and Shell scripting</h3>
+
+<ul class="list-styles">
+  <li><a href="http://tldp.org/LDP/abs/html/" target="_blank" rel="noopener noreferrer">Advanced Bash-Scripting Guide : An in-depth exploration of the art of shell scripting.</a></li>
+  <li><a href="http://www.tldp.org/LDP/Bash-Beginners-Guide/html/" target="_blank" rel="noopener noreferrer">Bash Guide for Beginners : Bash Guide for Beginners Machtelt Garrels.</a></li>
+  <li><a href="http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html" target="_blank" rel="noopener noreferrer">Bash Programming : by Mike G mikkey at dynamo.com.ar.</a></li>
+  <li><a href="https://www.gnu.org/software/bash/manual/bashref.html" target="_blank" rel="noopener noreferrer">Bash Reference Manual : Bash Reference Manual.</a></li>
+  <li><a href="http://mywiki.wooledge.org/BashGuide" target="_blank" rel="noopener noreferrer">BashGuide : BashGuide - Greg's Wiki.</a></li>
+  <li><a href="http://conqueringthecommandline.com/book/frontmatter" target="_blank" rel="noopener noreferrer">Conquering the Command Line : Unix and Linux Commands for Developers.</a></li>
+  <li><a href="https://www.airbornos.com" target="_blank" rel="noopener noreferrer">Airbon OS :  Private Google Docs Alternative.</a></li>
+  <li><a href="https://www.commandlinefu.com/commands/browse" target="_blank" rel="noopener noreferrer">Commandlinefu : An extensive collection of Shell oneliners that can save your day on many occasions.</a></li>
+</ul>
+
+<hr>
+<!--------------------------- end bash and shell scripting websites ------------------------------>
+<!-------------------------------------- open source websites ------------------------------------>
+<h3 class="w3-text-green w3-xlarge" id="open-source-websites">Open Source Websites</h3>
+
+<link rel="stylesheet"
+   href="https://www.w3schools.com/w3css/4/w3.css">
+<div class="w3-container w3-left">
+
+<ul class="list-styles">
+  <li><a href="https://openhatch.org" target="_blank">Open Hatch : OpenHatch is a non-profit dedicated to matching prospective free software contributors with communities, tools, and education.</a></li>
+  <li><a href="https://sourceforge.net" target="_blank">Source Forge : SourceForge hosts nearly 280,000 projects (at last count). It serves more than 2 million downloads a day and includes apps and tools in a wide variety of categories.</a></li>
+  <li><a href="https://code.google.com/projecthosting" target="_blank">Google Code : Google offers free hosting for open source projects using the Subversion or Mercurial version control systems. It offers 2 GB of storage, integrated code review tools, a wiki, and an issue tracker. The Google Code site also provides links to Google's many publicly available APIs and other developer tools.</a></li>
+  <li><a href="https://launchpad.net" target="_blank">Launch Pad : Maintained by Canonical, LaunchPad is particularly targeted at projects that run on Ubuntu. It provides hosting for more than 21,000 projects that use the Bazaar version control system.</a></li>
+  <li><a href="https://opensource.google.com" target="_blank">Google Open Source : Google Open Source</a></li>
+  <li><a href="https://developers.redhat.com" target="_blank">Red Hat Developer : The world's leading provider of open source solutions</a></li>
+  <li><a href="https://opensource.com" target="_blank">Open Source : Open Source</a></li>
+  <li><a href="https://summerofcode.withgoogle.com" target="_blank">Google Summer of Code : Google Summer of Code is a global program focused on bringing more student developers into open source software development. Students work with an open-source organization on a 3-month programming project during their break from school.</a></li>
+  <li><a href="http://www.oswd.org" target="_blank">Open Source Web Design : Open Source Web Design is a platform for sharing standards-compliant free web design templates. We give web publishers a voice through good design.</a></li>
+  <li><a href="https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016" target="_blank">Mozilla Winter of Security : The Winter of Security (MWOS) is a program organized by Mozilla's Security teams to involve students with Security projects. Students who have to perform a semester project as part of their university curriculum can apply to one of the MWOS projects.</a></li>
+  <li><a href="https://bitbucket.org" target="_blank">Bit Bucket : Like GitHub, BitBucket hosts both public and private projects. On this site, open-source projects and private projects with fewer than five users are free. It hosts more than 48,000 repositories, many of which are searchable on the site.</a></li>
+  <li><a href="https://www.mediawiki.org/wiki/MediaWiki" target="_blank">Media Wiki : MediaWiki is a free software open source wiki package written in PHP, originally for use on Wikipedia. It is now also used by several other projects of the non-profit Wikimedia Foundation and by many other wikis, including this website, the home of MediaWiki.</a></li>
+  <li><a href="https://codecuriosity.org" target="_blank">Code Curiosity : CodeCuriosity is a platform that encourages contributions to open source. Everyone is rewarded for their efforts, no matter how big or small they are.</a></li>
+  <li><a href="https://www.codetriage.com" target="_blank">Code Triage : Help out your favorite open-source projects and become a better developer while doing it.</a></li>
+  <li><a href="http://issuehub.io" target="_blank">Issue Hub : Contribute to Open Source. Search issue labels to find the right project for you</a></li>
+  <li><a href="http://up-for-grabs.net" target="_blank">Up for Grabs : This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project or to help share the load of working on open source projects.</a></li>
+  <li><a href="http://www.firsttimersonly.com" target="_blank">First Timers Only : Contributing to open source for the first time can be scary and a little overwhelming. Perhaps you’re a Code Newbie or maybe you’ve been coding for a while but haven’t found a project you felt comfortable contributing to.</a></li>
+  <li><a href="http://yourfirstpr.github.io" target="_blank">Your First PR : Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere.</a></li>
+</ul>
+</div>
+
+<hr>
+<!------------------------------------ end open source websites ---------------------------------->
+<!------------------------------------- magazines websites --------------------------------------->
+<h3 id="magazines">Magazines</h3>
+
+<ul class="list-styles2">
+  <li><a href="https://www.technologyreview.com/magazine/" target="_blank" rel="noopener noreferrer">MIT Technology Review : MIT's tech review magazine.</a></li>
+  <li><a href="http://nautil.us" target="_blank" rel="noopener noreferrer">Nautilus : NewYorker for tech.</a></li>
+  <li><a href="https://lwn.net" target="_blank" rel="noopener noreferrer">LWN : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).</a></li>
+</ul>
+
+<hr>
+<!----------------------------------- end magazines websites ------------------------------------->
+<!----------------------------------- computer books websites ------------------------------------>
+<h3 id="computer-books">Computer Books</h3>
+
+<ul class="list-styles2">
+  <li><a href="http://programming-motherfucker.com/become.html" target="_blank">Become a Programmer, Motherfucker (list of books) : Exhaustive list of books from Zed A. Shaw.</a></li>
+  <li><a href="http://gatecse.in/best-books-for-gatecse/" target="_blank">Best books for GATE CSE.</a></li>
+  <li><a href="https://cses.fi/book.html" target="_blank">cses.fi/book.html.</a></li>
+  <li><a href="https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md" target="_blank">github.com/vhf/free-programming-books : More than 500 free ebooks on almost any language you can think of.</a></li>
+  <li><a href="https://www.gitbook.com" target="_blank">GitBook : GitBook helps your team write, collaborate, and publish content online.</a></li>
+  <li><a href="https://jakevdp.github.io/PythonDataScienceHandbook/" target="_blank">Data Science course : Python Data Science Handbook.</a></li>
+  <li><a href="https://goalkicker.com" target="_blank">Goal Kicker : Programming Notes for Professionals books.</a></li>
+  <li><a href="https://graphql.guide" target="_blank">The GraphQL Guide : The complete guide to GraphQL, the new REST ✨.</a></li>
+</ul>
+
+<hr>
+<!--------------------------------- end computer books websites ---------------------------------->
+<!-------------------------- moocs for learning something new websites --------------------------->
+<h3 id="moocs">MOOCs for learning something new</h3>
+
+<ul class="list-styles">
+  <li><a href="https://www.class-central.com" target="_blank">Class Central : a directory of 100,000+ student reviews of thousands of MOOCs.</a></li>
+  <li><a href="https://classpert.com" target="_blank">Classpert : a website that gathers MOOCs and online courses from several providers, focusing on computer science and data science courses.</a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#" target="_blank">Computer Science Resources : list of MOOCs for autodidacts.</a></li>
+  <li><a href="https://www.coursera.org" target="_blank">Coursera.org : Take the world's best courses, online.</a></li>
+  <li><a href="https://www.youtube.com/user/cs50tv/videos" target="_blank">CS50 : A set of goods tutorials from cs50.</a></li>
+  <li><a href="https://www.edx.org" target="_blank">edX : Free Online Courses, Advance Your Career, Improve Your Life.</a></li>
+  <li><a href="https://www.kadenze.com/courses?subjects%5B%5D=7" target="_blank">Kadenze | Creative Programming : Programming courses focused on art and creativity.</a></li>
+  <li><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/" target="_blank">MIT OCW Electrical Engineering and Computer Science.</a></li>
+  <li><a href="http://mooc.fi/english.html" target="_blank">MOOC.fi : Free online courses from the University of Helsinki.</a></li>
+  <li><a href="http://nptel.ac.in" target="_blank">NPTEL : Free online courses by IIT with certificates.</a></li>
+  <li><a href="https://github.com/prakhar1989/awesome-courses/blob/master/README.md" target="_blank">prakhar1989/awesome-CS-courses : List containing large amount of CS courses.</a></li>
+</ul>
+
+<hr>
+<!------------------ end moocs for learning something new websites - shingle #3 ------------------>
+<!----------------------------------- interview prep websites ------------------------------------>
+<h3 id="interview-prep">Interview Preparation</h3>
+<ul class="list-styles">
+  <li><a href="http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html" target="_blank" rel="noopener noreferrer"> 10 Frequently asked SQL Query Interview Questions.</a></li>
+  <li><a href="http://puzzles.nigelcoldwell.co.uk" target="_blank" rel="noopener noreferrer">A Collection of Quant Riddles With Answers.</a></li>
+  <li><a href="https://www.hiredintech.com/algorithm-design" target="_blank" rel="noopener noreferrer">Algorithm design canvas.</a></li>
+  <li><a href="http://www.indiabix.com" target="_blank" rel="noopener noreferrer">Aptitude Questions and Answers : Quant and aptitude preparation.</a></li>
+  <li><a href="https://www.techinterview.org" target="_blank" rel="noopener noreferrer">A site for technical interview questions, brain teasers, puzzles, quizzles : whatever the heck those are) and other things that make you think!</a></li>
+  <li><a href="https://www.reddit.com/r/cscareerquestions/comments/2lzc4h/big_collection_of_interview_preparation_links/" target="_blank" rel="noopener noreferrer">Big collection of interview preparation links • /r/cscareerquestions.</a></li>
+  <li><a href="http://bigocheatsheet.com/#" target="_blank" rel="noopener noreferrer">Big-O Algorithm Complexity Cheat Sheet.</a></li>
+  <li><a href="http://ssp.impulsetrain.com/big-o.html" target="_blank" rel="noopener noreferrer">BIG O Misconceptions.</a></li>
+  <li><a href="https://gist.github.com/dideler/2365607" target="_blank" rel="noopener noreferrer">Bitwise tricks.</a></li>
+  <li><a href="https://github.com/Twipped/InterviewThis" target="_blank" rel="noopener noreferrer">ChiperSoft/InterviewThis : questions to ask during on a interview to know more about the company.</a></li>
+  <li><a href="https://www.codeproject.com" target="_blank" rel="noopener noreferrer">Code Project : For those who code!</a></li>
+  <li><a href="http://javahonk.com/core-java-interview-questions/" target="_blank" rel="noopener noreferrer">Core Java Interview questions - Interview question on each topic.</a></li>
+  <li><a href="http://www.gowrikumar.com/c/index.php" target="_blank" rel="noopener noreferrer">C PUZZLES, Some interesting C problems.</a></li>
+  <li><a href="http://web.stanford.edu/class/cs9/" target="_blank" rel="noopener noreferrer">CS9: Problem-Solving for the CS Technical Interview.</a></li>
+  <li><a href="http://gurmeet.net/puzzles/" target="_blank" rel="noopener noreferrer">Delightful Puzzles.</a></li>
+  <li><a href="https://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops" target="_blank" rel="noopener noreferrer">Determining the big-O runtimes of these different loops? : really good stackoverflow question that covers basics of calculating runtime complexity.</a></li>
+  <li><a href="https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions" target="_blank" rel="noopener noreferrer">five-essential-phone-screen-questions - steveyegge2.</a></li>
+  <li><a href="http://placementsindia.blogspot.com" target="_blank" rel="noopener noreferrer">Freshers Interviews.</a></li>
+  <li><a href="http://www.gainlo.co/#!/" target="_blank" rel="noopener noreferrer">Gainlo : Mock interview from professionals </a></li>
+  <li><a href="http://www.geeksforgeeks.org" target="_blank" rel="noopener noreferrer">GeeksforGeeks - A computer science portal for geeks : also subscribe to their feeds to get links to their new articles.</a></li>
+  <li><a href="https://github.com/odino/interviews" target="_blank" rel="noopener noreferrer">github.com/odino/interviews : list of important questions for interviews.</a></li>
+  <li><a href="http://www.lifeclever.com/give-your-resume-a-face-lift/" target="_blank" rel="noopener noreferrer">Give your résumé a face lift.</a></li>
+  <li><a href="https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/" target="_blank" rel="noopener noreferrer">Here's How to Prepare for Tech Interviews • /r/cscareerquestions.</a></li>
+  <li><a href="-http://www.artofmanliness.com/2016/01/05/tell-me-a-little-about-yourself/" target="_blank" rel="noopener noreferrer">How to Answer "Tell Me a Little About Yourself" - The Art of Manliness.</a></li>
+  <li><a href="http://www.icsjobportal.com/blog/job-interview-questions" target="_blank" rel="noopener noreferrer">How to Answer the Toughest 40 Job Interview Questions - ICS Job Portal.</a></li>
+  <li><a href="http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews" target="_blank" rel="noopener noreferrer">How to Break Into the Tech Industry : a Guide to Job Hunting and Tech Interviews.</a></li>
+  <li><a href="http://kelukelu.me/interview/index.html" target="_blank" rel="noopener noreferrer">How to interview.</a></li>
+  <li><a href="http://se7so.blogspot.com/2014/01/how-to-prepare-for-interview-1.html" target="_blank" rel="noopener noreferrer">How to prepare for an interview - 1.</a></li>  <li><a href="http://placement-iit2013.blogspot.com">IIT Delhi Placement Experience.</a></li>
+  <li><a href="https://github.com/samwincott/Internship-Guide" target="_blank" rel="noopener noreferrer">samwincott/Internship-Guide : An aggregrate of links related to internships.</a></li>
+  <li><a href="https://blog.janestreet.com/interviewing-at-jane-street/" target="_blank" rel="noopener noreferrer">Interviewing At Jane Street : Interviewing At Jane Street.</a></li>
+  <li><a href="http://javahonk.com/category/interview/" target="_blank" rel="noopener noreferrer">Interview Archives - Java Honk.</a></li>
+  <li><a href="https://www.interviewcake.com/" target="_blank" rel="noopener noreferrer">Interview Cake : Free and Paid course options offering high quality technical interview practice.</a></li>
+  <li><a href="http://www.artofmanliness.com/2012/08/06/how-to-ace-a-job-interview/" target="_blank" rel="noopener noreferrer">Job Interview: How to Ace a Job Interview - The Art of Manliness.</a></li>
+  <li><a href="https://lifehacker.com/tag/job-interviews" target="_blank" rel="noopener noreferrer">Job interviews News, Videos, Reviews and Gossip - Lifehacker.</a></li>
+  <li><a href="https://www.thebalance.com/job-interview-questions-and-answers-2061204" target="_blank" rel="noopener noreferrer">Job Interview Questions and Best Answers.</a></li>
+  <li><a href="https://github.com/kimberli/interviews" target="_blank" rel="noopener noreferrer">kimberli/interviews : study sheet for Interview.</a></li>
+  <li><a href="https://leetcode.com/" target="_blank" rel="noopener noreferrer">LeetCode : A new way to learn.here you can prepare for your interview.</a></li>
+  <li><a href="https://learnersbucket.com" target="_blank" rel="noopener noreferrer">Learnersbucket : Data Structures and Algorithms in Javascript.</a></li>
+  <li><a href="https://github.com/mission-peace/interview/wiki" target="_blank" rel="noopener noreferrer">Mission-peace/interview problems : A large collection of coding interview problems.</a></li>
+  <li><a href="https://www.pramp.com/ref/gt1" target="_blank" rel="noopener noreferrer">Pramp - A free on demand interview practice platform for Software Engineers : Practice coding interviews with real peers.</a></li>
+  <li><a href="https://leetcode.com/problemset/algorithms/" target="_blank" rel="noopener noreferrer">Problems - LeetCode OJ : Coding practice for interviews.</a></li>
+  <li><a href="http://www.programmerinterview.com" target="_blank" rel="noopener noreferrer">Programmer And Software Interview Questions Answers.</a></li>
+  <li><a href="https://www.reddit.com/user/ashish2199/m/puzzles/" target="_blank" rel="noopener noreferrer">Reddit.com/user/ashish2199/m/puzzles : Logic Puzzles.</a></li>
+  <li><a href="https://www.jitbit.com/news/181-jitbits-sql-interview-questions/" target="_blank" rel="noopener noreferrer">SQL interview questions : great SQL test.</a></li>
+  <li><a href="http://stevestedman.com/wp-content/uploads/VennDiagram1.pdf" target="_blank" rel="noopener noreferrer">SQL Joins explained using venn diagram.</a></li>
+  <li><a href="https://github.com/svozniuk/java-interviews" target="_blank" rel="noopener noreferrer">svozniuk/java-interviews : Java interview questions.</a></li>
+  <li><a href="https://www.techiedelight.com" target="_blank" rel="noopener noreferrer">Techie Delight : Leading platform for technical interview preparation.</a></li>
+  <li><a href="http://www.datsi.fi.upm.es/~frosal/docs/25mdq.html" target="_blank" rel="noopener noreferrer">The 25 most difficult HR questions.</a></li>
+  <li><a href="https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/" target="_blank" rel="noopener noreferrer">Top 10 Algorithms for Coding Interview : Algorithms for Coding Interview.</a></li>
+  <li><a href="http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/" target="_blank" rel="noopener noreferrer">Unix / Linux Cheat Sheet.</a></li>
+  <li><a href="https://www.reddit.com/r/india/comments/1clgdj/unsolicited_advice_for_job_seekers_and_employers/" target="_blank" rel="noopener noreferrer">Unsolicited_advice_for_job_seekers_and_employers.</a></li>
+  <li><a href="https://visualgo.net/en" target="_blank" rel="noopener noreferrer">Visualising Data Structures and Algorithms through Animation.</a></li>
+  <li><a href="https://www.hiredintech.com/app" target="_blank" rel="noopener noreferrer">We Help Coders Get Hired : website offering courses on system design, interview strategies, soft skills etc.</a></li>
+<!-- reddit: do you have any questions for me? --->
+  <li><a href="https://www.reddit.com/r/cscareerquestions/comments/209rkq/what_are_your_goto_questions_for_the_do_you_have/" target="_blank" rel="noopener noreferrer">what_are_your_goto_questions_for_the_do_you_have?</a></li>
+  <li><a href="https://www.reddit.com/r/cscareerquestions/comments/1b8wa3/why_you_make_less_money/" target="_blank" rel="noopener noreferrer">Why You Make Less Money.</a></li>
+  <li><a href="https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml" target="_blank" rel="noopener noreferrer">wu :: riddles(hard) : logic puzzles and riddles.</a></li>
+  <li><a href="https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc#fa32" target="_blank" rel="noopener noreferrer">What I Learned from Interviewing at multiple AI Companies and Start-Ups.</a></li>
+  <li><a href="https://techinterviewhandbook.org/introduction/" target="_blank" rel="noopener noreferrer">Tech Interview Handbook : Guide on  cracking tech interviews.</a></li>
+</ul>
+
+<hr>
+<!--------------------------------- end interview prep websites ---------------------------------->
+<!-------------------------------------------- jobs ---------------------------------------------->
+<!-- Adding W3.CSS file through external link -->
+<h3 id="jobs">IT Jobs</h3>
+<ul class="list-styles">
+  <li><a href="https://angel.co/" target="_blank" rel="noopener noreferrer">AngelList: Website for startups, angel investors, and jobs-seekers looking to work at startup.</a></li>
+  <li><a href="https://hiring.careerbuilder.com" target="_blank" rel="noopener noreferrer">CareerBuilder: One of the largest job boards, providing job listings, resume posting, and career advice and resources to job seekers.</a></li>
+  <li><a href="https://www.dice.com" target="_blank" rel="noopener noreferrer">Dice : Dice is the leading site for tech job seekers.  You can search by company, job title, keyword, employment type, and location.</a></li>
+  <li><a href="https://devsnap.io" target="_blank" rel="noopener noreferrer">Devsnap : Devsnap is a job aggregator for developer jobs. </a></li>
+  <li><a href="https://devitjobs.uk/" target="_blank" rel="noopener noreferrer">IT Jobs in UK : Transparent job board for UK based developers.</a></li>
+  <li><a href="https://www.glassdoor.co.in" target="_blank" rel="noopener noreferrer">Glassdoor : Find the job that's right for you.  Search all the open positions on the web. Get your own personalized salary estimate.</a></li>
+  <li><a href="http://iaesteunitedstates.org" target="_blank" rel="noopener noreferrer">IAESTE : Find more and amazing international internships and jobs.</a></li>
+  <li><a href="https://www.indeed.com" target="_blank" rel="noopener noreferrer">Indeed : Find international jobs on Indeed and get a market salary for your dedication and devotion.</a></li>
+  <li><a href="https://www.instahyre.com" target="_blank" rel="noopener noreferrer">Instahyre : Your dream job is here. Showcase yourself to a curated list of top companies. Complete privacy and no spam.</a></li>
+  <li><a href="https://thementat.com" target="_blank" rel="noopener noreferrer">Mentat : Get your dream job 10x faster. Never apply for a job ever again, talk directly to decision-makers and hiring managers.</a></li>
+  <li><a href="https://www.themuse.com" target="_blank" rel="noopener noreferrer">The Muse : Find everything you need to succeed from dream jobs to career advice. You can do a lot here on The Muse like exploring companies, browsing jobs, career advice,  discover careers,  career coaching. Try it.</a></li>
+  <li><a href="https://www.paysa.com" target="_blank" rel="noopener noreferrer">Paysa : Paysa helps you in finding new and interesting jobs according to your wish.</a></li>
+  <li><a href="https://www.simplyhired.com" target="_blank" rel="noopener noreferrer">SimplyHired : Simply Hired is a free job search engine (and mobile app) that takes the hassle out of getting hired and provides you with all the information you need to make a sound career move.</a></li>
+  <li><a href="https://swissdevjobs.ch" target="_blank" rel="noopener noreferrer">SwissDev Jobs : Tech job board for Software Engineers that want to work in Switzerland.</a></li>
+  <li><a href="https://theundercoverrecruiter.com" target="_blank" rel="noopener noreferrer">Undercover Recruiter : Become Recruiter, Candidate or Employer. You can get your job easily here.</a></li>
+  <li><a href="https://whoishiring.io" target="_blank" rel="noopener noreferrer">Who is Hiring : An awesome resource for searching, filtering, and finding new and attractive jobs according to your needs and interests.</a></li>
+  <li><a href="https://www.ziprecruiter.com" target="_blank" rel="noopener noreferrer">ZipRecruiter : The Smartest Way to Get Hired.</a></li>
+  <li><a href="https://remoteml.com/" target="_blank" rel="noopener noreferrer">RemoteML: Remote Machine Learning jobs.</a></li>
+  <li><a href="https://www.linkedin.com/jobs" target="_blank" rel="noopener noreferrer">Linkedin jobs : A very nice research tool for programming jobs.</a></li>
+  <li><a href="https://germantechjobs.de/" target="_blank" rel="noopener noreferrer">GermanTech Jobs : Dedicated job board for tech roles in Germany - with salary brackets.</a></li>
+  <li><a href="https://weworkremotely.com/" target="_blank" rel="noopener noreferrer">We Work Remotely : The largest remote work community in the world.</a></li>
+</ul>
+
+<hr>
+<!------------------------------------------ end jobs -------------------------------------------->
+<!----------------------------------- general tools websites ------------------------------------->
+<h3 id="general-tools">General Tools</h3>
+
+<ul class="list-styles">
+  <li><a href="https://codepad.remoteinterview.io/DDCUYLAEYS" target="_blank" rel="noopener noreferrer">CodePad : Quickly Conduct Coding Interviews and Phone Screen Interviews.</a></li>
+  <li><a href="https://codepen.io" target="_blank" rel="noopener noreferrer">CodePen : Front End Developer Playground &amp; Code Editor in the Browser.</a></li>
+  <li><a href="https://crontab.guru/" target="_blank" rel="noopener noreferrer">Crontab Guru : Quick and simple editor for cron schedule expressions.</a></li>
+  <li><a href="http://vorillaz.github.io/devicons/#/main" target="_blank" rel="noopener noreferrer">Devicons : Cheatsheet for devs icons.</a></li>
+  <li><a href="https://app.diagrams.net/" target="_blank" rel="noopener noreferrer">Diagrams.net : Drawing tools to make design and uml easily. Old draw.io.</a></li>
+  <li><a href="https://free-for.dev/#/" target="_blank" rel="noopener noreferrer"> rel="noopener noreferrer"FreeFor.Dev : A huge list of free resources and tools.</a></li>
+  <li><a href="https://regex101.com" target="_blank" rel="noopener noreferrer">regex101 : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript.</a></li>
+  <li><a href="https://regexr.com" target="_blank" rel="noopener noreferrer">regexr : Another online tool to learn, build &amp; test Regular Expressions.</a></li>
+  <li><a href="https://wit.ai" target="_blank" rel="noopener noreferrer">Wit AI : Natural Language for Developers.</a></li>
+  <li><a href="https://www.saasdesign.io/free-figma-templates" target="_blank" rel="noopener noreferrer">SaaS Design : Collection of open source Figma UI design templates for your next project.</a></li>
+  <li><a href="https://harc.github.io/seymour-live2017" target="_blank" rel="noopener noreferrer">Seymour : Live Programming for the Classroom.</a></li>
+  <li><a href="https://codeshare.io" target="_blank" rel="noopener noreferrer">Code share : Share code in real-time with other developers.</a></li>
+  <li><a href="https://soliddevtools.com" target="_blank" rel="noopener noreferrer">Solid Tools for Developers : Online debugging tools for developers and system administrators.</a></li>
+  <li><a href="https://osquery.io" target="_blank" rel="noopener noreferrer">OS Query : Easily ask questions about your Linux, Windows, and macOS infrastructure.</a></li>
+  <li><a href="https://launchpad.graphql.com" target="_blank" rel="noopener noreferrer">LaunchPad : Appollo launchepad for testing GraphQl queries.</a></li>
+  <li><a href="https://graphonline.ru/en/" target="_blank" rel="noopener noreferrer">GraphOnline : Useful tool for visualizing Graphs.</a></li>
+  <li><a href="https://www.cs.usfca.edu/~galles/visualization/Algorithms.html" target="_blank">Data Structure Visualization : Perfect website for visually learning Algorithms.</a></li>
+  <li><a href="https://ide.onelang.io" target="_blank" rel="noopener noreferrer">IDE Onlang : Write in one language and get the same result in other languages.</a></li>
+  <li><a href="https://www.pullrequest.com/" target="_blank" rel="noopener noreferrer">PullRequest : Code review as a service from vetted, professional reviewers.</a></li>
+  <li><a href="http://pythontutor.com/visualize.html" target="_blank" rel="noopener noreferrer">Python Visualizer : Watch the execution of basic Python, Java, C++, etc. code step-by-step. Recommended for new programmers and the Canadian Computing Competition.</a></li>
+  <li><a href="https://extendsclass.com/" target="_blank" rel="noopener noreferrer">Extends Class : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters).</a></li>
+  <li><a href="https://www.emaildrop.io/" target="_blank" rel="noopener noreferrer">EmailDrop: Emaildrop is a free disposable email provider.</a></li>
+  <li><a href="https://repl.it" target="_blank" rel="noopener noreferrer">Repl.it: Accessible prototyping tool for various needs.</a></li>
+</ul>
+
+<hr>
+<!--------------------------------- end general tools websites ----------------------------------->
+<!------------------------------ everything in one place websites -------------------------------->
+<h3 id="everything">Everything in one place</h3>
+
+<ul class="list-styles2">
+  <li><a href="http://devdocs.io" target="_blank">API Documentation : A one-place well-known API Documentation with a searchable interface.</a></li>
+  <li><a href="https://www.baeldung.com" target="_blank">Baeldung : Step-by-step guides for Spring, rest, Java, security, persistence, Jackson, HTTP client-side and Kotlin.</a></li>
+  <li><a href="https://github.com/chubin/cheat.sh" target="_blank">cheat.sh : `curl cheat.sh` — the only cheat sheet you need — instant answers on programming questions with `curl`.</a></li>
+  <li><a href="https://roadmap.sh/" target="_blank">Developer Roadmaps : Step by step guides and paths to learn different tools or technologies.</a></li>
+  <li><a href="https://devurls.com/" target="_blank">DevURLs : Developer news aggregator.</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/" target="_blank">MDN Web Docs : A place with all the documentation of the web standards.</a></li>
+  <li><a href="https://devhints.io" target="_blank">Rico's cheatsheets : A set of good cheatsheets.</a></li>
+  <li><a href="https://www.reddit.com/user/ashish2199/m/cs_student_subs/" target="_blank">Programming Subreddits : a multisubreddit of all subreddits of topics related to computer science and programming.</a></li>
+  <li><a href="https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96" target="_blank">Websites a programmer should visit : Response on Quora by ashish2199.</a></li>
+  <li><a href="https://www.gitignore.io/" target="_blank">gitignore : A collection of useful .gitignore templates for your project. Select from 442 Operating System, IDE, and Programming Language.</a></li>
+  <li><a href="https://hiddentools.dev/" target="_blank">Hidden Tools : Discover a wide collection of tools made by the community  for you. ✨</a></li>
+  <li><a href="https://coolors.co/" target="_blank">Coolors : Create the perfect palette or get inspired by thousands of beautiful color schemes.</a></li>
+  <li><a href="https://devdojo.com/tails/app" target="_blank">Tailwind CSS Page Builder :  The perfect Tailwind CSS Page Builder.</a></li>
+  <li><a href="https://lottiefiles.com/" target="_blank">LottieFiles : The world’s largest online platform for the world’s smallest animation format for designers, developers, and more. Access Lottie animation tools and plugins for Android, iOS, and Web.</a></li>
+  <li><a href="https://www.uidesigndaily.com/" target="_blank">UI Design Daily : Weekly FREE UI resources straight to your inbox.</a></li>
+  <li><a href="https://iconscout.com/" target="_blank">Iconscout : Over 2.2 Million+ Design Assets,  Curated SVGs, Vector Icons, Illustrations, 3D graphics, and Lottie Animations.  Over 3000+ assets added every day. Integrated plugins, tools, editors, and more.</a></li>
+  <li><a href="https://www.jsonapi.co/" target="_blank">Json API App : Single repository for everything you need to build better products as a developer. API, DB, Queue, Server, Webhooks, Bin, Tools, Podcasts etc. Everything you need to build super apps that our world needs.</a></li>
+</ul>
+
+<hr>
+<!---------------------- end everything in one place websites - shingle #4 ----------------------->
+
+<h3 style="text-align:center"><a href="#">Web Design in GitHub with W3Cx</a></h3>
+
+<ul style="margin-left:30px">
+  <li><a href="https://github.com/bbauska/W3Cx-1of5-CSS.0x" target="_blank" rel="noopener noreferrer">markdown github W3Cx-1of5-CSS.0x</a></li>
+  <li><a href="https://github.com/bbauska/W3Cx-2of5-HTML5.0x" target="_blank" rel="noopener noreferrer">markdown github W3Cx-2of5-HTML5.0x</a></li>
+  <li><a href="https://github.com/bbauska/W3Cx-3of5-HTML5.1x" target="_blank" rel="noopener noreferrer">markdown github W3Cx-3of5-HTML5.1x</a></li>
+  <li><a href="https://github.com/bbauska/W3Cx-4of5-HTML5.2x" target="_blank" rel="noopener noreferrer">markdown github W3Cx-4of5-HTML5.2x</a></li>
+    <li><a href="https://github.com/bbauska/W3Cx-5of5-JS.0x" target="_blank" rel="noopener noreferrer">markdown github W3Cx-5of5-JS.0x</a></li>
+  </ul>
+
+<!----------------------------------- web development on git ------------------------------------->
+<h3 style="margin-left:25px" class="relative"><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">Free Code Camp</a></h3>
+<h3 style="margin-left:25px"><a href="https://dash.cloudflare.com/dns" target="_blank">Cloudflare login</a></h3>
+<h4 style="margin-left:25px">
+<a href="https://revealjs.com/themes/" target="_blank">Reveal JavaScript Themes</a>
+</h4>
+<h3 style="margin-left:25px">
+<a href="https://gridbyexample.com/">Grid by Example from W3Cx-2of5 - HTML5 and CSS Fundamentals</a></h3>
+
+<hr>
+<!---------------------------------------- web dev tools ----------------------------------------->
+<h3 style="text-align:center;">Web Development Tools</h3>
+
+<p style="margin-left:25px">
+  <a href="https://www.webfx.com/blog/web-design/web-development-tools/" target="_blank" rel="noopener noreferrer">7 Web Development Tools to Help Your Business (webfx)</a><br>
+  <a href="https://get.foundation/" target="_blank" rel="noopener noreferrer">Foundation Framework</a>
+  
+Foundation is a type of web development tech software known as a CSS framework. That means it’s something like a code encyclopedia — it’s a package containing tons of prewritten, commonly used code snippets you can access for your website.
+</p>
+
+<!---------------------------- javascript frameworks and libraries ------------------------------->
+<p style="margin-left:25px">
+<div id="libraries">
+  <h3 style="text-align:center">JavaScript Frameworks and Libraries</h3>
+  <ul style="margin-left:30px">
+    <li><a href="https://medium.com/beginners-guide-to-mobile-web-development/js-frameworks-a-brief-overview-4b8754c3f1d5" target="_blank" rel="noopener noreferrer">Medium.com Libraries to Learn</a></li>
+    <li><a href="https://hackr.io/blog/web-development-frameworks" target="_blank" rel="noopener noreferrer">10 Best Web Development Frameworks (hackr.io)</a></li>
+    <li><a href="https://hackr.io/blog/javascript-ui-library" target="_blank" rel="noopener noreferrer">hackr.io JavaScript Libraries</a></li>
+    <li><a href="https://github.com/django/django" target="_blank" rel="noopener noreferrer">Django Github Link</a></li>
+  </ul>
+</div>
+
+<hr>
+
+<!---------------------------- javascript frameworks and libraries ------------------------------->
+<p style="margin-left:25px">
+
+<a href="https://www.java67.com/2018/02/5-free-react-courses-for-web-developers.html" target="_blank" rel="noopener noreferrer">OLD Free <b>React</b> Course</a><br>
+<p style="margin-left:25px">
+
+<a href="https://revealjs.com/" target="_blank" rel="noopener noreferrer">THE HTML PRESENTATION FRAMEWORK</a>
+The revealjs framework comes with a broad range of features including nested slides, Markdown support, Auto-Animate, PDF export, speaker notes, LaTeX support and syntax highlighted code.<br>
+
+<a href="https://learning.edx.org/course/course-v1:W3Cx+HTML5.0x+1T2022/block-v1:W3Cx+HTML5.0x+1T2022+type@sequential+block@be863694ac4b45e492eae4c82576acc5/block-v1:W3Cx+HTML5.0x+1T2022+type@vertical+block@71deac64f61a420781f0ed127d36e696)" target="_blank" rel="noopener noreferrer">W3Cx on EdX.org (free)</a><br>
+
+<a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank" rel="noopener noreferrer">Code Camp (free)</a><br>
+</p>
+
+<p style="margin-left:25px">
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server" target="_blank" rel="noopener noreferrer">How to Set Up a Local Test Server</a>
+  <br>
+</p>
+
+<h4 style="margin-left:25px">
+  <a href="https://www.checkbot.io/" target="_blank" rel="noopener noreferrer">Check Bot</a>
+</h4>
+
 <br>
-Take from the dresser of deal,<br>
-Lacking the three glass knobs, that sheet<br>
-On which she embroidered fantails once<br>
-And spread it so as to cover her face.<br>
-If her horny feet protrude, they come<br>
-To show how cold she is, and dumb.<br>
-Let the lamp affix its beam.<br>
-The only emperor is the emperor of ice-cream.<br>
-</blockquote>
-</h3>
-                        </a>
-                        <p class="post-meta">
-                            Posted to
-                            <a href="index.html">Brian's Blog</a>
-                            on Aug 28, 2021
-                        </p>
-                    </div>
-                    <!-- Divider-->
-                    <hr class="my-4" />
-                    <!-- Pager-->
-                    <div class="d-flex justify-content-end mb-4"><a class="btn btn-primary text-uppercase" href="older-posts.html">Older Posts →</a></div>
-                </div>
-            </div>
-        </div>
 
-    </body>
+<h4 style="margin-left:25px">
+<a href="https://roadmap.sh/frontend" target="_blank" rel="noopener noreferrer">Front End Roadmap</a><br>
+
+<a href="https://www.lockedownseo.com/social-media-colors/" target="_blank" rel="noopener noreferrer">Colors for Social Media Icons</a><br>
+
+<a href="https://free-for.dev/#/?id=cdn-and-protection" target="_blank" rel="noopener noreferrer">Free for Dev</a><br>
+
+<a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">CSS Bootstrap Framework</a><br>
+
+<a href="https://github.com/twbs/bootstrap" target="_blank" rel="noopener noreferrer">CSS Bootstrap GitHub</a><br>
+
+<a href="https://tailwindcss.com/#gh-light-mode-only" target="_blank" rel="noopener noreferrer">CSS Tailwind Light</a><br>
+</h4>
+
+<h4 style="margin-left:25px">
+   <a href="https://github.com/tailwindlabs/tailwindcss" target="_blank" rel="noopener noreferrer">CSS Tailwind on GitHub</a>
+</h4>
+
+<!------------- coursera - front-end web ui frameworks and tools: bootstrap 4 + + + -------------->
+
+<h4 style="margin-left:25px">
+<span style="background-color: #ffff00"><a href="https://www.coursera.org/learn/bootstrap-4" target="_blank" 
+rel="noopener noreferrer">Front-End Web UI Frameworks and Tools: Bootstrap 4 (Coursera)</a></span>
+</h4>
+
+<!----------------------------------- codeburst.io with gatsby ----------------------------------->
+<!-------------------------------------- create landing page ------------------------------------->
+
+<h3 style="margin-left:25px"><span style="background-color: #ffff00"><a href="https://codeburst.io/guide-building-%D0%B0-landing-page-with-gatsbyjs-488e4a2c793b" target="_blank">1. Creating a Landing Page with GatsbyJS</a></span></h3>
+
+<h3 style="margin-left:25px"><span style="background-color: #ffff00"><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design"
+									 target="_blank" rel="noopener noreferrer">2. Mozilla's Responsive Design</a></span></h3>
+
+<h3 style="margin-left:25px"><span style="background-color: #ffff00"><a href="https://dash.cloudflare.com/dns" target="_blank" rel="noopener noreferrer">3. Cloudflare login</a></span></h3>
+
+<div class="relative" style="margin-left:25px">
+<h3><span style="background-color: #fff000"><a href="https://symfony.com/ten-criteria" target="_blank" rel="noopener noreferrer">4. 10 criteria for choosing the correct framework</a></span></h3>
+</div>
+
+<!----------------------------- frameworks and libraries websites -------------------------------->
+<h3 style="margin-left: 25px;">
+JavaScript Frameworks and Libraries</h3>
+
+<h3 id="frame-and-libraries" style="margin-left: 25px;">
+  <a href="https://medium.com/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4" target="_blank" rel="noopener noreferrer">Top 12 Frameworks</a><br>
+  <a href="https://www.interviewbit.com/blog/web-development-frameworks/" target="_blank" rel="noopener noreferrer">More Frameworks here</a>
+</h3>
+
+  <ol>
+    <li><a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">REACT.js | A javascript library for building user interfaces.</a>
+      <ul class="list-styles2">
+        <li> <a href="https://reactjs.org/docs/getting-started.html" target="_blank" rel="noopener noreferrer">Getting started with React.</a></li>
+	    <li> <a href="https://gokhale.me/10-beginner-mistakes-react-developers-do" target="_blank" rel="noopener noreferrer">10 Beginner React Mistakes.</a></li>
+        <li> <a href="https://github.com/tbakerx/react-resume-template" target="_blank" rel="noopener noreferrer">React resume template on Github.</a></li>
+      </ul>
+    </li>
+    <li><a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">Vue.js | The progressive javaScript framework.</a></li>
+    <li><a href="https://angular.io/" target="_blank" rel="noopener noreferrer">Angular | The modern web developer's platform.</a></li>
+    <li><a href="https://svelte.dev/" target="_blank"> rel="noopener noreferrer"Svelte.js | Cybernetically enhanced web apps.</a></li>
+    <li><a href="https://emberjs.com/" target="_blank" rel="noopener noreferrer">Ember.js | A framework for ambitious web developers.</a></li>
+    <li><a href="https://materializecss.com/" target="_blank" rel="noopener noreferrer">Materialize A modern responsive front-end framework based on Material Design.</a></li>
+    <li><a href="https://www.meteor.com/" target="_blank" rel="noopener noreferrer">Meteror JS | Build full-stack javascript apps.</a></li>
+    <li><a href="https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview" target="_blank" rel="noopener noreferrer">Polymer | The Polymer library provides a set of features for creating custom elements.</a></li>
+    <li><a href="https://docs.sencha.com/extjs/6.5.0/guides/getting_started/getting_started.html" target="_blank" rel="noopener noreferrer">Ext.JS | For mobile devices and modern desktops.</a></li>
+    <li><a href="https://aurelia.io/" target="_blank" rel="noopener noreferrer">Auralia | Simple, powerful, unobtrusive.</a></li>
+    <li><a href="http://backbonejs.org/" target="_blank" rel="noopener noreferrer">Backbone.JS | Give structure to web applications.</a></li>
+    <li><a href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer">Node.JS | Javascript runtime.</a></li>
+  </ol>
+
+<hr>
+
+<!----------------------------------- web development tools -------------------------------------->
+<h3 id="webtools">Web Development Tools</h3>
+
+<ul class="list-styles2">
+  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server" target="_blank" rel="noopener noreferrer">How to Set Up a Local Test Server</a></li>
+  <li><a href="https://www.checkbot.io/" target="_blank" rel="noopener noreferrer"><em>Check Bot</em></a></li>
+  <li><a href="https://roadmap.sh/frontend" target="_blank" rel="noopener noreferrer">Front End Roadmap</a></li>
+  <li><a href="https://free-for.dev/#/?id=cdn-and-protection" target="_blank" rel="noopener noreferrer">Free for Dev</a></li>
+  <li><a href="https://www.makeuseof.com/best-websites-for-hiring-online/" target="_blank" rel="noopener noreferrer">Online Job Search</a></li>
+  <li><a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">CSS Bootstrap Framework</a></li>
+  <li><a href="https://github.com/twbs/bootstrap" target="_blank" rel="noopener noreferrer">CSS Bootstrap GitHub</a></li>
+  <li><a href="https://tailwindcss.com/#gh-light-mode-only" target="_blank" rel="noopener noreferrer"><em>CSS Tailwind Light</em></a></li>
+  <li><a href="https://github.com/tailwindlabs/tailwindcss" target="_blank" rel="noopener noreferrer"><em>CSS Tailwind on CSS GitHub</em></a></li>
+</ul>
+
+<hr>
+<!--------------------------------- end web development tools ------------------------------------>
+<h4>W3 How To CSS/HTML/JavaScript <a href="https://www.w3docs.com/snippets/html/how-to-redirect-a-web-page-in-html.html" target="_blank" rel="noopener noreferrer"> click here</a>.</h4>
+
+<h4>W3 Docs <a href="https://www.w3docs.com" target="_blank" rel="noopener noreferrer">this link</a>.</h4>
+
+<hr>
+
+<!------------------------------------------------------------------------------------------------>
+<!---------------------------------- when you get stuck ------------------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<h3 id="when-you-get-stuck">When you get stuck</h3>
+
+<ul class="list-styles">
+  <li><a href="https://www.codementor.io" target="_blank" rel="noopener noreferrer">Codementor : A mentorship community to learn from fellow developers via live 1:1 help and more.</a></li>
+  <li><a href="https://www.devrant.io" target="_blank" rel="noopener noreferrer">devRant : Community where you can rant and release your stress</a></li>
+  <li><a href="https://www.google.com" target="_blank" rel="noopener noreferrer">Google : A search engine for anything you get stuck with.</a></li>
+  <li><a href="https://learn-anything.xyz" target="_blank" rel="noopener noreferrer">Learn Anything : Community curated knowledge graph of best paths for learning anything</a></li>
+  <li><a href="https://www.quora.com" target="_blank" rel="noopener noreferrer">Quora : A place to share knowledge and better understand the world</a></li>
+  <li><a href="https://stackoverflow.com" target="_blank" rel="noopener noreferrer"">Stack Overflow : subscribe to their weekly newsletter and any other topic which you find interesting</a></li>
+</ul>
+
+<hr>
+<!---------------------------------- cryptocurrency websites ------------------------------------->
+<h3 id="crypto">CryptoCurrency</h3>
+<ul class="list-styles">
+  <li><a href="https://capex.com/en/overview/cryptocurrencies-to-invest-2022" target="_blank">What to buy in Crypto? With OPM. FOAD you <b>greedy</b> POS!!</a></li>
+  <li><a href="https://CS1981x.bauska.net" target="_blank">Bitcoin and Cryptocurrencies - CS198.1x Berkeley</a></li>
+  <li><a href="https://blockchaindemo.io/" target="_blank">Blockchain demo : A visual demo of Blockchain technology</a></li>
+  <li><a href="https://coindemo.io/" target="_blank">Coin demo : CryptoCurrency demo</a></li>
+  <li><a href="https://lopp.net/bitcoin.html" target="_blank" rel="noopener noreferrer">Lopp Bitcoin Resources : Some Bitcoin Resources</a></li>
+  <li><a href="https://www.sitepen.com/blog/2017/09/21/blockchain-basics/" target="_blank" rel="noopener noreferrer">Blockchain Basics : Great introduction to blockchain</a></li>
+  <li><a href="https://gitcoin.co" target="_blank" rel="noopener noreferrer">GitCoin : Gitcoin is the easiest way to monetize or incentivize work in Open Source Software.</a></li>
+  <li><a href="https://litepaper.com/" target="_blank" rel="noopener noreferrer">Lite Paper : Cryptocurrencies &amp; Blockchain made effortless</a></li>
+  <li><a href="https://learnmeabitcoin.com/" target="_blank" rel="noopener noreferrer">Learn Me A Bitcoin: Bitcoin, Cryptocurrencies and Blockchain explained in plain English</a></li>
+  <li><a href="https://mempool.space" target="_blank" rel="noopener noreferrer">Mempoo: Bitcoin block explorer, mempool visualizer, transaction tracker, and fee estimator </a></li>
+  <li><a href="https://www.oreilly.com/library/view/mastering-bitcoin/9781491902639/" target="_blank" rel="noopener noreferrer">Mastering Bitcoin: Introduction to Bitcoin and tutorials to operate a full node</a></li>
+</ul>
+
+<hr>
+
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------------ great ideas websites -------------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<h3 id="great-ideas">For those who want to start a small project but can't find the ideas</h3>
+<ul class="list-styles">
+  <li><a href="https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11" target="_blank" rel="noopener noreferrer">freeCodeCamp | React project ideas : 27 fun app ideas you can build while learning React.</a></li>
+  <li style="color:red"><a href="http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/" target="_blank" rel="noopener noreferrer">martyr2s-mega-project-ideas-list : contains about 125 project ideas from beginner to intermediate level.</a></li>
+  <li style="color:blue"><a href="https://github.com/karan/Projects" target="_blank" rel="noopener noreferrer">karan/Projects : a large collection of small projects for beginners with.</a></li>
+  <li style="color:black"><a href="http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners" target="_blank" rel="noopener noreferrer">Wrong "big projects" for beginners : How to choose where to start.</a></li>
+  <li style="color:grey"><a href="https://github.com/vicky002/1000_Projects" target="_blank" rel="noopener noreferrer">vicky002/1000-Projects : Mega List of practical projects that one can solve in any programming language!</a></li>
+  <li style="color:yellow"><a href="https://www.reddit.com/r/AppIdeas/" target="_blank" rel="noopener noreferrer">reddit.com/r/AppIdeas : A place to discuss ideas for applications, for bored developers.</a></li>
+  <li style="color:green"><a href="https://www.reddit.com/r/SomebodyMakeThis/" target="_blank" rel="noopener noreferrer">reddit.com/r/SomebodyMakeThis : A home for ideas by people who lack time, money, or skills.</a></li>
+</ul>
+
+<hr>
+
+<!---------------------- seminar, research writing, talks, etc websites -------------------------->
+<h3 id="seminar">Seminar, research writing, talks, etc</h3>
+
+<ul class="list-styles">
+  <li><a href="http://www.cs.cmu.edu/~mleone/how-to.html" target="_blank" rel="noopener noreferrer">Advice on Research and Writing : A collection of advice about how to do research and how to communicate effectively (primarily for computer scientists).</a></li>
+  <li><a href="http://www.cse.iitd.ac.in/~srsarangi/articles.html" target="_blank" rel="noopener noreferrer">PHD MS Articles : articles and views.</a></li>
+  <li><a href="https://www.cse.iitb.ac.in/~ranade/communicationskills.html" target="_blank" rel="noopener noreferrer">Seminar and reports : Everyone must read this tiny book before writing the seminar report.</a></li>
+  <li><a href="http://latex.knobs-dials.com">Latex reference : Arbitrary reference.</a></li>
+  <li><a href="https://github.com/LewisVo/Begin-Latex-in-minutes" target="_blank" rel="noopener noreferrer">Begin Latex in minutes : Brief Intro to LaTeX for beginners that helps you use LaTeX with the ease.</a></li>
+  <li><a href="https://tobi.oetiker.ch/lshort/lshort.pdf" target="_blank" rel="noopener noreferrer">Lshort : The Not So Short Introduction to LATEX2ε</a></li>
+</ul>
+
+<hr>
+
+<!------------------------------------------------------------------------------------------------>
+<!--------------------------- what should a programmer know? websites ---------------------------->
+<!------------------------------------------------------------------------------------------------>
+<h3 id="what-to-know">What should a programmer know?</h3>
+
+<ul class="list-styles">
+  <li style="color:green"><a href="https://caniuse.com/" target="_blank" rel="noopener noreferrer">Can I use : A website that provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.</a></li>
+  <li style="color:green"><a href="https://github.com" target="_blank" rel="noopener noreferrer">GitHub.com Build software better, together : Place to showcase your project and collaborate with others. (Must know Git to use it effectively).</a></li>
+  <li style="color:green"><a href="https://about.gitlab.com" target="_blank" rel="noopener noreferrer">GitLab : An alternative to GitHub that offers free unlimited (private) repositories and unlimited collaborators.</a></li>
+  <li style="color:green"><a href="http://sijinjoseph.com/programmer-competency-matrix/" target="_blank" rel="noopener noreferrer">Programmer Competency Matrix : article for knowing what our level as a programmer is.</a></li>
+</ul>
+
+<hr>
+
+<!------------------------------------ internships websites -------------------------------------->
+<h3>Internships</h3>
+
+<ul class="list-styles2">
+  <li><a href="http://www.chegg.com" target="_blank" rel="noopener noreferrer">chegg : It is an awesome resource for finding internships, scholarships, tutors, etc.</a></li>
+  <li><a href="https://internshala.com" target="_blank" rel="noopener noreferrer">Internalshala : You can search for internships here according to your skill sets for your interested location. It also helps you in getting a good PPO offer from the company.</a></li>
+  <li><a href="https://www.letsintern.com" target="_blank" rel="noopener noreferrer">Letsintern : Get a smart and challenging internship for you from the LetsIntern.</a></li>
+  <li><a href="https://www.perfectintern.com" target="_blank" rel="noopener noreferrer">PerfectIntern: Get help finding a paid internship, resume prep, interview prep, and more!</a></li>
+</ul>
+
+<hr>
+
+<!------------------------------------- social media icons --------------------------------------->
+      <div class="center">
+         <div class="icons first">
+<!-------------------------------------------------------------------------------
+<a href="https://www.facebook.com/brian.bauska/" class="fa fa-facebook-f"></a>
+<a href="https://twitter.com/bbauska?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://www.youtube.com/brian.bauska" class="fa fa-youtube"></a>
+<a href="https://www.linkedin.com/in/brian-bauska-89240679/" class="fa fa-linkedin-in"></a>
+<a href="https://web.snapchat.com//brianbauska2019" class="fa fa-snapchat-ghost"></a>
+<a href="https://github.com/bbauska" class="fa fa-github"></a>
+<a href="https://www.instagram.com" class="fa fa-instagram"></a>
+<a href="https://www.quora.com/BrianBauska" class="fa fa-quora"></a>
+<a href="https://www.amazon.com/MistyFischer" class="fa fa-amazon"></a>
+-------------------------------------------------------------------------------->
+<a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
+<a href="#" class="fa fa-google"></a>
+<a href="#" class="fa fa-linkedin"></a>
+<a href="#" class="fa fa-youtube"></a>
+<a href="#" class="fa fa-instagram"></a>
+<a href="#" class="fa fa-pinterest"></a>
+<a href="#" class="fa fa-snapchat-ghost"></a>
+<a href="#" class="fa fa-skype"></a>
+<a href="#" class="fa fa-android"></a>
+<a href="#" class="fa fa-dribbble"></a>
+<a href="#" class="fa fa-vimeo"></a>
+<a href="#" class="fa fa-tumblr"></a>
+<a href="#" class="fa fa-vine"></a>
+<a href="#" class="fa fa-foursquare"></a>
+<a href="#" class="fa fa-stumbleupon"></a>
+<a href="#" class="fa fa-flickr"></a>
+<a href="#" class="fa fa-yahoo"></a>
+<a href="#" class="fa fa-reddit"></a>
+<a href="#" class="fa fa-rss"></a>
+      
+
+
+         </div>
+      </div>
+   </body>
+
 </html>
+<!-- last updated 12-04-2022 at 11:18am -->
