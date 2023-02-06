@@ -1,7 +1,8 @@
 <!-- display the social media buttons in your README -->
 
-#### New: typescript
-#### Also: Cognos Analytics training class
+### Data Analyst Career Guide and Interview Preparation
+##### IBM Skills Network w/Coursera
+##### https://www.ibm.com/blogs/ibm-training/prepare-for-your-next-data-analyst-job-interview-with-the-ibm-data-analyst-career-guide-and-interview-preparation-course-on-coursera-org/
 
 
 <h3><a href="https://validator.w3.org/nu/">Nu HTML Checker</a></h3>
