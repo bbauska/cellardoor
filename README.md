@@ -1,7 +1,8 @@
 <!-- display the social media buttons in your README -->
 
-### Data Analyst Career Guide and Interview Preparation
-##### [IBM Skills Network w/Coursera] (https://www.ibm.com/blogs/ibm-training/prepare-for-your-next-data-analyst-job-interview-with-the-ibm-data-analyst-career-guide-and-interview-preparation-course-on-coursera-org/)
+<h3>Data Analyst Career Guide and Interview Preparation</h3>
+
+<h5><a href="https://www.ibm.com/blogs/ibm-training/prepare-for-your-next-data-analyst-job-interview-with-the-ibm-data-analyst-career-guide-and-interview-preparation-course-on-coursera-org/">IBM Skills Network w/Coursera</a>.
 
 
 <h3><a href="https://validator.w3.org/nu/">Nu HTML Checker</a></h3>
