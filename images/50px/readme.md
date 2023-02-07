@@ -1,9 +1,9 @@
 ## social icons with color and background information
 
-- facebook: 
+- facebook:     background: '#f7f7f7'
   - #3b5998<br>
   - #8b9dc3<br>
-  background: #f7f7f7
+background: #f7f7f7
 <br><br>  
 - instagram: 
   - #c32443<br>
