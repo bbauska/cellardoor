@@ -1,9 +1,13 @@
 ## social icons with color and background information
 
-- facebook:
-  - #3b5998<br>
-  - #8b9dc3<br>
-<p>background: #f7f7f7</p>
+<ul>
+  <li>facebook:</li>
+  <ul>
+    <li>#3b5998</li>
+    <li>#8b9dc3</li>
+  </ul>
+  <li>background: #f7f7f7</li>
+</ul>
 <ul>
   <li>instagram:</li>
   <ul>
@@ -14,20 +18,32 @@
   </ul>
   <li>background: none</li>
 </ul>
-<br><br>
-twitter:
-  - #0084b4<br>
-  - #00aced<br>
-<br><br>
-background: #c0deed<br>
-            : #1dcaff<br>
-<br><br>
-linkedin: #007bb6
 
-youtube: #ff0000
-
-google: #4285F4
-
+<ul>
+  <li>twitter:</li>
+  <ul>
+    <li>#0084b4</li>
+    <li>#00aced</li>
+  </ul>
+<li>background:</li>
+  <ul>
+    <li>#c0deed</li>
+    <li>#1dcaff</li>
+  </ul>
+</ul>
+<ul>
+  <li>linkedin:</li>
+  <ul>
+    <li>#007bb6</li>
+  </ul>
+  <li>youtube:</li>
+  <ul>
+    <li>#ff0000</li>
+  </ul>
+  <li>google:</li>
+  <ul>
+    <li>#4285F4</li>
+  </ul>
 google+: #DB4437
 
 snapchat: #FFFC00
