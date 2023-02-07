@@ -44,11 +44,20 @@
   <ul>
     <li>#4285F4</li>
   </ul>
-google+: #DB4437
-
-snapchat: #FFFC00
-
-skype: #00AFF0
-
-yahoo: #430297
-
+  <li>google+:</li>
+  <ul>
+    <li>#DB4437</li>
+  </ul>
+  <li>snapchat:</li>
+  <ul>
+    <li>#FFFC00</li>
+  </ul>
+  <li>skype:</li>
+  <ul>
+    <li>#00AFF0</li>
+  </ul>
+  <li>yahoo:</li>
+  <ul>
+    <li>#430297</li>
+  </ul>
+</ul>
