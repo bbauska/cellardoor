@@ -5,15 +5,15 @@ facebook: #3b5998<br>
   background: #f7f7f7
   
 instagram: #c32443<br>
-<tab>    : #4068d7
-         : #fbad50
-         : #fccc63
-
-twitter: #0084b4
-       : #00aced
-  background: #c0deed
-            : #1dcaff
-
+         : #4068d7<br>
+         : #fbad50<br>
+         : #fccc63<br>
+<br><br>
+twitter: #0084b4<br>
+       : #00aced<br><br>
+  background: #c0deed<br>
+            : #1dcaff<br>
+<br><br>
 linkedin: #007bb6
 
 youtube: #ff0000
