@@ -4,7 +4,7 @@
   - #3b5998<br>
   - #8b9dc3<br>
 <br><br>
-background: #f7f7f7
+<p>background: #f7f7f7</p>
 <br><br>  
 - instagram:
   - #c32443<br>
