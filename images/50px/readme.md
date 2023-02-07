@@ -3,15 +3,17 @@
 - facebook:
   - #3b5998<br>
   - #8b9dc3<br>
-<br><br>
 <p>background: #f7f7f7</p>
-<br><br>  
-- instagram:
-  - #c32443<br>
-  - #4068d7<br>
-  - #fbad50<br>
-  - #fccc63<br>
-background: none
+<ul>
+  <li>instagram:</li>
+  <ul>
+    <li>#c32443</li>
+    <li>#4068d7</li>
+    <li>#fbad50</li>
+    <li>#fccc63</li>
+  </ul>
+  <li>background: none</li>
+</ul>
 <br><br>
 twitter:
   - #0084b4<br>
