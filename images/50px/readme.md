@@ -4,8 +4,8 @@ facebook: #3b5998<br>
         : #8b9dc3<br>
   background: #f7f7f7
   
-instagram: #c32443
-         : #4068d7
+instagram: #c32443<br>
+<tab>    : #4068d7
          : #fbad50
          : #fccc63
 
