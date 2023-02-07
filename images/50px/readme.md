@@ -1,13 +1,15 @@
 ## social icons with color and background information
 
-facebook: #3b5998<br>
-        : #8b9dc3<br>
+- facebook: 
+  - #3b5998<br>
+  - #8b9dc3<br>
   background: #f7f7f7
-  
-instagram: #c32443<br>
-         : #4068d7<br>
-         : #fbad50<br>
-         : #fccc63<br>
+<br><br>  
+- instagram: 
+  - #c32443<br>
+  - #4068d7<br>
+  - #fbad50<br>
+  - #fccc63<br>
 <br><br>
 twitter: #0084b4<br>
        : #00aced<br><br>
