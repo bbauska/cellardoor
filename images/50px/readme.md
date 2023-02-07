@@ -18,7 +18,7 @@
   </ul>
   <li>background: none</li>
 </ul>
-
+<br>
 <ul>
   <li>twitter:</li>
   <ul>
@@ -31,6 +31,7 @@
     <li>#1dcaff</li>
   </ul>
 </ul>
+<sp>
 <ul>
   <li>linkedin:</li>
   <ul>
