@@ -249,3 +249,10 @@ body {
 a {
 	text-decoration: none; 
 }
+ul li a:hover {
+  color: #95a5a6;
+}
+a:hover::after {
+  transform: scaleX(1);
+  transform-origin: left;
+}
