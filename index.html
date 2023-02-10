@@ -16,9 +16,7 @@
 <style>
 .fa {
   padding: 10px;
-  font-size: 17px;
   width: 25px;
-  height: 10px;
   text-align: center;
   text-decoration: none;
   margin: 5px 2px;
@@ -76,31 +74,34 @@
   color: #ffffff;
 }
 <!----->
-.facebook:hover {
+.fa-facebook-square:hover {
   background: #3b5998;
 }
-.twitter:hover {
+.fa-twitter-square:hover {
   background: #1da1f2;
 }
-.youtube:hover {
+.fa-envelope:hover {
+  background: #black;
+}
+.fa-youtube-square:hover {
   background: #ff0000;
 }
-.instagram:hover {
-  background:linear-gradient(135deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
-}
-.github:hover {
+.fa-snapchat-ghost:hover {
   background: black;
 }
-.codepen:hover {
+.fa-dribbble:hover {
   background: #1e1f26;
 }
-.snapchat:hover {
+.fa-medium:hover {
   background: #fffc00;
 }
-.quora:hover {
+.fa-github-square {
+  background: #fffc00;
+}
+.fa-quora:hover {
   background: #aa2200;
 }
-.amazon:hover {
+.fa-amazon:hover {
   background: #ff9900;
 }
 .fa-messenger:hover {
@@ -121,18 +122,17 @@ a {
 <ul id="menu">
   <li><a href="#">Latest & Greatest</a>
     <ul>
-	  <li><a href="https://github.com/bbauska/Coursera-Bootstrap" target="_blank" rel="noopener noreferrer">Coursera Bootstrap (github wip).</a></li>
       <li><a href="https://github.com/bbauska/TUMx-DWAPNx/" target="_blank" rel="noopener noreferrer">Tech Univ of Munich - Web Appl'n Development with Node.js.</a></li>
 	  <li><a href="https://www.youtube.com/watch?v=Tk01uthNqzY" target="_blank" rel="noopener noreferrer">Try Civil Silence over Disagreements.  humility.</a></li>
+	  <li class="dropdown-divier"></li>
       <li><a href="https://validator.w3.org/nu/" target="_blank" rel="noopener noreferrer">Nu HTML Checker</a></li>
-      <li><a href="https://egghead.io/q/css?access_state=free" target="_blank" rel="noopener noreferrer">CSS - Get It, Learn It, Be It!</a></li>
-      <li><a href="#documentaries">List of Documentaries</a></li>
+      <li><a href="#documentaries">Documentaries</a></li>
       <li><a href="https://blog.bauska.org" target="_blank" rel="noopener noreferrer">My newest blog - Brian's Blog at blog.bauska.org</a></li>
-      <li><a href="https://cad101en.bauska.org" target="_blank" rel="noopener noreferrer">IBM Cloud Development using HTML, CSS & JS</a></li>
-      <li><a href="#good-articles">List of Articles</a></li>
-      <li><a href="#dev-blogs">List of Developer Blogs</a></li>
-      <li><a href="#podcasts">List of Podcasts</a></li>
-      <li><a href="" target="_blank" rel="noopener noreferrer">blank holder of menu item</a></li>
+      <li><a href="https://cad101en.bauska.org" target="_blank" rel="noopener noreferrer">CAD101en-IBM Cloud Development using HTML, CSS & JS</a></li>
+	  <li class="dropdown-divier"></li>
+      <li><a href="#good-articles">Articles</a></li>
+      <li><a href="#dev-blogs">Developer Blogs</a></li>
+      <li><a href="#podcasts">Podcasts</a></li>
     </ul>
   </li>
   <li><a href="">Tutorials</a>
@@ -141,23 +141,23 @@ a {
       <li><a href=" https://hackernoon.com/tagged/react-top-story" target="_blank" rel="noopener noreferrer">React Top Story</a></li>
       <li><a href="https://reactjs.org/community/courses.html" target="_blank" rel="noopener noreferrer">ReactJS Free Courses</a></li>
       <li><a href="https://freefrontend.com/bootstrap-dropdowns/" target="_blank" rel="noopener noreferrer">Responsive Bootstrap Dropdown Templates</a></li>
-      <li class="divider"></li>
-      <li><a href="#tutorials">List of Online Tutorials</a></li>
-	  <li><a href="#video-tutorials">List of Video Tutorials</a></li>
-      <li><a href="#bash-and-shell-scripting">List of Bash and Shell Scripting</a></li>
-      <li><a href="#open-source-websites">List of Open Source Websites</a></li>
-      <li><a href="#magazines">List of Magazines</a></li>
-      <li><a href="#computer-books">Long List of Computer Books</a></li>
+      <li class="dropdown-divider"></li>
+      <li><a href="#tutorials">Online Tutorials</a></li>
+	  <li><a href="#video-tutorials">Video Tutorials</a></li>
+      <li><a href="#bash-and-shell-scripting">Bash and Shell Scripting</a></li>
+      <li><a href="#open-source-websites">Open Source Websites</a></li>
+      <li><a href="#magazines">Magazines</a></li>
+      <li><a href="#computer-books">Computer Books</a></li>
       <li><a href="#moocs">MOOCs for Learning Something New</a></li>
     </ul>
   </li>
 <!-------------------------------------------------------------------------------------------------
   <li><a href="">Job Search</a>
     <ul>
-      <li><a href="#interview-prep">List of Interview Prep</a></li>
-      <li><a href="#jobs">List Jobs</a></li>
-      <li><a href="#general-tools">List of General Tools</a></li>
-      <li><a href="#everything">List of Everything in One Place</a></li>
+      <li><a href="#interview-prep">Interview Prep</a></li>
+      <li><a href="#jobs">Job Sites</a></li>
+      <li><a href="#general-tools">General Tools</a></li>
+      <li><a href="#everything">Everything in One Place</a></li>
       <li><a href="https://www.makeuseof.com/best-websites-for-hiring-online/" target="_blank" rel="noopener noreferrer">Online Job Search</a></li>
     </ul>
   </li>
@@ -169,7 +169,7 @@ a {
       <li><a href="https://w3cx-3of5.bauska.org/" target="_blank" rel="noopener noreferrer">W3Cx-3of5-HTML5.1x</a></li>
       <li><a href="https://w3cx-4of5.bauska.org/" target="_blank" rel="noopener noreferrer">W3Cx-4of5-HTML5.2x</a></li>
       <li><a href="https://w3cx-5of5.bauska.org/" target="_blank" rel="noopener noreferrer">W3Cx-5of5-JS.0x</a></li>
-      <li class="divider"></li>
+      <li class="dropdown-divider"></li>
       <li><a href="https://cad101en.bauska.org/" target="_blank" rel="noopener noreferrer">CAD101en - Intro to Cloud Development</a></li>
       <li><a href="https://cad101en.bauska.org/" target="_blank" rel="noopener noreferrer">CAD101en - Intro to Cloud Development</a></li>
     </ul>
@@ -189,12 +189,12 @@ a {
 --->
   <li><a href="">Support</a>
     <ul>
-      <li><a href="#bored">List of Bored?</a></li>
+      <li><a href="#bored">Bored?</a></li>
       <li><a href="https://validator.w3.org/nu/" target="_blank" rel="noopener noreferrer">Nu HTML Checker, again</a></li>
-      <li><a href="https://www.coursera.org/learn/bootstrap-4" target="_blank" rel="noopener noreferrer">Front-End Web UI Frameworks and Tools: Bootstrap 4 (Coursera)</a></li>
+      <li class="dropdown-divider"></li>
       <li><a href="#when-you-get-stuck" target="_blank" rel="noopener noreferrer">When you get stuck</a></li>
       <li><a href="#libraries">Libraries</a></li>
-      <li><a href="#webtools">7 Web Development Tools to Help Your Business</a></li>
+      <li><a href="#webtools">7 Web Development Tools</a></li>
     </ul>
   </li>
   <li><a href="">Contact Me</a></li>
@@ -893,21 +893,21 @@ The revealjs framework comes with a broad range of features including nested sli
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ social media icons ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <div class="center">
     <div class="icons first">
-<a href="https://www.facebook.com/brian.bauska/" class="fa fa-facebook-square"></a>
-<a href="https://www.twitter.com/brian.bauska" class="fa fa-twitter-square"></a>
-<a href="https://mail.google.com/mail/u/0/#inbox" class="fa fa-envelope"></a>
-<a href="https://www.youtube.com/brianbauska@gmail.com" class="fa fa-youtube-square"></a>
-<a href="https://www.linkedin.com/in/brian-bauska-89240679/" class="fa fa-linkedin-square"></a>
-<a href="https://web.snapchat.com//brianbauska2019" class="fa fa-snapchat-ghost"></a>
-<a href="https://dribbble.com/bbauska" class="fa fa-dribbble"></a>
-<a href="https://medium.com/@brianbauska" class="fa fa-medium"></a>
-<a href="https://github.com/bbauska?tab=repositories" class="fa fa-github-square"></a>
-<a href="https://www.quora.com/profile/Brian-Bauska" class="fa fa-quora"></a>
-<a href="https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn" class="fa fa-amazon"></a>
-<a href="https://www.messenger.com/@brianbauska" class="fa fa-messenger"></a>
+      <a href="https://www.facebook.com/brian.bauska/" class="fa fa-facebook-square"></a>
+      <a href="https://www.twitter.com/brian.bauska" class="fa fa-twitter-square"></a>
+      <a href="https://mail.google.com/mail/u/0/#inbox" class="fa fa-envelope"></a>
+      <a href="https://www.youtube.com/brianbauska@gmail.com" class="fa fa-youtube-square"></a>
+      <a href="https://www.linkedin.com/in/brian-bauska-89240679/" class="fa fa-linkedin-square"></a>
+      <a href="https://web.snapchat.com//brianbauska2019" class="fa fa-snapchat-ghost"></a>
+      <a href="https://dribbble.com/bbauska" class="fa fa-dribbble"></a>
+      <a href="https://medium.com/@brianbauska" class="fa fa-medium"></a>
+      <a href="https://github.com/bbauska?tab=repositories" class="fa fa-github-square"></a>
+      <a href="https://www.quora.com/profile/Brian-Bauska" class="fa fa-quora"></a>
+      <a href="https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn" class="fa fa-amazon"></a>
+      <a href="https://www.messenger.com/@brianbauska" class="fa fa-messenger"></a>
     </div>
   </div>
   </body>
 <br><br>
-<h6>last updated 2-10-2023 at 10:25am</h6>
+<h6>last updated 2-10-2023 at 10:59am</h6>
 </html>
