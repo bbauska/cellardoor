@@ -15,9 +15,11 @@ hr {
 
 ul.list-styles {
   list-style-type: circle;
+  margin-left: 50px;
 }
 ul.list-styles2 {
   list-style-type: square;
+  margin-left: 50px;
 }
 
 * {
@@ -32,7 +34,7 @@ ul.list-styles2 {
 		background-attachment: fixed;
 		background-size: cover;
 		padding: 30px; 
-		font-family: "Helvetica Neue", helvetica, arial; 
+		font-family: Bahnschrift, "Helvetica Neue", helvetica, arial; 
 		background: url('https://subtlepatterns.com/patterns/white_carbonfiber.png');
 	}
 
