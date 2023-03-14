@@ -130,13 +130,13 @@
     }
 
   details[open] > summary {
-    background-color: yellow;
+    background-color: lightgreen;
     }
   </style>
   </head>
 
 <body>
-  <h1 style="text-align:left;color:darkred">Cellardoor</h1>
+  <h1 style="text-align:left;color:darkgreen">Cellardoor</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ shingles menu for cellardoor.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -253,7 +253,15 @@ Facebook - https://www.facebook.com/brianbauska
 Twitter - https://twitter.com/brianbauska
 Instagram - https://www.instagram.com/brianbauska/
 --->
-	
+ <main>
+  <div class="tooltip-area" onpointermove="updateTooltipPosition(event)">
+    <h1>What is cellardoor?</h1>
+    <div id="tooltip" role="tooltip">
+      Cellardoor is Brian's menu blog of web sites.  Over 150 at last count.  Next big step, web server.
+    </div>
+  </div>
+</main>
+
 <details id="documentaries">
   <summary>Documentaries</summary>
 <br>
@@ -1068,5 +1076,9 @@ The revealjs framework comes with a broad range of features including nested sli
   </div>
   </body>
 <br><br>
+<footer>
+  Pen by <a href="https://cellardoor.bauska.org" target="_blank" rel="noopener"></a>
+</footer>
+
 <h6>last updated 3-11-2023 at 1:29am</h6>
 </html>
