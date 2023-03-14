@@ -244,3 +244,66 @@
     color: white;
     }
   }
+// tooltips
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400display=swap');
+
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #0E67AD;
+}
+
+.tooltip-area {
+  width: 50%;
+  min-width: max-content;
+  max-height: 75vh;
+  max-width: 75vh;
+  aspect-ratio: 1;
+  box-sizing: border-box;
+  padding: 18px 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+}
+
+.tooltip-area h1 {
+  text-align: center;
+}
+
+#tooltip {
+  position: absolute;
+  height: fit-content;
+  max-width: 250px;
+  padding: 12px;
+  background-color: #FFFAA0;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  pointer-events: none
+}
+
+.tooltip-area:hover #tooltip {
+  opacity: 1;
+}
+
+footer {
+  background-color: #ffdfb9;
+  bottom: 0;
+  font-family: sans-serif;
+  padding: 1rem;
+  text-align: center;
+  width: 100%;
+}
+
+footer a {
+  color: inherit;
+  text-decoration: none;
+}
