@@ -14,126 +14,123 @@
     <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
 
 <!--~~~~~~~~~~~~~~~~~~ pad 10px, font-size 15px, width 25px, margin 5px 2px ~~~~~~~~~~~~~~~~~~~~-->
-<style>
-  .fa {
-    padding: 5px;
-    font-size: 15px;
-    width: 25px;
-    height: 25px;
-    text-align: center;
-    text-decoration: none;
-    margin: 5px 2px;
-    }
-  .fa:hover {
-    opacity: 0.4;
-    }
-  .fa-facebook-square {
-    background: #3B5998;
-    color: #ffffff;
-    }
-  .fa-twitter-square {
-    background: #1da1f2;
-    color: #ffffff;
-    }
-  .fa-envelope {
-    background: #000000;
-    color: #ffffff;
-    }
-  .fa-youtube-square {
-    background: #ff0000;
-    color: #ffffff;
-    }
-  .fa-linkedin {
-    background: #0077b5;
-    color: #ffffff;
-    }
-  .fa-snapchat-ghost {
-    background: #fffa37;
-    color: #fffc00;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-    }
-  .fa-dribbble {
-    background: #b2215a;
-    color: #e94c88;
-    }
-  .fa-medium {
-    background: #02b875;
-    color: #66cdaa;
-    }
-  .fa-github-square {
-    background: #00405d;
-    color: #333333;
-    }
-  .fa-quora {
-    background: #a82400;
-    color: #ffffff;
-    }
-  .fa-amazon {
-    background: #ff9900;
-    color: #ffffff;
-    }
-  .fa-facebook-square:hover {
-    background: #3b5998;
-    }
-  .fa-twitter-square:hover {
-    background: #1da1f2;
-    }
-  .fa-envelope:hover {
-    background: #ffe900;
-    }
-  .fa-youtube-square:hover {
-    background: #ff0000;
-    }
-  .fa-snapchat-ghost:hover {
-    background: #ffe900;
+  <style>
+    .fa {
+      padding: 5px;
+      font-size: 15px;
+      width: 25px;
+      height: 25px;
+      text-align: center;
+      text-decoration: none;
+      margin: 5px 2px;
+      }
+    .fa:hover {
+      opacity: 0.4;
+      }
+    .fa-facebook-square {
+      background: #3B5998;
+      color: #ffffff;
+      }
+    .fa-twitter-square {
+      background: #1da1f2;
+      color: #ffffff;
+      }
+    .fa-envelope {
+      background: #000000;
+      color: #ffffff;
+      }
+    .fa-youtube-square {
+      background: #ff0000;
+      color: #ffffff;
+      }
+    .fa-linkedin {
+      background: #0077b5;
+      color: #ffffff;
+      }
+    .fa-snapchat-ghost {
+      background: #fffa37;
+      color: #fffc00;
+      text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+      }
+    .fa-dribbble {
+      background: #b2215a;
+      color: #e94c88;
+     }
+    .fa-medium {
+      background: #02b875;
+      color: #66cdaa;
+     }
+    .fa-github-square {
+      background: #00405d;
+      color: #333333;
+      }
+    .fa-quora {
+      background: #a82400;
+      color: #ffffff;
+      }
+    .fa-amazon {
+      background: #ff9900;
+      color: #ffffff;
+      }
+    .fa-facebook-square:hover {
+      background: #3b5998;
+      }
+    .fa-twitter-square:hover {
+      background: #1da1f2;
+      }
+    .fa-envelope:hover {
+      background: #ffe900;
+      }
+    .fa-youtube-square:hover {
+      background: #ff0000;
+      }
+    .fa-snapchat-ghost:hover {
+      background: #ffe900;
+      }
 <!-- hover -->
-    }
-  .fa-dribbble:hover {
-    background: #1e1f26;
-    }
-  .fa-medium:hover {
-    background: #fffc00;
-    }
-  .fa-github-square {
-    background: #fffc00;
-    }
-  .fa-quora:hover {
-    background: #aa2200;
-    }
-  .fa-amazon:hover {
-    background: #ff9900;
-    }
-  a {
-	text-decoration: none; 
-    }
+    .fa-dribbble:hover {
+      background: #1e1f26;
+      }
+    .fa-medium:hover {
+      background: #fffc00;
+      }
+    .fa-github-square {
+      background: #fffc00;
+      }
+    .fa-quora:hover {
+      background: #aa2200;
+      }
+    .fa-amazon:hover {
+      background: #ff9900;
+      }
 
-  details {
-    font: 15px "Bahnschrift", Calibri, sans-serif;
-    width: 620px;
-    }
-
-  details > summary {
-    padding: 2px 6px;
-    width: 15em;
-    background-color: #eee;
-    border: none;
-    box-shadow: 3px 3px 4px black;
-    cursor: pointer;
-    }
-
-  details > p {
-    border-radius: 0 0 10px 10px;
-    background-color: #fff;
-    padding: 2px 6px;
-    margin: 0;
-    box-shadow: 3px 3px 4px darkgreen;
-    }
-
-  details[open] > summary {
-    background-color: lightgreen;
-    }
+    a {
+	  text-decoration: none; 
+      }
+    details {
+      font: 15px "Bahnschrift", Calibri, sans-serif;
+      width: 620px;
+      }
+    details > summary {
+      padding: 2px 6px;
+      width: 15em;
+      background-color: #eee;
+      border: none;
+      box-shadow: 3px 3px 4px black;
+      cursor: pointer;
+      }
+    details > p {
+      border-radius: 0 0 10px 10px;
+      background-color: #fff;
+      padding: 2px 6px;
+      margin: 0;
+      box-shadow: 3px 3px 4px darkgreen;
+      }
+    details[open] > summary {
+      background-color: lightgreen;
+      }
   </style>
-  </head>
+</head>
 
 <body>
   <h1 style="text-align:left;color:darkgreen">Cellardoor</h1>
@@ -144,20 +141,22 @@
 <ul id="menu">
   <li><a href="#">Latest & Greatest</a>
     <ul>
-      <li><a href="https://bfotool.com/website-download-online" target="_blank" rel="noopener noreferrer">BF Tools - Download website</a></li>
-      <li><a href="https://github.com/bbauska/Coursera-Bootstrap" target="_blank" rel="noopener noreferrer">Coursera - Bootstrap 4 (Hong Kong)</a></li>
-      <li><a href="https://github.com/bbauska/Coursera-React" target="_blank" rel="noopener noreferrer">Coursera - ReactJS (Hong Kong)</a></li>
-      <li><a href="https://github.com/bbauska/meta-html-css-in-depth/edit/main/index.html/" target="_blank" rel="noopener noreferrer">Meta via Coursera - HTML &amp; CSS in Depth</a></li>
-      <li><a href="https://github.com/bbauska/TUMx-DWAPNx/" target="_blank" rel="noopener noreferrer">TUM-WAPNx - Tech Univ of Munich - Web Appl'n Development with Node.js</a></li>
-      <li><a href="https://dash.cloudflare.com/3acee6f6f58909a84295ef00f79e3361" target="_blank" rel="noopener noreferrer">Cloudflare Login</a></li>
+	  <li><a href="https://github.com/bbauska/NoBS/blob/main/README.md" target="_blank" rel="noopener noreferrer">No OBS (No Bullshit!) - training &amp; - tips, tricks &amp; techniques</a></li>
+      <li><a href="https://bfotool.com/website-download-online" target="_blank" rel="noopener noreferrer">BF Tools - Download website - testing tools</a></li>
       <li><a href="https://validator.w3.org/nu/" target="_blank" rel="noopener noreferrer">Nu HTML Checker</a></li>
+      <li><a href="https://github.com/bbauska/Coursera-Bootstrap" target="_blank" rel="noopener noreferrer">Coursera - Bootstrap 4 (Hong Kong) - wrapup</a></li>
+      <li><a href="https://github.com/bbauska/Coursera-React" target="_blank" rel="noopener noreferrer">Coursera - ReactJS (Hong Kong) - 1/2 way</a></li>
+      <li><a href="https://github.com/bbauska/meta-html-css-in-depth/edit/main/index.html/" target="_blank" rel="noopener noreferrer">Meta via Coursera - HTML &amp; CSS in Depth - wrap up</a></li>
+      <li><a href="https://github.com/bbauska/TUMx-DWAPNx/" target="_blank" rel="noopener noreferrer">TUM-WAPNx - Tech Univ of Munich - Web Appl'n Development with Node.js - wrap up</a></li>
+      <li><a href="https://dash.cloudflare.com/3acee6f6f58909a84295ef00f79e3361" target="_blank" rel="noopener noreferrer">Cloudflare Login</a></li>
       <li><a href="https://jsfiddle.net/brianbauska/5juwcvza/8/" target="_blank" rel="noopener noreferrer">JS Fiddle</a></li>
       <li><a href="https://www.khanacademy.org/computing/computer-programming/html-css/css-layout-properties/pt/css-grouping-elements" target="_blank" rel="noopener noreferrer">Code Tester</a></li>
     </ul>
   </li>
   <li><a href="">Tutorials</a>
     <ul>
-      <li><a href="https://www.coursera.org/learn/responsivedesign/home/info" target="_blank" rel="noopener noreferrer">Un of Michigan - Advanced Styling with Responsive Design</a></li>
+<!-- <li><a href="https://www.coursera.org/learn/responsivedesign/home/info" target="_blank" rel="noopener noreferrer">Un of Michigan - Advanced Styling with Responsive Design</a></li>
+-->
       <li><a href="https://www.youtube.com/watch?v=bMknfKXIFA8" target="_blank" rel="noopener noreferrer">React Course - Beginner's Tutorial for React JavaScript Library</a></li>
       <li><a href=" https://hackernoon.com/tagged/react-top-story" target="_blank" rel="noopener noreferrer">React Top Story</a></li>
       <li><a href="https://reactjs.org/community/courses.html" target="_blank" rel="noopener noreferrer">ReactJS Free Courses</a></li>
@@ -165,19 +164,19 @@
       <li><a href="#tutorials">Online Tutorials</a></li>
       <li><a href="https://www.coursera.org/learn/introduction-to-data-analytics/lecture/OJQ9T/modern-data-ecosystem" target="_blank" rel="noopener noreferrer">Data Analytics</a></li>
       <li><a href="#video-tutorials">Video Tutorials</a></li>
-      <li><a href="#bash-and-shell-scripting">Bash and Shell Scripting</a></li>
-      <li><a href="#open-source-websites">Open Source Websites</a></li>
+<!--      <li><a href="#bash-and-shell-scripting">Bash and Shell Scripting</a></li> -->
+<!--      <li><a href="#open-source-websites">Open Source Websites</a></li> -->
 <!--      <li><a href="#magazines">Magazines</a></li> -->
       <li><a href="#computer-books">Computer Books</a></li>
       <li><a href="#moocs">MOOCs for Learning Something New</a></li>
     </ul>
   </li>
-  <li><a href="">JS Framework &amp; Libraries</a>
+  <li><a href="">JS Frameworks &amp; Libraries</a>
     <ul>
-      <li><a href="https://www.creativebloq.com/design-tools/data-visualization-712402"  target="_blank" rel="noopener noreferrer">Data Viz Design Tools</a></li>
+      <li><a href="https://technostacks.com/blog/best-frontend-frameworks/" target="_blank" rel="nooperner noreferrer">Best Front-end Frameworks</a></li>
+      <li><a href="https://www.creativebloq.com/design-tools/data-visualization-712402" target="_blank" rel="noopener noreferrer">Data Viz Design Tools</a></li>
       <li><a href="https://www.youtube.com/watch?v=bMknfKXIFA8" target="_blank" rel="noopener noreferrer">React Course - Beginner's Tutorial for React JavaScript Library</a></li>
       <li><a href=" https://hackernoon.com/tagged/react-top-story" target="_blank" rel="noopener noreferrer">React Top Story</a></li>
-      <li><a href="https://reactjs.org/community/courses.html" target="_blank" rel="noopener noreferrer">ReactJS Free Courses</a></li>
       <li><a href="https://freefrontend.com/bootstrap-dropdowns/" target="_blank" rel="noopener noreferrer">Responsive Bootstrap Dropdown Templates</a></li>
       <li><a href="https://gokhale.me/10-beginner-mistakes-react-developers-do" target="_blank" rel="noopener noreferrer">10 Beginner's Mistakes JS React</a></li>
     </ul>
@@ -197,7 +196,7 @@
 <!-- coursera and hong kong - build your first react web site -->
     </ul>
   </li>
-<!--      <li><a href="https://meta.bauska.site/" target="_blank" rel="noopener noreferrer">WIP-meta - HTML/CSS in Depth</a></li> -->
+<!--      <li><a href="https://meta.bauska.site/" target="_blank" rel="noopener noreferrer">meta - HTML/CSS in Depth</a></li> -->
 <!--
   <li><a href="">Route 2, Monroe PO</a>
     <ul>
@@ -215,11 +214,15 @@
     <ul>
       <li><a href="#bored">Bored?</a></li>
       <li><a href="https://validator.w3.org/nu/" target="_blank" rel="noopener noreferrer">Nu HTML Checker, again</a></li>
+      <li><a href="https://bfotool.com/website-download-online" target="_blank" rel="noopener noreferrer">BF Tools - Download website - testing tools</a></li>
       <li class="dropdown-divider"></li>
+	  <hr />
       <li><a href="#when-you-get-stuck" target="_blank" rel="noopener noreferrer">When you get stuck</a></li>
       <li><a href="#dev-blogs">Developer Blogs</a></li>
+<!--
       <li><a href="#podcasts">Podcasts</a></li>
       <li><a href="#libraries">Libraries</a></li>
+-->
       <li><a href="#webtools">7 Web Development Tools</a></li>
     </ul>
   </li>
@@ -1098,5 +1101,5 @@ The revealjs framework comes with a broad range of features including nested sli
   Pen by <a href="https://cellardoor.bauska.org" target="_blank" rel="noopener">bbauska on github.io</a>
 </footer>
 
-<h6>last updated 3-14-2023 at 1:14am</h6>
+<h6>last updated 3-18-2023 at 5:20pm</h6>
 </html>
