@@ -40,7 +40,7 @@
 
   #container {
     position: relative;
-    width: 940px;
+    width: 1200px;  /* 940px */
   }
 
   #container:after {
@@ -69,7 +69,7 @@
     position: relative;
     border-right: 1px solid rgba(0,0,0,.1);
     box-shadow: 1px 0 0 rgba(255,255,255,.25);
-    perspective: 1200px;
+    perspective: 1600px;  /* 1200px */
   }
 
   #menu > li:first-child {
@@ -172,7 +172,7 @@
 /*** summary / details ***/
   details {
     font: 15px "Bahnschrift", Calibri, sans-serif;
-    width: 620px;
+    width: 920px;  /** was 620 **/
   }
 
   details > summary {
