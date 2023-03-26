@@ -8,11 +8,13 @@
     <title>Cellardoor</title>
     <link rel="stylesheet" href="/css/default.min.css">
 <!-- highlight -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <script src="/js/highlight.min.js"></script>
     <script>hljs.highlightAll();</script>
 <!-- shortcut icon -->
     <link rel="shortcut icon" type="image/jpg" href="./images/bauska.ico"/>
 <!-- styles -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="./css/styles.css">
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
@@ -116,37 +118,39 @@
 <!-- shortcut display underline or squigly or none -->
     a {
 	  text-decoration: none !important; 
-	  text-decoration-color: darkblue;
-	  text-decoration-line: underline;
+	  text-decoration-color: #00008b;
+	  text-decoration-line: none;
       }
 	p {
 	  text-decoration: none !important;
-	  text-decoration-color: darkgreen;
-	  text-decoration-line: underline;
+	  text-decoration-color: #006400;
+	  text-decoration-line: none;
       }
 	
-<!-- details/summary disclosure tags or widgets -->
+<!-- details/summary disclosure tags or widgets; ff0000-red, eee-off white, 006400-dgreen, 
+ffb6c1-lpink,000000-black,00008b-dblue,ffffff-white,fffa37-yellow,ff9900-orange,aa2200-dred. -->
     details {
       font: 15px "Bahnschrift", Calibri, sans-serif;
-      width: 670px;  /* 620 */
+      width: 770px;  /* 620 */
       }
     details > summary {
       padding: 2px 6px;
       width: 15em;
-      background-color: #eee;
+      background-color: #eeeeee;
       border: none;
-      box-shadow: 3px 3px 4px black;
+      box-shadow: 3px 3px 4px #000000;
       cursor: pointer;
       }
     details > p {
       border-radius: 0 0 10px 10px;
-      background-color: #fff;
+      background-color: #ff0000;
       padding: 2px 6px;
+	  text-decoration-line: none;
       margin: 0;
-      box-shadow: 3px 3px 4px darkgreen;
+      box-shadow: 3px 3px 4px #006400;
       }
     details[open] > summary {
-      background-color: lightpink;
+      background-color: #ffb6c1;
       }
   </style>
 </head>
@@ -748,71 +752,21 @@ Instagram - https://www.instagram.com/brianbauska/
 
 <hr style="width:100%;height:2px;color:black;background-color:black">
 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ web development on git ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ web development on github ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <details id="web-dev">
   <summary>Web Dev on GitHub</summary>
-<br>
-<h3 style="text-align:left;">Freeforall Websites</h3>
-<h4 style="margin-left:30px" class="relative"><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank" rel="noopener noreferrer">Free Code Camp</a></h4>
-<h4 style="margin-left:30px"><a href="https://dash.cloudflare.com/dns" target="_blank" rel="noopener noreferrer">Cloudflare login</a></h4>
-<h4 style="margin-left:30px">
-<a href="https://revealjs.com/themes/" target="_blank" rel="noopener noreferrer">Reveal JavaScript Themes</a>
-</h4>
-<h4 style="margin-left:30px">
-<a href="https://gridbyexample.com/" target="_blank" rel="noopener noreferrer">Grid by Example from W3Cx-2of5 - HTML5 and CSS Fundamentals</a></h4>
+  <br>
+  <h4 style="margin-left:30px" class="relative"><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank" rel="noopener noreferrer">Free Code Camp</a></h4>
+  <h4 style="margin-left:30px"><a href="https://dash.cloudflare.com/dns" target="_blank" rel="noopener noreferrer">Cloudflare login</a></h4>
+  <h4 style="margin-left:30px"><a href="https://revealjs.com/themes/" target="_blank" rel="noopener noreferrer">Reveal JavaScript Themes</a></h4>
+  <h4 style="margin-left:30px"><a href="https://gridbyexample.com/" target="_blank" rel="noopener noreferrer">Grid by Example from W3Cx-2of5 - HTML5 and CSS Fundamentals</a></h4>
 <!-- <h3 style="text-align:left;">Web Development Tools</h3> -->
-<p style="margin-left:50px">
-  <a href="https://www.webfx.com/blog/web-design/web-development-tools/" target="_blank" rel="noopener noreferrer">7 Web Development Tools to Help Your Business (webfx)</a><br>
-<br>
-  <a href="https://get.foundation/" target="_blank" rel="noopener noreferrer">Foundation Framework</a><br>
-<br>
-Foundation is a type of web development tech software known as a CSS framework. That means it’s something like a code encyclopedia — it’s a package containing tons of prewritten, commonly used code snippets you can access for your website.
+  <h4 style="margin-left:30px"><a href="https://www.webfx.com/blog/web-design/web-development-tools/" target="_blank" rel="noopener noreferrer">7 Web Development Tools to Help Your Business (webfx)</a>
+  <h4 style="margin-left:30px"><a href="https://get.foundation/" target="_blank" rel="noopener noreferrer">Foundation Framework</a></h4>
 </p>
 
 </details>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ end web dev on github ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-<hr style="width:100%;height:2px;color:black;background-color:black">
-
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ javascript frameworks and libraries ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<div id="libraries">
-  <h3 style="text-align:left">JavaScript Frameworks and Libraries</h3>
-
-  <ul style="margin-left:50px">
-    <li><a href="https://medium.com/beginners-guide-to-mobile-web-development/js-frameworks-a-brief-overview-4b8754c3f1d5" target="_blank" rel="noopener noreferrer">Medium.com Libraries to Learn</a></li>
-    <li><a href="https://hackr.io/blog/web-development-frameworks" target="_blank" rel="noopener noreferrer">10 Best Web Development Frameworks (hackr.io)</a></li>
-    <li><a href="https://hackr.io/blog/javascript-ui-library" target="_blank" rel="noopener noreferrer">hackr.io JavaScript Libraries</a></li>
-    <li><a href="https://github.com/django/django" target="_blank" rel="noopener noreferrer">Django Github Link</a></li>
-  <li><a href="https://github.com/bbauska/cellardoor/blob/master/awesome-react-master.md" target="_blank" rel="noopener noreferrer">Awesome React Master : List containing ALL that is ReactJS.</a></li>
-  </ul>
-</div>
-
-<hr style="width:100%;height:2px;color:black;background-color:black">
-
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ more, revealjs, w3cx ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p style="margin-left:25px">
-
-<a href="https://www.java67.com/2018/02/5-free-react-courses-for-web-developers.html" target="_blank" rel="noopener noreferrer">OLD Free <i>React</i> Course</a><br>
-<p style="margin-left:25px">
-
-<a href="https://revealjs.com/" target="_blank" rel="noopener noreferrer">THE HTML PRESENTATION FRAMEWORK</a>
-The revealjs framework comes with a broad range of features including nested slides, Markdown support, Auto-Animate, PDF export, speaker notes, LaTeX support and syntax highlighted code.<br>
-
-<a href="https://learning.edx.org/course/course-v1:W3Cx+HTML5.0x+1T2022/block-v1:W3Cx+HTML5.0x+1T2022+type@sequential+block@be863694ac4b45e492eae4c82576acc5/block-v1:W3Cx+HTML5.0x+1T2022+type@vertical+block@71deac64f61a420781f0ed127d36e696)" target="_blank" rel="noopener noreferrer">W3Cx on EdX.org (free)</a><br>
-
-<a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank" rel="noopener noreferrer">Code Camp (free)</a><br>
-</p>
-
-<p style="margin-left:25px">
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server" target="_blank" rel="noopener noreferrer">How to Set Up a Local Test Server</a>
-  <br>
-</p>
-
-<hr style="width:100%;height:2px;color:black;background-color:black">
-
-<h4 style="margin-left:25px">
-  <a href="https://www.checkbot.io/" target="_blank" rel="noopener noreferrer">Check Bot</a>
-</h4>
 
 <hr style="width:100%;height:2px;color:black;background-color:black">
 
@@ -850,9 +804,7 @@ The revealjs framework comes with a broad range of features including nested sli
 
 <div style="margin-left:30px;">
   <h4><span style="background-color: #ffff00"><a href="https://codeburst.io/guide-building-%D0%B0-landing-page-with-gatsbyjs-488e4a2c793b" target="_blank">1. Creating a Landing Page with GatsbyJS</a></span></h4>
-
   <h4><span style="background-color: #ffff00"><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design" target="_blank" rel="noopener noreferrer">2. Mozilla's Responsive Design</a></span></h4>
-
   <h4><span style="background-color: #ffff00"><a href="https://dash.cloudflare.com/dns" target="_blank" rel="noopener noreferrer">3. Cloudflare login</a></span></h4>
 
   <div class="relative"><h4><span style="background-color: #ffff00"><a href="https://symfony.com/ten-criteria" target="_blank" rel="noopener noreferrer">4. 10 criteria for choosing the correct framework</a></span></h4>
@@ -865,23 +817,15 @@ The revealjs framework comes with a broad range of features including nested sli
 <hr style="width:100%;height:2px;color:black;background-color:black">
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ frameworks and libraries websites ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!-- <h3>JavaScript Frameworks and Libraries</h3> -->
-
-<details id="frame-and-libraries">
+<details id="libraries">
   <summary>Frameworks &amp; Libraries</summary>
 <br>
-
-<h3 id="top-10"><a href="https://medium.com/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4" target="_blank" rel="noopener noreferrer">Medium.com's top 10 Frameworks</a><br><a href="https://www.interviewbit.com/blog/web-development-frameworks/" target="_blank" rel="noopener noreferrer">10+ More Frameworks</a>
-</h3>
-
-<ol style="margin-left:50px;">
+  <ul style="margin-left:30px">
+<!-- ===== -->
   <li><a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">REACT.js | A javascript library for building user interfaces.</a>
-    <ul class="list-styles2" style="margin-left: 30px;">
-      <li> <a href="https://reactjs.org/docs/getting-started.html" target="_blank" rel="noopener noreferrer">Getting started with React.</a></li>
-      <li> <a href="https://gokhale.me/10-beginner-mistakes-react-developers-do" target="_blank" rel="noopener noreferrer">10 Beginner React Mistakes.</a></li>
-      <li> <a href="https://github.com/tbakerx/react-resume-template" target="_blank" rel="noopener noreferrer">React resume template on Github.</a></li>
-    </ul>
-  </li>
+  <li> <a href="https://reactjs.org/docs/getting-started.html" target="_blank" rel="noopener noreferrer">Getting started with React.</a></li>
+  <li> <a href="https://gokhale.me/10-beginner-mistakes-react-developers-do" target="_blank" rel="noopener noreferrer">10 Beginner React Mistakes.</a></li>
+  <li> <a href="https://github.com/tbakerx/react-resume-template" target="_blank" rel="noopener noreferrer">React resume template on Github.</a></li>
   <li><a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">Vue.js | The progressive javaScript framework.</a></li>
   <li><a href="https://angular.io/" target="_blank" rel="noopener noreferrer">Angular | The modern web developer's platform.</a></li>
   <li><a href="https://svelte.dev/" target="_blank" rel="noopener noreferrer">Svelte.js | Cybernetically enhanced web apps.</a></li>
@@ -893,7 +837,20 @@ The revealjs framework comes with a broad range of features including nested sli
   <li><a href="https://aurelia.io/" target="_blank" rel="noopener noreferrer">Auralia | Simple, powerful, unobtrusive.</a></li>
   <li><a href="http://backbonejs.org/" target="_blank" rel="noopener noreferrer">Backbone.JS | Give structure to web applications.</a></li>
   <li><a href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer">Node.JS | Javascript runtime.</a></li>
-</ol>
+<!-- ===== -->
+  <li><a href="https://medium.com/beginners-guide-to-mobile-web-development/js-frameworks-a-brief-overview-4b8754c3f1d5" target="_blank" rel="noopener noreferrer">Medium.com Libraries to Learn</a></li>
+  <li><a href="https://hackr.io/blog/web-development-frameworks" target="_blank" rel="noopener noreferrer">10 Best Web Development Frameworks (hackr.io)</a></li>
+  <li><a href="https://hackr.io/blog/javascript-ui-library" target="_blank" rel="noopener noreferrer">hackr.io JavaScript Libraries</a></li>
+  <li><a href="https://github.com/django/django" target="_blank" rel="noopener noreferrer">Django Github Link</a></li>
+  <li><a href="https://github.com/bbauska/cellardoor/blob/master/awesome-react-master.md" target="_blank" rel="noopener noreferrer">Awesome React Master : List containing ALL that is ReactJS.</a></li>
+  <li><a href="https://www.java67.com/2018/02/5-free-react-courses-for-web-developers.html" target="_blank" rel="noopener noreferrer">OLD Free <i>React</i> Course</a></li>
+  <li><a href="https://revealjs.com/" target="_blank" rel="noopener noreferrer">THE HTML PRESENTATION FRAMEWORK</a></li>
+  <li><a href="https://medium.com/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4" target="_blank" rel="noopener noreferrer">Medium.com's top 10 Frameworks</a><br><a href="https://www.interviewbit.com/blog/web-development-frameworks/" target="_blank" rel="noopener noreferrer">10+ More Frameworks</a></li>
+  <li><a href="https://learning.edx.org/course/course-v1:W3Cx+HTML5.0x+1T2022/block-v1:W3Cx+HTML5.0x+1T2022+type@sequential+block@be863694ac4b45e492eae4c82576acc5/block-v1:W3Cx+HTML5.0x+1T2022+type@vertical+block@71deac64f61a420781f0ed127d36e696)" target="_blank" rel="noopener noreferrer">W3Cx on EdX.org (free)</a></li>
+  <li><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank" rel="noopener noreferrer">Code Camp (free)</a></li>
+</ul>
+
+<hr style="width:100%;height:2px;color:black;background-color:black">
 
 </details>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ end of frameworks and libraries ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -903,7 +860,6 @@ The revealjs framework comes with a broad range of features including nested sli
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ test & bootstrap ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <details id="webtools">
   <summary>Test &amp; Bootstrap</summary>
-
 <br>
 <ul class="list-styles2" style="margin-left:50px;">
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server" target="_blank" rel="noopener noreferrer">How to Set Up a Local Test Server</a></li>
