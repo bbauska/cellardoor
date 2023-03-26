@@ -8,7 +8,7 @@
     margin-right: auto;
     border-style: inset;
     border-width: 2px;
-    background-color: red;
+    background-color: yellow;  /* red */
     color: red;
     height: 2px;
   }
@@ -40,7 +40,7 @@
 
   #container {
     position: relative;
-    width: 940px;  /* 940px */
+    width: 740px;  /* 940px */
   }
 
   #container:after {
