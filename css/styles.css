@@ -1,4 +1,3 @@
-/* flip down shingle menu */
   hr { 
     display: block;
     width: 50%;
@@ -71,7 +70,7 @@
     box-shadow: 1px 0 0 rgba(255,255,255,.25);
     perspective: 1200px;  /* 1200px */
   }
-
+/*** flip down shingle menu ***/
   #menu > li:first-child {
     border-left: 1px solid rgba(255,255,255,.25);
     box-shadow: -1px 0 0 rgba(0,0,0,.1), 1px 0 0 rgba(255,255,255,.25);
@@ -172,7 +171,7 @@
 /*** summary / details ***/
   details {
     font: 15px "Bahnschrift", Calibri, sans-serif;
-    width: 620px;  /** was 620 **/
+    width: 650px;  /** was 620 **/
   }
 
   details > summary {
@@ -180,7 +179,7 @@
     width: 15em;
     background-color: #eee;
     border: none;
-    box-shadow: 3px 3px 4px black;
+    box-shadow: 3px 3px 4px blue;  /* was black */
     cursor: pointer;
   }
 
@@ -193,7 +192,8 @@
   }
 
   details[open] > summary {
-    background-color: yellow;
+    background-color: lightgreen;
+    text-decoration: none;  /* added 3-26-2023 */
   }
 /*** social network icons ***/
   @import url(https://fonts.googleapis.com/css?family=Open+Sans);
@@ -244,7 +244,7 @@
     color: white;
     }
   }
-// tooltips
+/*** tooltips ***/
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400display=swap');
 
 body {
