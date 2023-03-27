@@ -171,7 +171,7 @@
 /*** summary / details ***/
   details {
     font: 15px "Bahnschrift", Calibri, sans-serif;
-    width: 650px;  /** was 620 **/
+    width: 620px;
   }
 
   details > summary {
@@ -179,7 +179,7 @@
     width: 15em;
     background-color: #eee;
     border: none;
-    box-shadow: 3px 3px 4px blue;  /* was black */
+    box-shadow: 3px 3px 4px blue;
     cursor: pointer;
   }
 
@@ -193,7 +193,7 @@
 
   details[open] > summary {
     background-color: lightgreen;
-    text-decoration: none;  /* added 3-26-2023 */
+    text-decoration: none;
   }
 /*** social network icons ***/
   @import url(https://fonts.googleapis.com/css?family=Open+Sans);
