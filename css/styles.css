@@ -14,11 +14,11 @@
 
   ul.list-styles {
     list-style-type: circle;
-    margin-left: 20px;
+    margin-left: 15px;
   }
   ul.list-styles2 {
     list-style-type: square;
-    margin-left: 25px;
+    margin-left: 15px;
   }
 
   * {
@@ -39,9 +39,9 @@
 
   #container {
     position: relative;
-    width: 940px;
+    width: 1040px;
   }
-
+<!-- was 940 -->
   #container:after {
     content: "";
     display: block;
@@ -171,9 +171,9 @@
 /*** summary / details ***/
   details {
     font: 15px "Bahnschrift", Calibri, sans-serif;
-    width: 620px;
+    width: 720px;
   }
-
+<!-- 620px -->
   details > summary {
     padding: 2px 6px;
     width: 15em;
@@ -208,9 +208,9 @@
   $neu-shadow: 9px 9px 16px rgba(163,177,198,0.6), -9px -9px 16px rgba(255,255,255,0.5);
 
   $new-shadow-active: 0px 0px 10px 6px rgba(0,0,0,0.1);
-
+<!-- margin: 0px -->
   * {
-    margin: 0px;
+    margin: 5px;
     box-sizing: border-box;
   }
 
