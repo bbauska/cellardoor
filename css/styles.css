@@ -3,11 +3,11 @@
     width: 50%;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
-    margin-left: 25px;
+    margin-left: 15px;
     margin-right: auto;
     border-style: inset;
     border-width: 2px;
-    background-color: yellow;  /* red */
+    background-color: darkred;
     color: red;
     height: 2px;
   }
@@ -39,9 +39,9 @@
 
   #container {
     position: relative;
-    width: 1040px;
+    width: 940px;
   }
-<!-- was 940 -->
+
   #container:after {
     content: "";
     display: block;
@@ -192,7 +192,7 @@
   }
 
   details[open] > summary {
-    background-color: lightgreen;
+    background-color: lightpink;
     text-decoration: none;
   }
 /*** social network icons ***/
@@ -210,7 +210,7 @@
   $new-shadow-active: 0px 0px 10px 6px rgba(0,0,0,0.1);
 <!-- margin: 0px -->
   * {
-    margin: 5px;
+    margin: 0px;
     box-sizing: border-box;
   }
 
