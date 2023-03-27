@@ -18,7 +18,7 @@
   }
   ul.list-styles2 {
     list-style-type: square;
-    margin-left: 20px;
+    margin-left: 25px;
   }
 
   * {
@@ -32,14 +32,14 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    padding: 30px; 
-    font-family: Bahnschrift, "Helvetica Neue", helvetica, arial; 
+    padding: 25px;
+    font-family: Bahnschrift, "Helvetica Neue", helvetica, arial;
     background: url('https://subtlepatterns.com/patterns/white_carbonfiber.png');
   }
 
   #container {
     position: relative;
-    width: 940px;  /* 940px */
+    width: 940px;
   }
 
   #container:after {
