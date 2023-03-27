@@ -36,10 +36,10 @@
     font-family: Bahnschrift, "Helvetica Neue", helvetica, arial;
     background: url('https://subtlepatterns.com/patterns/white_carbonfiber.png');
   }
-
+<!-- was 940 -->
   #container {
     position: relative;
-    width: 940px;
+    width: 840px;
   }
 
   #container:after {
@@ -171,12 +171,13 @@
 /*** summary / details ***/
   details {
     font: 15px "Bahnschrift", Calibri, sans-serif;
-    width: 720px;
+    width: 820px;
   }
-<!-- 620px -->
+<!-- width 620px & 15em width -->
   details > summary {
     padding: 2px 6px;
-    width: 15em;
+    width: 30em;
+    border: .1em solid red;
     background-color: #eee;
     border: none;
     box-shadow: 3px 3px 4px blue;
