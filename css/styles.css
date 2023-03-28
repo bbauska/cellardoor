@@ -1,4 +1,5 @@
-  hr { 
+<!-- 940 -->
+hr { 
     display: block;
     width: 50%;
     margin-top: 0.5em;
@@ -38,7 +39,7 @@
   }
   #container {
     position: relative;
-    width: 940px;
+    width: 740px;
   }
 
   #container:after {
