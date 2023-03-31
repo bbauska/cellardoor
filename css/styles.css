@@ -39,9 +39,8 @@ hr {
   }
   #container {
     position: relative;
-    width: 840px;
+    width: 720px;
   }
-<!-- 720 -->
 
   #container:after {
     content: "";
