@@ -39,7 +39,7 @@ hr {
   }
   #container {
     position: relative;
-    width: 820px;
+    width: 750px;  /* 820 */
   }
 
   #container:after {
@@ -68,7 +68,7 @@ hr {
     position: relative;
     border-right: 1px solid rgba(0,0,0,.1);
     box-shadow: 1px 0 0 rgba(255,255,255,.25);
-    perspective: 1000px;
+    perspective: 1200px;  /* 1000px */
   }
 
   #menu > li:first-child {
@@ -176,7 +176,7 @@ hr {
   }
   details > summary {
     padding: 2px 6px;
-    width: 15em;
+    width: 10em;  /* 15em */
     border: .1em solid red;
     background-color: #eee;
     border: none;
