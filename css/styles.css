@@ -269,8 +269,6 @@ main {
 
 /* Create two equal columns side by side - 300px each */
 .column {
-  flex: 40%;
-  width: 300px;
+  width: 250px;
   padding: 10px;
 }
-/*  height: 300px;		Should be removed. Only for demonstration */
