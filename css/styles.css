@@ -259,3 +259,29 @@ main {
   height: 100vh;
   background-color: #0E67AD;
 }
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+* {
+  box-sizing: border-box;
+}
+.row {
+  display: flex;
+}
+/* Create two equal columns side by side */
+.column {
+  flex: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
