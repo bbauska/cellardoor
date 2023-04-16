@@ -14,17 +14,11 @@
 
   ul.list-styles {
     list-style-type: circle;
-    margin-left: 15px;
+    margin-left: 10px;
   }
   ul.list-styles2 {
     list-style-type: square;
-    margin-left: 15px;
-  }
-
-  * {
-    margin: 0; 
-    padding: 0;
-    box-sizing: border-box;
+    margin-left: 10px;
   }
 
   body {
@@ -39,7 +33,7 @@
 
   #container {
     position: relative;
-    width: 770px;  /* 940px */
+    width: 740px;  /* 940px */
   }
 
   #container:after {
@@ -192,7 +186,7 @@
   }
 
   details[open] > summary {
-    background-color: lightpink;
+    background-color: lightblue;
     text-decoration: none;
   }
 /*** social network icons ***/
