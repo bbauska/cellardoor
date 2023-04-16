@@ -8,7 +8,7 @@
     border-style: inset;
     border-width: 2px;
     background-color: darkred;
-    color: red;
+    color: lightgreen;
     height: 2px;
   }
 
@@ -39,9 +39,9 @@
 
   #container {
     position: relative;
-    width: 940px;
+    width: 770px;  /* 940px */
   }
-<!-- was 940 -->
+
   #container:after {
     content: "";
     display: block;
