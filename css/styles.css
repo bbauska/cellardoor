@@ -33,7 +33,7 @@
 
   #container {
     position: relative;
-    width: 740px;  /* 940px */
+    width: 725px;  /* 940px */
   }
 
   #container:after {
@@ -252,17 +252,4 @@ main {
   align-items: center;
   height: 100vh;
   background-color: #0E67AD;
-}
-
-* {
-  box-sizing: border-box;
-}
-.row {
-  display: flex;
-}
-
-/* Create two equal columns side by side - 300px each */
-.column {
-  width: 250px;
-  padding: 10px;
 }
