@@ -253,3 +253,7 @@ main {
   height: 100vh;
   background-color: #0E67AD;
 }
+
+  li > ul {
+    padding-bottom: 0.5em;
+  }
