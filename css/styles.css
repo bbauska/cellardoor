@@ -34,7 +34,7 @@
     background-attachment: fixed;
     background-size: cover;
     padding: 25px;
-    font-family: Bahnschrift, "Helvetica Neue", helvetica, arial;
+    font-family: Inter, Bahnschrift, "Helvetica Neue", helvetica, arial;
     background: url('https://subtlepatterns.com/patterns/white_carbonfiber.png');
   }
 
@@ -250,7 +250,7 @@
 
 body {
   margin: 0;
-  font-family: "Bahnschrift"; "Inter", sans-serif;
+  font-family: "Inter", "Bahnschrift", sans-serif;
 }
 
 main {
