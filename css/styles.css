@@ -14,10 +14,12 @@
 
   ul.list-styles {
     list-style-type: circle;
+    line-height: 200%;
     margin-left: 10px;
   }
   ul.list-styles2 {
     list-style-type: square;
+    line-height: 200%;
     margin-left: 10px;
   }
 
@@ -170,6 +172,7 @@
 <!-- 620px -->
   details > summary {
     padding: 2px 6px;
+    line-height: 200%;  /* added */
     width: 15em;
     background-color: #eee;
     border: none;
