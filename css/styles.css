@@ -33,7 +33,7 @@
 
   #container {
     position: relative;
-    width: 725px;  /* 940px */
+    width: 720px;  /* 940px */
   }
 
   #container:after {
@@ -165,7 +165,7 @@
 /*** summary / details ***/
   details {
     font: 15px "Bahnschrift", Calibri, sans-serif;
-    width: 720px;
+    width: 750px;
   }
 <!-- 620px -->
   details > summary {
