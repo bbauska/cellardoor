@@ -182,7 +182,8 @@
   }
 /*** summary / details ***/
   details {
-    font: 15px "Bahnschrift", Calibri, sans-serif;
+    font-size: 15px;
+    font-family: Inter, "Bahnschrift", Calibri, sans-serif;
     width: 770px;
   }
 <!-- 620px -->
