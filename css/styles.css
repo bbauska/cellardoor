@@ -1,3 +1,9 @@
+
+  p { font-size: 13.5px "Bahnschrift" }
+
+.p3 {
+  font: small-caps condensed bold italic 18px/1.4 sans-serif; }
+
   hr { 
     display: block;
     width: 50%;
@@ -11,7 +17,9 @@
     color: lightgreen;
     height: 2px;
   }
-
+  ul, ol {
+    margin-left: 3em;
+  }
   ul.list-styles {
     list-style-type: circle;
 /*    line-height: 200%;   added */
