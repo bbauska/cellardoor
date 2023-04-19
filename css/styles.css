@@ -14,12 +14,12 @@
 
   ul.list-styles {
     list-style-type: circle;
-    line-height: 200%;
+    line-height: 200%;  /* added */
     margin-left: 10px;
   }
   ul.list-styles2 {
     list-style-type: square;
-    line-height: 200%;
+    line-height: 200%;  /* added */
     margin-left: 10px;
   }
 
@@ -146,6 +146,7 @@
   #menu li li a {
     padding-left: 15px;
     font-weight: 400;
+    line-height: 200%;  /* added */
     color: #ddd;
     text-shadow: none;
     border-top: dotted 1px transparent;
@@ -167,12 +168,11 @@
 /*** summary / details ***/
   details {
     font: 15px "Bahnschrift", Calibri, sans-serif;
-    width: 750px;
+    width: 770px;
   }
 <!-- 620px -->
   details > summary {
     padding: 2px 6px;
-    line-height: 200%;  /* added */
     width: 15em;
     background-color: #eee;
     border: none;
