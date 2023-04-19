@@ -19,7 +19,12 @@
   }
   ul.list-styles2 {
     list-style-type: square;
-    line-height: 200%;   /* added */
+/*    line-height: 200%;    added */
+    margin-left: 10px;
+  }
+  ul.list-styles3 {
+    list-style-type: square;
+    line-height: 160%;    /* added */
     margin-left: 10px;
   }
 
