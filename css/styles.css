@@ -40,7 +40,7 @@
 
   #container {
     position: relative;
-    width: 1200px;  /* 940px */
+    width: 840px;  /* 940px */
   }
 
   #container:after {
@@ -183,7 +183,9 @@
     box-shadow: 3px 3px 4px black;
     cursor: pointer;
   }
-
+  ul li {
+    line-height:140%; /*or whatever height you like*/
+  }
   details > p {
     border-radius: 0 0 10px 10px;
     background-color: #fff;
