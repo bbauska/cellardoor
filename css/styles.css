@@ -25,12 +25,10 @@
   }
   ul.list-styles {
     list-style-type: circle;
-/*    line-height: 200%;   added */
     margin-left: 10px;
   }
   ul.list-styles2 {
     list-style-type: square;
-/*    line-height: 200%;    added */
     margin-left: 10px;
   }
   ul.list-styles3 {
@@ -184,7 +182,7 @@
   details {
     font-size: 15px;
     font-family: Inter, "Bahnschrift", Calibri, sans-serif;
-    width: 770px;
+    width: 620px;
   }
 <!-- 620px -->
   details > summary {
