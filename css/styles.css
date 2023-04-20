@@ -1,40 +1,31 @@
-
-  details p { 
-    font-size: 13.5px;
-    font-family: Inter, Bahnschrift, "Helvetica Neue", helvetica, arial;
-  }
-  details p.p3 {
-    font: small-caps condensed bold italic 18px/1.4 sans-serif; 
-  }
-
+/* flip down shingle menu */
   hr { 
     display: block;
     width: 50%;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
-    margin-left: 15px;
+    margin-left: 25px;
     margin-right: auto;
     border-style: inset;
     border-width: 2px;
-    background-color: darkred;
-    color: lightgreen;
+    background-color: red;
+    color: red;
     height: 2px;
   }
-  ul, ol {
-    margin-left: 3em;
-  }
+
   ul.list-styles {
     list-style-type: circle;
-    margin-left: 10px;
+    margin-left: 20px;
   }
   ul.list-styles2 {
     list-style-type: square;
-    margin-left: 10px;
+    margin-left: 20px;
   }
-  ul.list-styles3 {
-    list-style-type: square;
-    line-height: 160%;    /* added */
-    margin-left: 10px;
+
+  * {
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
   }
 
   body {
@@ -42,14 +33,14 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    padding: 25px;
-    font-family: Inter, Bahnschrift, "Helvetica Neue", helvetica, arial;
+    padding: 30px; 
+    font-family: Bahnschrift, "Helvetica Neue", helvetica, arial; 
     background: url('https://subtlepatterns.com/patterns/white_carbonfiber.png');
   }
 
   #container {
     position: relative;
-    width: 940px;  /* 940px */
+    width: 1200px;  /* 940px */
   }
 
   #container:after {
@@ -78,9 +69,9 @@
     position: relative;
     border-right: 1px solid rgba(0,0,0,.1);
     box-shadow: 1px 0 0 rgba(255,255,255,.25);
-    perspective: 1200px;
+    perspective: 1600px;  /* 1200px */
   }
-/*** flip down shingle menu ***/
+
   #menu > li:first-child {
     border-left: 1px solid rgba(255,255,255,.25);
     box-shadow: -1px 0 0 rgba(0,0,0,.1), 1px 0 0 rgba(255,255,255,.25);
@@ -180,17 +171,16 @@
   }
 /*** summary / details ***/
   details {
-    font-size: 15px;
-    font-family: Inter, "Bahnschrift", Calibri, sans-serif;
-    width: 620px;
+    font: 15px "Bahnschrift", Calibri, sans-serif;
+    width: 920px;  /** was 620 **/
   }
-<!-- 620px -->
+
   details > summary {
     padding: 2px 6px;
     width: 15em;
     background-color: #eee;
     border: none;
-    box-shadow: 3px 3px 4px blue;
+    box-shadow: 3px 3px 4px black;
     cursor: pointer;
   }
 
@@ -203,8 +193,7 @@
   }
 
   details[open] > summary {
-    background-color: lightblue;
-    text-decoration: none;
+    background-color: yellow;
   }
 /*** social network icons ***/
   @import url(https://fonts.googleapis.com/css?family=Open+Sans);
@@ -219,7 +208,7 @@
   $neu-shadow: 9px 9px 16px rgba(163,177,198,0.6), -9px -9px 16px rgba(255,255,255,0.5);
 
   $new-shadow-active: 0px 0px 10px 6px rgba(0,0,0,0.1);
-<!-- margin: 0px -->
+
   * {
     margin: 0px;
     box-sizing: border-box;
@@ -255,12 +244,12 @@
     color: white;
     }
   }
-/*** tooltips ***/
+// tooltips
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400display=swap');
 
 body {
   margin: 0;
-  font-family: "Inter", "Bahnschrift", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 main {
@@ -270,7 +259,3 @@ main {
   height: 100vh;
   background-color: #0E67AD;
 }
-
-  li > ul {
-    padding-bottom: 0.5em;
-  }
