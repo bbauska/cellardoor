@@ -51,7 +51,7 @@
 
   #container {
     position: relative;
-    width: 745px;  /* 940px */
+    width: 940px;  /* 940px */
   }
 
   #container:after {
