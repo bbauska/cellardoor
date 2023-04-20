@@ -7,20 +7,20 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ head ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <head>
     <title>Cellardoor</title>
-    <link rel="canonical" href="cellardoor.bauska.org"/>
-    <link rel="stylesheet" href="/css/default.min.css"/>
+    <link rel="canonical" href="cellardoor.bauska.org">
+    <link rel="stylesheet" href="/css/default.min.css">
 <!-- highlight -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <script src="/js/highlight.min.js"></script>
     <script>hljs.highlightAll();</script>
 <!-- shortcut icon -->
-    <link rel="shortcut icon" type="image/jpg" href="./images/bauska.ico">
+    <link rel="shortcut icon" type="image/jpg" href="./images/bauska.ico"/>
 <!-- styles -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" href="./css/styles.css"/>
-    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"/>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'/>
+    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>
 <!-- viewport and seo -->
     <meta name="description" content="HTML, CSS, Javascript &amp; React - Everything and I mean most Everything!">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -116,16 +116,26 @@
     .fa-amazon:hover {
       background: #ff9900;
       }
-<!-- width: 620px font-size: 15px shortcut display underline or squigly or none -->
+<!-- shortcut display underline or squigly or none -->
+    a {
+	  text-decoration: none !important; 
+	  text-decoration-color: #00008b;
+	  text-decoration-line: none;
+      }
+    p {
+	  text-decoration: none !important;
+	  text-decoration-color: #006400;
+	  text-decoration-line: none;
+      }
 
     details {
-      font-size: 13.5px;
-	  font-family: Inter, "Bahnschrift", Calibri, sans-serif;
-      width: 620px;
+      font: 13px Inter, "Bahnschrift", Calibri, sans-serif;  /* 15px */
+/*	  line-height: 200%;   added */
+      width: 763px;  /* 620px */
       }
     details > summary {
       padding: 2px 6px;
-      width: 15em;  /* 15em */
+      width: 18em;  /* 15em */
       background-color: #eeeeee;
       border: none;
       box-shadow: 3px 3px 4px #000000;
@@ -140,21 +150,12 @@
       margin: 0;
       box-shadow: 3px 3px 4px #006400;
       }
-    a {
-	  text-decoration: none !important; 
-	  text-decoration-color: #00008b;
-	  text-decoration-line: none;
-      }
-	p {
-	  text-decoration: none !important;
-	  text-decoration-color: #006400;
-	  text-decoration-line: none;
-      }
+
     a:link { text-decoration: none; }
     a:visited { text-decoration: underline #037d67; }  /* darkgreen */
     a:hover {
       background-color: yellow;
-      }
+    }
       details[open] > summary {
       background-color: #ffb6c1;
       }
@@ -226,6 +227,7 @@
     <li><a href="">#2 More...</a>
       <ul>
         <li><a href="https://cad101en.bauska.org" target="_blank" rel="noopener noreferrer">CAD101en IBM Intro to Cloud Dev with HTML, CSS &amp; JS</a></li>
+<!-- <li class="dropdown-divider">--- --- --- ---</li> -->
         <li><a href="https://github.com/bbauska/NoBS/blob/main/README.md" target="_blank" rel="noopener noreferrer">No OBS (No Bullshit!) - training &amp; - tips, tricks &amp; techniques</a></li>
         <li><a href="https://github.com/bbauska/London-Responsive/blob/main/README.md" target="_blank" rel="noopener noreferrer">University of London - Responsive Web Design</a></li>
       </ul>
@@ -238,11 +240,10 @@
 <br><br><br><br><br><br><br>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-- documentaries websites ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 <details id="documentaries">
   <summary>Documentaries</summary>
 <br>
-<ul class="list-styles">
+<ul class="list-styles2">
   <li><a href="https://ia801908.us.archive.org/27/items/youtube-S23yie-779k/" target="_blank" rel="noopener noreferrer">Breaking the Code : Biography of Alan Turing.</a></li>
   <li><a href="https://www.youtube.com/watch?v=4NIb9l3imAo" target="_blank" rel="noopener noreferrer">Cracking The Code Interview : Cracking the Code Interview.</a></li>
   <li><a href="https://www.youtube.com/watch?v=Eg5-tdAwclo" target="_blank" rel="noopener noreferrer">Cracking the Coding Interview : Cracking the Coding Interview, Fullstack Speaker Series.</a></li>
@@ -269,7 +270,7 @@
 <details id="good-articles">
   <summary>Good Articles</summary>
 <br>
-<ul class="list-styles2">
+<ul class="list-styles">
   <li><a href="https://www.infoq.com/articles/Starting-With-MongoDB/" target="_blank" rel="noopener noreferrer">14 Things I Wish I’d Known When Starting with MongoDB.</a></li>
   <li><a href="http://carlcheo.com/compsci" target="_blank" rel="noopener noreferrer">40 Keys Computer Science Concepts Explained In Layman’s Terms.</a></li>
   <li><a href="https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory" target="_blank" rel="noopener noreferrer">A Gentle Introduction To Graph Theory.</a></li>
@@ -308,7 +309,7 @@
 
 <!-- <h3 id="bored">When you get bored from CS related shit</h3> -->
 <br>
-<ul class="list-styles">
+<ul class="list-styles2">
   <li><a href="https://www.youtube.com/user/barcroftmedia/featured" target="_blank" rel="noopener noreferrer">Barcroft TV : Daily short documentaries about the incredible variety of people that make up the world.</a></li>
   <li><a href="https://www.youtube.com/user/bigthink/videos" target="_blank" rel="noopener noreferrer">Big Think : Expert driven, actionable, educational content, featuring experts ranging from Bill Clinton to Bill Nye (deutsch-bag).</a></li>
   <li><a href="https://www.youtube.com/user/coldfustion/videos" target="_blank" rel="noopener noreferrer">ColdFusion : Past, present, and future of technology.</a></li>
@@ -339,7 +340,7 @@
 <details id="podcasts">
   <summary>Podcasts on Coding</summary>
 <br>
-<ul class="list-styles2">
+<ul class="list-styles">
   <li><a href="https://syntax.fm" target="_blank" rel="noopener noreferrer">Syntax : A Tasty Treats Podcast for Web Developers by Wes Bos &amp; Scott Tolinski.</a></li>
   <li><a href="http://www.codingblocks.net" target="_blank" rel="noopener noreferrer">Coding Blocks : A podcast covering topics such as best programming practices, design patterns, coding for performance, object-oriented coding, database design and implementation, tips, tricks and a whole lot of other things.</a></li>
   <li><a href="http://developeronfire.com/episodes" target="_blank" rel="noopener noreferrer">Developer On Fire : A podcast that shares the humanity of developers and tells stories of some of the amazing people in software, hosted by Dave Rael.</a></li>
@@ -374,7 +375,7 @@
 <details id="tutorials">
   <summary>Tutorials</summary>
 <br>
-<ul class="list-styles">
+<ul class="list-styles2">
   <li><a href="https://maryrosecook.com/blog/post/git-from-the-inside-out" target="_blank" rel="noopener noreferrer">Git from the inside out.</a></li>
   <li><a href="https://wildlyinaccurate.com/a-hackers-guide-to-git/" target="_blank" rel="noopener noreferrer">A Hacker's Guide to Git : for those wanting to learn git with a solid foundation.</a></li>
   <li><a href="http://duartes.org/gustavo/blog/best-of/" target="_blank" rel="noopener noreferrer">Best of - Gustavo Duarte : contains articles on various topics</a></li>
@@ -439,7 +440,7 @@
 <details id="video-tutorials">
   <summary>Video Tutorials</summary>
 <br>
-<ul class="list-styles2">
+<ul class="list-styles">
   <li><a href="https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos" target="_blank" rel="noopener noreferrer"><em>codedamn : Front-End Web Dev Tutorials.</em></a></li>
   <li><a href="https://www.codeschool.com" target="_blank" rel="noopener noreferrer">Code School : A PluralSight Company and an Interactive learning destination for aspiring and experienced Developers.</a></li>
   <li><a href="https://www.youtube.com/user/CodingMadeEasy/videos" target="_blank" rel="noopener noreferrer">CodingMadeEasy : C++ tutorials.</a></li>
@@ -470,7 +471,7 @@
 <details id="bash-and-shell-scripting">
   <summary>Bash and Shell Scripting</summary>
 <br>
-<ul class="list-styles">
+<ul class="list-styles2">
   <li><a href="http://tldp.org/LDP/abs/html/" target="_blank" rel="noopener noreferrer">Advanced Bash-Scripting Guide : An in-depth exploration of the art of shell scripting.</a></li>
   <li><a href="http://www.tldp.org/LDP/Bash-Beginners-Guide/html/" target="_blank" rel="noopener noreferrer">Bash Guide for Beginners : Bash Guide for Beginners Machtelt Garrels.</a></li>
   <li><a href="http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html" target="_blank" rel="noopener noreferrer">Bash Programming : by Mike G mikkey at dynamo.com.ar.</a></li>
@@ -491,7 +492,7 @@
   <summary>Open Source Websites</summary>
 <br>
 <div class="w3-container w3-left">
-<ul class="list-styles2">
+<ul class="list-styles">
   <li><a href="https://openhatch.org" target="_blank" rel="noopener noreferrer">Open Hatch : OpenHatch is a non-profit dedicated to matching prospective free software contributors with communities, tools, and education.</a></li>
   <li><a href="https://sourceforge.net" target="_blank" rel="noopener noreferrer">Source Forge : SourceForge hosts nearly 280,000 projects (at last count). It serves more than 2 million downloads a day and includes apps and tools in a wide variety of categories.</a></li>
   <li><a href="https://code.google.com/projecthosting" target="_blank" rel="noopener noreferrer">Google Code : Google offers free hosting for open source projects using the Subversion or Mercurial version control systems. It offers 2 GB of storage, integrated code review tools, a wiki, and an issue tracker. The Google Code site also provides links to Google's many publicly available APIs and other developer tools.</a></li>
@@ -523,7 +524,7 @@
 <details id="computer-books">
   <summary>Computer Books</summary>
 <br>
-<ul class="list-styles">
+<ul class="list-styles2">
   <li><a href="http://programming-motherfucker.com/become.html" target="_blank" rel="noopener noreferrer">Become a Programmer, Mother!!! (list of books) : Exhaustive list of books from Zed A. Shaw.</a></li>
   <li><a href="http://gatecse.in/best-books-for-gatecse/" target="_blank" rel="noopener noreferrer">Best books for GATE CSE.</a></li>
   <li><a href="https://cses.fi/book.html" target="_blank" rel="noopener noreferrer">cses.fi/book.html.</a></li>
@@ -543,7 +544,7 @@
 <details id="moocs">
   <summary>MOOCs for Learning</summary>
 <br>
-<ul class="list-styles2">
+<ul class="list-styles">
   <li><a href="https://www.class-central.com" target="_blank" rel="noopener noreferrer">Class Central : a directory of 100,000+ student reviews of thousands of MOOCs.</a></li>
   <li><a href="https://classpert.com" target="_blank" rel="noopener noreferrer">Classpert : a website that gathers MOOCs and online courses from several providers, focusing on computer science and data science courses.</a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#" target="_blank" rel="noopener noreferrer">Computer Science Resources : list of MOOCs for autodidacts.</a></li>
@@ -566,7 +567,7 @@
 <details id="interview-prep">
   <summary>Interview Preparation</summary>
 <br>
-<ul class="list-styles">
+<ul class="list-styles2">
   <li><a href="http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html" target="_blank" rel="noopener noreferrer"> 10 Frequently asked SQL Query Interview Questions.</a></li>
   <li><a href="http://puzzles.nigelcoldwell.co.uk" target="_blank" rel="noopener noreferrer">A Collection of Quant Riddles With Answers.</a></li>
   <li><a href="https://www.hiredintech.com/algorithm-design" target="_blank" rel="noopener noreferrer">Algorithm design canvas.</a></li>
@@ -637,7 +638,7 @@
 <details id="jobs">
   <summary>IT Jobs</summary>
 <br>
-<ul class="list-styles2">
+<ul class="list-styles">
   <li><a href="https://angel.co/" target="_blank" rel="noopener noreferrer">AngelList: Website for startups, angel investors, and jobs-seekers looking to work at startup.</a></li>
   <li><a href="https://hiring.careerbuilder.com" target="_blank" rel="noopener noreferrer">CareerBuilder: One of the largest job boards, providing job listings, resume posting, and career advice and resources to job seekers.</a></li>
   <li><a href="https://www.dice.com" target="_blank" rel="noopener noreferrer">Dice : Dice is the leading site for tech job seekers.  You can search by company, job title, keyword, employment type, and location.</a></li>
@@ -670,7 +671,7 @@
 <details id="general-tools">
   <summary>General Tools</summary>
 <br>
-<ul class="list-styles">
+<ul class="list-styles2">
   <li><a href="https://codepad.remoteinterview.io/DDCUYLAEYS" target="_blank" rel="noopener noreferrer">CodePad : Quickly Conduct Coding Interviews and Phone Screen Interviews.</a></li>
   <li><a href="https://codepen.io" target="_blank" rel="noopener noreferrer">CodePen : Front End Developer Playground &amp; Code Editor in the Browser.</a></li>
   <li><a href="https://crontab.guru/" target="_blank" rel="noopener noreferrer">Crontab Guru : Quick and simple editor for cron schedule expressions.</a></li>
@@ -705,7 +706,7 @@
 <details id="everything">
   <summary>My Favorites</summary>
 <br>
-<ul class="list-styles2">
+<ul class="list-styles">
   <li><a href="http://devdocs.io" target="_blank" rel="noopener noreferrer">API Documentation : A one-place well-known API Documentation with a searchable interface.</a></li>
   <li><a href="https://www.baeldung.com" target="_blank" rel="noopener noreferrer">Baeldung : Step-by-step guides for Spring, rest, Java, security, persistence, Jackson, HTTP client-side and Kotlin.</a></li>
   <li><a href="https://github.com/chubin/cheat.sh" target="_blank" rel="noopener noreferrer">cheat.sh : `curl cheat.sh` — the only cheat sheet you need — instant answers on programming questions with `curl`.</a></li>
@@ -734,7 +735,7 @@
 <details id="w3cx">
   <summary>Web Design with W3Cx</summary>
 <br>
-<ul class="list-styles">
+<ul class="list-styles2">
   <li><a href="https://github.com/bbauska/W3Cx-1of5-CSS.0x" target="_blank" rel="noopener noreferrer">Markdown github W3Cx-1of5-CSS.0x</a></li>
   <li><a href="https://github.com/bbauska/W3Cx-2of5-HTML5.0x" target="_blank" rel="noopener noreferrer">Markdown github W3Cx-2of5-HTML5.0x</a></li>
   <li><a href="https://github.com/bbauska/W3Cx-3of5-HTML5.1x" target="_blank" rel="noopener noreferrer">Markdown github W3Cx-3of5-HTML5.1x</a></li>
@@ -750,7 +751,7 @@
 <details id="web-dev">
   <summary>Web Dev on GitHub</summary>
   <br>
-<ul class="list-styles2">
+<ul class="list-styles">
   <li><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank" rel="noopener noreferrer">Free Code Camp</a></li>
   <li><a href="https://dash.cloudflare.com/dns" target="_blank" rel="noopener noreferrer">Cloudflare login</a></li>
   <li><a href="https://revealjs.com/themes/" target="_blank" rel="noopener noreferrer">Reveal JavaScript Themes</a></li>
@@ -768,7 +769,7 @@
 <details id="cascade-style-sheet">
   <summary>Cascade Style Sheets</summary>
 <br>
-<ul class="list-styles">
+<ul class="list-styles2">
   <li><a href="https://roadmap.sh/frontend" target="_blank" rel="noopener noreferrer">Front End Roadmap</a></li>
   <li><a href="https://www.lockedownseo.com/social-media-colors/" target="_blank" rel="noopener noreferrer">Colors for Social Media Icons</a></li>
   <li><a href="https://free-for.dev/#/?id=cdn-and-protection" target="_blank" rel="noopener noreferrer">Free for Dev</a></li>
@@ -788,7 +789,7 @@
 <details id="frame-and-tools">
   <summary>Frameworks &amp; Tools</summary>
 <br>
-<ul class="list-styles2">
+<ul class="list-styles">
   <li><a href="https://blog.coursera.org/" target="_blank" rel="noopener noreferrer">Coursera - blog</a></li>
   <li><a href="https://symfony.com/ten-criteria" target="_blank" rel="noopener noreferrer">10 criteria for choosing the correct framework</a></li>
   <li><a href="https://codeburst.io/guide-building-%D0%B0-landing-page-with-gatsbyjs-488e4a2c793b" target="_blank" rel="noopener noreferrer">Creating a Landing Page with GatsbyJS</a></li>
@@ -805,7 +806,7 @@
 <details id="libraries">
   <summary>Frameworks &amp; Libraries</summary>
 <br>
-<ul class="list-styles">
+<ul class="list-styles2">
   <li><a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">REACT.js | A javascript library for building user interfaces.</a></li>
   <li><a href="https://reactjs.org/docs/getting-started.html" target="_blank" rel="noopener noreferrer">Getting started with React.</a></li>
   <li><a href="https://gokhale.me/10-beginner-mistakes-react-developers-do" target="_blank" rel="noopener noreferrer">10 Beginner React Mistakes.</a></li>
@@ -843,7 +844,7 @@
 <details id="webtools">
   <summary>Test &amp; Bootstrap</summary>
 <br>
-<ul class="list-styles2">
+<ul class="list-styles">
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server" target="_blank" rel="noopener noreferrer">How to Set Up a Local Test Server</a></li>
   <li><a href="https://www.checkbot.io/" target="_blank" rel="noopener noreferrer"><em>Check Bot</em></a></li>
   <li><a href="https://roadmap.sh/frontend" target="_blank" rel="noopener noreferrer">Front End Roadmap</a></li>
@@ -864,7 +865,7 @@
 <details id="webdevtools">
   <summary>Web Dev Tools</summary>
 <br>
-<ul class="list-styles">
+<ul class="list-styles2">
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server" target="_blank" rel="noopener noreferrer">How to Set Up a Local Test Server</a></li>
   <li><a href="https://www.checkbot.io/" target="_blank" rel="noopener noreferrer"><em>Check Bot</em></a></li>
   <li><a href="https://roadmap.sh/frontend" target="_blank" rel="noopener noreferrer">Front End Roadmap</a></li>
@@ -887,7 +888,7 @@
 <details id="when-you-get-stuck">
   <summary>When Stuck</summary>
 <br>
-<ul class="list-styles2">
+<ul class="list-styles">
   <li><a href="https://www.codementor.io" target="_blank" rel="noopener noreferrer">Codementor : A mentorship community to learn from fellow developers via live 1:1 help and more.</a></li>
   <li><a href="https://www.devrant.io" target="_blank" rel="noopener noreferrer">devRant : Community where you can rant and release your stress</a></li>
   <li><a href="https://www.google.com" target="_blank" rel="noopener noreferrer">Google : A search engine for anything you get stuck with.</a></li>
@@ -905,7 +906,7 @@
 <details id="crypto">
   <summary>CryptoCurrencies</summary>
 <br>
-<ul class="list-styles">
+<ul class="list-styles2">
   <li><a href="https://capex.com/en/overview/cryptocurrencies-to-invest-2022" target="_blank" rel="noopener noreferrer">What to buy in Crypto? With OPM. FOAD you <b>greedy</b> POS!!</a></li>
   <li><a href="https://CS1981x.bauska.net" target="_blank" rel="noopener noreferrer">Bitcoin and Cryptocurrencies - CS198.1x Berkeley</a></li>
   <li><a href="https://blockchaindemo.io/" target="_blank" rel="noopener noreferrer">Blockchain demo : A visual demo of Blockchain technology</a></li>
@@ -928,7 +929,7 @@
 <details id="great-ideas">
   <summary>Ideas for Projects</summary>
 <br>
-<ul class="list-styles2">
+<ul class="list-styles">
   <li><a href="https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11" target="_blank" rel="noopener noreferrer">freeCodeCamp | React project ideas : 27 fun app ideas you can build while learning React.</a></li>
   <li style="color:black"><a href="http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/" target="_blank" rel="noopener noreferrer">martyr2s-mega-project-ideas-list : contains about 125 project ideas from beginner to intermediate level.</a></li>
   <li style="color:black"><a href="https://github.com/karan/Projects" target="_blank" rel="noopener noreferrer">karan/Projects : a large collection of small projects for beginners.</a></li>
@@ -948,7 +949,7 @@
 <details id="seminar">
   <summary>Research &amp; Writing</summary>
 <br>
-<ul class="list-styles">
+<ul class="list-styles2">
   <li><a href="http://www.cs.cmu.edu/~mleone/how-to.html" target="_blank" rel="noopener noreferrer">Advice on Research and Writing : A collection of advice about how to do research and how to communicate effectively (primarily for computer scientists).</a></li>
   <li><a href="http://www.cse.iitd.ac.in/~srsarangi/articles.html" target="_blank" rel="noopener noreferrer">PHD MS Articles : articles and views.</a></li>
   <li><a href="https://www.cse.iitb.ac.in/~ranade/communicationskills.html" target="_blank" rel="noopener noreferrer">Seminar and reports : Everyone must read this tiny book before writing the seminar report.</a></li>
@@ -967,7 +968,7 @@
 <details id="what-to-know">
   <summary>What Should Prog'rs Know?</summary>
 <br>
-<ul class="list-styles2">
+<ul class="list-styles">
   <li style="color:green"><a href="https://caniuse.com/" target="_blank" rel="noopener noreferrer">Can I use : A website that provides up-to-date browser support tables for front-end web technologies (desktop and mobile web browsers).</a></li>
   <li style="color:green"><a href="https://github.com" target="_blank" rel="noopener noreferrer">GitHub.com Build software better, together : Place to showcase your project and collaborate with others. (Must know Git to use it effectively).</a></li>
   <li style="color:green"><a href="https://about.gitlab.com" target="_blank" rel="noopener noreferrer">GitLab : An alternative to GitHub that offers free unlimited (private) repositories and unlimited collaborators.</a></li>
@@ -983,7 +984,7 @@
 <details id="internships">
   <summary>Internships</summary>
 <br>
-<ul class="list-styles">
+<ul class="list-styles2">
   <li><a href="http://www.chegg.com" target="_blank" rel="noopener noreferrer">Chegg : It is an awesome resource for finding internships, scholarships, tutors, etc.</a></li>
   <li><a href="https://internshala.com" target="_blank" rel="noopener noreferrer">Internalshala : You can search for internships here according to your skill sets for your interested location. It also helps you in getting a good PPO offer from the company.</a></li>
   <li><a href="https://www.letsintern.com" target="_blank" rel="noopener noreferrer">Letsintern : Get a smart and challenging internship for you from the LetsIntern.</a></li>
@@ -1039,10 +1040,10 @@ Read more on <a href="http://en.wikipedia.org/wiki/Cat" target="_blank" rel="noo
 <br><br>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ footer ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <footer>
-  <p>Penned by <a href="https://cellardoor.bauska.org" target="_blank" rel="noopener noreferrer">bbauska on github.io</a>.  Today's date: 04/06/2023</p>
+  <p>Penned by <a href="https://cellardoor.bauska.org" target="_blank" rel="noopener noreferrer">bbauska on github.io</a>.  Today's date: 04/19/2023</p>
 </footer>
 <br><br>
 
-<h6>Last updated 4-19-2023 at 11:46am</h6>
+<h6>Last updated 4-19-2023 at 6:50pm</h6>
 
 </html>
