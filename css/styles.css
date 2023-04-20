@@ -80,7 +80,7 @@
     position: relative;
     border-right: 1px solid rgba(0,0,0,.1);
     box-shadow: 1px 0 0 rgba(255,255,255,.25);
-    perspective: 1100px;  /* 1200px */
+    perspective: 1200px;
   }
 /*** flip down shingle menu ***/
   #menu > li:first-child {
