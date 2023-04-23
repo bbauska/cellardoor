@@ -1,0 +1,132 @@
+<!--~~~~~~~~~~~~~~~~~~ pad 10px, font-size 15px, width 25px, margin 5px 2px ~~~~~~~~~~~~~~~~~~~~-->
+<!-- font-awesome social icons -->
+    .fa {
+      padding: 5px;
+      font-size: 15px;
+      width: 25px;
+      height: 25px;
+      text-align: center;
+      text-decoration: none;
+      margin: 5px 2px;
+      }
+    .fa:hover {
+      opacity: 0.4;
+      }
+    .fa-facebook-square {
+      background: #3B5998;
+      color: #ffffff;
+      }
+    .fa-twitter-square {
+      background: #1da1f2;
+      color: #ffffff;
+      }
+    .fa-envelope {
+      background: #000000;
+      color: #ffffff;
+      }
+    .fa-youtube-square {
+      background: #ff0000;
+      color: #ffffff;
+      }
+    .fa-linkedin {
+      background: #0077b5;
+      color: #ffffff;
+      }
+    .fa-snapchat-ghost {
+      background: #fffa37;
+      color: #fffc00;
+      text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+      }
+    .fa-dribbble {
+      background: #b2215a;
+      color: #e94c88;
+     }
+    .fa-medium {
+      background: #02b875;
+      color: #66cdaa;
+     }
+    .fa-github-square {
+      background: #00405d;
+      color: #333333;
+      }
+    .fa-quora {
+      background: #a82400;
+      color: #ffffff;
+      }
+    .fa-amazon {
+      background: #ff9900;
+      color: #ffffff;
+      }
+    .fa-facebook-square:hover {		/* hover */
+      background: #3b5998;
+      }
+    .fa-twitter-square:hover {
+      background: #1da1f2;
+      }
+    .fa-envelope:hover {
+      background: #ffe900;
+      }
+    .fa-youtube-square:hover {
+      background: #ff0000;
+      }
+    .fa-snapchat-ghost:hover {
+      background: #ffe900;
+      }
+    .fa-dribbble:hover {
+      background: #1e1f26;
+      }
+    .fa-medium:hover {
+      background: #fffc00;
+      }
+    .fa-github-square {
+      background: #fffc00;
+      }
+    .fa-quora:hover {
+      background: #aa2200;
+      }
+    .fa-amazon:hover {
+      background: #ff9900;
+      }
+<!-- shortcut display underline or squigly or none -->
+  a {
+	  text-decoration: none !important; 
+	  text-decoration-color: #00008b;
+	  text-decoration-line: none;
+  }
+  p {
+	  text-decoration: none !important;
+	  text-decoration-color: #006400;
+	  text-decoration-line: none;
+  }
+
+    details {
+      font: 15px Inter, "Bahnschrift", Calibri, sans-serif;  /* 15px */
+      line-height: 120%;   /* added */
+      width: 760px;  /* 620px */
+      }
+    details > summary {
+      padding: 2px 6px;
+      width: 15em;  /* 15em */
+      background-color: #eeeeee;
+      border: none;
+      box-shadow: 3px 3px 4px #000000;
+      cursor: pointer;
+      }
+    details > p {
+      border-radius: 0 0 10px 10px;
+      background-color: #ff0000;
+      padding: 2px 6px;
+      text-decoration-line: none;
+      text-decoration: none;
+      margin: 0;
+      box-shadow: 3px 3px 4px #006400;
+      }
+
+    a:link { text-decoration: none; }
+    a:visited { text-decoration: underline #037d67; }  /* darkgreen */
+    a:hover {
+      background-color: yellow;
+    }
+      details[open] > summary {
+      background-color: #ffb6c1;
+      }
