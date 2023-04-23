@@ -2,12 +2,12 @@
 <!-- font-awesome social icons -->
     .fa {
       padding: 5px;
-      font-size: 15px;
-      width: 25px;  /* 25px */
-      height: 25px;  /* 25px */
+      font-size: 25px;  /* 15px */
+      width: 35px;  /* 25px */
+      height: 35px;  /* 25px */
       text-align: center;
       text-decoration: none;
-      margin: 5px 2px;
+      margin: 5px 2px;  /* 5px 2px */
       }
     .fa:hover {
       opacity: 0.4;
@@ -50,52 +50,52 @@
       color: #333333;
       }
     .fa-quora {
-      background: #a82400;
+      background: #a82400;  /* deep red */
       color: #ffffff;
       }
     .fa-amazon {
-      background: #ff9900;
+      background: #ff9900;  /*  */
       color: #ffffff;
       }
     .fa-facebook-square:hover {		/* hover */
-      background: #3b5998;
+      background: #3b5998;  /*  */
       }
     .fa-twitter-square:hover {
-      background: #1da1f2;
+      background: #1da1f2;  /*  */
       }
     .fa-envelope:hover {
-      background: #ffe900;
+      background: #ffe900;  /*  */
       }
     .fa-youtube-square:hover {
-      background: #ff0000;
+      background: #ff0000;  /*  */
       }
     .fa-snapchat-ghost:hover {
-      background: #ffe900;
+      background: #ffe900;  /*  */
       }
     .fa-dribbble:hover {
-      background: #1e1f26;
+      background: #1e1f26;  /*  */
       }
     .fa-medium:hover {
-      background: #fffc00;
+      background: #fffc00;  /*  */
       }
     .fa-github-square {
-      background: #fffc00;
+      background: #fffc00;  /* yellow */
       }
     .fa-quora:hover {
-      background: #aa2200;
+      background: #aa2200;  /* d red */
       }
     .fa-amazon:hover {
-      background: #ff9900;
+      background: #ff9900;  /* orange */
       }
 <!-- shortcut display underline or squigly or none -->
   a {
 	  text-decoration: none !important; 
-	  text-decoration-color: #00008b;
+	  text-decoration-color: #00008b;  /* black */
 	  text-decoration-line: none;
   }
   p {
 	  text-decoration: none !important;
-	  text-decoration-color: #006400;
+	  text-decoration-color: #006400;  /* d green */
 	  text-decoration-line: none;
   }
 
@@ -108,26 +108,24 @@
     details > summary {
       padding: 2px 6px;
       width: 15em;  /* 15em */
-      background-color: #eeeeee;
+      background-color: #eeeeee;  /* white */
       border: none;
-      box-shadow: 3px 3px 4px #000000;
+      box-shadow: 3px 3px 4px #000000;  /* black */
       cursor: pointer;
       }
     details > p {
       border-radius: 0 0 10px 10px;
-      background-color: #ff0000;
+      background-color: #ff0000;  /* red */
       padding: 2px 6px;
       text-decoration-line: none;
       text-decoration: none;
       margin: 0;
-      box-shadow: 3px 3px 4px #006400;
+      box-shadow: 3px 3px 4px #006400;  /* dark green */
       }
 
     a:link { text-decoration: none; }
     a:visited { text-decoration: underline #037d67; }  /* darkgreen */
-    a:hover {
-      background-color: yellow;
-    }
+    a:hover { background-color: #90ee90; }  /* was: yellow */
       details[open] > summary {
-      background-color: #ffb6c1;
+      background-color: #ffb6c1;  /* pink */
       }
