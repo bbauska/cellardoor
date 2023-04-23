@@ -40,7 +40,7 @@
 
   #container {
     position: relative;
-    width: 840px;  /* 940px */
+    width: 825px;  /* 940px */
   }
 
   #container:after {
@@ -179,14 +179,14 @@
   details > summary {
     padding: 2px 6px;
     width: 15em;
-    line-height:160%; /*or whatever height you like*/
+    line-height:140%; /*or whatever height you like, was 160% */
     background-color: #eee;
     border: none;
     box-shadow: 3px 3px 4px black;
     cursor: pointer;
   }
   ul li {
-    line-height:160%; /* or whatever height you like */
+    line-height:140%; /* or whatever height you like */
   }
   details > p {
     border-radius: 0 0 10px 10px;
@@ -261,5 +261,5 @@ main {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #0E67AD;
+  background-color: #0E67AD;  /* deep blue */
 }
