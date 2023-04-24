@@ -13,79 +13,79 @@
       opacity: 0.4;
       }
     .fa-facebook-square {
-      background: #3B5998;
-      color: #ffffff;
+      background: #3B5998;  /* deep blue */
+      color: #ffffff;  /* white */
       }
     .fa-twitter-square {
-      background: #1da1f2;
-      color: #ffffff;
+      background: #1da1f2;  /* medium blue */
+      color: #ffffff;  /* white */
       }
     .fa-envelope {
-      background: #000000;
-      color: #ffffff;
+      background: #000000;  /* deep black */
+      color: #ffffff;  /* white */
       }
     .fa-youtube-square {
-      background: #ff0000;
-      color: #ffffff;
+      background: #ff0000;  /* bright red */
+      color: #ffffff;  /* white */
       }
     .fa-linkedin {
-      background: #0077b5;
-      color: #ffffff;
+      background: #0077b5;  /* blue */
+      color: #ffffff;  /* white */
       }
     .fa-snapchat-ghost {
-      background: #fffa37;
-      color: #fffc00;
+      background: #fffa37;  /* bright yellow */
+      color: #fffc00;  /* yellow */
       text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
       }
     .fa-dribbble {
-      background: #b2215a;
-      color: #e94c88;
+      background: #b2215a;  /* deep purple */
+      color: #e94c88;  /* deep pink */
      }
     .fa-medium {
-      background: #02b875;
-      color: #66cdaa;
+      background: #02b875;  /* middle green */
+      color: #66cdaa;  /* moderate cyan - lime green */
      }
     .fa-github-square {
-      background: #00405d;
-      color: #333333;
+      background: #00405d;  /* very dark blue */
+      color: #333333;  /* very dark gray */
       }
     .fa-quora {
       background: #a82400;  /* deep red */
-      color: #ffffff;
+      color: #ffffff;  /* white */
       }
     .fa-amazon {
-      background: #ff9900;  /*  */
-      color: #ffffff;
+      background: #ff9900;  /* pure orange (mostly) */
+      color: #ffffff;  /* white */
       }
-    .fa-facebook-square:hover {		/* hover */
-      background: #3b5998;  /*  */
+    .fa-facebook-square:hover {  /* hover */
+      background: #3b5998;  /* dark moderate blue */
       }
     .fa-twitter-square:hover {
-      background: #1da1f2;  /*  */
+      background: #1da1f2;  /* vivid blue */
       }
     .fa-envelope:hover {
-      background: #ffe900;  /*  */
+      background: #ffe900;  /*  pure yellow (mostly) */
       }
     .fa-youtube-square:hover {
-      background: #ff0000;  /*  */
+      background: #ff0000;  /* pure red (mostly) */
       }
     .fa-snapchat-ghost:hover {
-      background: #ffe900;  /*  */
+      background: #ffe900;  /* pure yellow (mostly) */
       }
     .fa-dribbble:hover {
-      background: #1e1f26;  /*  */
+      background: #1e1f26;  /* very dark (mostly black) blue */
       }
     .fa-medium:hover {
-      background: #fffc00;  /*  */
+      background: #fffc00;  /* pure yellow (mostly) */
       }
     .fa-github-square {
-      background: #fffc00;  /* yellow */
+      background: #fffc00;  /* pure yellow (mostly) */
       }
     .fa-quora:hover {
-      background: #aa2200;  /* d red */
+      background: #aa2200;  /* dark red */
       }
     .fa-amazon:hover {
-      background: #ff9900;  /* orange */
+      background: #ff9900;  /* pure orange (mostly) */
       }
 <!-- shortcut display underline or squigly or none -->
   a {
@@ -95,7 +95,7 @@
   }
   p {
 	  text-decoration: none !important;
-	  text-decoration-color: #006400;  /* d green */
+	  text-decoration-color: #006400;  /* very dark lime green */
 	  text-decoration-line: none;
   }
 
@@ -120,12 +120,12 @@
       text-decoration-line: none;
       text-decoration: none;
       margin: 0;
-      box-shadow: 3px 3px 4px #006400;  /* dark green */
+      box-shadow: 3px 3px 4px #006400;  /* very dark lime green */
       }
 
     a:link { text-decoration: none; }
-    a:visited { text-decoration: underline #037d67; }  /* darkgreen */
-    a:hover { background-color: #90ee90; }  /* was: yellow */
+    a:visited { text-decoration: underline #037d67; }  /* dark cyan (green) */
+    a:hover { background-color: #90ee90; }  /* very soft lime green, was: yellow */
       details[open] > summary {
       background-color: #ffb6c1;  /* pink */
       }
