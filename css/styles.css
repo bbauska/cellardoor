@@ -40,7 +40,7 @@
 
   #container {
     position: relative;
-    width: 825px;  /* 940px */
+    width: 815px;  /* 940px */
   }
 
   #container:after {
@@ -57,7 +57,7 @@
     padding: 0 20px;
     border-radius: 3px;
     box-shadow: inset 0 1px 1px rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.15), 0 1px 3px rgba(0,0,0,.15);
-    background: #ccc; 
+    background: #ccc;  /* gray 80 */
   }
 
   #menu, #menu ul {
@@ -69,7 +69,7 @@
     position: relative;
     border-right: 1px solid rgba(0,0,0,.1);
     box-shadow: 1px 0 0 rgba(255,255,255,.25);
-    perspective: 1600px;  /* 1200px */
+    perspective: 1400px;  /* 1200px then 1600px */
   }
 
   #menu > li:first-child {
@@ -94,7 +94,7 @@
   }
 
   #menu > li:hover > a {
-    background: #333;
+    background: #333;  /* dark charcoal */
     color: rgba(0,223,252,1);
     text-shadow: none;
   }
@@ -117,7 +117,7 @@
   #menu li:hover ul {
 		
     padding: 15px 0;
-    background: #333;
+    background: #333;  /* dark charcoal */
     opacity: 1;
     visibility: visible;
     box-shadow: 1px 1px 7px rgba(0,0,0,.5);
@@ -151,7 +151,7 @@
   #menu li li a {
     padding-left: 15px;
     font-weight: 400;
-    color: #ddd;
+    color: #ddd;  /* gainsboro - neutral gray */
     text-shadow: none;
     border-top: dotted 1px transparent;
     border-bottom: dotted 1px transparent;
@@ -172,7 +172,7 @@
 /*** summary / details ***/
   details {
     font-size: 15px;
-    font-family:  Inter, Bahnschrift, Calibri, sans-serif;
+    font-family: Inter, Bahnschrift, Calibri, sans-serif;
     width: 920px;  /** was 620 **/
   }
 
@@ -190,7 +190,7 @@
   }
   details > p {
     border-radius: 0 0 10px 10px;
-    background-color: #fff;
+    background-color: #fff;  /* white */
     padding: 2px 6px;
     margin: 0;
     box-shadow: 3px 3px 4px darkgreen;
@@ -253,7 +253,7 @@
 
 body {
   margin: 0;
-  font-family: Inter, sans-serif;
+  font-family: Inter, Bahnschrift, sans-serif;
 }
 
 main {
