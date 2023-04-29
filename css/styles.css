@@ -40,7 +40,7 @@
 
   #container {
     position: relative;
-    width: 815px;  /* 940px */
+    width: 775px;  /* 940px */
   }
 
   #container:after {
