@@ -167,11 +167,11 @@
   img {
     display: block;
     margin: 0 auto;
-    width: 40%;
+    width: 50%;
   }
 /*** summary / details ***/
   details {
-    font-size: 15px;
+    font-size: 13px;
     font-family: Inter, Bahnschrift, Calibri, sans-serif;
     width: 920px;  /** was 620 **/
   }
@@ -179,7 +179,7 @@
   details > summary {
     padding: 2px 6px;
     width: 15em;
-    line-height:140%; /*or whatever height you like, was 160% */
+    line-height:120%; /*or whatever height you like, was 160% */
     background-color: #eee;  /* very light gray */
     border: none;
     box-shadow: 3px 3px 4px black;
