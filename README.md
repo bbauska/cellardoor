@@ -2,24 +2,24 @@
 
 <h3>Data Analyst Career Guide and Interview Preparation</h3>
 
-<h5><a href="https://www.ibm.com/blogs/ibm-training/prepare-for-your-next-data-analyst-job-interview-with-the-ibm-data-analyst-career-guide-and-interview-preparation-course-on-coursera-org/">IBM Skills Network w/Coursera</a>.
+<h5><a href="https://www.ibm.com/blogs/ibm-training/prepare-for-your-next-data-analyst-job-interview-with-the-ibm-data-analyst-career-guide-and-interview-preparation-course-on-coursera-org/" target="_blank">IBM Skills Network w/Coursera</a>.
 
 
-<h3><a href="https://validator.w3.org/nu/">Nu HTML Checker</a></h3>
+<h3><a href="https://validator.w3.org/nu/" target="_blank">Nu HTML Checker</a></h3>
 
 ##### Take a refresher course through IBM Cognos BI/Analytics.
 
-<h3><a href="https://www.ibm.com/docs/en/cognos-analytics/11.1.0?topic=manuals">IBM Cognos Analytics v11.1.x manuals</a>
+<h3><a href="https://www.ibm.com/docs/en/cognos-analytics/11.1.0?topic=manuals" target="_blank">IBM Cognos Analytics v11.1.x manuals</a>
 <ul>
-<li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ca_gtstd.pdf">Getting Started</a></li>
+<li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ca_gtstd.pdf" target="_blank">Getting Started</a></li>
 
-<li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ug_ca_dshb.pdf">Dashboards and Stories</a></li>
+<li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ug_ca_dshb.pdf" target="_blank">Dashboards and Stories</a></li>
 
-<li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ca_explorations.pdf">Explorations</a></li>
+<li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ca_explorations.pdf" target="_blank">Explorations</a></li>
 
-<li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ug_cr_rptstd.pdf">Reporting</a></li>
+<li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ug_cr_rptstd.pdf" target="_blank">Reporting</a></li>
 </ul>
-<a href="https://www.designhill.com/interactive-guide/famous-logos-hidden-meanings/" target="_blank"><img src="https://cdn1.designhill.com/assets/dh/images/infographic/content/bmw.jpg?ver=2.12.30" alt="Famous Logos - Bmw" width="300px" height="300px" /> </a>
+<a href="https://www.designhill.com/interactive-guide/famous-logos-hidden-meanings/" target="_blank"><img src="https://cdn1.designhill.com/assets/dh/images/infographic/content/bmw.jpg?ver=2.12.30" alt="Famous Logos - BMW" width="300px" height="300px" /> </a>
 <h4><a href="
 
 <h4><a href="
