@@ -67,7 +67,7 @@
     color: #B92B27;  /* strong red quora */
 }
 .qu:hover{
-    background: #fff;  /* white quora */
+    background: #000000;  /* black quora */
 }
 .icon .fa-snapchat{
     color: #FFFC00;  /* pure (or mostly pure) yellow snapchat */
@@ -79,7 +79,7 @@
     color: #FF9900;  /* pure (or mostly pure) orange amazon */
 }
 .am:hover{
-    background: #FF9900;  /* orange */
+    background: #000000;  /* black amazon */
 }
 
 /* responsive */
