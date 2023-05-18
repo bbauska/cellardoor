@@ -73,7 +73,13 @@
     color: #FFFC00;
 }
 .sc:hover{
-    background: #000000;
+    background: #FFFC00;
+}
+.icon .fa-amazon{
+    color: #FF9900;
+}
+.am:hover{
+    background: #FF9900;
 }
 
 /* responsive */
