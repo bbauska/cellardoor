@@ -37,49 +37,49 @@
     color: #1A6ED8;
 }
 .fb:hover{
-    background: #1A6ED8;
+    background: #1A6ED8;  /* strong blue facebook */
 }
 .icon .fa-twitter{
-    color: #1DA1F2;
+    color: #1DA1F2;  /* vivid blue twitter */
 }
 .twt:hover{
     background: #1DA1F2;
 }
 .icon .fa-linkedin-in{
-    color: #0077B5;
+    color: #0077B5;  /* strong blue linkedin */
 }
 .lnk:hover{
     background: #0077B5;
 }
 .icon .fa-github{
-    color: #000;
+    color: #000;  /* black */
 }
 .git:hover{
     background: #000;
 }
 .icon .fa-youtube{
-    color: #FE0000;
+    color: #FE0000;  /* pure red youtube */
 }
 .yt:hover{
     background: #FE0000;
 }
 .icon .fa-quora{
-    color: #B92B27;
+    color: #B92B27;  /* strong red quora */
 }
 .qu:hover{
-    background: #A82400;
+    background: #fff;  /* white quora */
 }
 .icon .fa-snapchat{
-    color: #FFFC00;
+    color: #FFFC00;  /* pure (or mostly pure) yellow snapchat */
 }
 .sc:hover{
-    background: #FFFC00;
+    background: #FFFC00;  /* pure (or mostly pure) yellow snapchat */
 }
 .icon .fa-amazon{
-    color: #FF9900;
+    color: #FF9900;  /* pure (or mostly pure) orange amazon */
 }
 .am:hover{
-    background: #FF9900;
+    background: #FF9900;  /* orange */
 }
 
 /* responsive */
