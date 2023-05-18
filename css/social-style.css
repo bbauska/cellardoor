@@ -63,6 +63,18 @@
 .yt:hover{
     background: #FE0000;
 }
+.icon .fa-quora{
+    color: #B92B27;
+}
+.qu:hover{
+    background: #A82400;
+}
+.icon .fa-snapchat{
+    color: #FFFC00;
+}
+.sc:hover{
+    background: #000000;
+}
 
 /* responsive */
 @media only screen and (min-width: 320px) and (max-width: 991px) {
