@@ -28,13 +28,13 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    color: #fff;
+    color: #fff;  /* white */
 }
 .icon:hover i{
-    color: #fff;
+    color: #fff;  /* white */
 }
 .icon .fa-facebook-f{
-    color: #1A6ED8;
+    color: #1A6ED8;  /* strong blue */
 }
 .fb:hover{
     background: #1A6ED8;  /* strong blue facebook */
@@ -43,7 +43,7 @@
     color: #1DA1F2;  /* vivid blue twitter */
 }
 .twt:hover{
-    background: #1DA1F2;
+    background: #1DA1F2;  /* vivid blue */
 }
 .icon .fa-linkedin-in{
     color: #0077B5;  /* strong blue linkedin */
