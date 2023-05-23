@@ -61,4 +61,4 @@ function getDateTime() {
         currentTime = getDateTime();
         document.getElementById("digital-clock").innerHTML = currentTime;
     }, 1000);
-<div id="digital-clock"></div>
+
