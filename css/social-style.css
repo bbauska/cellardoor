@@ -79,7 +79,7 @@
     color: #FF9900;  /* pure (or mostly pure) orange amazon */
 }
 .am:hover{
-    background: #FFFFFF;  /* ff9900 amazon */
+    background: #FF9900;  /* ff9900 amazon */
 }
 
 /* responsive */
