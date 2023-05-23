@@ -34,10 +34,10 @@
     color: #fff;  /* white */
 }
 .icon .fa-facebook-f{
-    color: #1A6ED8;  /* strong blue */
+    color: #1A6ED8;  /* strong blue facebook */
 }
 .fb:hover{
-    background: #1A6ED8;  /* strong blue facebook */
+    background: #1A6ED8;  /* strong blue */
 }
 .icon .fa-twitter{
     color: #1DA1F2;  /* vivid blue twitter */
@@ -46,40 +46,40 @@
     background: #1DA1F2;  /* vivid blue */
 }
 .icon .fa-linkedin-in{
-    color: #0077B5;  /* strong blue linkedin */
+    color: #0077B5;  /* another strong blue linkedin */
 }
 .lnk:hover{
-    background: #0077B5;
+    background: #0077B5;  /* strong blue *?
 }
 .icon .fa-github{
-    color: #000;  /* black */
+    color: #000;  /* black github */
 }
 .git:hover{
-    background: #000;
+    background: #000;  /* black */
 }
 .icon .fa-youtube{
     color: #FE0000;  /* pure red youtube */
 }
 .yt:hover{
-    background: #FE0000;
+    background: #FE0000;  /* pure red */
 }
 .icon .fa-quora{
     color: #B92B27;  /* strong red quora */
 }
 .qu:hover{
-    background: #B92B27;  /* black quora */
+    background: #B92B27;  /* strong red */
 }
 .icon .fa-snapchat{
     color: #FFFC00;  /* pure (or mostly pure) yellow snapchat */
 }
 .sc:hover{
-    background: #FFFC00;  /* pure (or mostly pure) yellow snapchat */
+    background: #FFFC00;  /* pure (or mostly pure) yellow */
 }
 .icon .fa-amazon{
     color: #FF9900;  /* pure (or mostly pure) orange amazon */
 }
 .am:hover{
-    background: #FF9900;  /* ff9900 amazon */
+    background: #FF9900;  /* pure (or mostly pure) orange */
 }
 
 /* responsive */
