@@ -200,7 +200,9 @@
   details[open] > summary {
     background-color: 00ff00;  /* lime green */
   }
+
 /*** social network icons ***/
+
   @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
   @mixin flex ($direction, $justify, $align) {
@@ -282,6 +284,7 @@ html,body{
   background: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
 }
 */
+/*
 .wrapper .button{
   display: inline-block;
   height: 60px;
@@ -298,6 +301,8 @@ html,body{
 .wrapper .button:hover{
   width: 200px;
 }
+*/
+
 .wrapper .button .icon{
   display: inline-block;
   height: 60px;
@@ -318,10 +323,10 @@ html,body{
   background: #E1306C;  /* bright pink */
 }
 .wrapper .button:nth-child(4):hover .icon{
-  background: #333;
+  background: #333;  /* very dark gray */
 }
 .wrapper .button:nth-child(5):hover .icon{
-  background: #ff0000;
+  background: #ff0000;  /* pure red -  */
 }
 .wrapper .button .icon i{
   font-size: 25px;
@@ -339,20 +344,20 @@ html,body{
   transition: all 0.3s ease-out;
 }
 .wrapper .button:nth-child(1) span{
-  color: #32cd32;  /* slime green  - facebook */
+  color: #32cd32;  /* strong lime green  - facebook */
 }
 .wrapper .button:nth-child(2) span{
-  color: #f32f32;  /* twitter */
+  color: #f32f32;  /* bright red - twitter */
 }
 .wrapper .button:nth-child(3) span{
-  color: #ff0000;  /* idk */
+  color: #ff0000;  /* pure red - idk */
 }
 .wrapper .button:nth-child(4) span{
-  color: #333;  /* github */
+  color: #333;  /* very dark gray - github */
 }
 .wrapper .button:nth-child(5) span{
-  color: #eee;  /* youtube */
+  color: #eee;  /* very light gray - youtube */
 }
 .wrapper .button:nth-child(5) span{
-  color: #bbb;  /* snapchat */
+  color: #bbb;  /* gray - snapchat */
 }
