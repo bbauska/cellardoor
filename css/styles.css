@@ -344,20 +344,26 @@ html,body{
   transition: all 0.3s ease-out;
 }
 .wrapper .button:nth-child(1) span{
-  color: #32cd32;  /* strong lime green  - facebook */
+  color: #4267b2;  /* blue  - facebook */
 }
 .wrapper .button:nth-child(2) span{
-  color: #f32f32;  /* bright red - twitter */
+  color: #1d9bf0;  /* vivid blue - twitter */
 }
 .wrapper .button:nth-child(3) span{
-  color: #ff0000;  /* pure red - idk */
+  color: #ff0000;  /* pure red - youtube */
 }
 .wrapper .button:nth-child(4) span{
-  color: #333;  /* very dark gray - github */
+  color: #0072b1;  /* dark blue - linkedin */
 }
 .wrapper .button:nth-child(5) span{
-  color: #eee;  /* very light gray - youtube */
+  color: #ff0000;  /* yellow - snapchat */
 }
-.wrapper .button:nth-child(5) span{
-  color: #bbb;  /* gray - snapchat */
+.wrapper .button:nth-child(6) span{
+  color: #000;  /* black - github */
+}
+.wrapper .button:nth-child(7) span{
+  color: #8b0000;  /* dark red - quora */
+}
+.wrapper .button:nth-child(8) span{
+  color: #ffa500;  /* orange - amazon */
 }
