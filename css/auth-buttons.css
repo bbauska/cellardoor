@@ -1,13 +1,5 @@
-/**
- * Button Object
- */
-
-/**
- * 1. Corrects inability to style clickable 'input' types in iOS
- * 2. Remove excess padding in IE6/7
- * 3. IE6/7 inline-block hack for native block-level elements
- */
-
+/* auth-buttons.css */
+/* Button Object */
 .btn-auth,
 .btn-auth:visited {
     position: relative;
