@@ -314,19 +314,28 @@ html,body{
   transition: all 0.3s ease-out;
 }
 .wrapper .button:nth-child(1):hover .icon{
-  background: #4267B2;  /* dark moderate blue */
+  background: #4267b2;  /* dark moderate blue */
 }
 .wrapper .button:nth-child(2):hover .icon{
-  background: #1DA1F2;  /* vivid blue */
+  background: #1da1f2;  /* vivid blue */
 }
 .wrapper .button:nth-child(3):hover .icon{
-  background: #E1306C;  /* bright pink */
+  background: #e1306c;  /* bright pink */
 }
 .wrapper .button:nth-child(4):hover .icon{
   background: #333;  /* very dark gray */
 }
 .wrapper .button:nth-child(5):hover .icon{
-  background: #ff0000;  /* pure red -  */
+  background: #ffff00;  /* yellow -  */
+}
+.wrapper .button:nth-child(6):hover .icon{
+  background: #1da1f2;  /* vivid blue -  */
+}
+.wrapper .button:nth-child(7):hover .icon{
+  background: #4267b2;  /* moderate blue -  */
+}
+.wrapper .button:nth-child(8):hover .icon{
+  background: #333;  /* black - envelope */
 }
 .wrapper .button .icon i{
   font-size: 25px;
@@ -365,8 +374,8 @@ html,body{
   color: #8b0000;  /* dark red - quora */
 }
 .wrapper .button:nth-child(8) span{
-  color: #ffa500;  /* orange - amazon */
+  color: #ffa500;  /* pure orange - amazon */
 }
 .wrapper .button:nth-child(9) span{
-  color: #4285f4;  /* orange - gmail */
+  color: #000;  /* black - email */
 }
