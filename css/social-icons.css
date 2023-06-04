@@ -58,6 +58,10 @@
       background: #ff9900;  /* pure orange (mostly) */
       color: #ffffff;  /* white */
       }
+    .fa-google {
+      background: #4285f4;  /* blue */
+      color: #db4437;  /* red */
+      }
     .fa-facebook-square:hover {  /* hover */
       background: #3b5998;  /* dark moderate blue */
       }
@@ -87,6 +91,9 @@
       }
     .fa-amazon:hover {
       background: #ff9900;  /* pure orange (mostly) */
+      }
+    .fa-google:hover {
+      background: #4285f4;  /* bright blue */
       }
 <!-- shortcut display underline or squigly or none -->
   a {
