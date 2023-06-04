@@ -367,3 +367,6 @@ html,body{
 .wrapper .button:nth-child(8) span{
   color: #ffa500;  /* orange - amazon */
 }
+.wrapper .button:nth-child(9) span{
+  color: #4285f4;  /* orange - gmail */
+}
