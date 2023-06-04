@@ -1,7 +1,7 @@
 @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
 
 $timing        : 265ms;
-$iconColor     : #00B5F5;
+$iconColor     : #00B5F5;  /* pure blue */
 $accent        : #002A8F;
 $bluefade      : #0043E0;
 $gradient      : #00B5F5;
@@ -109,52 +109,52 @@ body {
     color: #fff;  /* white */
 }
 .icon .fa-facebook-f{
-    color: #1A6ED8;  /* strong blue facebook */
+    color: #4267b2;  /* strong blue facebook */
 }
 .fb:hover{
-    background: #1A6ED8;  /* strong blue */
+    background: #1A6ED8;  /* strong blue - hover facebook */
 }
 .icon .fa-twitter{
-    color: #1DA1F2;  /* vivid blue twitter */
+    color: #1D9BF0;  /* vivid blue - twitter */
 }
 .twt:hover{
-    background: #1DA1F2;  /* vivid blue */
-}
-.icon .fa-linkedin-in{
-    color: #0077B5;  /* another strong blue linkedin */
-}
-.lnk:hover{
-    background: #0077B5;  /* strong blue */
-}
-.icon .fa-github{
-    color: #000;  /* black github */
-}
-.git:hover{
-    background: #000;  /* black */
+    background: #14171a;  /* black - hover twitter */
 }
 .icon .fa-youtube{
-    color: #FE0000;  /* pure red youtube */
+    color: #FE0000;  /* pure red - youtube */
 }
 .yt:hover{
-    background: #FE0000;  /* pure red */
+    background: #FE0000;  /* pure red - hover youtube */
 }
-.icon .fa-quora{
-    color: #B92B27;  /* strong red quora */
+.icon .fa-linkedin-in{
+    color: #0a66c2;  /* strong blue linkedin */
 }
-.qu:hover{
-    background: #B92B27;  /* strong red */
+.lnk:hover{
+    background: #fff;  /* white - hover linkedin */
 }
 .icon .fa-snapchat{
-    color: #FFFC00;  /* pure (or mostly pure) yellow snapchat */
+    color: FFFC00;  /* pure yellow - snapchat */
 }
 .sc:hover{
-    background: #FFFC00;  /* pure (or mostly pure) yellow */
+    background: #000000;  /* black - hover snapchat */
+}
+.icon .fa-github{
+    color: #000;  /* black - github */
+}
+.git:hover{
+    background: #fff;  /* white - hover github */
+}
+.icon .fa-quora{
+    color: #B92B27;  /* strong red - quora */
+}
+.qu:hover{
+    background: #2b6dad;  /* dark blue - hover quora */
 }
 .icon .fa-amazon{
-    color: #FF9900;  /* pure (or mostly pure) orange amazon */
+    color: #FF9900;  /* pure (or mostly pure) orange - amazon */
 }
 .am:hover{
-    background: #FF9900;  /* pure (or mostly pure) orange */
+    background: #000000;  /* black - hover amazon */
 }
 
 /* responsive */
