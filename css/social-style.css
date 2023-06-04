@@ -112,19 +112,19 @@ body {
     color: #4267b2;  /* strong blue facebook */
 }
 .fb:hover{
-    background: #1A6ED8;  /* strong blue - hover facebook */
+    background: #1a6ed8;  /* strong blue - hover facebook */
 }
 .icon .fa-twitter{
-    color: #1D9BF0;  /* vivid blue - twitter */
+    color: #1d9Bf0;  /* vivid blue - twitter */
 }
 .twt:hover{
     background: #14171a;  /* black - hover twitter */
 }
 .icon .fa-youtube{
-    color: #FE0000;  /* pure red - youtube */
+    color: #fe0000;  /* pure red - youtube */
 }
 .yt:hover{
-    background: #FE0000;  /* pure red - hover youtube */
+    background: #fe0000;  /* pure red - hover youtube */
 }
 .icon .fa-linkedin-in{
     color: #0a66c2;  /* strong blue linkedin */
@@ -133,7 +133,7 @@ body {
     background: #fff;  /* white - hover linkedin */
 }
 .icon .fa-snapchat{
-    color: FFFC00;  /* pure yellow - snapchat */
+    color: fffc00;  /* pure yellow - snapchat */
 }
 .sc:hover{
     background: #000000;  /* black - hover snapchat */
@@ -145,16 +145,22 @@ body {
     background: #fff;  /* white - hover github */
 }
 .icon .fa-quora{
-    color: #B92B27;  /* strong red - quora */
+    color: #b92b27;  /* strong red - quora */
 }
 .qu:hover{
     background: #2b6dad;  /* dark blue - hover quora */
 }
 .icon .fa-amazon{
-    color: #FF9900;  /* pure (or mostly pure) orange - amazon */
+    color: #ff9900;  /* pure (or mostly pure) orange - amazon */
 }
 .am:hover{
     background: #000000;  /* black - hover amazon */
+}
+.icon .fa-google{
+    color: #4285f4;  /* bright blue - google mail */
+}
+.gm:hover{
+    background: #db4437;  /* red - hover google mail */
 }
 
 /* responsive */
