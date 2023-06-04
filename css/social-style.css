@@ -154,13 +154,13 @@ body {
     color: #ff9900;  /* pure (or mostly pure) orange - amazon */
 }
 .am:hover{
-    background: #000000;  /* black - hover amazon */
+    background: #ffa500;  /* orange - hover amazon */
 }
-.icon .fa-google{
-    color: #4285f4;  /* bright blue - google mail */
+.icon .fa-envelope{
+    color: #000000;  /* black - envelope */
 }
-.gm:hover{
-    background: #db4437;  /* red - hover google mail */
+.em:hover{
+    background: #fff;  /* white - hover envelope */
 }
 
 /* responsive */
