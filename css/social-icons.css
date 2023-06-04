@@ -42,7 +42,7 @@
       background: #02b875;  /* middle green */
       color: #66cdaa;  /* moderate cyan - lime green */
      }
-    .fa-github-square {
+    .fa-github {
       background: #00405d;  /* very dark blue */
       color: #333333;  /* very dark gray */
       }
@@ -64,9 +64,6 @@
     .fa-twitter-square:hover {
       background: #1da1f2;  /* vivid blue */
       }
-    .fa-envelope:hover {
-      background: #ffe900;  /*  pure yellow (mostly) */
-      }
     .fa-youtube-square:hover {
       background: #ff0000;  /* pure red (mostly) */
       }
@@ -79,9 +76,6 @@
     .fa-medium:hover {
       background: #fffc00;  /* pure yellow (mostly) */
       }
-    .fa-github-square {
-      background: #fffc00;  /* pure yellow (mostly) */
-      }
     .fa-quora:hover {
       background: #aa2200;  /* dark red */
       }
@@ -89,7 +83,7 @@
       background: #ff9900;  /* pure orange (mostly) */
       }
     .fa-envelope:hover {
-      background: #4285f4;  /* bright blue */
+      background: #ffe900;  /*  pure yellow (mostly) */
       }
 <!-- shortcut display underline or squigly or none -->
   a {
