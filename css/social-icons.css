@@ -14,8 +14,8 @@
       opacity: 0.4;
       }
     .fa-facebook-square {
-      background: #3B5998;  /* deep blue */
-      color: #ffffff;  /* white */
+      background: #3B5998;  /* dark moderate blue */
+      color: #898F9C;  /* gray */
       }
     .fa-twitter-square {
       background: #1da1f2;  /* medium blue */
@@ -23,7 +23,7 @@
       }
     .fa-youtube-square {
       background: #ff0000;  /* bright red */
-      color: #ffffff;  /* white */
+      color: #999;  /* white */
       }
     .fa-linkedin {
       background: #0077b5;  /* blue */
