@@ -106,7 +106,7 @@ body {
     color: #2b6dad;  /* fff white */
 }
 .icon:hover i{
-    color: #2b6dad;  /* was: fff white */
+    color: #fff;  /* white */
 }
 .icon .fa-facebook-f{
     color: #4267b2;  /* strong blue facebook */
