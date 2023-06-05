@@ -10,9 +10,6 @@
       text-decoration: none;
       margin: 5px 2px;  /* 5px 2px */
       }
-    .fa:hover {
-      opacity: 0.4;
-      }
     .fa-facebook-square {
       background: #3B5998;  /* dark moderate blue */
       color: #898F9C;  /* gray */
@@ -23,10 +20,10 @@
       }
     .fa-youtube-square {
       background: #ff0000;  /* bright red */
-      color: #999;  /* white */
+      color: #282828;  /* white */
       }
-    .fa-linkedin {
-      background: #0077b5;  /* blue */
+    .fa-linkedin-in {
+      background: #0a66c2;  /* blue - linkedin */
       color: #ffffff;  /* white */
       }
     .fa-snapchat-ghost {
@@ -34,14 +31,6 @@
       color: #fffc00;  /* yellow */
       text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
       }
-    .fa-dribbble {
-      background: #b2215a;  /* deep purple */
-      color: #e94c88;  /* deep pink */
-     }
-    .fa-medium {
-      background: #02b875;  /* middle green */
-      color: #66cdaa;  /* moderate cyan - lime green */
-     }
     .fa-github {
       background: #00405d;  /* very dark blue */
       color: #fff;  /* white - very dark gray */
@@ -52,11 +41,14 @@
       }
     .fa-amazon-square {
       background: #ff9900;  /* pure orange (mostly) */
-      color: #ffffff;  /* white */
+      color: #000000;  /* black */
       }
     .fa-envelope {
-      background: #000000;  /* deep black */
-      color: #ffffff;  /* white */
+      background: #4285f4;  /* gmail */
+      color: #bb001b;  /*  */
+      }
+    .fa:hover {
+      opacity: 0.4;
       }
     .fa-facebook-square:hover {  /* hover */
       background: #3b5998;  /* dark moderate blue */
@@ -65,15 +57,12 @@
       background: #1da1f2;  /* vivid blue */
       }
     .fa-youtube-square:hover {
-      background: #ff0000;  /* pure red (mostly) */
+      background: #282828;  /* very dark grey */
+      }
+    .fa-linkedin:hover {
+      background: #00a0dc;  /* pure blue */
       }
     .fa-snapchat-ghost:hover {
-      background: #fff;  /* pure yellow (mostly) */
-      }
-    .fa-dribbble:hover {
-      background: #1e1f26;  /* very dark (mostly black) blue */
-      }
-    .fa-medium:hover {
       background: #fffc00;  /* pure yellow (mostly) */
       }
     .fa-quora:hover {
@@ -83,7 +72,7 @@
       background: #ff9900;  /* pure orange (mostly) */
       }
     .fa-envelope:hover {
-      background: #ffe900;  /*  pure yellow (mostly) */
+      background: #bb001b;  /*  pure yellow (mostly) */
       }
 <!-- shortcut display underline or squigly or none -->
   a {
