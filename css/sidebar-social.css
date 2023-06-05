@@ -35,22 +35,31 @@ nav li a{
   transition: all .3s linear;
 }
 nav li:nth-child(1) a{
-  background: #4267B2;
+  background: #4267B2;  /* facebook - dark moderate blue */
 }
 nav li:nth-child(2) a{
-  background: #1DA1F2;
+  background: #1DA1F2;  /* twitter - vivid blue */
 }
 nav li:nth-child(3) a{
-  background: #E1306C;
+  background: #E1306C;  /* youtube - bright pink */
 }
 nav li:nth-child(4) a{
-  background: #2867B2;
+  background: #2867B2;  /* linkedin - dark blue */
 }
 nav li:nth-child(5) a{
-  background: #333;
+  background: #333;  /* snapchat - very dark gray */
 }
 nav li:nth-child(6) a{
-  background: #ff0000;
+  background: #ff0000;  /* github - Pure (or mostly pure) red */
+}
+nav li:nth-child(7) a{
+  background: #b92b27;  /* quora - strong red */
+}
+nav li:nth-child(8) a{
+  background: #ff9900;  /* amazon - orange */
+}
+nav li:nth-child(9) a{
+  background: #4285f4;  /* email - moderate blue */
 }
 nav li a i{
   position:absolute;
