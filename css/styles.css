@@ -278,7 +278,7 @@ a{
   transition: all 0.3s ease-out;
 }
 .wrapper .button:hover .icon i{
-  color: #fff;
+  color: #fff;  /* white */
 }
 .wrapper .button span{
   font-size: 20px;
@@ -288,29 +288,29 @@ a{
   transition: all 0.3s ease-out;
 }
 .wrapper .button:nth-child(1) span{
-  color: #4267b2;
+  color: #4267b2;  /* dark moderate blue - facebook */
 }
 .wrapper .button:nth-child(2) span{
-  color: #1da1fa;
+  color: #1da1fa;  /* vivid blue - twitter */
 }
 .wrapper .button:nth-child(3) span{
-  color: #ff0000;
+  color: #ff0000;  /* pure red - youtube */
 }
 .wrapper .button:nth-child(4) span{
-  color: #0077b5;
+  color: #0077b5;  /* strong blue - linkedin */
 }
 .wrapper .button:nth-child(5) span{
-  color: #fffc00;
+  color: #fffc00;  /* bright yellow - snapchat */
 }
 .wrapper .button:nth-child(6) span{
-  color: #6cc644;
+  color: #6cc644;  /* moderate green - github */
 }
 .wrapper .button:nth-child(7) span{
-  color: #b92b27;
+  color: #b92b27;  /* strong red - quora */
 }
 .wrapper .button:nth-child(8) span{
-  color: #ff9900;
+  color: #ff9900;  /* pure orange - amazon */
 }
 .wrapper .button:nth-child(9) span{
-  color: #00b2ff;
+  color: #00b200;  /* dark lime green - gmail */
 }
