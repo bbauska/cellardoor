@@ -220,8 +220,8 @@ html,body{
 }
 */
 a{
-	text-decoration: none;
-	color:#000 ;
+	text-decoration: underline;
+	color:#ffff00 ;
 }
 .wrapper .button {
   display: inline-block;
