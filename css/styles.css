@@ -245,19 +245,19 @@ a{
   transition: all 0.3s ease-out;
 }
 .wrapper .button:nth-child(1):hover .icon{
-  background: #898f9c;
+  background: #898f9c;  /* dark grayish blue */
 }
 .wrapper .button:nth-child(2):hover .icon{
-  background: #657786;
+  background: #657786;  /* dark grayish blue */
 }
 .wrapper .button:nth-child(3):hover .icon{
-  background: #282828;
+  background: #282828;  /* very dark gray */
 }
 .wrapper .button:nth-child(4):hover .icon{
-  background: #000000;
+  background: #ffffff;
 }
 .wrapper .button:nth-child(5):hover .icon{
-  background: #000000;
+  background: #ffffff;
 }
 .wrapper .button:nth-child(6):hover .icon{
   background: #605494;
@@ -266,7 +266,7 @@ a{
   background: #a82400;
 }
 .wrapper .button:nth-child(8):hover .icon{
-  background: #000000;
+  background: #ffffff;
 }
 .wrapper .button:nth-child(9):hover .icon{
 	background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,
@@ -278,7 +278,7 @@ a{
   transition: all 0.3s ease-out;
 }
 .wrapper .button:hover .icon i{
-  color: #fff;  /* white */
+  color: #0064ff;  /* fff - white */
 }
 .wrapper .button span{
   font-size: 20px;
