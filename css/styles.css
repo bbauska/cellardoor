@@ -245,32 +245,32 @@ a{
   transition: all 0.3s ease-out;
 }
 .wrapper .button:nth-child(1):hover .icon{
-  background: #4267B2;
+  background: #898f9c;
 }
 .wrapper .button:nth-child(2):hover .icon{
-  background: #1DA1F2;
+  background: #657786;
 }
 .wrapper .button:nth-child(3):hover .icon{
-	background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,
-	#dc2743 50%,#cc2366 75%,#bc1888 100%);
+  background: #282828;
 }
 .wrapper .button:nth-child(4):hover .icon{
-  background: #333;
+  background: #000000;
 }
 .wrapper .button:nth-child(5):hover .icon{
-  background: #ff0000;
+  background: #000000;
 }
 .wrapper .button:nth-child(6):hover .icon{
-  background: #ff0000;
+  background: #605494;
 }
 .wrapper .button:nth-child(7):hover .icon{
-  background: #ff0000;
+  background: #a82400;
 }
 .wrapper .button:nth-child(8):hover .icon{
-  background: #ff0000;
+  background: #000000;
 }
 .wrapper .button:nth-child(9):hover .icon{
-  background: #ff0000;
+	background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,
+	#dc2743 50%,#cc2366 75%,#bc1888 100%);
 }
 .wrapper .button .icon i{
   font-size: 25px;
@@ -288,29 +288,29 @@ a{
   transition: all 0.3s ease-out;
 }
 .wrapper .button:nth-child(1) span{
-  color: #4267B2;
+  color: #4267b2;
 }
 .wrapper .button:nth-child(2) span{
-  color: #1DA1F2;
+  color: #1da1fa;
 }
 .wrapper .button:nth-child(3) span{
-  color: #E1306C;
+  color: #ff0000;
 }
 .wrapper .button:nth-child(4) span{
-  color: #333;
+  color: #0077b5;
 }
 .wrapper .button:nth-child(5) span{
-  color: #ff0000;
+  color: #fffc00;
 }
 .wrapper .button:nth-child(6) span{
-  color: #4285f4;
+  color: #6cc644;
 }
 .wrapper .button:nth-child(7) span{
-  color: #ff0000;
+  color: #b92b27;
 }
 .wrapper .button:nth-child(8) span{
-  color: #ff0000;
+  color: #ff9900;
 }
 .wrapper .button:nth-child(9) span{
-  color: #000;
+  color: #00b2ff;
 }
