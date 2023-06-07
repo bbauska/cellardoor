@@ -30,12 +30,10 @@
   }
 
   body {
-    background-image: url('/images/mars-1.png');
-    background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     padding: 30px; 
-    font-family: Inter, Bahnschrift, "Helvetica Neue", helvetica, arial; 
+    font-family: 'Poppins', Inter, Bahnschrift, "Helvetica Neue", helvetica, arial, sans-serif; 
     background: url('https://subtlepatterns.com/patterns/white_carbonfiber.png');
   }
 
@@ -165,6 +163,7 @@
     border-bottom: dotted 1px rgba(255,255,255,.15);
     background: rgba(0,223,252,.02);
   }
+
   img {
     display: block;
     margin: 0 auto;
@@ -253,11 +252,10 @@ a{
   background: #a82400;
 }
 .wrapper .button:nth-child(8):hover .icon{
-  background: #ffffff;
+  background: #000000;
 }
 .wrapper .button:nth-child(9):hover .icon{
-	background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,
-	#dc2743 50%,#cc2366 75%,#bc1888 100%);
+  background: #000000;
 }
 .wrapper .button .icon i{
   font-size: 25px;
@@ -265,7 +263,7 @@ a{
   transition: all 0.3s ease-out;
 }
 .wrapper .button:hover .icon i{
-  color: #0064ff;  /* fff - white */
+  color: #0064ff;  /* pure blue - fff - white */
 }
 .wrapper .button span{
   font-size: 20px;
