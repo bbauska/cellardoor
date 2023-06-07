@@ -202,7 +202,7 @@
 /* social icons */
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 a{
-	text-decoration: none;
+	text-decoration: underline;
 	color:#000000 ;  /* black */
 }
 .wrapper .button {
@@ -279,13 +279,13 @@ a{
   color: #1da1fa;  /* vivid blue - twitter */
 }
 .wrapper .button:nth-child(3) span{
-  color: #ff0000;  /* pure red - youtube */
+  color: #bb0000;  /* pure red - youtube */
 }
 .wrapper .button:nth-child(4) span{
   color: #0077b5;  /* strong blue - linkedin */
 }
 .wrapper .button:nth-child(5) span{
-  color: #fffc00;  /* bright yellow - snapchat */
+  color: #000000;  /* fffc00 bright yellow - snapchat */
 }
 .wrapper .button:nth-child(6) span{
   color: #000000;  /*  - github */
