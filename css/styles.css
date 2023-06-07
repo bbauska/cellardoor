@@ -202,26 +202,9 @@
   }
 /* social icons */
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
-/*
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: 'Poppins', sans-serif;
-}
-*/
-/*
-html,body{
-  display: grid;
-  height: 100%;
-  width: 100%;
-  place-items: center;
-  background: linear-gradient(315deg, #fff 0%, #d7e1ec 74%);
-}
-*/
 a{
-	text-decoration: underline;
-	color:#ffff00 ;
+	text-decoration: none;
+	color:#000000 ;  /* black */
 }
 .wrapper .button {
   display: inline-block;
@@ -258,10 +241,10 @@ a{
   background: #282828;  /* very dark gray */
 }
 .wrapper .button:nth-child(4):hover .icon{
-  background: #ffffff;
+  background: #333333;  /* very dark gray */
 }
 .wrapper .button:nth-child(5):hover .icon{
-  background: #ffffff;
+  background: #000000;
 }
 .wrapper .button:nth-child(6):hover .icon{
   background: #605494;
@@ -307,14 +290,14 @@ a{
   color: #fffc00;  /* bright yellow - snapchat */
 }
 .wrapper .button:nth-child(6) span{
-  color: #6cc644;  /* moderate green - github */
+  color: #000000;  /*  - github */
 }
 .wrapper .button:nth-child(7) span{
-  color: #b92b27;  /* strong red - quora */
+  color: #a82400;  /* dark red - quora */
 }
 .wrapper .button:nth-child(8) span{
   color: #ff9900;  /* pure orange - amazon */
 }
 .wrapper .button:nth-child(9) span{
-  color: #00b200;  /* dark lime green - gmail */
+  color: #dd4359;  /* soft red - gmail */
 }
