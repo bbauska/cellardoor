@@ -81,7 +81,7 @@
     position: relative;
     z-index: 10;
     padding: 13px 20px 13px 20px;
-    text-decoration: none;
+    text-decoration: underline;
     color: rgba(75,75,75,1);
     line-height: 1;
     font-weight: 600;
