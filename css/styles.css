@@ -39,7 +39,7 @@
 
   #container {
     position: relative;
-    width: 775px;
+    width: 875px;
   }
 
   #container:after {
@@ -68,7 +68,7 @@
     position: relative;
     border-right: 1px solid rgba(0,0,0,.1);
     box-shadow: 1px 0 0 rgba(255,255,255,.25);
-    perspective: 1400px;
+    perspective: 1750px;  /* 1400px */
   }
 
   #menu > li:first-child {
@@ -81,20 +81,20 @@
     position: relative;
     z-index: 10;
     padding: 13px 20px 13px 20px;
-    text-decoration: underline;
-    color: rgba(75,75,75,1);
+    text-decoration: none;
+    color: rgba(75,75,75,1);  /* very dark gray */
     line-height: 1;
     font-weight: 600;
     font-size: 12px;
     letter-spacing: -.05em;
     background: transparent;		
-    text-shadow: 0 1px 1px rgba(255,255,255,.9);
+    text-shadow: 0 1px 1px rgba(255,255,255,.9);  /* white */
     transition: all .25s ease-in-out;
   }
 
   #menu > li:hover > a {
     background: #333;
-    color: rgba(0,223,252,1);
+    color: rgba(0,223,252,1);  /* cyan */
     text-shadow: none;
   }
 
@@ -116,10 +116,10 @@
   #menu li:hover ul {
 		
     padding: 15px 0;
-    background: #333;
+    background: #333;  /* very dark gray */
     opacity: 1;
     visibility: visible;
-    box-shadow: 1px 1px 7px rgba(0,0,0,.5);
+    box-shadow: 1px 1px 7px rgba(0,0,0,.5);   /* black */
     animation-name: swingdown;
     animation-duration: 1s;
     animation-timing-function: ease;
@@ -150,7 +150,7 @@
   #menu li li a {
     padding-left: 15px;
     font-weight: 400;
-    color: #ddd;
+    color: #ddd;  /* very light gray */
     text-shadow: none;
     border-top: dotted 1px transparent;
     border-bottom: dotted 1px transparent;
@@ -158,10 +158,10 @@
   }
 
   #menu li li a:hover {
-    color: rgba(0,223,252,1);
+    color: rgba(0,223,252,1);  /* cyan */
     border-top: dotted 1px rgba(255,255,255,.15);
     border-bottom: dotted 1px rgba(255,255,255,.15);
-    background: rgba(0,223,252,.02);
+    background: rgba(0,223,252,.02);  /* cyan */
   }
 
   img {
@@ -197,7 +197,7 @@
   }
 
   details[open] > summary {
-    background-color: 00ff00;
+    background-color: 00ff00;  /* lime green */
   }
 /* social icons */
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
