@@ -214,6 +214,18 @@ html,body{
   place-items: center;
   background: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
 }
+a:link {
+	color: #00ff00;
+}
+a:visited {
+	color: #110099;
+}
+a:hover {
+	color: #ee33ee;
+}
+a:active {
+	color: #000000;
+}
 .wrapper .button{
   display: inline-block;
   height: 60px;
