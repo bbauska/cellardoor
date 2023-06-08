@@ -1,0 +1,416 @@
+/* styles.css */
+/* flip down shingle menu */
+  hr { 
+    display: block;
+    width: 50%;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 25px;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 2px;
+    background-color: red;
+    color: red;
+    height: 2px;
+  }
+
+  ul.list-styles {
+    list-style-type: circle;
+    margin-left: 20px;
+  }
+  ul.list-styles2 {
+    list-style-type: square;
+    margin-left: 20px;
+  }
+
+  body {
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 30px; 
+    font-family: 'Poppins', Inter, Bahnschrift, "Helvetica Neue", helvetica, arial, sans-serif; 
+    background: url('https://subtlepatterns.com/patterns/white_carbonfiber.png');
+  }
+
+  #container {
+    position: relative;
+    width: 875px;
+  }
+
+  #container:after {
+    content: "";
+    display: block;
+    clear: both;
+    height: 0;
+  }
+
+  #menu {
+    position: relative;
+    float: left;
+    width: 100%;
+    padding: 0 20px;
+    border-radius: 3px;
+    box-shadow: inset 0 1px 1px rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.15), 0 1px 3px rgba(0,0,0,.15);
+    background: #ccc;
+  }
+
+  #menu, #menu ul {
+    list-style: none;
+  }
+
+  #menu > li {
+    float: left;
+    position: relative;
+    border-right: 1px solid rgba(0,0,0,.1);
+    box-shadow: 1px 0 0 rgba(255,255,255,.25);
+    perspective: 1400px;  /* 1400px */
+  }
+
+  #menu > li:first-child {
+    border-left: 1px solid rgba(255,255,255,.25);
+    box-shadow: -1px 0 0 rgba(0,0,0,.1), 1px 0 0 rgba(255,255,255,.25);
+  }
+
+  #menu a {
+    display: block;
+    position: relative;
+    z-index: 10;
+    padding: 13px 20px 13px 20px;
+    text-decoration: none;
+    color: rgba(75,75,75,1);  /* very dark gray */
+    line-height: 1;
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: -.05em;
+    background: transparent;		
+    text-shadow: 0 1px 1px rgba(255,255,255,.9);  /* white */
+    transition: all .25s ease-in-out;
+  }
+
+  #menu > li:hover > a {
+    background: #333;
+    color: rgba(0,223,252,1);  /* cyan */
+    text-shadow: none;
+  }
+
+  #menu li ul  {
+    position: absolute;
+    left: 0;
+    z-index: 1;
+    width: 200px;
+    padding: 0;
+    opacity: 0;
+    visibility: hidden;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    background: transparent;
+    overflow: hidden;
+    transform-origin: 50% 0%;
+  }
+
+  #menu li:hover ul {
+		
+    padding: 15px 0;
+    background: #333;  /* very dark gray */
+    opacity: 1;
+    visibility: visible;
+    box-shadow: 1px 1px 7px rgba(0,0,0,.5);   /* black */
+    animation-name: swingdown;
+    animation-duration: 1s;
+    animation-timing-function: ease;
+  }
+
+  @keyframes swingdown {
+    0% {
+    opacity: .99999;
+    transform: rotateX(90deg);
+  }
+
+    30% {			
+    transform: rotateX(-20deg) rotateY(5deg);
+      animation-timing-function: ease-in-out;
+  }
+
+    65% {
+    transform: rotateX(20deg) rotateY(-3deg);
+      animation-timing-function: ease-in-out;
+  }
+
+    100% {
+    transform: rotateX(0);
+      animation-timing-function: ease-in-out;
+    }
+  }
+
+  #menu li li a {
+    padding-left: 15px;
+    font-weight: 400;
+    color: #ddd;  /* very light gray */
+    text-shadow: none;
+    border-top: dotted 1px transparent;
+    border-bottom: dotted 1px transparent;
+    transition: all .15s linear;
+  }
+
+  #menu li li a:hover {
+    color: rgba(0,223,252,1);  /* cyan */
+    border-top: dotted 1px rgba(255,255,255,.15);
+    border-bottom: dotted 1px rgba(255,255,255,.15);
+    background: rgba(0,223,252,.02);  /* cyan */
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+  }
+/*** summary / details ***/
+  details {
+    font-size: 13px;
+    font-family: Inter, Bahnschrift, Calibri, sans-serif;
+    width: 920px;
+  }
+
+  details > summary {
+    padding: 2px 6px;
+    width: 15em;
+    line-height:120%;
+    background-color: #eee; /* very light gray */
+    border: none;
+    box-shadow: 3px 3px 4px #00008b;
+    cursor: pointer;
+  }
+  ul li {
+    line-height:140%;
+  }
+  details > p {
+    border-radius: 0 0 10px 10px;
+    background-color: #00ff00;  /* limegreen */
+    padding: 2px 6px;
+    margin: 0;
+    box-shadow: 3px 3px 4px #234f1e;  /* very dark lime green */
+  }
+
+  details[open] > summary {
+    color: #eee;  /* light gray  */
+    background-color: #00008b;  /* dark blue */
+  }
+/* social icons */
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJbecmNE.woff2) format('woff2');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJnecmNE.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z11lFc-K.woff2) format('woff2');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z11lFc-K.woff2) format('woff2');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z11lFc-K.woff2) format('woff2');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+html,body{
+  display: grid;
+  height: 100%;
+  width: 100%;
+  place-items: left;
+  background: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
+}
+
+a:link {
+	color: #110099;  /* dark blue */
+	background-color: #ffffff; /* white */
+}
+a:visited {
+	color: #110099;  /* dark blue */
+}
+a:hover {
+	color: #110099;  /* dark blue */
+}
+a:active {
+	color: #ffffff;  /* white */
+}
+
+.wrapper .button{
+  display: inline-block;
+  height: 60px;
+  width: 60px;
+  float: left;
+  margin: 0 5px;
+  overflow: hidden;
+  background: #fff;
+  border-radius: 50px;
+  cursor: pointer;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
+  transition: all 0.3s ease-out;
+}
+.wrapper .button:hover{
+  width: 200px;
+}
+.wrapper .button .icon{
+  display: inline-block;
+  height: 60px;
+  width: 60px;
+  text-align: center;
+  border-radius: 50px;
+  box-sizing: border-box;
+  line-height: 60px;
+  transition: all 0.3s ease-out;
+}
+.wrapper .button:nth-child(1):hover .icon{
+  background: #4267B2;
+}
+.wrapper .button:nth-child(2):hover .icon{
+  background: #1DA1F2;
+}
+.wrapper .button:nth-child(3):hover .icon{
+  background: #ff0000;
+}
+.wrapper .button:nth-child(4):hover .icon{
+  background: #0077B5;
+}
+.wrapper .button:nth-child(5):hover .icon{
+  background: #fffc00;
+}
+.wrapper .button:nth-child(6):hover .icon{
+  background: #171515;
+}
+.wrapper .button:nth-child(7):hover .icon{
+  background: #b92b27;
+}
+.wrapper .button:nth-child(8):hover .icon{
+  background: #ff9900;
+}
+.wrapper .button:nth-child(9):hover .icon{
+  background: #013220;
+}
+.wrapper .button .icon i{
+  font-size: 25px;
+  line-height: 60px;
+  transition: all 0.3s ease-out;
+}
+.wrapper .button:hover .icon i{
+  color: #fff;
+}
+.wrapper .button span{
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 60px;
+  margin-left: 10px;
+  transition: all 0.3s ease-out;
+}
+.wrapper .button:nth-child(1) span{
+  color: #4267b2;
+}
+.wrapper .button:nth-child(2) span{
+  color: #1da1f2;
+}
+.wrapper .button:nth-child(3) span{
+  color: #ff0000;
+}
+.wrapper .button:nth-child(4) span{
+  color: #0077b5;
+}
+.wrapper .button:nth-child(5) span{
+  color: #8b8000;
+}
+.wrapper .button:nth-child(6) span{
+  color: #171515;
+}
+.wrapper .button:nth-child(7) span{
+  color: #b92b27;
+}
+.wrapper .button:nth-child(8) span{
+  color: #ff9900;
+}
+.wrapper .button:nth-child(9) span{
+  color: #013220;
+}
