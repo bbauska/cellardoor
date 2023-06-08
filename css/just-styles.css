@@ -22,6 +22,10 @@
     list-style-type: square;
     margin-left: 20px;
   }
+ul.list-styles3 {
+  list-style-type: "→";
+  margin-left: 20px;
+}
 
   body {
     background-attachment: fixed;
