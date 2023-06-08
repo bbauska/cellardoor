@@ -23,12 +23,6 @@
     margin-left: 20px;
   }
 
-  * {
-    margin: 0; 
-    padding: 0;
-    box-sizing: border-box;
-  }
-
   body {
     background-attachment: fixed;
     background-size: cover;
@@ -193,11 +187,11 @@
     background-color: #00ff00;
     padding: 2px 6px;
     margin: 0;
-    box-shadow: 3px 3px 4px darkgreen;
+    box-shadow: 3px 3px 4px #234f1e;
   }
 
   details[open] > summary {
-    background-color: 00ff00;  /* lime green */
+    background-color: #03c04a;  /* parakeet green */
   }
 /* social icons */
 /* devanagari */
@@ -306,11 +300,12 @@ html,body{
   display: grid;
   height: 100%;
   width: 100%;
-  place-items: center;
+  place-items: left;
   background: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
 }
+
 a:link {
-	color: #00ff00;  /* lime green */
+	color: #03c04a;  /* parakeet green */
 	background-color: #000000; /* black */
 }
 a:visited {
@@ -323,6 +318,7 @@ a:active {
 	color: #000000;  /* black */
 	background-color: #110099;
 }
+
 .wrapper .button{
   display: inline-block;
   height: 60px;
