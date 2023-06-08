@@ -392,13 +392,15 @@ a:active {
   transition: all 0.3s ease-out;
 }
 .wrapper .button:nth-child(1) span{
-  color: #4267b2;
+  color: #ffffff;
+  background-color: #4267b2;
 }
 .wrapper .button:nth-child(2) span{
   color: #1da1f2;
 }
 .wrapper .button:nth-child(3) span{
-  color: #ff0000;
+  color: #000000;
+  background-color: #ff0000;
 }
 .wrapper .button:nth-child(4) span{
   color: #0077b5;
@@ -417,84 +419,4 @@ a:active {
 }
 .wrapper .button:nth-child(9) span{
   color: #013220;
-}
-/* newest added here */
-.social {
-    background-color: rgba(255, 255, 255, 0.3);
-    padding: 8px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 5px;
-    box-shadow: 0 0 30px -5px #25348b;
-}
-
-button {
-    margin: 8px;
-    outline: none;
-    border: 4px solid;
-    background-color: #3b5998;
-    color: #fff;
-    width: 36px;
-    height: 36px;
-    border-radius: 50%;
-    font-size: 1em;
-    cursor: pointer;
-    transition: color 0.8s;
-}
-
- /* Social media colors */
-
- .youtube {
-     background-color: #bb0000;
-     border-color: #bb0000;
- }
- .facebook {
-    background-color: #3b5998;
-    border-color: #3b5998;
-}
-.linkedin {
-    background-color: #0976b4;
-    border-color: #0976b4;
-}
-.github {
-    background-color: #313941;
-    border-color: #313941;
-}
-.twitter {
-    background-color: #55acee;
-    border-color: #55acee;
-}
-
-/* Hover */
-button:hover {
-    animation: hoverAnimation 0.8s forwards;
-}
-
-@keyframes hoverAnimation {
-    from {
-        transform: scale(1) rotate(0);
-    }
-
-    to {
-        transform: scale(1.2) rotate(360deg);
-        background-color: #fff;
-    }
-}
-
-/* Social media colors on hover */
-.youtube:hover {
-    color: #bb0000;
-}
-.facebook:hover {
-    color: #3b5998;
-}
-.linkedin:hover {
-    color: #0976b4;
-}
-.github:hover {
-    color: #313941;
-}
-.twitter:hover {
-    color: #55acee;
 }
