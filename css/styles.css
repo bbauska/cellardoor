@@ -192,7 +192,7 @@
 
   details[open] > summary {
     color: #ff0000;  /* red */
-    background-color: #ffff00;  /* yellow */
+    background-color: #234f1e;  /* yellow */
   }
 /* social icons */
 /* devanagari */
@@ -306,17 +306,17 @@ html,body{
 }
 
 a:link {
-	color: #03c04a;  /* parakeet green */
-	background-color: #000000; /* black */
+	color: #110099;  /* dark blue */
+	background-color: #ffffff; /* white */
 }
 a:visited {
 	color: #110099;  /* dark blue */
 }
 a:hover {
-	color: #ffe900;  /* bright yellow */
+	color: #110099;  /* dark blue */
 }
 a:active {
-	color: #000000;  /* black */
+	color: #ffffff;  /* white */
 	background-color: #110099;
 }
 
