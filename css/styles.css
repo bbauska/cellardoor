@@ -353,7 +353,7 @@ a:active {
   background: #1DA1F2;
 }
 .wrapper .button:nth-child(3):hover .icon{
-  background: #ff0000;
+  background: #ff0000;  /* red */
 }
 .wrapper .button:nth-child(4):hover .icon{
   background: #0077B5;
@@ -390,14 +390,12 @@ a:active {
 }
 .wrapper .button:nth-child(1) span{
   color: #ffffff;
-  background-color: #4267b2;
 }
 .wrapper .button:nth-child(2) span{
   color: #1da1f2;
 }
 .wrapper .button:nth-child(3) span{
   color: #000000;
-  background-color: #ff0000;
 }
 .wrapper .button:nth-child(4) span{
   color: #0077b5;
