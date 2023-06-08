@@ -62,7 +62,7 @@
     position: relative;
     border-right: 1px solid rgba(0,0,0,.1);
     box-shadow: 1px 0 0 rgba(255,255,255,.25);
-    perspective: 1750px;  /* 1400px */
+    perspective: 1400px;  /* 1400px */
   }
 
   #menu > li:first-child {
