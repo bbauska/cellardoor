@@ -176,7 +176,7 @@
     line-height:120%;
     background-color: #eee; /* very light gray */
     border: none;
-    box-shadow: 3px 3px 4px black;
+    box-shadow: 3px 3px 4px #ffff00;
     cursor: pointer;
   }
   ul li {
@@ -191,8 +191,8 @@
   }
 
   details[open] > summary {
-    color: #03c04a;  /* parakeet green */
-    background-color: #000000;  /* black */
+    color: #ff0000;  /* red */
+    background-color: #ffff00;  /* yellow */
   }
 /* social icons */
 /* devanagari */
