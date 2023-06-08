@@ -191,8 +191,8 @@
   }
 
   details[open] > summary {
-    color: #ff0000;  /* red */
-    background-color: #234f1e;  /* yellow */
+    color: #eee;  /* light gray  */
+    background-color: #00008b;  /* dark blue */
   }
 /* social icons */
 /* devanagari */
