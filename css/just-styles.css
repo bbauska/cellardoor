@@ -16,16 +16,19 @@
 
   ul.list-styles {
     list-style-type: circle;
+    text-decoration: none;
     margin-left: 20px;
   }
   ul.list-styles2 {
     list-style-type: square;
+    text-decoration: none;
     margin-left: 20px;
   }
-ul.list-styles3 {
-  list-style-type: "→";
-  margin-left: 20px;
-}
+  ul.list-styles3 {
+    list-style-type: "→";
+    text-decoration: none;
+    margin-left: 20px;
+  }
 
   body {
     background-attachment: fixed;
@@ -312,14 +315,14 @@ html,body{
 }
 
 a:link {
-	color: #ffff00;  /* dark blue */
+	color: #110099;  /* dark blue */
 	background-color: #ffff00; /* yellow */
 }
 a:visited {
 	color: #110099;  /* dark blue */
 }
 a:hover {
-	color: #ffff00;  /* yellow */
+	color: #00ff00;  /* green */
 }
 a:active {
 	color: #ffffff;  /* white */
