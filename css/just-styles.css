@@ -178,6 +178,7 @@ ul.list-styles3 {
     padding: 2px 6px;
     width: 15em;
     line-height:120%;
+    text-decoration: none;
     background-color: #eee; /* very light gray */
     border: none;
     box-shadow: 3px 3px 4px #00008b;
@@ -191,7 +192,8 @@ ul.list-styles3 {
     background-color: #00ff00;  /* limegreen */
     padding: 2px 6px;
     margin: 0;
-    box-shadow: 3px 3px 4px #234f1e;  /* very dark lime green */
+    text-decoration: none;
+    box-shadow: 3px 3px 4px #234f1e;  /* very dark limegreen */
   }
 
   details[open] > summary {
@@ -310,14 +312,14 @@ html,body{
 }
 
 a:link {
-	color: #110099;  /* dark blue */
-	background-color: #ffffff; /* white */
+	color: #ffff00;  /* dark blue */
+	background-color: #ffff00; /* yellow */
 }
 a:visited {
 	color: #110099;  /* dark blue */
 }
 a:hover {
-	color: #110099;  /* dark blue */
+	color: #ffff00;  /* yellow */
 }
 a:active {
 	color: #ffffff;  /* white */
