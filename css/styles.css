@@ -42,7 +42,7 @@
     clear: both;
     height: 0;
   }
-
+/* drop-down shingles */
   #menu {
     position: relative;
     float: left;
@@ -50,7 +50,7 @@
     padding: 0 20px;
     border-radius: 3px;
     box-shadow: inset 0 1px 1px rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.15), 0 1px 3px rgba(0,0,0,.15);
-    background: #ccc;
+    background: #ccc;  /* light gray */
   }
 
   #menu, #menu ul {
@@ -176,7 +176,7 @@
     line-height:120%;
     background-color: #eee; /* very light gray */
     border: none;
-    box-shadow: 3px 3px 4px #ffff00;
+    box-shadow: 3px 3px 4px #00008b;  /* dark blue */
     cursor: pointer;
   }
   ul li {
@@ -191,8 +191,8 @@
   }
 
   details[open] > summary {
-    color: #eee;  /* light gray  */
-    background-color: #00008b;  /* dark blue */
+    color: #000;  /* black  */
+    background-color: #eee;  /* light gray */
   }
 /* social icons */
 /* devanagari */
@@ -317,7 +317,7 @@ a:hover {
 }
 a:active {
 	color: #ffffff;  /* white */
-	background-color: #110099;
+	background-color: #110099;  /* dark blue */
 }
 
 .wrapper .button{
