@@ -176,7 +176,7 @@
     line-height:120%;
     background-color: #eee; /* very light gray */
     border: none;
-    box-shadow: 3px 3px 4px #00008b;  /* dark blue */
+    box-shadow: 3px 3px 4px #000000;  /* black */
     cursor: pointer;
   }
   ul li {
@@ -184,15 +184,22 @@
   }
   details > p {
     border-radius: 0 0 10px 10px;
-    background-color: #00ff00;  /* limegreen */
+    background-color: #ffffff;  /* white - bright yellow */
     padding: 2px 6px;
     margin: 0;
-    box-shadow: 3px 3px 4px #234f1e;  /* very dark lime green */
+    box-shadow: 3px 3px 4px #ffff00;  /* yellow */
+  }
+  details > ul {
+    border-radius: 0 0 10px 10px;
+    background-color: #ffffff;  /* white */
+    padding: 2px 6px;
+    margin: 0;
+    box-shadow: 3px 3px 4px #00008b;  /* d blue */
   }
 
   details[open] > summary {
-    color: #000;  /* black  */
-    background-color: #eee;  /* light gray */
+    color: #000000;  /* black */
+	background-color: eee;  /* l gray */
   }
 /* social icons */
 /* devanagari */
@@ -304,11 +311,11 @@ html,body{
   place-items: left;
   background: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
 }
-
-A:link { COLOR: black; TEXT-DECORATION: none; font-weight: normal }
-A:visited { COLOR: black; TEXT-DECORATION: none; font-weight: normal }
-A:active { COLOR: black; TEXT-DECORATION: none }
-A:hover { COLOR: #110099; TEXT-DECORATION: none; font-weight: none }
+/* 110099 = d blue */
+a:link { COLOR: black; TEXT-DECORATION: underline; font-weight: normal }
+a:visited { COLOR: black; TEXT-DECORATION: none; font-weight: normal }
+a:active { COLOR: black; TEXT-DECORATION: none }
+a:hover { COLOR: #110099; TEXT-DECORATION: underline; font-weight: none }
 
 .wrapper .button{
   display: inline-block;
