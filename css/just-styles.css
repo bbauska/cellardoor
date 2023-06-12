@@ -365,7 +365,7 @@ a:hover { COLOR: #110099; TEXT-DECORATION: underline; font-weight: none }
   background: #0077b5;
 }
 .wrapper .button:nth-child(5):hover .icon{
-  background: #fffc00;
+  background: #b3b000;
 }
 .wrapper .button:nth-child(6):hover .icon{
   background: #171515;
