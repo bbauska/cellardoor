@@ -318,7 +318,7 @@ html,body{
 a:link {
     text-decoration: none;
 	color: #110099;  /* dark blue */
-	background-color: #ffff00; /* yellow */
+	background-color: #000000; /* black */
 }
 a:visited {
     text-decoration: none;
@@ -326,7 +326,7 @@ a:visited {
 }
 a:hover {
     text-decoration: none;
-	color: #00ff00;  /* green */
+	color: #110099;  /* yellow */
 }
 a:active {
     text-decoration: none;
@@ -360,16 +360,16 @@ a:active {
   transition: all 0.3s ease-out;
 }
 .wrapper .button:nth-child(1):hover .icon{
-  background: #4267B2;
+  background: #4267b2;
 }
 .wrapper .button:nth-child(2):hover .icon{
-  background: #1DA1F2;
+  background: #1da1f2;
 }
 .wrapper .button:nth-child(3):hover .icon{
   background: #ff0000;
 }
 .wrapper .button:nth-child(4):hover .icon{
-  background: #0077B5;
+  background: #0077b5;
 }
 .wrapper .button:nth-child(5):hover .icon{
   background: #fffc00;
