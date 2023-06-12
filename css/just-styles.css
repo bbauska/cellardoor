@@ -40,7 +40,7 @@
 
   #container {
     position: relative;
-    width: 800px;
+    width: 875px;
   }
 
   #container:after {
@@ -49,7 +49,7 @@
     clear: both;
     height: 0;
   }
-
+/* drop-down shingles */
   #menu {
     position: relative;
     float: left;
@@ -57,7 +57,7 @@
     padding: 0 20px;
     border-radius: 3px;
     box-shadow: inset 0 1px 1px rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.15), 0 1px 3px rgba(0,0,0,.15);
-    background: #ccc;
+    background: #ccc;  /* light gray */
   }
 
   #menu, #menu ul {
@@ -69,7 +69,7 @@
     position: relative;
     border-right: 1px solid rgba(0,0,0,.1);
     box-shadow: 1px 0 0 rgba(255,255,255,.25);
-    perspective: 1400px;  /* 1400px */
+    perspective: 1340px;  /* 1400px */
   }
 
   #menu > li:first-child {
@@ -115,6 +115,7 @@
   }
 
   #menu li:hover ul {
+		
     padding: 15px 0;
     background: #333;  /* very dark gray */
     opacity: 1;
@@ -180,29 +181,34 @@
     padding: 2px 6px;
     width: 15em;
     line-height:120%;
-    text-decoration: none;
     background-color: #eee; /* very light gray */
     border: none;
-    box-shadow: 3px 3px 4px #00008b;
+    box-shadow: 3px 3px 4px #000000;  /* black */
     cursor: pointer;
   }
   ul li {
-    text-decoration: none;
+	text-decoration: none;
     line-height:140%;
   }
   details > p {
     border-radius: 0 0 10px 10px;
-    background-color: #00ff00;  /* limegreen */
+    background-color: #00ff00;  /* ffffff white - bright yellow */
     padding: 2px 6px;
     margin: 0;
-    text-decoration: none;
-    box-shadow: 3px 3px 4px #234f1e;  /* very dark limegreen */
+    box-shadow: 3px 3px 4px #ffff00;  /* ffff00 yellow */
+  }
+  details > ul {
+    border-radius: 0 0 10px 10px;
+    background-color: #ffffff;  /* white */
+    padding: 2px 6px;
+    margin: 0;
+    box-shadow: 3px 3px 4px #00008b;  /* d blue */
   }
 
   details[open] > summary {
-    color: #eee;  /* light gray  */
-    text-decoration: none;
-    background-color: #00008b;  /* dark blue */
+    color: #eee;  /* 000 black */
+	text-decoration: none;
+	background-color: eee;  /* eee - l gray */
   }
 /* social icons */
 /* devanagari */
@@ -314,24 +320,11 @@ html,body{
   place-items: left;
   background: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
 }
-
-a:link {
-    text-decoration: none;
-	color: #110099;  /* dark blue */
-	background-color: #000000; /* black */
-}
-a:visited {
-    text-decoration: none;
-	color: #110099;  /* dark blue */
-}
-a:hover {
-    text-decoration: none;
-	color: #110099;  /* yellow */
-}
-a:active {
-    text-decoration: none;
-	color: #ffffff;  /* white */
-}
+/* 110099 = d blue */
+a:link { COLOR: #110099; TEXT-DECORATION: underline; font-weight: normal }
+a:visited { COLOR: #110099; TEXT-DECORATION: none; font-weight: normal }
+a:active { COLOR: #110099; TEXT-DECORATION: none }
+a:hover { COLOR: #110099; TEXT-DECORATION: underline; font-weight: none }
 
 .wrapper .button{
   display: inline-block;
@@ -366,7 +359,7 @@ a:active {
   background: #1da1f2;
 }
 .wrapper .button:nth-child(3):hover .icon{
-  background: #ff0000;
+  background: #ff0000;  /* red */
 }
 .wrapper .button:nth-child(4):hover .icon{
   background: #0077b5;
@@ -402,19 +395,19 @@ a:active {
   transition: all 0.3s ease-out;
 }
 .wrapper .button:nth-child(1) span{
-  color: #4267b2;
+  color: #ffffff;
 }
 .wrapper .button:nth-child(2) span{
   color: #1da1f2;
 }
 .wrapper .button:nth-child(3) span{
-  color: #ff0000;
+  color: #000000;
 }
 .wrapper .button:nth-child(4) span{
   color: #0077b5;
 }
 .wrapper .button:nth-child(5) span{
-  color: #8b8000;
+  color: #fffc00;
 }
 .wrapper .button:nth-child(6) span{
   color: #171515;
