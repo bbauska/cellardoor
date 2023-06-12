@@ -190,9 +190,16 @@
 	text-decoration: none;
     line-height:140%;
   }
+  details > a {
+    border-radius: 0 0 10px 10px;
+    background-color: #000000;  /* ffffff white - bright yellow */
+    padding: 2px 6px;
+    margin: 0;
+    box-shadow: 3px 3px 4px #00008b;  /* d blue - ffff00 yellow */
+  }
   details > p {
     border-radius: 0 0 10px 10px;
-    background-color: #ff00ff;  /* ffffff white - bright yellow */
+    background-color: #000000;  /* ffffff white - bright yellow */
     padding: 2px 6px;
     margin: 0;
     box-shadow: 3px 3px 4px #013220;  /* ffff00 yellow */
