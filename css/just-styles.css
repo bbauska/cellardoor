@@ -192,10 +192,10 @@
   }
   details > p {
     border-radius: 0 0 10px 10px;
-    background-color: #00ff00;  /* ffffff white - bright yellow */
+    background-color: #ff00ff;  /* ffffff white - bright yellow */
     padding: 2px 6px;
     margin: 0;
-    box-shadow: 3px 3px 4px #ffff00;  /* ffff00 yellow */
+    box-shadow: 3px 3px 4px #013220;  /* ffff00 yellow */
   }
   details > ul {
     border-radius: 0 0 10px 10px;
@@ -206,7 +206,7 @@
   }
 
   details[open] > summary {
-    color: #eee;  /* 000 black */
+    color: #000;  /* 000 black */
 	text-decoration: none;
 	background-color: eee;  /* eee - l gray */
   }
@@ -321,7 +321,7 @@ html,body{
   background: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
 }
 /* 110099 = d blue */
-a:link { COLOR: #110099; TEXT-DECORATION: underline; font-weight: normal }
+a:link { COLOR: #110099; TEXT-DECORATION: none; font-weight: normal }
 a:visited { COLOR: #110099; TEXT-DECORATION: none; font-weight: normal }
 a:active { COLOR: #110099; TEXT-DECORATION: none }
 a:hover { COLOR: #110099; TEXT-DECORATION: underline; font-weight: none }
@@ -365,7 +365,7 @@ a:hover { COLOR: #110099; TEXT-DECORATION: underline; font-weight: none }
   background: #0077b5;
 }
 .wrapper .button:nth-child(5):hover .icon{
-  background: #b3b000;
+  background: #fffc00;
 }
 .wrapper .button:nth-child(6):hover .icon{
   background: #171515;
@@ -385,7 +385,10 @@ a:hover { COLOR: #110099; TEXT-DECORATION: underline; font-weight: none }
   transition: all 0.3s ease-out;
 }
 .wrapper .button:hover .icon i{
-  color: #fff;
+  color: #fff;  /* fff white */
+}
+.wrapper .button:hover .icon a{
+  color: #4267b2;
 }
 .wrapper .button span{
   font-size: 20px;
@@ -395,19 +398,19 @@ a:hover { COLOR: #110099; TEXT-DECORATION: underline; font-weight: none }
   transition: all 0.3s ease-out;
 }
 .wrapper .button:nth-child(1) span{
-  color: #ffffff;
+  color: #4267b2;
 }
 .wrapper .button:nth-child(2) span{
   color: #1da1f2;
 }
 .wrapper .button:nth-child(3) span{
-  color: #000000;
+  color: #ff0000;
 }
 .wrapper .button:nth-child(4) span{
   color: #0077b5;
 }
 .wrapper .button:nth-child(5) span{
-  color: #fffc00;
+  color: #b3b000;
 }
 .wrapper .button:nth-child(6) span{
   color: #171515;
