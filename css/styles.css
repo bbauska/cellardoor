@@ -182,6 +182,7 @@
   ul li {
     line-height:140%;
   }
+<!--
   details > p {
     border-radius: 0 0 10px 10px;
     background-color: #ffffff;  /* white - bright yellow */
@@ -196,11 +197,13 @@
     margin: 0;
     box-shadow: 3px 3px 4px #00008b;  /* d blue */
   }
-
+-->
+<!--
   details[open] > summary {
     color: #000000;  /* black */
 	background-color: eee;  /* l gray */
   }
+-->
 /* social icons */
 /* devanagari */
 @font-face {
@@ -298,12 +301,14 @@
   src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
+<!--
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+-->
 html,body{
   display: grid;
   height: 100%;
@@ -311,12 +316,13 @@ html,body{
   place-items: left;
   background: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
 }
+<!--
 /* 110099 = d blue */
 a:link { COLOR: black; TEXT-DECORATION: underline; font-weight: normal }
 a:visited { COLOR: black; TEXT-DECORATION: none; font-weight: normal }
 a:active { COLOR: black; TEXT-DECORATION: none }
 a:hover { COLOR: #110099; TEXT-DECORATION: underline; font-weight: none }
-
+-->
 .wrapper .button{
   display: inline-block;
   height: 60px;
