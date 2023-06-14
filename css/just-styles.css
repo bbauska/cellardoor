@@ -243,7 +243,6 @@
 .wrapper .button .icon a{
   font-size: 25px;
   line-height: 60px;
-  color: #000;
   transition: all 0.3s ease-out;
 }
 .wrapper .button:hover .icon i{
@@ -253,6 +252,9 @@
   color: #fff;
 }
 
+.wrapper .button:nth-child:hover(1) .icon{
+  background: #4267B2;  /* dark moderate blue */
+}
 .wrapper .button:nth-child(1):hover .icon{
   background: #4267B2;  /* dark moderate blue */
 }
