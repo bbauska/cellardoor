@@ -268,7 +268,7 @@
   background: #0077b5;  /* strong blue */
 }
 .wrapper .button:nth-child(5):hover .icon{
-  background: #bfa600;  /* dark yellow */
+  background: #fffc00;  /* dark yellow */
 }
 .wrapper .button:nth-child(6):hover .icon{
   background: #171515;  /* very dark red */
@@ -310,7 +310,7 @@
   color: #0077b5;  /* linkedin */
 }
 .wrapper .button:nth-child(5) span{
-  color: #fffc00;  /* snapchat */
+  color: #bfa600;  /* snapchat */
 }
 .wrapper .button:nth-child(6) span{
   color: #171515;  /* github */
