@@ -268,7 +268,7 @@
   background: #0077b5;  /* strong blue */
 }
 .wrapper .button:nth-child(5):hover .icon{
-  background: #fffc00;  /* pure yellow */
+  background: #bfa600;  /* dark yellow */
 }
 .wrapper .button:nth-child(6):hover .icon{
   background: #171515;  /* very dark red */
