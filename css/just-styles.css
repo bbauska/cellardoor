@@ -198,8 +198,8 @@ html, body {
     box-shadow: 3px 3px 4px #00008b;  /* d blue */
   }
   details[open] > summary {
-    color: #000;  /* black */
-	background-color: d3d3d3;  /* l gray */
+    color: #ffff00;  /* ffff00 = yellow, 000 = black */
+    background-color: d3d3d3;  /* l gray */
   }
 
 /* social buttons wrapper, button, icon and a */
