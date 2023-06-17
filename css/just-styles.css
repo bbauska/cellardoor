@@ -40,7 +40,7 @@ html, body {
 /* flip down shingle menu/container */
   #container {
     position: relative;
-    width: 730px;
+    width: 750px;
   }
   #container:after {
     content: "";
@@ -177,7 +177,7 @@ html, body {
     line-height:120%;
     background-color: #eee; /* very light gray */
     border: none;
-    box-shadow: 3px 3px 4px #000000;  /* black */
+    box-shadow: 3px 3px 4px #00008b;  /* d blue */
     cursor: pointer;
   }
   ul li {
@@ -185,21 +185,21 @@ html, body {
   }
   details > p {
     border-radius: 0 0 5px 5px;  /* 0 0 10 10 */
-    background-color: #ffffff;  /* white */
+    background-color: #eee;  /* v l gray */
     padding: 2px 6px;
     margin: 0;
-    box-shadow: 3px 3px 4px #ffff00;  /* yellow */
+    box-shadow: 3px 3px 4px #00008b;  /* d blue */
   }
   details > ul {
     border-radius: 0 0 5px 5px;
-    background-color: #ffffff;  /* white */
+    background-color: #eee;  /* v l gray */
     padding: 2px 6px;
     margin: 0;
     box-shadow: 3px 3px 4px #00008b;  /* d blue */
   }
   details[open] > summary {
-    color: #ffff00;  /* ffff00 = yellow, 000 = black */
-    background-color: d3d3d3;  /* l gray */
+    color: #000000;  /* ffff00 = yellow, 000 = black */
+    background-color: ffff00;  /* l gray */
   }
 
 /* social buttons wrapper, button, icon and a */
