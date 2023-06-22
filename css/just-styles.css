@@ -161,7 +161,7 @@ html, body {
   }
   .border {
     border-width: 1px;
-    border-color: #778899;  /* dark grayish blue */
+    border-color: #778899;  /* slate gray */
     border-style: solid; 
   }
 
@@ -198,8 +198,8 @@ html, body {
     box-shadow: 3px 3px 4px #00008b;  /* d blue */
   }
   details[open] > summary {
-    color: #000000;  /* ffff00 = yellow, 000 = black */
-    background-color: ffff00;  /* l gray */
+    color: #ffff00;  /* ffff00 = yellow, 000 = black */
+    background-color: eeeeee;  /* ffff00 */
   }
 
 /* social buttons wrapper, button, icon and a */
