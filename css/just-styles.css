@@ -40,7 +40,7 @@ html, body {
 /* flip down shingle menu/container */
   #container {
     position: relative;
-    width: 73px;
+    width: 750px;
   }
   #container:after {
     content: "";
@@ -65,7 +65,7 @@ html, body {
     position: relative;
     border-right: 1px solid rgba(0,0,0,.1);
     box-shadow: 1px 0 0 rgba(255,255,255,.25);
-    perspective: 1410px;  /* 1400px */
+    perspective: 1340px;  /* 1400px */
   }
   #menu > li:first-child {
     border-left: 1px solid rgba(255,255,255,.25);
@@ -161,7 +161,7 @@ html, body {
   }
   .border {
     border-width: 1px;
-    border-color: #778899;  /* slate gray */
+    border-color: #778899;  /* dark grayish blue */
     border-style: solid; 
   }
 
@@ -177,7 +177,7 @@ html, body {
     line-height:120%;
     background-color: #eee; /* very light gray */
     border: none;
-    box-shadow: 3px 3px 4px #00008b;  /* d blue */
+    box-shadow: 3px 3px 4px #00008b;  /* 00008b = d blue */
     cursor: pointer;
   }
   ul li {
@@ -198,8 +198,8 @@ html, body {
     box-shadow: 3px 3px 4px #00008b;  /* d blue */
   }
   details[open] > summary {
-    color: #ffff00;  /* ffff00 = yellow, 000 = black */
-    background-color: eeeeee;  /* ffff00 */
+    color: #000000;  /* ffff00 = yellow, 000 = black */
+    background-color: ffff00;  /* l gray */
   }
 
 /* social buttons wrapper, button, icon and a */
