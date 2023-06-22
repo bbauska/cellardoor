@@ -40,7 +40,7 @@ html, body {
 /* flip down shingle menu/container */
   #container {
     position: relative;
-    width: 755px;
+    width: 800px;
   }
   #container:after {
     content: "";
