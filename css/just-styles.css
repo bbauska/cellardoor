@@ -201,14 +201,19 @@ html, body {
     color: #000000;  /* ffff00 = yellow, 000 = black */
     background-color: ffff00;  /* l gray */
   }
-
-/* social buttons wrapper, button, icon and a */
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
+}
+html,body{
+  display: grid;
+  height: 100%;
+  width: 100%;
+  place-items: center;
+  background: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
 }
 .wrapper .button{
   display: inline-block;
@@ -221,7 +226,7 @@ html, body {
   border-radius: 50px;
   cursor: pointer;
   box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
-  transition: all 0.4s ease-out;
+  transition: all 0.3s ease-out;
 }
 .wrapper .button:hover{
   width: 200px;
@@ -236,23 +241,6 @@ html, body {
   line-height: 60px;
   transition: all 0.3s ease-out;
 }
-.wrapper .button .icon i{
-  font-size: 25px;
-  line-height: 60px;
-  transition: all 0.3s ease-out;
-}
-.wrapper .button .icon a{
-  font-size: 25px;
-  line-height: 60px;
-  transition: all 0.3s ease-out;
-}
-.wrapper .button:hover .icon i{
-  color: #fff;
-}
-.wrapper .button:hover .icon a{
-  color: #fff;
-}
-
 .wrapper .button:nth-child:hover(1) .icon{
   background: #4267B2;  /* dark moderate blue */
 }
@@ -283,12 +271,12 @@ html, body {
 .wrapper .button:nth-child(9):hover .icon{
   background: #037d50;  /* dark green */
 }
-.wrapper .button .icon a{
+.wrapper .button .icon i{
   font-size: 25px;
   line-height: 60px;
   transition: all 0.3s ease-out;
 }
-.wrapper .button:hover .icon a{
+.wrapper .button:hover .icon i{
   color: #fff;
 }
 .wrapper .button span{
