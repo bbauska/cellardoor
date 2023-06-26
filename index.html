@@ -10,12 +10,6 @@
   <link rel="canonical" href="https://cellardoor.bauska.org">
 
   <!-- highlight & date/time -->
-<!--  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" 
-    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
--->
-<!--  <script sync src="/js/highlight.min.js"></script> -->
-  <script src="/js/date-time.js"></script>
-<!--  <script>hljs.highlightAll();</script> -->
 
   <!-- shortcut icon -->
   <link rel="shortcut icon" type="image/jpg" href="./images/bauska.ico"/>
@@ -25,8 +19,6 @@
   <link rel="stylesheet" href="/css/default.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
 
-<!--  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>  -->
-
   <!-- viewport and seo -->
   <meta charset="UTF-8">
   <meta name="description" content="HTML, CSS, Javascript &amp; React - Everything and I mean most Everything!  There are over 500 websites in the 20+ detail/summary menus + 2 dozen more in the drop-down menu.">
@@ -34,12 +26,8 @@
   <meta name=”robots” content="index, follow">
   <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
   <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
-  <!-- added 5-16-2023 bbauska -->
-  <!--  <script src="https://kit.fontawesome.com/b356ad9dc8.js" crossorigin="anonymous"></script> -->
-  <!--  <link rel="stylesheet" href="./css/nepal-style.css"> -->
-  <!--  <link rel="stylesheet" href="./css/sidebar-social.css"> -->
+
   <link rel="stylesheet" href="/css/just-styles.css">
-<!--  <script src="https://kit.fontawesome.com/1dbdd0b3cf.js" crossorigin="anonymous"></script> -->
 </head>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ end head ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ body ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -927,13 +915,13 @@
   </div>
   <div class="button">
     <div class="icon">
-      <a href="https://twitter.com/BrianBauska"  target="_blank"><i class="fab fa-twitter"></i>
+      <a href="https://twitter.com/BrianBauska" target="_blank"><i class="fab fa-twitter"></i>
     </div>
     <span>Twitter</span>
   </div>
   <div class="button">
     <div class="icon">
-      <a href="https://www.youtube.com/channel/UCriWRGaYWMtLWNCxrWP_i6A"  target="_blank"><i class="fab fa-youtube"></i>
+      <a href="https://www.youtube.com/channel/UCriWRGaYWMtLWNCxrWP_i6A" target="_blank"><i class="fab fa-youtube"></i>
     </div>
     <span>YouTube</span>
   </div>
@@ -972,27 +960,6 @@
     <a href="mailto:brianbauska@gmail.com &subject=this is from cellardoor.bauska.org link &body=this is the body from cellardoor"><i class="fas fa-envelope"></i>
     </div>
     <span>E-Mail</span>
- <!-- send mail form -->
- <!--
-  <div class="button">
-    <div class="icon">
-  <form action="mailto:brinbauska@gmail.com" method="get" enctype="text/plain">
-    Subject:<br>
-    <input type="text" name="subject" placeholder="Brian Bauska"><br>
-    Email:<br>
-    <input type="email" name="email" placeholder="brianbauska@gmail.com"><br>
-    Message:<br>
-    <textarea name="body" rows="5" cols="30" placeholder="My message from cellardoor"></textarea><br>
-    <input type="submit" value="Send">
-  </form>
--->
-
-<!--      <i class="fas fa-envelope"></i>  -->
-<!--      <a href="mailto:brianbauska@gemail.com &subject=this is from cellardoor.bauska.org link &body=this is the body from cellardoor" 
-    class="fas fa-envelope" target="_blank"></a>
- <a class="fas fa-envelope" href="mailto:brianbauska@gmail.com &subject=this is from cellardoor.bauska.org link &body=this is the body from cellardoor"></a> 
--->
-
   </div>
 </div>
 <br /><br />
@@ -1026,9 +993,13 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ end cats & body ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <br />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ footer ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <p>Penned by <a href="https://cellardoor.bauska.org" target="_blank" rel="noopener noreferrer">bbauska on github.io</a>.  Last updated: 2:44pm Wed 06/25/2023</p>
+  <p>Penned by <a href="https://cellardoor.bauska.org" target="_blank" rel="noopener noreferrer">bbauska on github.io</a>.  Last updated: 11:04pm Sun 06/25/2023</p>
 </footer>
 <br /><br />
-<h6>Current Date &amp; Time: <div id="digital-clock"></div></h6>
-<div id="para1"></div>
+<script>
+const d = new Date();
+document.getElementById("demo").innerHTML = d;
+</script>
+<!-- <h6>Current Date &amp; Time: <div id="digital-clock"></div></h6> -->
+<!-- <div id="para1"></div> -->
 </html>
