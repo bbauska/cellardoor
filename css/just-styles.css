@@ -199,8 +199,8 @@ html, body {
     box-shadow: 3px 3px 4px #00008b;  /* d blue */
   }
   details[open] > summary {
-    color: #eee;  /* ffff00 = yellow, 000 = black */
-    background-color: #ffff00;  /*  */
+    color: #00008b;  /* d blue */
+    background-color: #ffff00;  /* yellow */
   }
 /* social icons */
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
