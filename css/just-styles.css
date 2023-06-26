@@ -181,7 +181,7 @@ html, body {
     cursor: pointer;
   }
   ul li {
-    line-height:160%;
+    line-height:180%;
   }
   details > p {
     border-radius: 0 0 5px 5px;  /* 0 0 10 10 */
