@@ -201,6 +201,7 @@ html, body {
     color: #000000;  /* ffff00 = yellow, 000 = black */
     background-color: ffff00;  /* l gray */
   }
+/* social icons */
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 *{
   margin: 0;
@@ -268,12 +269,12 @@ html,body{
 .wrapper .button:nth-child(9):hover .icon{
   background: #037d50;  /* dark green - google mail */
 }
-.wrapper .button .icon i{
+.wrapper .button .icon a{
   font-size: 25px;
   line-height: 60px;
   transition: all 0.3s ease-out;
 }
-.wrapper .button:hover .icon i{
+.wrapper .button:hover .icon a{
   color: #fff;
 }
 .wrapper .button span{
