@@ -65,7 +65,7 @@ html, body {
     position: relative;
     border-right: 1px solid rgba(0,0,0,.1);
     box-shadow: 1px 0 0 rgba(255,255,255,.25);
-    perspective: 1340px;  /* 1400px */
+    perspective: 1280px;  /* 1400px */
   }
   #menu > li:first-child {
     border-left: 1px solid rgba(255,255,255,.25);
@@ -198,7 +198,7 @@ html, body {
     box-shadow: 3px 3px 4px #00008b;  /* d blue */
   }
   details[open] > summary {
-    color: #000000;  /* ffff00 = yellow, 000 = black */
+    color: #eee;  /* ffff00 = yellow, 000 = black */
     background-color: ffff00;  /* l gray */
   }
 /* social icons */
@@ -209,13 +209,14 @@ html, body {
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
-html,body{
+<!-- html,body{
   display: grid;
   height: 100%;
   width: 100%;
   place-items: center;
   background: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
 }
+-->
 .wrapper .button{
   display: inline-block;
   height: 60px;
