@@ -65,7 +65,7 @@ html, body {
     position: relative;
     border-right: 1px solid rgba(0,0,0,.1);
     box-shadow: 1px 0 0 rgba(255,255,255,.25);
-    perspective: 1280px;  /* 1400px */
+    perspective: 1240px;  /* 1400px */
   }
   #menu > li:first-child {
     border-left: 1px solid rgba(255,255,255,.25);
@@ -169,7 +169,7 @@ html, body {
   details {
     font-size: 12.5px;
     font-family: Inter, Bahnschrift, Calibri, sans-serif;
-    width: 880px;
+    width: 825px;
   }
   details > summary {
     padding: 2px 6px;
@@ -231,7 +231,7 @@ html, body {
   transition: all 0.3s ease-out;
 }
 .wrapper .button:nth-child(1):hover .icon{
-  background: #4267B2;  /* dark moderate blue - facebook */
+  background: #4267b2;  /* dark moderate blue - facebook */
 }
 .wrapper .button:nth-child(2):hover .icon{
   background: #1da1f2;  /* vivid blue - twitter */
@@ -263,7 +263,7 @@ html, body {
   transition: all 0.3s ease-out;
 }
 .wrapper .button:hover .icon i{
-  color: #fff;
+  color: #fff;  /* white */
 }
 .wrapper .button span{
   font-size: 20px;
