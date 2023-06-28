@@ -25,7 +25,7 @@
   }
   ul.list-styles3 {
     list-style-type: disc;
-    margin-left: 20px;
+    margin-left: 20px;  /* was 20px */
   }
 /* body */
 html, body {
