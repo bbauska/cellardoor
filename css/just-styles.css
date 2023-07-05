@@ -300,3 +300,7 @@ html, body {
 .wrapper .button:nth-child(9) span{
   color: #037d50;  /* e-mail */
 }
+
+#idLinkedInIcon{background-color:rgb(0, 102, 170);border-radius:6px;color:white;cursor:pointer;display:inline-block;font:bold 30px Arial, Helvetica, sans-serif;height:35px;margin-top:1px;text-align:center;width:35px;}
+#idLinkedInIcon:hover{background-color:#06d;}
+
