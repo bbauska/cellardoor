@@ -1,3 +1,4 @@
-Sitemap: http://cellardoor.org/sitemap.xml
-User-agent: *
-Disallow: /
+User-Agent: *
+Disallow: 
+
+Sitemap: https://github.com/bbauska/cellardoor
