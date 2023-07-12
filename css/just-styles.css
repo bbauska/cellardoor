@@ -256,6 +256,8 @@ html, body {
 }
 .wrapper .button:nth-child(9):hover .icon{
   background: #037d50;  /* dark green - google mail */
+  transform: translateY(-4px);
+  transition:0.3s;
 }
 .wrapper .button .icon i{
   font-size: 25px;
