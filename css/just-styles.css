@@ -270,6 +270,7 @@
   }
   .wrapper .button:hover .icon i{
     color: #fff;  /* white */
+    text-decoration: none;
   }
   .wrapper .button span{
     font-size: 20px;
