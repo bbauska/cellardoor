@@ -261,7 +261,7 @@
     background: #037d50;  /* dark green - google mail */
     transform: translateY(-4px);
     transition:0.3s;
-    text-decoration: underline wavy green;
+	text-decoration: underline wavy green;
   }
   .wrapper .button .icon i{
     font-size: 25px;
@@ -270,14 +270,12 @@
   }
   .wrapper .button:hover .icon i{
     color: #fff;  /* white */
-    text-decoration: none;
   }
   .wrapper .button span{
     font-size: 20px;
     font-weight: 500;
     line-height: 60px;
     text-align: center;
-    text-decoration: none;
     margin-left: 10px;
     transition: all 0.3s ease-out;
   }
