@@ -1,5 +1,5 @@
 /* just-styles.css for cellardoor.bauska.org */
-/* horizontal line */
+  /* horizontal line */
   hr { 
     display: block;
     width: 50%;
@@ -14,7 +14,7 @@
     height: 2px;
   }
 
-/* unordered list styles */
+  /* unordered list styles */
   ul.list-styles {
     list-style-type: circle;
     margin-left: 20px;
@@ -27,8 +27,8 @@
     list-style-type: disc;
     margin-left: 20px;  /* was 20px */
   }
-/* body */
-html, body {
+  /* body */
+  html, body {
     background-attachment: fixed;
     background-size: cover;
 	min-height: 100%;
@@ -37,7 +37,7 @@ html, body {
     background: url('https://subtlepatterns.com/patterns/white_carbonfiber.png');
   }
 
-/* flip down shingle menu/container */
+  /* flip down shingle menu/container */
   #container {
     position: relative;
     width: 770px;  /* 135em, 770px */
@@ -149,7 +149,7 @@ html, body {
     background: rgba(0,223,252,.02);  /* cyan */
   }
 
-/* pictures (images) */
+  /* pictures (images) */
   img {
     display: block;
     margin-left: auto;
@@ -165,7 +165,7 @@ html, body {
     border-style: solid; 
   }
 
-/* summary & details */
+  /* summary & details */
   details {
     font-size: 12.5px;
     font-family: Inter, Bahnschrift, Calibri, sans-serif;
@@ -202,110 +202,123 @@ html, body {
     color: #00008b;  /* d blue */
     background-color: #ffff00;  /* yellow */
   }
-/* social icons */
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
-.wrapper .button{
-  display: inline-block;
-  height: 60px;
-  width: 60px;
-  float: left;
-  margin: 0 5px;
-  overflow: hidden;
-  background: #fff;  /* white */
-  border-radius: 50px;
-  cursor: pointer;
-<!--  text-decoration: none; -->
-  box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
-  transition: all 0.3s ease-out;
-}
-.wrapper .button:hover{
-  width: 200px;
-}
-.wrapper .button .icon{
-  display: inline-block;
-  text-decoration: underline dotted red;
-  height: 60px;
-  width: 60px;
-  text-align: center;
-  border-radius: 50px;
-  box-sizing: border-box;
-  line-height: 60px;
-  transition: all 0.3s ease-out;
-}
-.wrapper .button:nth-child(1):hover .icon{
-  background: #4267b2;  /* dark moderate blue - facebook */
-}
-.wrapper .button:nth-child(2):hover .icon{
-  background: #1da1f2;  /* vivid blue - twitter */
-}
-.wrapper .button:nth-child(3):hover .icon{
-  background: #ff0000;  /* pure red - youtube */
-}
-.wrapper .button:nth-child(4):hover .icon{
-  background: #0077b5;  /* strong blue - linkedin */
-}
-.wrapper .button:nth-child(5):hover .icon{
-  background: #fffc00;  /* dark yellow - snapchat */
-}
-.wrapper .button:nth-child(6):hover .icon{
-  background: #171515;  /* very dark red - github */
-}
-.wrapper .button:nth-child(7):hover .icon{
-  background: #b92b27;  /* strong red - quora */
-}
-.wrapper .button:nth-child(8):hover .icon{
-  background: #ff9900;  /* pure orange - amazon */
-}
-.wrapper .button:nth-child(9):hover .icon{
-  background: #037d50;  /* dark green - google mail */
-  transform: translateY(-4px);
-  transition:0.3s;
-}
-.wrapper .button .icon i{
-  font-size: 25px;
-  line-height: 60px;
-  transition: all 0.3s ease-out;
-}
-.wrapper .button:hover .icon i{
-  color: #fff;  /* white */
-}
-.wrapper .button span{
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 60px;
-  text-decoration: underline dotted red;
-  text-align: center;
-  margin-left: 10px;
-  transition: all 0.3s ease-out;
-}
-.wrapper .button:nth-child(1) span{
-  color: #4267b2;  /* facebook */
-}
-.wrapper .button:nth-child(2) span{
-  color: #1da1f2;  /* twitter */
-}
-.wrapper .button:nth-child(3) span{
-  color: #b2071d;  /* youtube */
-}
-.wrapper .button:nth-child(4) span{
-  color: #0077b5;  /* linkedin */
-}
-.wrapper .button:nth-child(5) span{
-  color: #bfa600;  /* snapchat */
-}
-.wrapper .button:nth-child(6) span{
-  color: #171515;  /* github */
-}
-.wrapper .button:nth-child(7) span{
-  color: #b92b27;  /* quora */
-}
-.wrapper .button:nth-child(8) span{
-  color: #ff9900;  /* amazon */
-}
-.wrapper .button:nth-child(9) span{
-  color: #037d50;  /* e-mail */
+  
+  /* social icons */
+  @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+  .wrapper .button{
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    float: left;
+    margin: 0 5px;
+    overflow: hidden;
+    background: #fff;  /* white */
+    border-radius: 50px;
+    cursor: pointer;
+  <!--  text-decoration: none; -->
+    box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
+    transition: all 0.3s ease-out;
+  }
+  .wrapper .button:hover{
+    width: 200px;
+  }
+  .wrapper .button .icon{
+    display: inline-block;
+    text-decoration: none;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    border-radius: 50px;
+    box-sizing: border-box;
+    line-height: 60px;
+    transition: all 0.3s ease-out;
+  }
+  .wrapper .button:nth-child(1):hover .icon{
+    background: #4267b2;  /* dark moderate blue - facebook */
+  }
+  .wrapper .button:nth-child(2):hover .icon{
+    background: #1da1f2;  /* vivid blue - twitter */
+  }
+  .wrapper .button:nth-child(3):hover .icon{
+    background: #ff0000;  /* pure red - youtube */
+  }
+  .wrapper .button:nth-child(4):hover .icon{
+    background: #0077b5;  /* strong blue - linkedin */
+  }
+  .wrapper .button:nth-child(5):hover .icon{
+    background: #fffc00;  /* dark yellow - snapchat */
+  }
+  .wrapper .button:nth-child(6):hover .icon{
+    background: #171515;  /* very dark red - github */
+  }
+  .wrapper .button:nth-child(7):hover .icon{
+    background: #b92b27;  /* strong red - quora */
+  }
+  .wrapper .button:nth-child(8):hover .icon{
+    background: #ff9900;  /* pure orange - amazon */
+  }
+  .wrapper .button:nth-child(9):hover .icon{
+    background: #037d50;  /* dark green - google mail */
+    transform: translateY(-4px);
+    transition:0.3s;
+    text-decoration: underline wavy green;
+  }
+  .wrapper .button .icon i{
+    font-size: 25px;
+    line-height: 60px;
+    transition: all 0.3s ease-out;
+  }
+  .wrapper .button:hover .icon i{
+    color: #fff;  /* white */
+  }
+  .wrapper .button span{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 60px;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 10px;
+    transition: all 0.3s ease-out;
+  }
+  .wrapper .button:nth-child(1) span{
+    color: #4267b2;  /* facebook */
+  }
+  .wrapper .button:nth-child(2) span{
+    color: #1da1f2;  /* twitter */
+  }
+  .wrapper .button:nth-child(3) span{
+    color: #b2071d;  /* youtube */
+  }
+  .wrapper .button:nth-child(4) span{
+    color: #0077b5;  /* linkedin */
+  }
+  .wrapper .button:nth-child(5) span{
+    color: #bfa600;  /* snapchat */
+  }
+  .wrapper .button:nth-child(6) span{
+    color: #171515;  /* github */
+  }
+  .wrapper .button:nth-child(7) span{
+    color: #b92b27;  /* quora */
+  }
+  .wrapper .button:nth-child(8) span{
+    color: #ff9900;  /* amazon */
+  }
+  .wrapper .button:nth-child(9) span{
+    color: #037d50;  /* e-mail */
 }
 
-#idLinkedInIcon{background-color:rgb(0, 102, 170);border-radius:6px;color:white;cursor:pointer;display:inline-block;font:bold 30px Arial, Helvetica, sans-serif;height:35px;margin-top:1px;text-align:center;width:35px;}
-#idLinkedInIcon:hover{background-color:#06d;}
-
+  #idLinkedInIcon{
+    background-color:rgb(0, 102, 170);
+	border-radius:6px;color:white;
+	cursor:pointer;
+	display:inline-block;
+	font:bold 30px Arial, Helvetica, sans-serif;
+	height:35px;
+	margin-top:1px;
+	text-align:center;
+	width:35px;
+  }
+  #idLinkedInIcon:hover{
+    background-color:#06d;
+  }
