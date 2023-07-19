@@ -200,7 +200,7 @@ html, body {
     box-shadow: 3px 3px 4px #00008b;  /* d blue */
   }
   details[open] > summary {
-    color: #ffff00;  /* yellow */
+    color: #800080;  /* dark magenta */
 	background-color: 000;  /* black */
   }
 
