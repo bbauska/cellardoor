@@ -31,7 +31,7 @@
 html, body {
     background-attachment: fixed;
     background-size: cover;
-	min-height: 100%;
+    min-height: 100%;
     padding: 30px; 
     font-family: 'Poppins', Inter, Bahnschrift, "Helvetica Neue", helvetica, arial, sans-serif; 
     background: url('https://subtlepatterns.com/patterns/white_carbonfiber.png');
@@ -189,7 +189,7 @@ html, body {
     background-color: #ffffff;  /* white */
     padding: 2px 6px;
     margin: 0;
-    box-shadow: 3px 3px 4px #ffff00;  /* yellow */
+    box-shadow: 3px 3px 4px #800080;  /* dark magenta */
   }
   details > ul {
     border-radius: 0 0 5px 5px;
@@ -201,7 +201,7 @@ html, body {
   }
   details[open] > summary {
     color: #800080;  /* dark magenta */
-	background-color: 000;  /* black */
+    background-color: 000;  /* black */
   }
 
 /* social buttons wrapper, button, icon and 'a' */
