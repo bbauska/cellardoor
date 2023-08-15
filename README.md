@@ -1,6 +1,5 @@
 <!-- display the social media buttons in your README -->
 
-
 <h2>CodePen Example</h2>
 
    <link rel="apple-touch-icon" type="image/png" href="https://cpwebassets.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png" />
@@ -23,7 +22,7 @@
 <!-- testing above -->
 <h3>Data Analyst Career Guide and Interview Preparation</h3>
 
-<h5><a href="https://www.ibm.com/blogs/ibm-training/prepare-for-your-next-data-analyst-job-interview-with-the-ibm-data-analyst-career-guide-and-interview-preparation-course-on-coursera-org/" target="_blank">IBM Skills Network w/Coursera</a>.
+<h5><a href="https://www.ibm.com/blogs/ibm-training/prepare-for-your-next-data-analyst-job-interview-with-the-ibm-data-analyst-career-guide-and-interview-preparation-course-on-coursera-org/" target="_blank">IBM Skills Network w/Coursera</a>.</h5>
 
 
 <h3><a href="https://validator.w3.org/nu/" target="_blank">Nu HTML Checker</a></h3>
