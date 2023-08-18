@@ -34,7 +34,7 @@ html, body {
     min-height: 100%;
     padding: 30px; 
     font-family: 'Poppins', Inter, Bahnschrift, "Helvetica Neue", helvetica, arial, sans-serif; 
-    background: url('https://subtlepatterns.com/patterns/white_carbonfiber.png');
+    background: url('./images/dust_scratches.webp');
   }
 
 /* flip down shingle menu/container */
