@@ -122,54 +122,55 @@
 # Dropdown webites added to website
 ## meta &amp; coursera
 
-	<ul>
-	  <li><a href="https://www.coursera.org/learn/responsivedesign/lecture/M1D8S/testing-existing-sites" target="_blank" rel="noopener noreferrer">U of Michigan - Advanced Styling with Reponsive Design</a></li>
-          <li><a href="https://github.com/bbauska/Coursera-Bootstrap" target="_blank" rel="noopener noreferrer">Coursera - Bootstrap 4 (Hong Kong) - wip</a></li>
-          <li><a href="https://github.com/bbauska/Coursera-React" target="_blank" rel="noopener noreferrer">Coursera - ReactJS (Hong Kong) - wip</a></li>
-          <li><a href="https://www.coursera.org/learn/front-end-react/home/week/1" target="_blank" rel="noopener noreferrer">Learn Front-End Web Development with React
-            The Hong Kong University of Science and Technology</a></li>
-          <li><a href="https://github.com/bbauska/meta-html-css-in-depth/edit/main/index.html/" target="_blank" rel="noopener noreferrer">Meta/Coursera - HTML &amp; CSS in Depth - wip</a></li>
-          <li><a href="https://github.com/bbauska/meta-react-basics" target="_blank" rel="noopener noreferrer">Meta/Coursera React Basics</a></li>
-          <li><a href="https://github.com/bbauska/meta-javascript" target="_blank" rel="noopener noreferrer">Meta/Coursera Programming with JavaScript</a></li>
-          <li><a href="https://github.com/bbauska/Meta-Front-End-Developer" target="_blank" rel="noopener noreferrer">Meta F-E Developer Certification Courses</a></li>
-          <li><a href="https://github.com/bbauska/TUMx-DWAPNx/" target="_blank" rel="noopener noreferrer">Web Appl'n Development with Node.js (Tech Univ of Munich) - wip</a></li>
-        </ul>
-	
+<ul>
+  <li><a href="https://www.coursera.org/learn/responsivedesign/lecture/M1D8S/testing-existing-sites" target="_blank" rel="noopener noreferrer">U of Michigan - Advanced Styling with Reponsive Design</a></li>
+  <li><a href="https://github.com/bbauska/Coursera-Bootstrap" target="_blank" rel="noopener noreferrer">Coursera - Bootstrap 4 (Hong Kong) - wip</a></li>
+  <li><a href="https://github.com/bbauska/Coursera-React" target="_blank" rel="noopener noreferrer">Coursera - ReactJS (Hong Kong) - wip</a></li>
+  <li><a href="https://www.coursera.org/learn/front-end-react/home/week/1" target="_blank" rel="noopener noreferrer">Learn Front-End Web Development with React
+  The Hong Kong University of Science and Technology</a></li>
+  <li><a href="https://github.com/bbauska/meta-html-css-in-depth/edit/main/index.html/" target="_blank" rel="noopener noreferrer">Meta/Coursera - HTML &amp; CSS in Depth - wip</a></li>
+  <li><a href="https://github.com/bbauska/meta-react-basics" target="_blank" rel="noopener noreferrer">Meta/Coursera React Basics</a></li>
+  <li><a href="https://github.com/bbauska/meta-javascript" target="_blank" rel="noopener noreferrer">Meta/Coursera Programming with JavaScript</a></li>
+  <li><a href="https://github.com/bbauska/Meta-Front-End-Developer" target="_blank" rel="noopener noreferrer">Meta F-E Developer Certification Courses</a></li>
+  <li><a href="https://github.com/bbauska/TUMx-DWAPNx/" target="_blank" rel="noopener noreferrer">Web Appl'n Development with Node.js (Tech Univ of Munich) - wip</a></li>
+</ul>
+    
 ## Tutorials
 
-        <ul>
-          <li><a href="https://https://web.dev/learn/css" target="_blank" rel="noopener noreferrer">CSS by WebDev</a></li>
-          <li><a href="https://www.youtube.com/watch?v=bMknfKXIFA8" target="_blank" rel="noopener noreferrer">React Course - Beginner's Tutorial for React JavaScript Library</a></li>
-          <li><a href="https://legacy.reactjs.org/community/courses.html" target="_blank" rel="noopener noreferrer">ReactJS Free Courses</a></li>
-          <li><a href="https://freefrontend.com/bootstrap-dropdowns/" target="_blank" rel="noopener noreferrer">Responsive Bootstrap Dropdown Templates</a></li>
-          <li><a href="#tutorials">Online Tutorials</a></li>
-          <li><a href="https://www.codeacademy.com/learn" target="_blank" rel="noopener noreferrer">Code Academy - Intermediate CSS &amp; MORE...</a></li>
-          <li><a href="#video-tutorials">Video Tutorials</a></li>
-          <li><a href="#computer-books">Computer Books</a></li>
-          <li><a href="#moocs">MOOCs for Learning Something New</a></li>
-        </ul>
+<ul>
+  <li><a href="https://https://web.dev/learn/css" target="_blank" rel="noopener noreferrer">CSS by WebDev</a></li>
+  <li><a href="https://www.youtube.com/watch?v=bMknfKXIFA8" target="_blank" rel="noopener noreferrer">React Course - Beginner's Tutorial for React JavaScript Library</a></li>
+  <li><a href="https://legacy.reactjs.org/community/courses.html" target="_blank" rel="noopener noreferrer">ReactJS Free Courses</a></li>
+  <li><a href="https://freefrontend.com/bootstrap-dropdowns/" target="_blank" rel="noopener noreferrer">Responsive Bootstrap Dropdown Templates</a></li>
+  <li><a href="#tutorials">Online Tutorials</a></li>
+  <li><a href="https://www.codeacademy.com/learn" target="_blank" rel="noopener noreferrer">Code Academy - Intermediate CSS &amp; MORE...</a></li>
+  <li><a href="#video-tutorials">Video Tutorials</a></li>
+  <li><a href="#computer-books">Computer Books</a></li>
+  <li><a href="#moocs">MOOCs for Learning Something New</a></li>
+</ul>
 
 ## Javascript Frameworks &amp; Libraries
-        <ul>
-          <li><a href="https://www.ecosia.org/videos?q=html%2Fcss%2Fjavascript%20carousel%20unlimited%20images" target="_blank" rel="noopener noreferrer">Infinite Image Carousel</a></li>
-          <li><a href="https://github.com/Asabeneh/30-Days-Of-JavaScript" target="_blank" rel="noopener noreferrer">30 days of JavaScript</a></li>
-          <li><a href="https://technostacks.com/blog/best-frontend-frameworks/" target="_blank" rel="noopener noreferrer">Best Front-end Frameworks</a></li>
-          <li><a href="https://www.creativebloq.com/design-tools/data-visualization-712402" target="_blank" rel="noopener noreferrer">Data Viz Design Tools</a></li>
-          <li><a href="https://hackernoon.com/tagged/react-top-story" target="_blank" rel="noopener noreferrer">React Top Story</a></li>
-          <li><a href="https://gokhale.me/10-beginner-mistakes-react-developers-do" target="_blank" rel="noopener noreferrer">10 Beginner's Mistakes JS React</a></li>
-        </ul>
+
+<ul>
+  <li><a href="https://www.ecosia.org/videos?q=html%2Fcss%2Fjavascript%20carousel%20unlimited%20images" target="_blank" rel="noopener noreferrer">Infinite Image Carousel</a></li>
+  <li><a href="https://github.com/Asabeneh/30-Days-Of-JavaScript" target="_blank" rel="noopener noreferrer">30 days of JavaScript</a></li>
+  <li><a href="https://technostacks.com/blog/best-frontend-frameworks/" target="_blank" rel="noopener noreferrer">Best Front-end Frameworks</a></li>
+  <li><a href="https://www.creativebloq.com/design-tools/data-visualization-712402" target="_blank" rel="noopener noreferrer">Data Viz Design Tools</a></li>
+  <li><a href="https://hackernoon.com/tagged/react-top-story" target="_blank" rel="noopener noreferrer">React Top Story</a></li>
+  <li><a href="https://gokhale.me/10-beginner-mistakes-react-developers-do" target="_blank" rel="noopener noreferrer">10 Beginner's Mistakes JS React</a></li>
+</ul>
 
 ## W3Cx &amp; IBM
 
-	<ul>
-          <li><a href="https://github.com/bbauska/ibm-intermediate-web-dev/blob/main/index.html" target="_blank" rel="noopener noreferrer">IBM/Github Intermediate Web &amp; Front-end Development</a></li>
-          <li><a href="https://w3cx-1of5.bauska.org/" target="_blank" rel="noopener noreferrer">W3Cx-1of5-CSS.0x</a></li>
-          <li><a href="https://github.com/bbauska/W3Cx-2of5" target="_blank" rel="noopener noreferrer">Github - W3Cx-2of5-HTML5.0x</a></li>
-          <li><a href="https://github.com/bbauska/W3Cx-3of5" target="_blank" rel="noopener noreferrer">Github - W3Cx-3of5-HTML5.1x</a></li>
-          <li><a href="https://w3cx-4of5.bauska.org/" target="_blank" rel="noopener noreferrer">W3Cx-4of5-HTML5.2x</a></li>
-          <li><a href="https://w3cx-5of5.bauska.org/" target="_blank" rel="noopener noreferrer">W3Cx-5of5-JS.0x</a></li>
-        </ul>
-	
+<ul>
+  <li><a href="https://github.com/bbauska/ibm-intermediate-web-dev/blob/main/index.html" target="_blank" rel="noopener noreferrer">IBM/Github Intermediate Web &amp; Front-end Development</a></li>
+  <li><a href="https://w3cx-1of5.bauska.org/" target="_blank" rel="noopener noreferrer">W3Cx-1of5-CSS.0x</a></li>
+  <li><a href="https://github.com/bbauska/W3Cx-2of5" target="_blank" rel="noopener noreferrer">Github - W3Cx-2of5-HTML5.0x</a></li>
+  <li><a href="https://github.com/bbauska/W3Cx-3of5" target="_blank" rel="noopener noreferrer">Github - W3Cx-3of5-HTML5.1x</a></li>
+  <li><a href="https://w3cx-4of5.bauska.org/" target="_blank" rel="noopener noreferrer">W3Cx-4of5-HTML5.2x</a></li>
+  <li><a href="https://w3cx-5of5.bauska.org/" target="_blank" rel="noopener noreferrer">W3Cx-5of5-JS.0x</a></li>
+</ul>
+    
 ## Support
 
 <ul>
