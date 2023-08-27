@@ -121,7 +121,8 @@
 
 # Dropdown webites added to website
 ## meta &amp; coursera
-        <ul>
+
+	<ul>
 	  <li><a href="https://www.coursera.org/learn/responsivedesign/lecture/M1D8S/testing-existing-sites" target="_blank" rel="noopener noreferrer">U of Michigan - Advanced Styling with Reponsive Design</a></li>
           <li><a href="https://github.com/bbauska/Coursera-Bootstrap" target="_blank" rel="noopener noreferrer">Coursera - Bootstrap 4 (Hong Kong) - wip</a></li>
           <li><a href="https://github.com/bbauska/Coursera-React" target="_blank" rel="noopener noreferrer">Coursera - ReactJS (Hong Kong) - wip</a></li>
@@ -133,7 +134,9 @@
           <li><a href="https://github.com/bbauska/Meta-Front-End-Developer" target="_blank" rel="noopener noreferrer">Meta F-E Developer Certification Courses</a></li>
           <li><a href="https://github.com/bbauska/TUMx-DWAPNx/" target="_blank" rel="noopener noreferrer">Web Appl'n Development with Node.js (Tech Univ of Munich) - wip</a></li>
         </ul>
+	
 ## Tutorials
+
         <ul>
           <li><a href="https://https://web.dev/learn/css" target="_blank" rel="noopener noreferrer">CSS by WebDev</a></li>
           <li><a href="https://www.youtube.com/watch?v=bMknfKXIFA8" target="_blank" rel="noopener noreferrer">React Course - Beginner's Tutorial for React JavaScript Library</a></li>
@@ -145,6 +148,7 @@
           <li><a href="#computer-books">Computer Books</a></li>
           <li><a href="#moocs">MOOCs for Learning Something New</a></li>
         </ul>
+
 ## Javascript Frameworks &amp; Libraries
         <ul>
           <li><a href="https://www.ecosia.org/videos?q=html%2Fcss%2Fjavascript%20carousel%20unlimited%20images" target="_blank" rel="noopener noreferrer">Infinite Image Carousel</a></li>
@@ -154,8 +158,10 @@
           <li><a href="https://hackernoon.com/tagged/react-top-story" target="_blank" rel="noopener noreferrer">React Top Story</a></li>
           <li><a href="https://gokhale.me/10-beginner-mistakes-react-developers-do" target="_blank" rel="noopener noreferrer">10 Beginner's Mistakes JS React</a></li>
         </ul>
+
 ## W3Cx &amp; IBM
-        <ul>
+
+	<ul>
           <li><a href="https://github.com/bbauska/ibm-intermediate-web-dev/blob/main/index.html" target="_blank" rel="noopener noreferrer">IBM/Github Intermediate Web &amp; Front-end Development</a></li>
           <li><a href="https://w3cx-1of5.bauska.org/" target="_blank" rel="noopener noreferrer">W3Cx-1of5-CSS.0x</a></li>
           <li><a href="https://github.com/bbauska/W3Cx-2of5" target="_blank" rel="noopener noreferrer">Github - W3Cx-2of5-HTML5.0x</a></li>
@@ -163,24 +169,28 @@
           <li><a href="https://w3cx-4of5.bauska.org/" target="_blank" rel="noopener noreferrer">W3Cx-4of5-HTML5.2x</a></li>
           <li><a href="https://w3cx-5of5.bauska.org/" target="_blank" rel="noopener noreferrer">W3Cx-5of5-JS.0x</a></li>
         </ul>
+	
 ## Support
-        <ul>
-          <li><a href="https://www.w3schools.com/tryit/tryit.asp?filename=tryhtml_hello" target="_blank" rel="noopener noreferrer">Try It!</a></li>
-          <li><a href="https://pagespeed.web.dev/analysis/https-cellardoor-bauska-org/je5p0c4qz2?form_factor=desktop" target="_blank" rel="noopener noreferrer">Pagespeed Insights</a></li>
-          <li><a href="https://bfotool.com/website-download-online" target="_blank" rel="noopener noreferrer">BF Tools - Download website - testing tools</a></li>
-          <li><a href="https://validator.w3.org/nu/" target="_blank" rel="noopener noreferrer">Nu HTML Checker</a></li>
-          <li><a href="https://jsfiddle.net/brianbauska/5juwcvza/8/" target="_blank" rel="noopener noreferrer">JS Fiddle Test HTML &amp; CSS</a></li>
-          <li><a href="https://codepen.io/alas/pen/mwaddv" target="_blank" rel="noopener noreferrer">CodePen</a></li>
-          <li><a href="https://www.w3docs.com/tools/code-editor/10181" target="_blank" rel="noopener noreferrer">W3Docs: Test HTML</a></li>
-          <li><a href="https://www.unminify.com" target="_blank" rel="noopener noreferrer">Unminify CSS or JS</a></li>
-	</ul>
+
+<ul>
+  <li><a href="https://www.w3schools.com/tryit/tryit.asp?filename=tryhtml_hello" target="_blank" rel="noopener noreferrer">Try It!</a></li>
+  <li><a href="https://pagespeed.web.dev/analysis/https-cellardoor-bauska-org/je5p0c4qz2?form_factor=desktop" target="_blank" rel="noopener noreferrer">Pagespeed Insights</a></li>
+  <li><a href="https://bfotool.com/website-download-online" target="_blank" rel="noopener noreferrer">BF Tools - Download website - testing tools</a></li>
+  <li><a href="https://validator.w3.org/nu/" target="_blank" rel="noopener noreferrer">Nu HTML Checker</a></li>
+  <li><a href="https://jsfiddle.net/brianbauska/5juwcvza/8/" target="_blank" rel="noopener noreferrer">JS Fiddle Test HTML &amp; CSS</a></li>
+  <li><a href="https://codepen.io/alas/pen/mwaddv" target="_blank" rel="noopener noreferrer">CodePen</a></li>
+  <li><a href="https://www.w3docs.com/tools/code-editor/10181" target="_blank" rel="noopener noreferrer">W3Docs: Test HTML</a></li>
+  <li><a href="https://www.unminify.com" target="_blank" rel="noopener noreferrer">Unminify CSS or JS</a></li>
+</ul>
+
 ## git &amp; Resources
-        <ul>
-          <li><a href="https://github.com/bbauska/bbauska" target="_blank" rel="noopener noreferrer">github bbauska</a></li>
-          <li><a href="https://github.com/bbauska/sayhello" target="_blank" rel="noopener noreferrer">Say Hello bbauska</a></li>
-          <li><a href="https://www.supermonitoring.com/blog/free-html-and-css-templates/" target="_blank" rel="noopener noreferrer">HTML &amp; CSS Templates</a></li>
-          <li><a href="http://web-platform-tests.org/" target="_blank" rel="noopener noreferrer">W3Cx Web Platform Tests</a></li>
-          <li><a href="https://github.com/bbauska/design-resources-for-developers" target="_blank" rel="noopener noreferrer">Design Resources</a></li>
-          <li><a href="https://dash.cloudflare.com/3acee6f6f58909a84295ef00f79e3361" target="_blank" rel="noopener noreferrer">Cloudflare Login</a></li>
-        </ul>
+
+<ul>
+  <li><a href="https://github.com/bbauska/bbauska" target="_blank" rel="noopener noreferrer">github bbauska</a></li>
+  <li><a href="https://github.com/bbauska/sayhello" target="_blank" rel="noopener noreferrer">Say Hello bbauska</a></li>
+  <li><a href="https://www.supermonitoring.com/blog/free-html-and-css-templates/" target="_blank" rel="noopener noreferrer">HTML &amp; CSS Templates</a></li>
+  <li><a href="http://web-platform-tests.org/" target="_blank" rel="noopener noreferrer">W3Cx Web Platform Tests</a></li>
+  <li><a href="https://github.com/bbauska/design-resources-for-developers" target="_blank" rel="noopener noreferrer">Design Resources</a></li>
+  <li><a href="https://dash.cloudflare.com/3acee6f6f58909a84295ef00f79e3361" target="_blank" rel="noopener noreferrer">Cloudflare Login</a></li>
+</ul>
 
