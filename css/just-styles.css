@@ -40,7 +40,7 @@ html, body {
 /* flip down shingle menu/container */
   #container {
     position: relative;
-    width: 952px;  /* menu width 705px - 6 columns */
+    width: 752px;  /* menu width 705px - 6 columns */
   }
   #container:after {
     content: "";
@@ -65,7 +65,7 @@ html, body {
     position: relative;
     border-right: 1px solid rgba(0,0,0,.1);
     box-shadow: 1px 0 0 rgba(255,255,255,.25);
-    perspective: 952px;  /* 1370,1340px, 1400px */
+    perspective: 1400px;  /* 1370,1340px, 1400px */
   }
   #menu > li:first-child {
     border-left: 1px solid rgba(255,255,255,.25);
@@ -95,7 +95,7 @@ html, body {
     position: absolute;
     left: 0;
     z-index: 1;
-    width: 170px;  /* drop down width each */
+    width: 200px;  /* drop down width each */
     padding: 0;
     opacity: 0;
     visibility: hidden;
