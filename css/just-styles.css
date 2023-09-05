@@ -95,7 +95,7 @@ html, body {
     position: absolute;
     left: 0;
     z-index: 1;
-    width: 200px;  /* 200px */
+    width: 170px;  /* drop down width each */
     padding: 0;
     opacity: 0;
     visibility: hidden;
