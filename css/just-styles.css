@@ -87,7 +87,7 @@ html, body {
     transition: all .25s ease-in-out;
   }
   #menu > li:hover > a {
-    background: #333;
+    background: #333;  /* very dark gray */
     color: rgba(0,223,252,1);  /* cyan */
     text-shadow: none;
   }
@@ -176,7 +176,7 @@ html, body {
     width: 15em;
     line-height:120%;
     background-color: #eee; /* very light gray */
-    color: 000;
+    color: 000;  /* black */
     border: none;
     box-shadow: 3px 3px 4px #000000;  /* black */
     cursor: pointer;
