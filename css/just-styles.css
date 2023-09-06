@@ -37,10 +37,10 @@ html, body {
     background: url('./images/dust_scratches.webp');
   }
 
-/* flip down shingle menu/container */
+/* flip/drop down shingle menu/container */
   #container {
     position: relative;
-    width: 752px;  /* menu width 705px - 6 columns */
+    width: 705px;  /* menu width 705px - 6 columns */
   }
   #container:after {
     content: "";
@@ -95,7 +95,7 @@ html, body {
     position: absolute;
     left: 0;
     z-index: 1;
-    width: 200px;  /* drop down width each */
+    width: 240px;  /* drop down width each 200px */
     padding: 0;
     opacity: 0;
     visibility: hidden;
