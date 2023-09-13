@@ -38,7 +38,7 @@ I interviewed with 5-6 companies and from my experience here is the list of topi
 |Trie|Prim's Algorithm|| Inode
 |Suffix Tree| Divide & Conqure and DP| | |
 
-#### But Vicky, I would be applying for position specific internship. Where is my list?
+#### But Brian, I would be applying for position specific internship. Where is my list?
 
 Here you go!
 
