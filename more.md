@@ -1,14 +1,13 @@
-# The Ultimate Internship Guide
+# More guide
 
 =============================================
 
-<i>Originally published at [EulerCoder Blog](http://eulercoder.me)</i>
+<!-- <i>Originally published at [EulerCoder Blog](http://eulercoder.me)</i> -->
 
 =============================================
 
-### Donate ($1) - Help me in creating more awesome open source projects
-
-[<img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg">](https://www.paypal.me/vikeshtiwari/1)
+<!-- ### Donate ($1) - Help me in creating more awesome open source projects -->
+<!-- [<img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg">](https://www.paypal.me/vikeshtiwari/1) -->
 
 ---
 
@@ -59,7 +58,7 @@ I'm not listing here very basic stuffs like Working with Ubuntu, Curl and telnet
 
 **Note:** You don't need to do know everything mentioned in the table above. Algorithm and Data structure are very important to crack any interview so you should spent most of the time learning and practicing problems. 
 
-#### Vicky, That's huge list! Are there any good resources available?
+#### Hey Brian, that's huge list! Are there any good resources available?
 
 Yes! All the useful websites, PDFs and article links are mentioned at the end of the post. 
 
@@ -70,7 +69,7 @@ Getting shortlisted for the interviews is the toughest part and for that your re
 - **College**
 - **Projects**
 
-	Yes, before applying for an internship make sure that you have some good quality projects to mention in your resume. Upload your code on <a href="https://github.com/vicky002" target="_blank">Github</a>, make it open source and add links to code in your resume. If you're searching for project ideas, I have a list of <a href="https://github.com/vicky002/1000_Projects" target="_blank">more than 500 projects</a>. 		
+	Yes, before applying for an internship make sure that you have some good quality projects to mention in your resume. Upload your code on <a href="https://github.com/bbauska" target="_blank">Github</a>, make it open source and add links to code in your resume. If you're searching for project ideas, I have a list of <a href="https://github.com/bbauska/cellardoor" target="_blank">more than 500 projects</a>. 		
 - **Open Source Contributions**
 	
 	Search for good projects to <a href="https://github.com/explore" target="_blank">contribute on Github</a> improve documentation and fix bugs and do some enhancements. Companies really love it! If you don't have a good GPA then projects and open source contributions really add value to your resume.	 		
@@ -116,9 +115,9 @@ Your resume should have following sections.
 
 	You'll be applying to US based companies so don't forget to add this line. 
 
-This is my latest resume (Oct'16), have a look at it once. You can use <a href="https://github.com/vicky002/Resume/blob/master/res.cls" target="_blank">cls code</a> to create similar resume.  
+<!-- This is my latest resume (Oct'16), have a look at it once. You can use <a href="https://github.com/bbauska/Resume/blob/master/res.cls" target="_blank">cls code</a> to create similar resume.  -->
 
-<img src="https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/Resume.png">
+<!-- <img src="https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/Resume.png"> -->
 
 Once you created your resume, proofread it 2-3 times. Ask your friends and employees to go through your resume and finally post your resume <a href="https://www.reddit.com/r/resumes/" target="_blank">here</a>. This subreddit is awesome and people are very helpful. It'll be brutal but they'll critique your resume brilliantly. 
 
@@ -129,7 +128,7 @@ Now you have a very good resume and you know all basics of CS. The time has come
 
 ### This is the right time!
 
-Yes! This is December and Internship process for the next summer has just started. I have already created a sheet for you! Open <a href="https://docs.google.com/spreadsheets/d/1-0M50QEHjB64WhdcMFDlAbp4atND8QrlWJwKkfpNJ2k/edit?usp=sharing" target="_blank">this sheet</a> and make a copy for yourself. Edit companies as per your preferences. 
+Yes! This is October (or Sept) and Internship process for the next summer has just started. I have already created a sheet for you! Open <a href="https://docs.google.com/spreadsheets/d/1-0M50QEHjB64WhdcMFDlAbp4atND8QrlWJwKkfpNJ2k/edit?usp=sharing" target="_blank">this sheet</a> and make a copy for yourself. Edit companies as per your preferences. 
 
 Apply everywhere! Don't think that you don't have a perfect resume, just visit their career website or <a href="https://www.linkedin.com/vsearch/j?keywords=Internship&title=Internship&sb=Jobs%20for%20Internship%20titles&trk=tyah&trkInfo=clickedVertical%3Asuggestion%2CclickedEntityId%3A166%2Cidx%3A1-1-1%2CtarId%3A1457835727447%2Ctas%3Ainternship%20" target="_blank">LinkedIn internship posts</a> and fill the form. I applied to <a href="http://eulercoder.me/2016/02/27/My-internship-interview-experience-with-Amazon-LinkedIn-BrowserStack-Mozilla-and-Slack/" target="_blank">more than 20 companies this year</a>. 
 
