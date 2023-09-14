@@ -1,3 +1,4 @@
+/* just-styles.css for cellardoor.bauska.org */
     /* default styles here for older browsers. 
        I tend to go for a 600px - 960px width max but using percentages
     */
@@ -6,7 +7,7 @@
     }
     @media only screen and (min-width: 1440px) {
         /* styles for browsers larger than 1440px; */
-	/* just-styles.css for cellardoor.bauska.org */
+/* just-styles.css for cellardoor.bauska.org */
 /* horizontal line */
   hr { 
     display: block;
@@ -760,7 +761,6 @@ html, body {
     color: #800080;  /* dark magenta */
     background-color: 000;  /* black */
   }
-
 
     }
     @media only screen and (device-width: 768px) {
