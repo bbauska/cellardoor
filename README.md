@@ -1,7 +1,8 @@
-<!-- display the social media buttons in your README -->
 ---
 cellardoor: Complete list of 'todos', libraries &amp; frameworks
 ---
+
+<!-- display the social media buttons in your README -->
 
 <h2>CodePen Example</h2>
 <h2>JSFiddle</h2>
