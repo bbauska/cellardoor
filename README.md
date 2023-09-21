@@ -1,6 +1,7 @@
 <!-- display the social media buttons in your README -->
-<h3>newpipe</h3>
-<p>Replacement (open-source) application for YouTube.</p>
+---
+cellardoor: Complete list of 'todos', libraries &amp; frameworks
+---
 
 <h2>CodePen Example</h2>
 <h2>JSFiddle</h2>
