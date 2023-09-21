@@ -1,6 +1,12 @@
 <!-- display the social media buttons in your README -->
+<h3>newpipe</h3>
+<p>Replacement (open-source) application for YouTube.</p>
 
 <h2>CodePen Example</h2>
+<h2>JSFiddle</h2>
+<h2><a href="https://meiert.com/en/blog/html-content-categories/">HTML</a></h2>
+<h2>newpipe - Replacement (open-source) application for YouTube.</h2>
+
 
 <!-- <link rel="apple-touch-icon" type="image/png" href="https://cpwebassets.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png" /> -->
 <!--    <meta name="apple-mobile-web-app-title" content="CodePen"> -->
