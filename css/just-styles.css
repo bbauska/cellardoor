@@ -7,28 +7,23 @@
 @media only screen and (max-width: 600px) {
   .example {background: red;}
 }
-
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
   .example {background: green;}
 }
-
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
   .example {background: blue;}
 } 
-
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
   .example {background: orange;}
 } 
-
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
   .example {background: pink;}
 }
 /* end background example */
-
 /* horizontal line */
   hr { 
     display: block;
@@ -567,131 +562,131 @@ html, body {
 
 /* social buttons wrapper, button, icon and 'a' */
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: 'Poppins', sans-serif;
-}
-.wrapper .button{
-  display: inline-block;
-  height: 60px;
-  width: 60px;
-  float: left;
-  margin: 0 5px;
-  overflow: hidden;
-  background: #fff;
-  border-radius: 50px;
-  cursor: pointer;
-  box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
-  transition: all 0.4s ease-out;
-}
-.wrapper .button:hover{
-  width: 200px;
-}
-.wrapper .button .icon{
-  display: inline-block;
-  height: 60px;
-  width: 60px;
-  text-align: center;
-  border-radius: 50px;
-  box-sizing: border-box;
-  line-height: 60px;
-  transition: all 0.3s ease-out;
-}
-.wrapper .button .icon i{
-  font-size: 25px;
-  line-height: 60px;
-  transition: all 0.3s ease-out;
-}
-.wrapper .button .icon a{
-  font-size: 25px;
-  line-height: 60px;
-  transition: all 0.3s ease-out;
-}
-.wrapper .button:hover .icon i{
-  color: #fff;
-}
-.wrapper .button:hover .icon a{
-  color: #fff;
-}
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+  }
+  .wrapper .button{
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    float: left;
+    margin: 0 5px;
+    overflow: hidden;
+    background: #fff;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
+    transition: all 0.4s ease-out;
+  }
+  .wrapper .button:hover{
+    width: 200px;
+  }
+  .wrapper .button .icon{
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    border-radius: 50px;
+    box-sizing: border-box;
+    line-height: 60px;
+    transition: all 0.3s ease-out;
+  }
+  .wrapper .button .icon i{
+    font-size: 25px;
+    line-height: 60px;
+    transition: all 0.3s ease-out;
+  }
+  .wrapper .button .icon a{
+    font-size: 25px;
+    line-height: 60px;
+    transition: all 0.3s ease-out;
+  }
+  .wrapper .button:hover .icon i{
+    color: #fff;
+  }
+  .wrapper .button:hover .icon a{
+    color: #fff;
+  }
 
-.wrapper .button:nth-child:hover(1) .icon{
-  background: #4267B2;  /* dark moderate blue */
-}
-.wrapper .button:nth-child(1):hover .icon{
-  background: #4267B2;  /* dark moderate blue */
-}
-.wrapper .button:nth-child(2):hover .icon{
-  background: #1da1f2;  /* vivid blue */
-}
-.wrapper .button:nth-child(3):hover .icon{
-  background: #ff0000;  /* pure red */
-}
-.wrapper .button:nth-child(4):hover .icon{
-  background: #0077b5;  /* strong blue */
-}
-.wrapper .button:nth-child(5):hover .icon{
-  background: #fffc00;  /* dark yellow */
-}
-.wrapper .button:nth-child(6):hover .icon{
-  background: #171515;  /* very dark red */
-}
-.wrapper .button:nth-child(7):hover .icon{
-  background: #b92b27;  /* strong red */
-}
-.wrapper .button:nth-child(8):hover .icon{
-  background: #ff9900;  /* pure orange */
-}
-.wrapper .button:nth-child(9):hover .icon{
-  background: #037d50;  /* dark green */
-}
-.wrapper .button .icon a{
-  font-size: 25px;
-  line-height: 60px;
-  transition: all 0.3s ease-out;
-}
-.wrapper .button:hover .icon a{
-  color: #fff;
-}
-.wrapper .button span{
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 60px;
-  margin-left: 10px;
-  transition: all 0.3s ease-out;
-}
-.wrapper .button:nth-child(1) span{
-  color: #4267b2;  /* facebook */
-}
-.wrapper .button:nth-child(2) span{
-  color: #1da1f2;  /* twitter */
-}
-.wrapper .button:nth-child(3) span{
-  color: #b2071d;  /* youtube */
-}
-.wrapper .button:nth-child(4) span{
-  color: #0077b5;  /* linkedin */
-}
-.wrapper .button:nth-child(5) span{
-  color: #bfa600;  /* snapchat */
-}
-.wrapper .button:nth-child(6) span{
-  color: #171515;  /* github */
-}
-.wrapper .button:nth-child(7) span{
-  color: #b92b27;  /* quora */
-}
-.wrapper .button:nth-child(8) span{
-  color: #ff9900;  /* amazon */
-}
-.wrapper .button:nth-child(9) span{
-  color: #037d50;  /* e-mail */
-}
-    }
-    @media only screen and (max-device-width: 480px) {
-       /* styles for mobile browsers smaller than 480px; (iPhone) */
-/* horizontal line */
+  .wrapper .button:nth-child:hover(1) .icon{
+    background: #4267b2;  /* dark moderate blue */
+  }
+  .wrapper .button:nth-child(1):hover .icon{
+    background: #4267b2;  /* dark moderate blue */
+  }
+  .wrapper .button:nth-child(2):hover .icon{
+    background: #1da1f2;  /* vivid blue */
+  }
+  .wrapper .button:nth-child(3):hover .icon{
+    background: #ff0000;  /* pure red */
+  }
+  .wrapper .button:nth-child(4):hover .icon{
+    background: #0077b5;  /* strong blue */
+  }
+  .wrapper .button:nth-child(5):hover .icon{
+    background: #fffc00;  /* dark yellow */
+  }
+  .wrapper .button:nth-child(6):hover .icon{
+    background: #171515;  /* very dark red */
+  }
+  .wrapper .button:nth-child(7):hover .icon{
+    background: #b92b27;  /* strong red */
+  }
+  .wrapper .button:nth-child(8):hover .icon{
+    background: #ff9900;  /* pure orange */
+  }
+  .wrapper .button:nth-child(9):hover .icon{
+    background: #037d50;  /* dark green */
+  }
+  .wrapper .button .icon a{
+    font-size: 25px;
+    line-height: 60px;
+    transition: all 0.3s ease-out;
+  }
+  .wrapper .button:hover .icon a{
+    color: #fff;
+  }
+  .wrapper .button span{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 60px;
+    margin-left: 10px;
+    transition: all 0.3s ease-out;
+  }
+  .wrapper .button:nth-child(1) span{
+    color: #4267b2;  /* facebook */
+  }
+  .wrapper .button:nth-child(2) span{
+    color: #1da1f2;  /* twitter */
+  }
+  .wrapper .button:nth-child(3) span{
+    color: #b2071d;  /* youtube */
+  }
+  .wrapper .button:nth-child(4) span{
+    color: #0077b5;  /* linkedin */
+  }
+  .wrapper .button:nth-child(5) span{
+    color: #bfa600;  /* snapchat */
+  }
+  .wrapper .button:nth-child(6) span{
+    color: #171515;  /* github */
+  }
+  .wrapper .button:nth-child(7) span{
+    color: #b92b27;  /* quora */
+  }
+  .wrapper .button:nth-child(8) span{
+    color: #ff9900;  /* amazon */
+  }
+  .wrapper .button:nth-child(9) span{
+    color: #037d50;  /* e-mail */
+  }
+
+@media only screen and (max-device-width: 480px) {
+  /* styles for mobile browsers smaller than 480px; (iPhone) */
+  /* horizontal line */
   hr { 
     display: block;
     width: 50%;
@@ -706,7 +701,7 @@ html, body {
     height: 2px;
   }
 
-/* unordered list styles */
+  /* unordered list styles */
   ul.list-styles {
     list-style-type: circle;
     margin-left: 20px;
@@ -719,8 +714,8 @@ html, body {
     list-style-type: disc;
     margin-left: 20px;
   }
-/* body */
-html, body {
+  /* body */
+  html, body {
     background-attachment: fixed;
     background-size: cover;
     min-height: 100%;
@@ -728,7 +723,7 @@ html, body {
     font-family: 'Poppins', Inter, Bahnschrift, "Helvetica Neue", helvetica, arial, sans-serif; 
     background: url('./images/dust_scratches.webp');
   }
-/* pictures (images) */
+  /* pictures (images) */
   img {
     display: block;
     margin-left: auto;
@@ -743,8 +738,7 @@ html, body {
     border-color: #778899;  /* dark grayish blue */
     border-style: solid; 
   }
-
-/* summary & details */
+  /* summary & details */
   details {
     font-size: 12.5px;
     font-family: Inter, Bahnschrift, Calibri, sans-serif;
@@ -782,16 +776,15 @@ html, body {
     color: #800080;  /* dark magenta */
     background-color: 000;  /* black */
   }
-
-    }
-    @media only screen and (device-width: 768px) {
-       /* default iPad screens */
-    }
+}  /* media only screen and (max-device-width: 480px) */
+  @media only screen and (device-width: 768px) {
+    /* default iPad screens */
+  }
     /* different techniques for iPad screening */
-    @media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait) {
-      /* For portrait layouts only */
-    }
+  @media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait) {
+    /* For portrait layouts only */
+  }
 
-    @media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape) {
-      /* For landscape layouts only */
-    }
+  @media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape) {
+    /* For landscape layouts only */
+  }
