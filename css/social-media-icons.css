@@ -83,25 +83,40 @@ html,body{
 .wrapper .facebook:hover span,
 .wrapper .facebook:hover .tooltip,
 .wrapper .facebook:hover .tooltip:before{
-  background: #3B5999;
+  background: #17a9fd;
 }
 .wrapper .twitter:hover span,
 .wrapper .twitter:hover .tooltip,
 .wrapper .twitter:hover .tooltip:before{
-  background: #46C1F6;
-}
-.wrapper .instagram:hover span,
-.wrapper .instagram:hover .tooltip,
-.wrapper .instagram:hover .tooltip:before{
-  background: #e1306c;
-}
-.wrapper .github:hover span,
-.wrapper .github:hover .tooltip,
-.wrapper .github:hover .tooltip:before{
-  background: #333;
+  background: #1da1f2;
 }
 .wrapper .youtube:hover span,
 .wrapper .youtube:hover .tooltip,
 .wrapper .youtube:hover .tooltip:before{
-  background: #DE463B;
+  background: #ff0000;
+}
+.wrapper .linkedin:hover span,
+.wrapper .linkedin:hover .tooltip,
+.wrapper .linkedin:hover .tooltip:before{
+  background: #0866c2;
+}
+.wrapper .snapchat:hover span,
+.wrapper .snapchat:hover .tooltip,
+.wrapper .snapchat:hover .tooltip:before{
+  background: #fffc00;
+}
+.wrapper .github:hover span,
+.wrapper .github:hover .tooltip,
+.wrapper .github:hover .tooltip:before{
+  background: #600644;
+}
+.wrapper .quora:hover span,
+.wrapper .quora:hover .tooltip,
+.wrapper .quora:hover .tooltip:before{
+  background: #b92b27;
+}
+.wrapper .email:hover span,
+.wrapper .email:hover .tooltip,
+.wrapper .email:hover .tooltip:before{
+  background: #013220;
 }
