@@ -83,7 +83,7 @@ html,body{
 .wrapper .facebook:hover span,
 .wrapper .facebook:hover .tooltip,
 .wrapper .facebook:hover .tooltip:before{
-  background: #17a9fd;
+  background: #0165e1;
 }
 .wrapper .twitter:hover span,
 .wrapper .twitter:hover .tooltip,
@@ -98,7 +98,7 @@ html,body{
 .wrapper .linkedin:hover span,
 .wrapper .linkedin:hover .tooltip,
 .wrapper .linkedin:hover .tooltip:before{
-  background: #0866c2;
+  background: #0077b5;
 }
 .wrapper .snapchat:hover span,
 .wrapper .snapchat:hover .tooltip,
@@ -108,7 +108,7 @@ html,body{
 .wrapper .github:hover span,
 .wrapper .github:hover .tooltip,
 .wrapper .github:hover .tooltip:before{
-  background: #600644;
+  background: #000000;
 }
 .wrapper .quora:hover span,
 .wrapper .quora:hover .tooltip,
@@ -118,5 +118,5 @@ html,body{
 .wrapper .email:hover span,
 .wrapper .email:hover .tooltip,
 .wrapper .email:hover .tooltip:before{
-  background: #013220;
+  background: #037d50;
 }
