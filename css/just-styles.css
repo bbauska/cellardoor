@@ -52,6 +52,7 @@
     list-style-type: disc;
     margin-left: 20px;
   }
+
 /* body */
 html, body {
     background-attachment: fixed;
@@ -280,33 +281,36 @@ html, body {
   color: #fff;
 }
 .wrapper .button:nth-child:hover(1) .icon{
-  background: #4267B2;  /* dark moderate blue */
+  background: #4267B2;
 }
 .wrapper .button:nth-child(1):hover .icon{
-  background: #4267B2;  /* dark moderate blue */
+  background: #4267b2;  /* dark moderate blue */
 }
 .wrapper .button:nth-child(2):hover .icon{
-  background: #1da1f2;  /* vivid blue */
+  background: #b2071d;  /* dark red */
 }
 .wrapper .button:nth-child(3):hover .icon{
-  background: #ff0000;  /* pure red */
+  background: #1da1f2;  /* vivid blue */
 }
 .wrapper .button:nth-child(4):hover .icon{
-  background: #0077b5;  /* strong blue */
+  background: #bfa600;  /* strong yellow */
 }
 .wrapper .button:nth-child(5):hover .icon{
-  background: #fffc00;  /* dark yellow */
-}
-.wrapper .button:nth-child(6):hover .icon{
   background: #171515;  /* very dark red */
 }
+.wrapper .button:nth-child(6):hover .icon{
+  background: #0ebeff;  /* spiro disco ball */
+}
 .wrapper .button:nth-child(7):hover .icon{
-  background: #b92b27;  /* strong red */
+  background: #0077b5;  /* strong blue */
 }
 .wrapper .button:nth-child(8):hover .icon{
-  background: #ff9900;  /* pure orange */
+  background: #b92b27;  /* strong red */
 }
 .wrapper .button:nth-child(9):hover .icon{
+  background: #ff9900;  /* pure orange */
+}
+.wrapper .button:nth-child(10):hover .icon{
   background: #037d50;  /* dark green */
 }
 .wrapper .button .icon a{
@@ -328,27 +332,30 @@ html, body {
   color: #4267b2;  /* facebook */
 }
 .wrapper .button:nth-child(2) span{
-  color: #1da1f2;  /* twitter */
-}
-.wrapper .button:nth-child(3) span{
   color: #b2071d;  /* youtube */
 }
-.wrapper .button:nth-child(4) span{
-  color: #0077b5;  /* linkedin */
+.wrapper .button:nth-child(3) span{
+  color: #1da1f2;  /* twitter */
 }
-.wrapper .button:nth-child(5) span{
+.wrapper .button:nth-child(4) span{
   color: #bfa600;  /* snapchat */
 }
-.wrapper .button:nth-child(6) span{
+.wrapper .button:nth-child(5) span{
   color: #171515;  /* github */
 }
+.wrapper .button:nth-child(6) span{
+  color: #bfa600;  /* codepen */
+}
 .wrapper .button:nth-child(7) span{
-  color: #b92b27;  /* quora */
+  color: #0077b5;  /* linkedin */
 }
 .wrapper .button:nth-child(8) span{
-  color: #ff9900;  /* amazon */
+  color: #b92b27;  /* quora */
 }
 .wrapper .button:nth-child(9) span{
+  color: #ff9900;  /* amazon */
+}
+.wrapper .button:nth-child(10) span{
   color: #037d50;  /* e-mail */
 }
     }
@@ -383,306 +390,6 @@ html, body {
     list-style-type: disc;
     margin-left: 20px;
   }
-/* body */
-html, body {
-    background-attachment: fixed;
-    background-size: cover;
-    min-height: 100%;
-    padding: 30px; 
-    font-family: 'Poppins', Inter, Bahnschrift, "Helvetica Neue", helvetica, arial, sans-serif; 
-    background: url('./images/dust_scratches.webp');
-  }
-
-/* flip/drop down shingle menu/container */
-  #container {
-    position: relative;
-    width: 735px;  /* menu width 705px - 6 columns */
-  }
-  #container:after {
-    content: "";
-    display: block;
-    clear: both;
-    height: 0;
-  }
-  #menu {
-    position: relative;
-    float: left;
-    width: 100%;
-    padding: 0 20px;
-    border-radius: 3px;
-    box-shadow: inset 0 1px 1px rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.15), 0 1px 3px rgba(0,0,0,.15);
-    background: #ccc;  /* light gray */
-  }
-  #menu, #menu ul {
-    list-style: none;
-  }
-  #menu > li {
-    float: left;
-    position: relative;
-    border-right: 1px solid rgba(0,0,0,.1);
-    box-shadow: 1px 0 0 rgba(255,255,255,.25);
-    perspective: 1400px;  /* 1370,1340px, 1400px */
-  }
-  #menu > li:first-child {
-    border-left: 1px solid rgba(255,255,255,.25);
-    box-shadow: -1px 0 0 rgba(0,0,0,.1), 1px 0 0 rgba(255,255,255,.25);
-  }
-  #menu a {
-    display: block;
-    position: relative;
-    z-index: 10;
-    padding: 13px 20px 13px 20px;
-    text-decoration: none;
-    color: rgba(75,75,75,1);  /* very dark gray */
-    line-height: 1;
-    font-weight: 600;
-    font-size: 12px;
-    letter-spacing: -.05em;
-    background: transparent;		
-    text-shadow: 0 1px 1px rgba(255,255,255,.9);  /* white */
-    transition: all .25s ease-in-out;
-  }
-  #menu > li:hover > a {
-    background: #333;  /* very dark gray */
-    color: rgba(0,223,252,1);  /* cyan */
-    text-shadow: none;
-  }
-  #menu li ul  {
-    position: absolute;
-    left: 0;
-    z-index: 1;
-    width: 240px;  /* drop down width each 200px */
-    padding: 0;
-    opacity: 0;
-    visibility: hidden;
-    border-bottom-left-radius: 4px;
-    border-bottom-right-radius: 4px;
-    background: transparent;
-    overflow: hidden;
-    transform-origin: 50% 0%;
-  }
-  #menu li:hover ul {
-    padding: 15px 0;
-    background: #333;  /* very dark gray */
-    opacity: 1;
-    visibility: visible;
-    box-shadow: 1px 1px 7px rgba(0,0,0,.5);   /* black */
-    animation-name: swingdown;
-    animation-duration: 1s;
-    animation-timing-function: ease;
-  }
-  @keyframes swingdown {
-    0% {
-    opacity: .99999;
-    transform: rotateX(90deg);
-  }
-    30% {			
-    transform: rotateX(-20deg) rotateY(5deg);
-      animation-timing-function: ease-in-out;
-  }
-    65% {
-    transform: rotateX(20deg) rotateY(-3deg);
-      animation-timing-function: ease-in-out;
-  }
-    100% {
-    transform: rotateX(0);
-      animation-timing-function: ease-in-out;
-    }
-  }
-  #menu li li a {
-    padding-left: 15px;
-    font-weight: 700;  /* 400 */
-    color: #ddd;  /* very light gray */
-    text-shadow: none;
-    border-top: dotted 1px transparent;
-    border-bottom: dotted 1px transparent;
-    transition: all .15s linear;
-  }
-  #menu li li a:hover {
-    color: rgba(0,223,252,1);  /* cyan */
-    border-top: dotted 1px rgba(255,255,255,.15);
-    border-bottom: dotted 1px rgba(255,255,255,.15);
-    background: rgba(0,223,252,.02);  /* cyan */
-  }
-
-/* pictures (images) */
-  img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto; 
-  }
-  .displayed {
-    display: block;
-    margin: 0 auto; 
-  }
-  .border {
-    border-width: 1px;
-    border-color: #778899;  /* dark grayish blue */
-    border-style: solid; 
-  }
-
-/* summary & details */
-  details {
-    font-size: 12.5px;
-    font-family: Inter, Bahnschrift, Calibri, sans-serif;
-    width: 920px;
-  }
-  details > summary {
-    padding: 2px 6px;
-    width: 15em;
-    line-height:120%;
-    background-color: #eee; /* very light gray */
-    color: 000;  /* black */
-    border: none;
-    box-shadow: 3px 3px 4px #000000;  /* black */
-    cursor: pointer;
-  }
-  ul li {
-    line-height:160%;
-  }
-  details > p {
-    border-radius: 0 0 5px 5px;  /* 0 0 10 10 */
-    background-color: #ffffff;  /* white */
-    padding: 2px 6px;
-    margin: 0;
-    box-shadow: 3px 3px 4px #800080;  /* dark magenta */
-  }
-  details > ul {
-    border-radius: 0 0 5px 5px;
-    background-color: #ffffff;  /* white */
-    padding: 2px 6px;
-    margin: 0;
-    color: #800080;  /* dark magenta */
-    box-shadow: 3px 3px 4px #00008b;  /* d blue */
-  }
-  details[open] > summary {
-    color: #800080;  /* dark magenta */
-    background-color: 000;  /* black */
-  }
-
-/* social buttons wrapper, button, icon and 'a' */
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
-  *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
-  }
-  .wrapper .button{
-    display: inline-block;
-    height: 60px;
-    width: 60px;
-    float: left;
-    margin: 0 5px;
-    overflow: hidden;
-    background: #fff;
-    border-radius: 50px;
-    cursor: pointer;
-    box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
-    transition: all 0.4s ease-out;
-  }
-  .wrapper .button:hover{
-    width: 200px;
-  }
-  .wrapper .button .icon{
-    display: inline-block;
-    height: 60px;
-    width: 60px;
-    text-align: center;
-    border-radius: 50px;
-    box-sizing: border-box;
-    line-height: 60px;
-    transition: all 0.3s ease-out;
-  }
-  .wrapper .button .icon i{
-    font-size: 25px;
-    line-height: 60px;
-    transition: all 0.3s ease-out;
-  }
-  .wrapper .button .icon a{
-    font-size: 25px;
-    line-height: 60px;
-    transition: all 0.3s ease-out;
-  }
-  .wrapper .button:hover .icon i{
-    color: #fff;
-  }
-  .wrapper .button:hover .icon a{
-    color: #fff;
-  }
-
-  .wrapper .button:nth-child:hover(1) .icon{
-    background: #4267b2;  /* dark moderate blue */
-  }
-  .wrapper .button:nth-child(1):hover .icon{
-    background: #4267b2;  /* dark moderate blue */
-  }
-  .wrapper .button:nth-child(2):hover .icon{
-    background: #1da1f2;  /* vivid blue */
-  }
-  .wrapper .button:nth-child(3):hover .icon{
-    background: #ff0000;  /* pure red */
-  }
-  .wrapper .button:nth-child(4):hover .icon{
-    background: #0077b5;  /* strong blue */
-  }
-  .wrapper .button:nth-child(5):hover .icon{
-    background: #fffc00;  /* dark yellow */
-  }
-  .wrapper .button:nth-child(6):hover .icon{
-    background: #171515;  /* very dark red */
-  }
-  .wrapper .button:nth-child(7):hover .icon{
-    background: #b92b27;  /* strong red */
-  }
-  .wrapper .button:nth-child(8):hover .icon{
-    background: #ff9900;  /* pure orange */
-  }
-  .wrapper .button:nth-child(9):hover .icon{
-    background: #037d50;  /* dark green */
-  }
-  .wrapper .button .icon a{
-    font-size: 25px;
-    line-height: 60px;
-    transition: all 0.3s ease-out;
-  }
-  .wrapper .button:hover .icon a{
-    color: #fff;
-  }
-  .wrapper .button span{
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 60px;
-    margin-left: 10px;
-    transition: all 0.3s ease-out;
-  }
-  .wrapper .button:nth-child(1) span{
-    color: #4267b2;  /* facebook */
-  }
-  .wrapper .button:nth-child(2) span{
-    color: #1da1f2;  /* twitter */
-  }
-  .wrapper .button:nth-child(3) span{
-    color: #b2071d;  /* youtube */
-  }
-  .wrapper .button:nth-child(4) span{
-    color: #0077b5;  /* linkedin */
-  }
-  .wrapper .button:nth-child(5) span{
-    color: #bfa600;  /* snapchat */
-  }
-  .wrapper .button:nth-child(6) span{
-    color: #171515;  /* github */
-  }
-  .wrapper .button:nth-child(7) span{
-    color: #b92b27;  /* quora */
-  }
-  .wrapper .button:nth-child(8) span{
-    color: #ff9900;  /* amazon */
-  }
-  .wrapper .button:nth-child(9) span{
-    color: #037d50;  /* e-mail */
-  }
 
 @media only screen and (max-device-width: 480px) {
   /* styles for mobile browsers smaller than 480px; (iPhone) */
@@ -714,69 +421,8 @@ html, body {
     list-style-type: disc;
     margin-left: 20px;
   }
-  /* body */
-  html, body {
-    background-attachment: fixed;
-    background-size: cover;
-    min-height: 100%;
-    padding: 30px; 
-    font-family: 'Poppins', Inter, Bahnschrift, "Helvetica Neue", helvetica, arial, sans-serif; 
-    background: url('./images/dust_scratches.webp');
-  }
-  /* pictures (images) */
-  img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto; 
-  }
-  .displayed {
-    display: block;
-    margin: 0 auto; 
-  }
-  .border {
-    border-width: 1px;
-    border-color: #778899;  /* dark grayish blue */
-    border-style: solid; 
-  }
-  /* summary & details */
-  details {
-    font-size: 12.5px;
-    font-family: Inter, Bahnschrift, Calibri, sans-serif;
-    width: 920px;
-  }
-  details > summary {
-    padding: 2px 6px;
-    width: 15em;
-    line-height:120%;
-    background-color: #eee; /* very light gray */
-    color: 000;  /* black */
-    border: none;
-    box-shadow: 3px 3px 4px #000000;  /* black */
-    cursor: pointer;
-  }
-  ul li {
-    line-height:160%;
-  }
-  details > p {
-    border-radius: 0 0 5px 5px;  /* 0 0 10 10 */
-    background-color: #ffffff;  /* white */
-    padding: 2px 6px;
-    margin: 0;
-    box-shadow: 3px 3px 4px #800080;  /* dark magenta */
-  }
-  details > ul {
-    border-radius: 0 0 5px 5px;
-    background-color: #ffffff;  /* white */
-    padding: 2px 6px;
-    margin: 0;
-    color: #800080;  /* dark magenta */
-    box-shadow: 3px 3px 4px #00008b;  /* d blue */
-  }
-  details[open] > summary {
-    color: #800080;  /* dark magenta */
-    background-color: 000;  /* black */
-  }
-}  /* media only screen and (max-device-width: 480px) */
+}
+  /* media only screen and (max-device-width: 480px) */
   @media only screen and (device-width: 768px) {
     /* default iPad screens */
   }
