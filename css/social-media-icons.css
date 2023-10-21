@@ -131,3 +131,6 @@ html,body{
 .wrapper .email:hover .tooltip:before{
   background: #037d50;
 }
+.socialIcons {
+  text-align: center;
+}
