@@ -41,7 +41,7 @@ html,body{
 }
 .wrapper .icon span i{
   line-height: 60px;
-  font-size: 25px;
+  font-size: 35px;  /*25px */
 }
 .wrapper .icon .tooltip{
   position: absolute;
