@@ -256,6 +256,7 @@ html, body {
   text-decoration: none;  /* 10-21-23 */
 }
 .wrapper .button .icon{
+  color: fff;  /* white */
   display: inline-block;
   height: 60px;
   width: 60px;
@@ -276,7 +277,7 @@ html, body {
 }
 .wrapper .button:nth-child:hover(1) .icon{
   text-decoration: none;  /* 10-21-23 */
-  background: #4267B2;
+  background: #4267b2;
 }
 .wrapper .button:nth-child(1):hover .icon{
   text-decoration: none;  /* 10-21-23 */
