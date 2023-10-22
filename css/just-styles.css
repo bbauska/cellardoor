@@ -245,7 +245,7 @@ html, body {
   float: left;
   margin: 0 5px;
   overflow: hidden;
-  background: #fff;
+  background: #000;  /* fff - white */
   border-radius: 50px;
   cursor: pointer;
   box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
@@ -267,19 +267,21 @@ html, body {
 }
 .wrapper .button .icon i{
   font-size: 25px;
+  text-decoration: none;  /* 10-21-23 */
   line-height: 60px;
   transition: all 0.3s ease-out;
 }
 .wrapper .button .icon a{
   font-size: 25px;
+  text-decoration: none;  /* 10-21-23 */
   line-height: 60px;
   transition: all 0.3s ease-out;
 }
 .wrapper .button:hover .icon i{
-  color: #fff;
+  color: #999;  /* dark grey - fff white */
 }
 .wrapper .button:hover .icon a{
-  color: #fff;
+  color: #999;  /* fff white */
 }
 .wrapper .button:nth-child:hover(1) .icon{
   background: #4267B2;
