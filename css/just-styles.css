@@ -58,7 +58,7 @@ html, body {
     background-attachment: fixed;
     background-size: cover;
     min-height: 100%;
-    padding: 30px; 
+    padding: 30px;
     font-family: 'Poppins', Inter, Bahnschrift, "Helvetica Neue", helvetica, arial, sans-serif; 
     background: url('./images/dust_scratches.webp');
   }
@@ -194,7 +194,7 @@ html, body {
 /* summary & details */
   details {
     font-size: 12.5px;
-    font-family: Inter, Bahnschrift, Calibri, sans-serif;
+    font-family: Inter, Bahnschrift, Calibri, "Helvetica Neue", helvetica, arial, sans-serif;
     width: 920px;
   }
   details > summary {
@@ -236,7 +236,7 @@ html, body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', Inter, Bahnschrift, "Helvetica Neue", helvetica, arial, sans-serif; 
 }
 .wrapper .button{
   display: inline-block;
