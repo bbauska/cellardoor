@@ -245,7 +245,7 @@ html, body {
   float: left;
   margin: 0 5px;
   overflow: hidden;
-  background: #000;  /* fff - white */
+  background: #fff;  /* fff - white */
   border-radius: 50px;
   cursor: pointer;
   box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
@@ -253,6 +253,7 @@ html, body {
 }
 .wrapper .button:hover{
   width: 200px;
+  text-decoration: none;  /* 10-21-23 */
 }
 .wrapper .button .icon{
   display: inline-block;
@@ -265,63 +266,66 @@ html, body {
   line-height: 60px;
   transition: all 0.3s ease-out;
 }
-.wrapper .button .icon i{
-  font-size: 25px;
-  text-decoration: none;  /* 10-21-23 */
-  line-height: 60px;
-  transition: all 0.3s ease-out;
-}
-.wrapper .button .icon a{
-  font-size: 25px;
-  text-decoration: none;  /* 10-21-23 */
-  line-height: 60px;
-  transition: all 0.3s ease-out;
-}
 .wrapper .button:hover .icon i{
-  color: #999;  /* dark grey - fff white */
+  text-decoration: none;  /* 10-21-23 */
+  color: #fff;  /* dark grey - fff white */
 }
 .wrapper .button:hover .icon a{
-  color: #999;  /* fff white */
+  text-decoration: none;  /* 10-21-23 */
+  color: #fff;  /* fff white */
 }
 .wrapper .button:nth-child:hover(1) .icon{
+  text-decoration: none;  /* 10-21-23 */
   background: #4267B2;
 }
 .wrapper .button:nth-child(1):hover .icon{
+  text-decoration: none;  /* 10-21-23 */
   background: #4267b2;  /* dark moderate blue */
 }
 .wrapper .button:nth-child(2):hover .icon{
+  text-decoration: none;  /* 10-21-23 */
   background: #b2071d;  /* dark red */
 }
 .wrapper .button:nth-child(3):hover .icon{
+  text-decoration: none;  /* 10-21-23 */
   background: #1da1f2;  /* vivid blue */
 }
 .wrapper .button:nth-child(4):hover .icon{
+  text-decoration: none;  /* 10-21-23 */
   background: #bfa600;  /* strong yellow */
 }
 .wrapper .button:nth-child(5):hover .icon{
+  text-decoration: none;  /* 10-21-23 */
   background: #171515;  /* very dark red */
 }
 .wrapper .button:nth-child(6):hover .icon{
+  text-decoration: none;  /* 10-21-23 */
   background: #0ebeff;  /* spiro disco ball */
 }
 .wrapper .button:nth-child(7):hover .icon{
+  text-decoration: none;  /* 10-21-23 */
   background: #0077b5;  /* strong blue */
 }
 .wrapper .button:nth-child(8):hover .icon{
+  text-decoration: none;  /* 10-21-23 */
   background: #b92b27;  /* strong red */
 }
 .wrapper .button:nth-child(9):hover .icon{
+  text-decoration: none;  /* 10-21-23 */
   background: #ff9900;  /* pure orange */
 }
 .wrapper .button:nth-child(10):hover .icon{
+  text-decoration: none;  /* 10-21-23 */
   background: #037d50;  /* dark green */
 }
 .wrapper .button .icon a{
+  text-decoration: none;  /* 10-21-23 */
   font-size: 25px;
   line-height: 60px;
   transition: all 0.3s ease-out;
 }
 .wrapper .button:hover .icon a{
+  text-decoration: none;  /* 10-21-23 */
   color: #fff;
 }
 .wrapper .button span{
