@@ -270,11 +270,11 @@ html, body {
 }
 .wrapper .button:hover .icon i{
   text-decoration: none;  /* 10-21-23 */
-  color: #fff;  /* dark grey - fff white */
+  color: #ffffff;  /* dark grey - fff white */
 }
 .wrapper .button:hover .icon a{
   text-decoration: none;  /* 10-21-23 */
-  color: #fff;  /* fff white */
+  color: #ffffff;  /* fff white */
 }
 .wrapper .button:nth-child:hover(1) .icon{
   text-decoration: none;  /* 10-21-23 */
@@ -331,7 +331,7 @@ html, body {
   color: #fff;
 }
 .wrapper .button span{
-  font-size: 30px;  /* 20px */
+  font-size: 20px;  /* 20px */
   font-weight: 500;
   line-height: 60px;
   margin-left: 10px;
