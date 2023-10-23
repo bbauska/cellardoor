@@ -243,6 +243,7 @@ html, body {
   height: 60px;
   width: 60px;
   float: left;
+  text-decoration: none;  /* 10-21-23 */
   margin: 0 5px;
   overflow: hidden;
   background: #fff;  /* fff - white */
