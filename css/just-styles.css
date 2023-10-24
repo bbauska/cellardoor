@@ -54,14 +54,14 @@
   }
 
 /* body */
-html, body {
-    background-attachment: fixed;
-    background-size: cover;
-    min-height: 100%;
-    padding: 30px;
-    font-family: 'Poppins', Inter, Bahnschrift, "Helvetica Neue", helvetica, arial, sans-serif; 
-    background: url('./images/dust_scratches.webp');
-  }
+/* html, body {  */
+/*     background-attachment: fixed;  */
+/*     background-size: cover;  */
+/*     min-height: 100%;  */
+/*     padding: 30px;  */
+/*     font-family: 'Poppins', Inter, Bahnschrift, "Helvetica Neue", helvetica, arial, sans-serif;   */
+/*     background: url('./images/dust_scratches.webp');  */
+/*   }  */
 
 /* flip/drop down shingle menu/container */
   #container {
@@ -231,144 +231,141 @@ html, body {
   }
 
 /* social buttons wrapper, button, icon and 'a' */
+<!--    start --->
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Poppins', Inter, Bahnschrift, "Helvetica Neue", helvetica, arial, sans-serif; 
+  font-family: 'Poppins', sans-serif;
 }
-.wrapper .button{
-  display: inline-block;
-  height: 60px;
-  width: 60px;
-  float: left;
-  text-decoration: none;  /* 10-21-23 */
-  margin: 0 5px;
-  overflow: hidden;
-  background: #fff;  /* fff - white */
-  border-radius: 50px;
-  cursor: pointer;
-  box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
-  transition: all 0.4s ease-out;
+html,body{
+  display: grid;
+  height: 100%;
+  width: 100%;
+  place-items: center;
+  background: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
 }
-.wrapper .button:hover{
-  width: 200px;
-  text-decoration: none;  /* 10-21-23 */
+.wrapper{
+  display: inline-flex;
 }
-.wrapper .button .icon{
-  color: fff;  /* white */
-  display: inline-block;
-  height: 60px;
-  width: 60px;
+.wrapper .icon{
+  margin: 0 20px;
   text-align: center;
-  text-decoration: none;  /* 10-21-23 */
-  border-radius: 50px;
-  box-sizing: border-box;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: relative;
+  z-index: 2;
+  transition: 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+.wrapper .icon span{
+  display: block;
+  height: 60px;
+  width: 60px;
+  background: #fff;
+  border-radius: 50%;
+  position: relative;
+  z-index: 2;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
+  transition: 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+.wrapper .icon span i{
   line-height: 60px;
-  transition: all 0.3s ease-out;
+  font-size: 25px;
 }
-.wrapper .button:hover .icon i{
-  text-decoration: none;  /* 10-21-23 */
-  color: #ffffff;  /* dark grey - fff white */
+.wrapper .icon .tooltip{
+  position: absolute;
+  top: 0;
+  z-index: 1;
+  background: #fff;
+  color: #fff;
+  padding: 10px 18px;
+  font-size: 20px;
+  font-weight: 500;
+  border-radius: 25px;
+  opacity: 0;
+  pointer-events: none;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
+  transition: 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
-.wrapper .button:hover .icon a{
-  text-decoration: none;  /* 10-21-23 */
-  color: #ffffff;  /* fff white */
+.wrapper .icon:hover .tooltip{
+  top: -70px;
+  opacity: 1;
+  pointer-events: auto;
 }
-.wrapper .button:nth-child:hover(1) .icon{
-  text-decoration: none;  /* 10-21-23 */
-  background: #4267b2;  /* dark moderat4e blue */
+.icon .tooltip:before{
+  position: absolute;
+  content: "";
+  height: 15px;
+  width: 15px;
+  background: #fff;
+  left: 50%;
+  bottom: -6px;
+  transform: translateX(-50%) rotate(45deg);
+  transition: 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
-.wrapper .button:nth-child(1):hover .icon{
-  text-decoration: none;  /* 10-21-23 */
-  background: #4267b2;  /* dark moderate blue */
-}
-.wrapper .button:nth-child(2):hover .icon{
-  text-decoration: none;  /* 10-21-23 */
-  background: #b2071d;  /* dark red */
-}
-.wrapper .button:nth-child(3):hover .icon{
-  text-decoration: none;  /* 10-21-23 */
-  background: #1da1f2;  /* vivid blue */
-}
-.wrapper .button:nth-child(4):hover .icon{
-  text-decoration: none;  /* 10-21-23 */
-  background: #bfa600;  /* strong yellow */
-}
-.wrapper .button:nth-child(5):hover .icon{
-  text-decoration: none;  /* 10-21-23 */
-  background: #171515;  /* very dark red */
-}
-.wrapper .button:nth-child(6):hover .icon{
-  text-decoration: none;  /* 10-21-23 */
-  background: #0ebeff;  /* spiro disco ball */
-}
-.wrapper .button:nth-child(7):hover .icon{
-  text-decoration: none;  /* 10-21-23 */
-  background: #0077b5;  /* strong blue */
-}
-.wrapper .button:nth-child(8):hover .icon{
-  text-decoration: none;  /* 10-21-23 */
-  background: #b92b27;  /* strong red */
-}
-.wrapper .button:nth-child(9):hover .icon{
-  text-decoration: none;  /* 10-21-23 */
-  background: #ff9900;  /* pure orange */
-}
-.wrapper .button:nth-child(10):hover .icon{
-  text-decoration: none;  /* 10-21-23 */
-  background: #037d50;  /* dark green */
-}
-.wrapper .button .icon a{
-  text-decoration: none;  /* 10-21-23 */
-  font-size: 25px;  /* 25px */
-  line-height: 60px;
-  transition: all 0.3s ease-out;
-}
-.wrapper .button:hover .icon a{
-  text-decoration: none;  /* 10-21-23 */
+.wrapper .icon:hover span{
   color: #fff;
 }
-.wrapper .button span{
-  font-size: 20px;  /* 20px */
-  font-weight: 500;
-  line-height: 60px;
-  margin-left: 10px;
-  transition: all 0.3s ease-out;
+.wrapper .icon:hover span,
+.wrapper .icon:hover .tooltip{
+  text-shadow: 0px -1px 0px rgba(0,0,0,0.4);
 }
-.wrapper .button:nth-child(1) span{
-  color: #4267b2;  /* facebook */
+.wrapper .facebook:hover span,
+.wrapper .facebook:hover .tooltip,
+.wrapper .facebook:hover .tooltip:before{
+  background: #1877f2;  /* vivid blue */
 }
-.wrapper .button:nth-child(2) span{
-  color: #b2071d;  /* youtube */
+.wrapper .youtube:hover span,
+.wrapper .youtube:hover .tooltip,
+.wrapper .youtube:hover .tooltip:before{
+  background: #ff0000;  /* pure red */
 }
-.wrapper .button:nth-child(3) span{
-  color: #1da1f2;  /* twitter */
+.wrapper .twitter:hover span,
+.wrapper .twitter:hover .tooltip,
+.wrapper .twitter:hover .tooltip:before{
+  background: #1da1f2;  /* vivid blue, again */
 }
-.wrapper .button:nth-child(4) span{
-  color: #bfa600;  /* snapchat */
+.wrapper .snapchat:hover span,
+.wrapper .snapchat:hover .tooltip,
+.wrapper .snapchat:hover .tooltip:before{
+  background: #fffc00;  /* pure yellow */
 }
-.wrapper .button:nth-child(5) span{
-  color: #171515;  /* github */
+.wrapper .github:hover span,
+.wrapper .github:hover .tooltip,
+.wrapper .github:hover .tooltip:before{
+  background: #171515;  /* very dark (almost black) red */
 }
-.wrapper .button:nth-child(6) span{
-  color: #bfa600;  /* codepen */
+.wrapper .codepen:hover span,
+.wrapper .codepen:hover .tooltip,
+.wrapper .codepen:hover .tooltip:before{
+  background: #47cf73;  /* moderate cyan - lime green */
 }
-.wrapper .button:nth-child(7) span{
-  color: #0077b5;  /* linkedin */
+.wrapper .linkedin:hover span,
+.wrapper .linkedin:hover .tooltip,
+.wrapper .linkedin:hover .tooltip:before{
+  background: #0a66c2;  /* strong blue */
 }
-.wrapper .button:nth-child(8) span{
-  color: #b92b27;  /* quora */
+.wrapper .quora:hover span,
+.wrapper .quora:hover .tooltip,
+.wrapper .quora:hover .tooltip:before{
+  background: #aa2200;  /* dark red */
 }
-.wrapper .button:nth-child(9) span{
-  color: #ff9900;  /* amazon */
+.wrapper .amazon:hover span,
+.wrapper .amazon:hover .tooltip,
+.wrapper .amazon:hover .tooltip:before{
+  background: #ff9900;  /* pure orange */
 }
-.wrapper .button:nth-child(10) span{
-  color: #037d50;  /* e-mail */
+.wrapper .email:hover span,
+.wrapper .email:hover .tooltip,
+.wrapper .email:hover .tooltip:before{
+  background: #013220;  /* very dark (mostly black) cyan - lime green */
 }
-  }
-  @media only screen and (min-width: 2000px) {
+<!-- end -->
+@media only screen and (min-width: 2000px) {
   /* for sumo sized (mac) screens */
   /* horizontal line */
   hr { 
