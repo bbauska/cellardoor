@@ -246,6 +246,49 @@ html,body{
   place-items: center;
   background: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
 }
+<!-- added 10-24-23 -->
+.countdown {
+  font-size: 20px;  /* 20px */
+  text-align:center;
+}
+.styled{
+  margin-bottom: 90px;  /* 90 */
+}
+.styled div {
+  display: inline-block;
+  margin-left: 10px;
+  font-size: 60px;  /* 60px */
+  font-weight: normal; 
+  text-align: center;
+  margin: 0 25px;
+  width:  100px;  /* 100 */
+  padding: 30px;  /* 30px */
+  border-radius: 80px;  /* 80 */
+  background: rgba(255, 255, 255, 0.26);
+  height: 100px;   /* 100 */
+  background: none repeat scroll 0% 0% rgba(255, 255, 255, 0.15); 
+  text-shadow:none;
+  vertical-align: middle; 
+  border: 1px solid rgba(255, 255, 255, 0.76);
+}
+/* IE7 inline-block hack */
+*+html .styled div{
+  display: inline;
+  zoom: 1;
+}
+.styled div:first-child {
+  margin-left: 0;
+}
+.styled div span {
+  display: block;
+  border-top: 1px solid #cecece;
+  padding-top: 3px;
+  font-size: 19px;  /* 19 */
+  font-weight: normal; 
+  text-align: center;
+}
+<!-- end added 10-24-23 -->
+
 .wrapper{
   display: inline-flex;
 }
