@@ -212,6 +212,9 @@ html, body {
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+.wrapper{
+  display: inline-flex;
+}
 .wrapper .button{
   display: inline-block;
   height: 60px;
