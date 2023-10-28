@@ -215,118 +215,117 @@ html, body {
 .wrapper{
   display: inline-flex;
 }
-.wrapper .button{
-  display: inline-block;
-  height: 60px;
-  width: 60px;
-  float: left;
-  margin: 0 5px;
-  overflow: hidden;
-  background: #fff;
-  border-radius: 50px;
-  cursor: pointer;
-  box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
-  transition: all 0.4s ease-out;
-}
-.wrapper .button:hover{
-  width: 200px;
-}
-.wrapper .button .icon{
-  display: inline-block;
-  height: 60px;
-  width: 60px;
+.wrapper .icon{
+  margin: 0 20px;
   text-align: center;
-  border-radius: 50px;
-  box-sizing: border-box;
-  line-height: 60px;
-  transition: all 0.3s ease-out;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: relative;
+  z-index: 2;
+  transition: 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
-.wrapper .button .icon i{
+.wrapper .icon span{
+  display: block;
+  height: 60px;
+  width: 60px;
+  background: #fff;
+  border-radius: 50%;
+  position: relative;
+  z-index: 2;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
+  transition: 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+.wrapper .icon span i{
+  line-height: 60px;
   font-size: 25px;
-  line-height: 60px;
-  transition: all 0.3s ease-out;
 }
-.wrapper .button .icon a{
-  font-size: 25px;
-  line-height: 60px;
-  transition: all 0.3s ease-out;
-}
-.wrapper .button:hover .icon i{
+.wrapper .icon .tooltip{
+  position: absolute;
+  top: 0;
+  z-index: 1;
+  background: #fff;
   color: #fff;
-}
-.wrapper .button:hover .icon a{
-  color: #fff;
-}
-
-.wrapper .button:nth-child:hover(1) .icon{
-  background: #4267B2;  /* dark moderate blue */
-}
-.wrapper .button:nth-child(1):hover .icon{
-  background: #4267B2;  /* dark moderate blue */
-}
-.wrapper .button:nth-child(2):hover .icon{
-  background: #1da1f2;  /* vivid blue */
-}
-.wrapper .button:nth-child(3):hover .icon{
-  background: #ff0000;  /* pure red */
-}
-.wrapper .button:nth-child(4):hover .icon{
-  background: #0077b5;  /* strong blue */
-}
-.wrapper .button:nth-child(5):hover .icon{
-  background: #fffc00;  /* dark yellow */
-}
-.wrapper .button:nth-child(6):hover .icon{
-  background: #171515;  /* very dark red */
-}
-.wrapper .button:nth-child(7):hover .icon{
-  background: #b92b27;  /* strong red */
-}
-.wrapper .button:nth-child(8):hover .icon{
-  background: #ff9900;  /* pure orange */
-}
-.wrapper .button:nth-child(9):hover .icon{
-  background: #037d50;  /* dark green */
-}
-.wrapper .button .icon a{
-  font-size: 25px;
-  line-height: 60px;
-  transition: all 0.3s ease-out;
-}
-.wrapper .button:hover .icon a{
-  color: #fff;
-}
-.wrapper .button span{
+  padding: 10px 18px;
   font-size: 20px;
   font-weight: 500;
-  line-height: 60px;
-  margin-left: 10px;
-  transition: all 0.3s ease-out;
+  border-radius: 25px;
+  opacity: 0;
+  pointer-events: none;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
+  transition: 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
-.wrapper .button:nth-child(1) span{
-  color: #4267b2;  /* facebook */
+.wrapper .icon:hover .tooltip{
+  top: -70px;
+  opacity: 1;
+  pointer-events: auto;
 }
-.wrapper .button:nth-child(2) span{
-  color: #1da1f2;  /* twitter */
+.icon .tooltip:before{
+  position: absolute;
+  content: "";
+  height: 15px;
+  width: 15px;
+  background: #fff;
+  left: 50%;
+  bottom: -6px;
+  transform: translateX(-50%) rotate(45deg);
+  transition: 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
-.wrapper .button:nth-child(3) span{
-  color: #b2071d;  /* youtube */
+.wrapper .icon:hover span{
+  color: #fff;
 }
-.wrapper .button:nth-child(4) span{
-  color: #0077b5;  /* linkedin */
+.wrapper .icon:hover span,
+.wrapper .icon:hover .tooltip{
+  text-shadow: 0px -1px 0px rgba(0,0,0,0.4);
 }
-.wrapper .button:nth-child(5) span{
-  color: #bfa600;  /* snapchat */
+.wrapper .facebook:hover span,
+.wrapper .facebook:hover .tooltip,
+.wrapper .facebook:hover .tooltip:before{
+  background: #1877f2;  /* vivid blue */
 }
-.wrapper .button:nth-child(6) span{
-  color: #171515;  /* github */
+.wrapper .youtube:hover span,
+.wrapper .youtube:hover .tooltip,
+.wrapper .youtube:hover .tooltip:before{
+  background: #ff0000;  /* pure red */
 }
-.wrapper .button:nth-child(7) span{
-  color: #b92b27;  /* quora */
+.wrapper .twitter:hover span,
+.wrapper .twitter:hover .tooltip,
+.wrapper .twitter:hover .tooltip:before{
+  background: #1da1f2;  /* vivid blue */
 }
-.wrapper .button:nth-child(8) span{
-  color: #ff9900;  /* amazon */
+.wrapper .snapchat:hover span,
+.wrapper .snapchat:hover .tooltip,
+.wrapper .snapchat:hover .tooltip:before{
+  background: #fffc00;  /* pure yellow */
 }
-.wrapper .button:nth-child(9) span{
-  color: #037d50;  /* e-mail */
+.wrapper .github:hover span,
+.wrapper .github:hover .tooltip,
+.wrapper .github:hover .tooltip:before{
+  background: #171515;  /* very dark (mostly black) red */
 }
+.wrapper .codepen:hover span,
+.wrapper .codepen:hover .tooltip,
+.wrapper .codepen:hover .tooltip:before{
+  background: #47cf73;  /* moderate cyan - lime green */
+}
+.wrapper .linkedin:hover span,
+.wrapper .linkedin:hover .tooltip,
+.wrapper .linkedin:hover .tooltip:before{
+  background: #0077b5;  /* strong blue */
+}
+.wrapper .quora:hover span,
+.wrapper .quora:hover .tooltip,
+.wrapper .quora:hover .tooltip:before{
+  background: #aa2200;  /* dark red */
+}
+.wrapper .amazon:hover span,
+.wrapper .amazon:hover .tooltip,
+.wrapper .amazon:hover .tooltip:before{
+  background: #ff9900;  /* pure (or mostly pure) orange */
+}
+.wrapper .email:hover span,
+.wrapper .email:hover .tooltip,
+.wrapper .email:hover .tooltip:before{
+  background: #228b22;  /* dark lime green */
