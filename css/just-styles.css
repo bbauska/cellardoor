@@ -1,8 +1,5 @@
 /* just-styles.css for cellardoor.bauska.org */
 /* horizontal line */
-
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
-
   hr { 
     display: block;
     width: 50%;
@@ -207,14 +204,27 @@ html, body {
     background-color: 000;  /* black */
   }
 
-/* social buttons wrapper, button, icon and 'a' */
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
-*{
+  // added from html
+    div.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: #d3d3d3;  /* light gray */
+    padding: 0px;
+    font-size: 20px;
+  }
+
+ @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+
+/* social buttons wrapper, button, icon and 'a' */
+
 .wrapper{
   display: inline-flex;
 }
@@ -265,6 +275,7 @@ html, body {
   opacity: 1;
   pointer-events: auto;
 }
+
 .icon .tooltip:before{
   position: absolute;
   content: "";
@@ -332,3 +343,4 @@ html, body {
 .wrapper .email:hover .tooltip,
 .wrapper .email:hover .tooltip:before{
   background: #228b22;  /* dark lime green */
+}
