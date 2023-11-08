@@ -344,5 +344,5 @@ html, body {
 .wrapper .email:hover span,
 .wrapper .email:hover .tooltip,
 .wrapper .email:hover .tooltip:before{
-  background: #228b22;  /* dark lime green */
+  background: #90ee90;  /* 228b22 dark lime green */
 }
