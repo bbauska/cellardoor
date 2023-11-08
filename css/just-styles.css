@@ -34,13 +34,14 @@ html, body {
     min-height: 100%;
     padding: 30px; 
     font-family: 'Poppins', Inter, Bahnschrift, "Helvetica Neue", helvetica, arial, sans-serif; 
-    background: url('./images/dust_scratches.webp');
+    background: url('./images/skyscraper.webp');
   }
 
 /* flip/drop down shingle menu/container */
   #container {
     position: relative;
-    width: 735px;  /* menu width 705px - 6 columns */
+/*    width: 735px;  menu width 705px - 6 columns */
+    width: 1300px;  /* menu width - 10 columns */
   }
   #container:after {
     content: "";
