@@ -41,7 +41,7 @@ html, body {
   #container {
     position: relative;
 /*    width: 735px;  menu width 705px - 6 columns */
-    width: 690px;  /* menu width - 675 - 6 columns */
+    width: 725px;  /* menu width - 675 - 6 columns */
 /* add 1px for each char in menu title name */
   }
   #container:after {
