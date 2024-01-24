@@ -1,5 +1,5 @@
 ---
-cellardoor: Complete list of 'todos', libraries &amp; frameworks
+cellardoor: Complete list of 'todos', libraries & frameworks
 ---
 
 <!-- display the social media buttons in your README -->
