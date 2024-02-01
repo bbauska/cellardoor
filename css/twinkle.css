@@ -37,10 +37,10 @@
 
 .background-container{
 	position: fixed;
-	top: 0;
+	top: 100;
 	left:0;
 	bottom: 0;
-	right: 0;
+	right: 100;
 }
 
 .stars {
@@ -91,9 +91,10 @@
   animation:move-background 150s linear infinite;
 }
 img{
-  height: 70vh;
-  width:70vh;
+  height:30vh;
+  width:30vh;
   position: absolute;
   z-index: 3;
   right: 20px;
+  top: 20px;
 }
