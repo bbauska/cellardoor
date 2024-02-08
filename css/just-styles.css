@@ -40,7 +40,7 @@ html, body {
 /* flip/drop down shingle menu/container */
   #container {
     position: relative;
-    width: 795px;  /* menu width - 675 - 6 columns */
+    width: 815px;  /* menu width - 675 - 6 columns */
   }
   #container:after {
     content: "";
