@@ -18,7 +18,9 @@ cellardoor: Complete list of 'todos', libraries & frameworks
 
 <h3><a href="https://validator.w3.org/nu/" target="_blank" rel="noopener noreferrer">Nu HTML Checker</a></h3>
 
-##### Take a refresher course through IBM Cognos BI/Analytics.
+<hr>
+
+<h3>Take a refresher course through IBM Cognos BI/Analytics</h3>
 
 <h3><a href="https://www.ibm.com/docs/en/cognos-analytics/11.1.0?topic=manuals" target="_blank" rel="noopener noreferrer">IBM Cognos Analytics v11.1.x manuals</a>
 
