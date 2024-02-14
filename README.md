@@ -34,22 +34,6 @@ cellardoor: Complete list of 'todos', libraries & frameworks
 </ul>
   
 <a href="https://www.designhill.com/interactive-guide/famous-logos-hidden-meanings/" target="_blank"rel=" noopener noreferrer"><img src="https://cdn1.designhill.com/assets/dh/images/infographic/content/bmw.jpg?ver=2.12.30" alt="Famous Logos - BMW" width="300px" height="300px" /> </a>
-<h4><a href="
-
-<h4><a href="
-
-<h4><a href="
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
