@@ -5,39 +5,35 @@ cellardoor: Complete list of 'todos', libraries & frameworks
 <!-- display the social media buttons in your README -->
 
 <h2>CodePen Example</h2>
+
 <h2>JSFiddle</h2>
-<h2><a href="https://meiert.com/en/blog/html-content-categories/">HTML</a></h2>
+
+<h2><a href="https://meiert.com/en/blog/html-content-categories/" target="_blank" rel="noopener noreferrer">HTML</a></h2>
+
 <h2>newpipe - Replacement (open-source) application for YouTube.</h2>
-
-
-<!-- <link rel="apple-touch-icon" type="image/png" href="https://cpwebassets.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png" /> -->
-<!--    <meta name="apple-mobile-web-app-title" content="CodePen"> -->
-<!--    <link rel="shortcut icon" type="image/x-icon" href="https://cpwebassets.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico" /> -->
-<!--    <link rel="mask-icon" type="image/x-icon" href="https://cpwebassets.codepen.io/assets/favicon/logo-pin-b4b4269c16397ad2f0f7a01bcdf513a1994f4c94b8af2f191c09eb0d601762b1.svg" color="#111" /> -->
-<!--    <script src="https://cpwebassets.codepen.io/assets/common/stopExecutionOnTimeout-2c7831bb44f98c1391d6a4ffda0e1fd302503391ca806e7fcc7b9b87197aec26.js"></script> -->
-<!--  <title>CodePen - The difference between start and flex-start, end and flex-end (direction: ltr)</title> -->
-<!--    <link rel="canonical" href="https://codepen.io/rachelandrew/pen/KKmazZR"> -->
-<!-- testing above -->
 
 <h3>Data Analyst Career Guide and Interview Preparation</h3>
 
-<h5><a href="https://www.ibm.com/blogs/ibm-training/prepare-for-your-next-data-analyst-job-interview-with-the-ibm-data-analyst-career-guide-and-interview-preparation-course-on-coursera-org/" target="_blank">IBM Skills Network w/Coursera</a>.</h5>
+<h5><a href="https://www.ibm.com/blogs/ibm-training/prepare-for-your-next-data-analyst-job-interview-with-the-ibm-data-analyst-career-guide-and-interview-preparation-course-on-coursera-org/" target="_blank" rel="noopener noreferrer">IBM Skills Network w/Coursera</a>.</h5>
 
-<h3><a href="https://validator.w3.org/nu/" target="_blank">Nu HTML Checker</a></h3>
+<h3><a href="https://validator.w3.org/nu/" target="_blank" rel="noopener noreferrer">Nu HTML Checker</a></h3>
 
 ##### Take a refresher course through IBM Cognos BI/Analytics.
 
-<h3><a href="https://www.ibm.com/docs/en/cognos-analytics/11.1.0?topic=manuals" target="_blank">IBM Cognos Analytics v11.1.x manuals</a>
+<h3><a href="https://www.ibm.com/docs/en/cognos-analytics/11.1.0?topic=manuals" target="_blank" rel="noopener noreferrer">IBM Cognos Analytics v11.1.x manuals</a>
+
 <ul>
-<li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ca_gtstd.pdf" target="_blank">Getting Started</a></li>
-
-<li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ug_ca_dshb.pdf" target="_blank">Dashboards and Stories</a></li>
-
-<li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ca_explorations.pdf" target="_blank">Explorations</a></li>
-
-<li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ug_cr_rptstd.pdf" target="_blank">Reporting</a></li>
+  <li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ca_gtstd.pdf" target="_blank" rel="noopener noreferrer">
+    Getting Started</a></li>
+  <li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ug_ca_dshb.pdf" target="_blank" rel="noopener noreferrer">
+    Dashboards and Stories</a></li>
+  <li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ca_explorations.pdf" target="_blank" rel="noopener noreferrer">
+    Explorations</a></li>
+  <li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ug_cr_rptstd.pdf" target="_blank"rel="noopener noreferrer">
+    Reporting</a></li>
 </ul>
-<a href="https://www.designhill.com/interactive-guide/famous-logos-hidden-meanings/" target="_blank"><img src="https://cdn1.designhill.com/assets/dh/images/infographic/content/bmw.jpg?ver=2.12.30" alt="Famous Logos - BMW" width="300px" height="300px" /> </a>
+  
+<a href="https://www.designhill.com/interactive-guide/famous-logos-hidden-meanings/" target="_blank"rel=" noopener noreferrer"><img src="https://cdn1.designhill.com/assets/dh/images/infographic/content/bmw.jpg?ver=2.12.30" alt="Famous Logos - BMW" width="300px" height="300px" /> </a>
 <h4><a href="
 
 <h4><a href="
