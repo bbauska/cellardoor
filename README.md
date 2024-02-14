@@ -29,7 +29,7 @@ cellardoor: Complete list of 'todos', libraries & frameworks
     Dashboards and Stories</a></li>
   <li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ca_explorations.pdf" target="_blank" rel="noopener noreferrer">
     Explorations</a></li>
-  <li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ug_cr_rptstd.pdf" target="_blank"rel="noopener noreferrer">
+  <li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ug_cr_rptstd.pdf" target="_blank" rel="noopener noreferrer">
     Reporting</a></li>
 </ul>
   
