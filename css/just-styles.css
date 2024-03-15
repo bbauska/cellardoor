@@ -4,7 +4,7 @@
 /* horizontal line */
   hr { 
     display: block;
-    width: 50%;
+    width: 100%;  /* 50% */
     margin-top: 0.5em;
     margin-bottom: 0.5em;
     margin-left: 25px;
