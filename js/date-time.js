@@ -1,8 +1,8 @@
 // cross browser date-time.
-//Tue May 23 2023 9:34 am
+// Tue May 23 2023 9:34 am
 console.log(formatAMPM(new Date()));
 
-//using your function (passing in date)
+// using your function (passing in date)
 function formatAMPM(date) {
     // gets the hours
     var hours = date.getHours();
