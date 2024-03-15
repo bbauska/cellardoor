@@ -1,4 +1,6 @@
 /* just-styles.css for cellardoor.bauska.org */
+ @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+
 /* horizontal line */
   hr { 
     display: block;
@@ -215,7 +217,7 @@ html, body {
     font-size: 20px;
   }
 
- @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+/* removed @import from here - moved to top of just-styles.css */
 
 * {
   margin: 0;
