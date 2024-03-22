@@ -179,7 +179,7 @@ html, body {
     width: 15em;
     line-height:120%;
     background-color: #eee; /* very light gray */
-    color: 000;  /* black */
+    color: #000;  /* black */
     border: none;
     box-shadow: 3px 3px 4px #000000;  /* black */
     cursor: pointer;
@@ -204,7 +204,7 @@ html, body {
   }
   details[open] > summary {
     color: #800080;  /* dark magenta */
-    background-color: 000;  /* black */
+    background-color: #000;  /* black */
   }
 
   // added from html
