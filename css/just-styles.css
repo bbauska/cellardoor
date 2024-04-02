@@ -204,7 +204,7 @@ html, body {
   }
   details[open] > summary {
     color: #800080;  /* dark magenta */
-    background-color: #000;  /* black */
+    background-color: #eeeeee;  /* light gray */
   }
 
   // added from html
