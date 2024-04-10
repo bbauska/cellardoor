@@ -217,19 +217,7 @@ html, body {
     font-size: 20px;
   }
 
-/* removed @import from here - moved to top of just-styles.css */
-
-/*  
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: 'Poppins', sans-serif;
-}
-*/
-
 /* social buttons wrapper, button, icon and 'a' */
-
 .wrapper{
   display: inline-flex;
 }
