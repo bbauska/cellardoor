@@ -1,4 +1,9 @@
 User-Agent: *
-Disallow: /awesome-bigdata.md, /fonts/, .gitignore, .whitesource, dos.md, programming-languages.md
+Disallow: /awesome-bigdata.md
+Disallow: /fonts/
+Disallow: .gitignore
+Disallow: .whitesource
+Disallow: dos.md
+Disallow: programming-languages.md
 
 Sitemap: https://github.com/bbauska/cellardoor
