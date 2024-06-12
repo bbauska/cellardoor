@@ -36,7 +36,8 @@ cellardoor: Complete list of 'todos', libraries & frameworks
   <li><h4><a href="https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ug_cr_rptstd.pdf" target="_blank" rel="noopener noreferrer">
     Reporting</a></li>
 </ul>
-  
+
+<!-- click following image to follow to Design Hill logos -->
 <a href="https://www.designhill.com/interactive-guide/famous-logos-hidden-meanings/" 
   target="_blank" rel="noopener noreferrer">
   <img src="https://cdn1.designhill.com/assets/dh/images/infographic/content/bmw.jpg?ver=2.12.30" 
