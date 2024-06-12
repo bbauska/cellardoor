@@ -14,7 +14,8 @@ cellardoor: Complete list of 'todos', libraries & frameworks
 
 <h3>Data Analyst Career Guide and Interview Preparation</h3>
 
-<h5><a href="https://www.ibm.com/blogs/ibm-training/prepare-for-your-next-data-analyst-job-interview-with-the-ibm-data-analyst-career-guide-and-interview-preparation-course-on-coursera-org/" target="_blank" rel="noopener noreferrer">IBM Skills Network w/Coursera</a>.</h5>
+<h5><a href="https://www.ibm.com/blogs/ibm-training/prepare-for-your-next-data-analyst-job-interview-with-the-ibm-data-analyst-career-guide-and-interview-preparation-course-on-coursera-org/" 
+  target="_blank" rel="noopener noreferrer">IBM Skills Network w/Coursera</a>.</h5>
 
 <h3><a href="https://validator.w3.org/nu/" target="_blank" rel="noopener noreferrer">Nu HTML Checker</a></h3>
 
@@ -22,16 +23,17 @@ cellardoor: Complete list of 'todos', libraries & frameworks
 
 <h3>Take a refresher course through IBM Cognos BI/Analytics</h3>
 
-<h3><a href="https://www.ibm.com/docs/en/cognos-analytics/11.1.0?topic=manuals" target="_blank" rel="noopener noreferrer">IBM Cognos Analytics v11.1.x manuals</a>
+<h3><a href="https://www.ibm.com/docs/en/cognos-analytics/11.1.0?topic=manuals" 
+  target="_blank" rel="noopener noreferrer">IBM Cognos Analytics v11.1.x manuals</a>
 
 <ul>
-  <li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ca_gtstd.pdf" target="_blank" rel="noopener noreferrer">
+  <li><h4><a href="https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ca_gtstd.pdf" target="_blank" rel="noopener noreferrer">
     Getting Started</a></li>
-  <li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ug_ca_dshb.pdf" target="_blank" rel="noopener noreferrer">
+  <li><h4><a href="https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ug_ca_dshb.pdf" target="_blank" rel="noopener noreferrer">
     Dashboards and Stories</a></li>
-  <li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ca_explorations.pdf" target="_blank" rel="noopener noreferrer">
+  <li><h4><a href="https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ca_explorations.pdf" target="_blank" rel="noopener noreferrer">
     Explorations</a></li>
-  <li><h4><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ug_cr_rptstd.pdf" target="_blank" rel="noopener noreferrer">
+  <li><h4><a href="https://www.ibm.com/docs/en/SSEP7J_11.1.0/pdf/ug_cr_rptstd.pdf" target="_blank" rel="noopener noreferrer">
     Reporting</a></li>
 </ul>
   
