@@ -8,7 +8,7 @@ cellardoor: Complete list of 'todos', libraries & frameworks
 
 <h2>JSFiddle</h2>
 
-<h2><a href="https://meiert.com/en/blog/html-content-categories/" target="_blank" rel="noopener noreferrer">HTML</a></h2>
+<h2><a href="https://meiert.com/en/blog/html-content-categories/" target="_blank" rel="noopener noreferrer">HTML - Content Categories</a></h2>
 
 <h2>newpipe - Replacement (open-source) application for YouTube.</h2>
 
