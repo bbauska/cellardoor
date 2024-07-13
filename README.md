@@ -116,6 +116,21 @@ cellardoor: Complete list of 'todos', libraries & frameworks
 [16:1]: https://github.com/bbauska/bbauska/blob/main/images/16-pinterest.png?raw=true (pinterest icon)
 
 # Dropdown websites added
+## U of Mich/UC Davis
+<ul>
+  <li><a href="https://github.com/bbauska/UofM-Intro-HTML5" target="_blank" rel="noopener noreferrer">a. U of Michigan - Introduction to HTML5</a></li>
+  <li><a href="https://github.com/bbauska/UofM-Intro-CSS3" target="_blank" rel="noopener noreferrer">b. U of Michigan - Introduction to CSS3</a></li>
+  <li><a href="https://github.com/bbauska/UofM-Inter-with-JS" target="_blank" rel="noopener noreferrer">c. U of Michigan - Interactivity with JavaScript</a></li>
+  <li><a href="https://github.com/bbauska/UofM-AdvStyling" target="_blank" rel="noopener noreferrer">d. U of Michigan - Advanced Styling with Responsive Design</a></li>
+  <li><a href="https://github.com/bbauska/UofM-JS-jQuery-JSON" target="_blank" rel="noopener noreferrer">e. U of Michigan - JavaScript, jQuery and JSON</a></li>
+  <li><a href="https://www.coursera.org/learn/web-applications-php/home/module/1" target="_blank" rel="noopener noreferrer">z. U of Michigan - Building Web Applications in PHP (8 modules)</a></li>
+  <li><a href="https://github.com/bbauska/UC-Davis-JS-Basics" target="_blank" rel="noopener noreferrer">1. UC Davis - JavaScript Basics</a></li>
+  <li><a href="https://github.com/bbauska/UC-Davis-Animation-with-JS-and-jQuery" target="_blank" rel="noopener noreferrer">2. UC Davis  - Animation with JS and jQuery</a></li>
+  <li><a href="https://github.com/bbauska/UC-Davis-Inter-jQuery" target="_blank" rel="noopener noreferrer">3. UC Davis  - Interactivity with JS &amp; jQuery</a></li>
+  <li><a href="https://github.com/bbauska/UC-Davis-Data-Manipulation-in-JS" target="_blank" rel="noopener noreferrer">4. UC Davis - Data Manipulation in JS</a></li>
+  <li><a href="https://github.com/bbauska/CSS-Notes4Pros/blob/main/README.md" target="_blank" rel="noopener noreferrer">CSS Notes 4 Professionals</a></li>
+</ul>
+
 ## meta &amp; coursera
 
 <ul>
@@ -131,7 +146,7 @@ cellardoor: Complete list of 'todos', libraries & frameworks
   <li><a href="https://github.com/bbauska/TUMx-DWAPNx/" target="_blank" rel="noopener noreferrer">Web Appl'n Development with Node.js (Tech Univ of Munich) - wip</a></li>
 </ul>
     
-## Tutorials
+## Tut's
 
 <ul>
   <li><a href="https://https://web.dev/learn/css" target="_blank" rel="noopener noreferrer">CSS by WebDev</a></li>
@@ -145,7 +160,7 @@ cellardoor: Complete list of 'todos', libraries & frameworks
   <li><a href="#moocs">MOOCs for Learning Something New</a></li>
 </ul>
 
-## Javascript Frameworks &amp; Libraries
+## Javascript, JS Frameworks &amp; Libraries
 
 <ul>
   <li><a href="https://www.ecosia.org/videos?q=html%2Fcss%2Fjavascript%20carousel%20unlimited%20images" target="_blank" rel="noopener noreferrer">Infinite Image Carousel</a></li>
@@ -180,7 +195,7 @@ cellardoor: Complete list of 'todos', libraries & frameworks
   <li><a href="https://www.unminify.com" target="_blank" rel="noopener noreferrer">Unminify CSS or JS</a></li>
 </ul>
 
-## git &amp; Resources
+## SOME OF MY FAVORITE resources
 
 <ul>
   <li><a href="https://github.com/bbauska/bbauska" target="_blank" rel="noopener noreferrer">github bbauska</a></li>
