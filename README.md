@@ -115,7 +115,7 @@ cellardoor: Complete list of 'todos', libraries & frameworks
 [15:1]: https://github.com/bbauska/bbauska/blob/main/images/15-skype.png?raw=true (skype icon)
 [16:1]: https://github.com/bbauska/bbauska/blob/main/images/16-pinterest.png?raw=true (pinterest icon)
 
-# Dropdown webites added to website
+# Dropdown websites added
 ## meta &amp; coursera
 
 <ul>
