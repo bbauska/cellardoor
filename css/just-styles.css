@@ -1,5 +1,5 @@
 /* just-styles.css for cellardoor.bauska.org */
-/* @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap'); */
+ @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 
 /* horizontal line */
   hr { 
@@ -14,6 +14,20 @@
     background-color: red;
     color: red;
     height: 2px;
+  }
+
+/* unordered list styles */
+  ul.list-styles {
+    list-style-type: circle;
+    margin-left: 20px;
+  }
+  ul.list-styles2 {
+    list-style-type: square;
+    margin-left: 20px;
+  }
+  ul.list-styles3 {
+    list-style-type: disc;
+    margin-left: 20px;
   }
 
 /* body */
@@ -75,7 +89,11 @@ html, body {
     text-shadow: 0 1px 1px rgba(255,255,255,.9);  /* white */
     transition: all .25s ease-in-out;
   }
-
+  #menu > li:hover > a {
+    background: #333;  /* very dark gray */
+    color: rgba(0,223,252,1);  /* cyan */
+    text-shadow: none;
+  }
   #menu li ul  {
     position: absolute;
     left: 0;
@@ -90,6 +108,34 @@ html, body {
     overflow: hidden;
     transform-origin: 50% 0%;
   }
+  #menu li:hover ul {
+    padding: 15px 0;
+    background: #333;  /* very dark gray */
+    opacity: 1;
+    visibility: visible;
+    box-shadow: 1px 1px 7px rgba(0,0,0,.5);   /* black */
+    animation-name: swingdown;
+    animation-duration: 1s;
+    animation-timing-function: ease;
+  }
+  @keyframes swingdown {
+    0% {
+    opacity: .99999;
+    transform: rotateX(90deg);
+  }
+    30% {			
+    transform: rotateX(-20deg) rotateY(5deg);
+      animation-timing-function: ease-in-out;
+  }
+    65% {
+    transform: rotateX(20deg) rotateY(-3deg);
+      animation-timing-function: ease-in-out;
+  }
+    100% {
+    transform: rotateX(0);
+      animation-timing-function: ease-in-out;
+    }
+  }
   #menu li li a {
     padding-left: 15px;
     font-weight: 700;  /* 400 */
@@ -99,7 +145,12 @@ html, body {
     border-bottom: dotted 1px transparent;
     transition: all .15s linear;
   }
-
+  #menu li li a:hover {
+    color: rgba(0,223,252,1);  /* cyan */
+    border-top: dotted 1px rgba(255,255,255,.15);
+    border-bottom: dotted 1px rgba(255,255,255,.15);
+    background: rgba(0,223,252,.02);  /* cyan */
+  }
 
 /* pictures (images) */
   img {
@@ -107,7 +158,15 @@ html, body {
     margin-left: auto;
     margin-right: auto; 
   }
-
+  .displayed {
+    display: block;
+    margin: 0 auto; 
+  }
+  .border {
+    border-width: 1px;
+    border-color: #778899;  /* dark grayish blue */
+    border-style: solid; 
+  }
 
 /* summary & details */
   details {
@@ -128,7 +187,13 @@ html, body {
   ul li {
     line-height:160%;
   }
-
+  details > p {
+    border-radius: 0 0 5px 5px;  /* 0 0 10 10 */
+    background-color: #ffffff;  /* white */
+    padding: 2px 6px;
+    margin: 0;
+    box-shadow: 3px 3px 4px #800080;  /* dark magenta */
+  }
   details > ul {
     border-radius: 0 0 5px 5px;
     background-color: #ffffff;  /* white */
@@ -140,6 +205,16 @@ html, body {
   details[open] > summary {
     color: #800080;  /* dark magenta */
     background-color: #eeeeee;  /* light gray */
+  }
+
+  // added from html
+    div.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: #d3d3d3;  /* light gray */
+    padding: 0px;
+    font-size: 20px;
   }
 
 /* social buttons wrapper, button, icon and 'a' */
@@ -188,6 +263,11 @@ html, body {
   box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
   transition: 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
+.wrapper .icon:hover .tooltip{
+  top: -70px;
+  opacity: 1;
+  pointer-events: auto;
+}
 
 .icon .tooltip:before{
   position: absolute;
@@ -200,3 +280,65 @@ html, body {
   transform: translateX(-50%) rotate(45deg);
   transition: 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
+.wrapper .icon:hover span{
+  color: #fff;
+}
+.wrapper .icon:hover span,
+.wrapper .icon:hover .tooltip{
+  text-shadow: 0px -1px 0px rgba(0,0,0,0.4);
+}
+.wrapper .facebook:hover span,
+.wrapper .facebook:hover .tooltip,
+.wrapper .facebook:hover .tooltip:before{
+  background: #1877f2;  /* vivid blue */
+}
+.wrapper .youtube:hover span,
+.wrapper .youtube:hover .tooltip,
+.wrapper .youtube:hover .tooltip:before{
+  background: #ff0000;  /* pure red */
+}
+.wrapper .twitter:hover span,
+.wrapper .twitter:hover .tooltip,
+.wrapper .twitter:hover .tooltip:before{
+  background: #1da1f2;  /* vivid blue */
+}
+.wrapper .snapchat:hover span,
+.wrapper .snapchat:hover .tooltip,
+.wrapper .snapchat:hover .tooltip:before{
+  background: #fffc00;  /* pure yellow */
+}
+.wrapper .github:hover span,
+.wrapper .github:hover .tooltip,
+.wrapper .github:hover .tooltip:before{
+  background: #171515;  /* very dark (mostly black) red */
+}
+.wrapper .codepen:hover span,
+.wrapper .codepen:hover .tooltip,
+.wrapper .codepen:hover .tooltip:before{
+  background: #47cf73;  /* moderate cyan - lime green */
+}
+.wrapper .linkedin:hover span,
+.wrapper .linkedin:hover .tooltip,
+.wrapper .linkedin:hover .tooltip:before{
+  background: #0077b5;  /* strong blue */
+}
+.wrapper .quora:hover span,
+.wrapper .quora:hover .tooltip,
+.wrapper .quora:hover .tooltip:before{
+  background: #aa2200;  /* dark red */
+}
+.wrapper .amazon:hover span,
+.wrapper .amazon:hover .tooltip,
+.wrapper .amazon:hover .tooltip:before{
+  background: #ff9900;  /* pure (or mostly pure) orange */
+}
+.wrapper .email:hover span,
+.wrapper .email:hover .tooltip,
+.wrapper .email:hover .tooltip:before{
+  background: #90ee90;  /* very soft lime green - was: 228b22 dark lime green */
+}
+
+@media (min-width: 640px) { body {font-size:1rem;} } 
+@media (min-width:960px) { body {font-size:1.2rem;} } 
+@media (min-width:1100px) { body {font-size:1.5rem;} }
+
