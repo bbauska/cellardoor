@@ -43,7 +43,7 @@ html, body {
 /* flip/drop down shingle menu/container */
   #container {
     position: relative;
-    width: 642px;  /* menu width - 675 - 6 columns */
+    width: 685px;  /* menu width - 675 - 6 columns */
   }
   #container:after {
     content: "";
@@ -68,7 +68,7 @@ html, body {
     position: relative;
     border-right: 1px solid rgba(0,0,0,.1);
     box-shadow: 1px 0 0 rgba(255,255,255,.25);
-    perspective: 1385px;  /* 1385, 1430, 1370,1340px, 1400px */
+    perspective: 1430px;  /* 1385, 1430, 1370,1340px, 1400px */
   }
   #menu > li:first-child {
     border-left: 1px solid rgba(255,255,255,.25);
