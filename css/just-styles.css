@@ -43,7 +43,7 @@ html, body {
 /* flip/drop down shingle menu/container */
 #container {
   position: relative;
-  width: 710px;  /* menu width - 745 - then 675 - 6 columns */
+  width: 810px;  /* 710px; menu width - 745 - then 675 - 6 columns */
 }
 #container:after {
   content: "";
@@ -98,7 +98,7 @@ html, body {
   position: absolute;
   left: 0;
   z-index: 1;
-  width: 240px;  /* drop down width each 200px */
+  width: 240px;  /* 240px; drop down width each 200px */
   padding: 0;
   opacity: 0;
   visibility: hidden;
