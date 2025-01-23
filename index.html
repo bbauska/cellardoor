@@ -54,11 +54,19 @@
     integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
   <script async src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   <script src ="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.js"></script>
-   
+  
+  <script src="https://unpkg.com/magic-snowflakes/dist/snowflakes.auto.min.js"></script>
+  
   <h1 style="text-align:left;color:darkgreen">Cellardoor</h1>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ shingles menu for cellardoor.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<div class="sticky">
+    <script>
+        new Snowflakes({
+            wind: false,
+            rotation: false
+        });
+        </script>
+  <div class="sticky">
   <div id="container" style="text-align:left">
     <ul id="menu" style="text-align:left">
       <li><a href="#" id="UofMUCDavis">U of Mich/UC Davis</a>
