@@ -1,4 +1,4 @@
-/*! Snowflakes | © 2024 Denis Seleznev | MIT License | https://github.com/hcodes/snowflakes/ */
+/*! snowflakes | from © 2024 Denis Seleznev | https://github.com/bbauska/cellardoor/js/ */
 !(function () {
     "use strict";
     var t = {
