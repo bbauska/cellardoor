@@ -85,7 +85,7 @@ body {
 }
 h1.headit {
   position: sticky;  /* fixed; */
-  top: 0;
+  top: -55px;
   text-align: left;
   color: darkgreen;
 h1 {
