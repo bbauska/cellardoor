@@ -84,8 +84,8 @@ body {
   text-rendering: optimizeLegibility;
 }
 h1.headit {
-  position: absolute;  /* sticky;  fixed; */
-  top: -55px;
+  position: fixed;  /* absolute; sticky;  fixed; */
+  top: -55px;  /* -55px; */
   text-align: left;
   color: darkgreen;
 h1 {
