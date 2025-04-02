@@ -83,6 +83,11 @@ body {
   background: var(--background-body);
   text-rendering: optimizeLegibility;
 }
+h1.headit {
+  position: fixed;
+  top: 0;
+  text-align: left;
+  color: darkgreen;
 h1 {
   font-size: 2.2em;
   margin-top: 0;
