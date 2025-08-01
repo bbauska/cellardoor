@@ -1,3 +1,26 @@
+/* css/styles.css of bbauska/cellardoor making cellardoor.bauska.org */
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+/* @media only screen and (min-width: 600px) { *
+/* ... */
+/* } */
+/* */
+/* Medium devices (landscape tablets, 768px and up) */
+/* @media only screen and (min-width: 768px) { */
+/*... */
+/* } */
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+/* @media only screen and (min-width: 1200px) { */
 /*!
  * styles.css
  * Sub-subset of Font Awesome Pro 5.10.0 by @fontawesome - https://fontawesome.com
@@ -43,7 +66,7 @@
 }
 /* water.css */
 :root {
-  --background-body: #fff;
+  --background-body: #fff;  /* white */
   --background: #efefef;
   --background-alt: #f7f7f7;
   --selection: #9e9e9e;
@@ -52,17 +75,17 @@
   --text-muted: #70777f;
   --links: #0076d1;
   --focus: #0096bfab;
-  --border: #dbdbdb;
-  --code: #000;
+  --border: #dbdbdb;  /* very light gray */
+  --code: #000;  /* black */
   --animation-duration: 0.1s;
-  --button-base: #d0cfcf;
-  --button-hover: #9b9b9b;
+  --button-base: #d0cfcf;  /* grayish red */
+  --button-hover: #9b9b9b;  /* dark gray */
   --scrollbar-thumb: rgb(170, 170, 170);
   --scrollbar-thumb-hover: var(--button-hover);
-  --form-placeholder: #949494;
-  --form-text: #1d1d1d;
-  --variable: #39a33c;
-  --highlight: #ff0;
+  --form-placeholder: #949494;  /* dark gray */
+  --form-text: #1d1d1d;  /* Very dark gray (mostly black) */
+  --variable: #39a33c;  /* Dark moderate lime green */
+  --highlight: #ffff00;  /* pure (ore mostly pure) yellow */
   --select-arrow: url("data:image/svg+xml;charset=utf-8,%3C?xml version='1.0' encoding='utf-8'?%3E %3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' height='62.5' width='116.9' fill='%23161f27'%3E %3Cpath d='M115.3,1.6 C113.7,0 111.1,0 109.5,1.6 L58.5,52.7 L7.4,1.6 C5.8,0 3.2,0 1.6,1.6 C0,3.2 0,5.8 1.6,7.4 L55.5,61.3 C56.3,62.1 57.3,62.5 58.4,62.5 C59.4,62.5 60.5,62.1 61.3,61.3 L115.2,7.4 C116.9,5.8 116.9,3.2 115.3,1.6Z'/%3E %3C/svg%3E");
 }
 html {
@@ -87,7 +110,7 @@ h1.headit {
   position: fixed;  /* absolute; sticky;  fixed; */
   top: -20px;  /* -55px; */
   text-align: left;
-  color: darkgreen;
+  color: #006700;  /* very dark lime green */
 h1 {
   font-size: 2.2em;
   margin-top: 0;
@@ -126,7 +149,7 @@ th {
 }
 a {
   text-decoration: none;
-  color: #0076d1;
+  color: #0076d1;  /* strong blue */
   color: var(--links);
 }
 img,
@@ -136,14 +159,14 @@ video {
 }
 hr {
   border: none;
-  border-top: 1px solid #dbdbdb;
+  border-top: 1px solid #dbdbdb;  /* very light gray */
   border-top: 1px solid var(--border);
 }
 details {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  background-color: #f7f7f7;
+  background-color: #f7f7f7;  /* very light gray (mostly white) */
   background-color: var(--background-alt);
   padding: 10px 10px 0;
   margin: 1em 0;
@@ -161,7 +184,7 @@ details[open] summary {
 }
 summary {
   display: list-item;
-  background-color: #efefef;
+  background-color: #efefef;  /* very light gray */
   background-color: var(--background);
   padding: 10px;
   margin: -10px -10px 0;
@@ -172,12 +195,14 @@ details > :not(summary) {
   margin-top: 0;
 }
 footer {
-  border-top: 1px solid #dbdbdb;
+  border-top: 1px solid #dbdbdb;  /* very light gray */
   border-top: 1px solid var(--border);
   padding-top: 10px;
-  color: #70777f;
+  color: #70777f;  /* dark grayish blue */
   color: var(--text-muted);
 }
 body > footer {
   margin-top: 40px;
+}
+
 }
