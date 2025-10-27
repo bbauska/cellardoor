@@ -63,7 +63,8 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ body ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <body>
   <script async src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" 
-    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" 
+	crossorigin="anonymous"></script>
   <script async src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   <script src ="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.js"></script>
   <script src="https://unpkg.com/magic-snowflakes/dist/snowflakes.auto.min.js"></script>
@@ -81,60 +82,79 @@
     <ul id="menu" style="text-align:left">
       <li><a href="#" id="UofMUCDavis">U of Mich/UC Davis</a>
         <ul style="text-align:left">
-          <li><a id="IntroToHTML" href="https://intro-html.bauska.org" target="_blank" rel="noopener noreferrer">
-            a. UofM's Introduction to HTML5</a></li>
-          <li><a id="IntroToCSS" href="https://intro-css.bauska.org" target="_blank" rel="noopener noreferrer">
-            b. UofM's Introduction to CSS3</a></li>
-          <li><a id="InterWithJS" href="https://inter-with-js.bauska.org" target="_blank" rel="noopener noreferrer">
-            c. UofM's Interactivity with JavaScript</a></li>
-          <li><a id="AdvStyling" href="https://adv-styling.bauska.org" target="_blank" rel="noopener noreferrer">
-            d. UofM's Advanced Styling with Responsive Design</a></li>
-          <li><a id="JSjQueryJSON" href="https://github.com/bbauska/UofM-JS-jQuery-JSON" target="_blank" rel="noopener noreferrer">
-            e. GitHub: UofM's JavaScript, jQuery &amp; JSON (GitHub)</a></li>
-          <li><a id="PHP" href="https://www.coursera.org/learn/web-applications-php/home/week/1" target="_blank" rel="noopener noreferrer">
-            f. wip - UofM's Building Web Apps in PHP</a></li>
-          <li><a id="JSBasics" href="https://js-basics.bauska.org" target="_blank" rel="noopener noreferrer">
+          <li><a id="IntroToHTML" href="https://intro-html.bauska.org" target="_blank" 
+		    rel="noopener noreferrer">a. UofM's Introduction to HTML5</a></li>
+          <li><a id="IntroToCSS" href="https://intro-css.bauska.org" target="_blank" 
+		    rel="noopener noreferrer">b. UofM's Introduction to CSS3</a></li>
+          <li><a id="InterWithJS" href="https://inter-with-js.bauska.org" target="_blank" 
+		    rel="noopener noreferrer">c. UofM's Interactivity with JavaScript</a></li>
+          <li><a id="AdvStyling" href="https://adv-styling.bauska.org" target="_blank" 
+		    rel="noopener noreferrer">d. UofM's Advanced Styling with Responsive Design</a></li>
+          <li><a id="JSjQueryJSON" href="https://github.com/bbauska/UofM-JS-jQuery-JSON" 
+		    target="_blank" rel="noopener noreferrer">e. GitHub: UofM's JavaScript, jQuery &amp; JSON (GitHub)</a></li>
+          <li><a id="PHP" href="https://www.coursera.org/learn/web-applications-php/home/week/1" 
+		    target="_blank" rel="noopener noreferrer">f. wip - UofM's Building Web Apps in PHP</a></li>
+          <li><a id="JSBasics" href="https://js-basics.bauska.org" target="_blank" rel="noopener noreferrer" 
+		    title="1. UC Davis' JavaScript Basics.">
             1. UC Davis' JavaScript Basics</a></li>
-          <li><a id="Animation" href="https://animate-js.bauska.org" target="_blank" rel="noopener noreferrer">
+          <li><a id="Animation" href="https://animate-js.bauska.org" target="_blank" rel="noopener noreferrer" 
+		    title="2. UC Davis' Animation with JavaScript &amp; jQuery.">
             2. UC Davis' Animation with JavaScript &amp; jQuery</a></li>
-          <li><a id="InterWithjQuery" href="https://inter-with-js.bauska.org" target="_blank" rel="noopener noreferrer">
-            3. UC Davis' Interactivity with jQuery</a></li>
-          <li><a id="DataManipulationInJS" href="https://github.com/bbauska/UC-Davis-Data-Manipulation-in-JS" target="_blank" rel="noopener noreferrer">
+          <li><a id="InterWithjQuery" href="https://inter-with-js.bauska.org" target="_blank" 
+		    rel="noopener noreferrer" title="3. UC Davis' Interactivity with jQuery.">
+			3. UC Davis' Interactivity with jQuery</a></li>
+          <li><a id="DataManipulationInJS" href="https://github.com/bbauska/UC-Davis-Data-Manipulation-in-JS" target="_blank" rel="noopener noreferrer" title="4. GitHub: UC-Davis' Data Manipulation in JS (GitHub).">
             4. GitHub: UC-Davis' Data Manipulation in JS (GitHub)</a></li>
-          <li><a id="CSS-Notes" href="https://css-notes4-pros.bauska.org" target="_blank" rel="noopener noreferrer">
+          <li><a id="CSS-Notes" href="https://css-notes4-pros.bauska.org" target="_blank" rel="noopener noreferrer" 
+		    title="CSS Notes 4 Professionals.">
             CSS Notes 4 Professionals</a></li>
-          <li><a id="JS-Notes" href="https://js-notes4-pros.bauska.org" target="_blank" rel="noopener noreferrer">
+          <li><a id="JS-Notes" href="https://js-notes4-pros.bauska.org" target="_blank" rel="noopener noreferrer" 
+		    title="JS Notes 4 Professionals.">
             JS Notes 4 Professionals</a></li>
         </ul>  <!-- style="text-align:left" -->
       </li> <!-- a href="#" U of Mich/UC Davis -->
       <!-- 13 meta/coursera options in this flip-down column -->
       <li><a href="#" id="metaCoursera">meta &amp; Coursera</a>
         <ul style="text-align:left">
-          <li><a id="Bootstrap4" href="https://github.com/bbauska/Coursera-Bootstrap" target="_blank" rel="noopener noreferrer">
-            GitHub: Coursera - Bootstrap 4 (Hong Kong) (GitHub)</a></li>
-          <li><a id="InDepth" href="https://github.com/bbauska/meta-html-css-in-depth/edit/main/index.html/" target="_blank" rel="noopener noreferrer">
-            GitHub: Meta/Coursera - HTML &amp; CSS in Depth (GitHub)</a></li>
-          <li><a id="ReactBasics" href="https://github.com/bbauska/meta-react-basics" target="_blank" rel="noopener noreferrer">
+          <li><a id="Bootstrap4" href="https://github.com/bbauska/Coursera-Bootstrap" target="_blank" 
+		    rel="noopener noreferrer" title="GitHub: Coursera - Bootstrap 4 (Hong Kong) (GitHub).">
+			GitHub: Coursera - Bootstrap 4 (Hong Kong) (GitHub)</a></li>
+          <li><a id="InDepth" href="https://github.com/bbauska/meta-html-css-in-depth/edit/main/index.html/" 
+		    target="_blank" rel="noopener noreferrer" title="GitHub: Meta/Coursera - HTML &amp; CSS in Depth (GitHub).">
+			GitHub: Meta/Coursera - HTML &amp; CSS in Depth (GitHub)</a></li>
+          <li><a id="ReactBasics" href="https://github.com/bbauska/meta-react-basics" target="_blank" 
+		    rel="noopener noreferrer" title="GitHub: Meta/Coursera React Basics (GitHub).">
             GitHub: Meta/Coursera React Basics (GitHub)</a></li>
-          <li><a id="ProgramWithJS" href="https://github.com/bbauska/meta-javascript" target="_blank" rel="noopener noreferrer">
+          <li><a id="ProgramWithJS" href="https://github.com/bbauska/meta-javascript" target="_blank" 
+		    rel="noopener noreferrer" title="GitHub: Meta/Coursera Programming with JavaScript (GitHub).">
             GitHub: Meta/Coursera Programming with JavaScript (GitHub)</a></li>
-          <li><a id="WebAppWithNodeJS" href="https://github.com/bbauska/TUMx-DWAPNx/" target="_blank" rel="noopener noreferrer">
+          <li><a id="WebAppWithNodeJS" href="https://github.com/bbauska/TUMx-DWAPNx/" target="_blank" 
+		    rel="noopener noreferrer" title="GitHub: TUM - Tech U of Munich - Web Appl'n Development with Node.js (GitHub).">
             GitHub: TUM - Tech U of Munich - Web Appl'n Development with Node.js (GitHub)</a></li>
-          <li><a id="1stbook" href="https://github.com/bbauska/1stbook" target="_blank" rel="noopener noreferrer">
+          <li><a id="1stbook" href="https://github.com/bbauska/1stbook" target="_blank" rel="noopener noreferrer" 
+		    title="GitHub: 1stbook - Eistein &amp; UFO's/Crop Circles (GitHub).">
             GitHub: 1stbook - Eistein &amp; UFO's/Crop Circles (GitHub)</a></li>
-          <li><a id="JS-Learn-JS" href="https://github.com/bbauska/JS-Learn-JS" target="_blank" rel="noopener noreferrer">
+          <li><a id="JS-Learn-JS" href="https://github.com/bbauska/JS-Learn-JS" target="_blank" 
+		    rel="noopener noreferrer" title="GitHub: JS - Learn - JavaScript (GitHub).">
             GitHub: JS - Learn - JavaScript (GitHub)</a></li>
-          <li><a id="GitHub-IllinoisWebDev" href="https://github.com/bbauska/IllinoisTech-Fundamentals-Web-Dev/blob/main/README.md" target="_blank" rel="noopener noreferrer">
+          <li><a id="GitHub-IllinoisWebDev" href="https://github.com/bbauska/IllinoisTech-Fundamentals-Web-Dev/blob/main/README.md" 
+		    target="_blank" rel="noopener noreferrer" title="GitHub: Coursera/Illinois Tech's 
+			Fundamentals of Web Development (GitHub).">
             GitHub: Coursera/Illinois Tech's Fundamentals of Web Development (GitHub)</a></li>
-          <li><a id="IllinoisWebDev" href="https://www.coursera.org/learn/illinois-tech-fundamentals-of-web-development/home/week/1" target="_blank" rel="noopener noreferrer">
+          <li><a id="IllinoisWebDev" 
+		    href="https://www.coursera.org/learn/illinois-tech-fundamentals-of-web-development/home/week/1" 
+		    target="_blank" rel="noopener noreferrer" title="Illinois Tech's Fundamentals of Web Development.">
             Illinois Tech's Fundamentals of Web Development</a></li>
-          <li><a id="Scrimba-JS" href="https://www.coursera.org/learn/javascript-deep-dive/home/module/1" target="_blank" rel="noopener noreferrer">
+          <li><a id="Scrimba-JS" href="https://www.coursera.org/learn/javascript-deep-dive/home/module/1" 
+		    target="_blank" rel="noopener noreferrer" title="Scrimba's JS Deep Dive.">
             Scrimba's JS Deep Dive</a></li>
-          <li><a id="shay-howe" href="https://www.github.com/bbauska/Adv-HTML-CSS/" target="_blank" rel="noopener noreferrer">
+          <li><a id="shay-howe" href="https://www.github.com/bbauska/Adv-HTML-CSS/" target="_blank" 
+		    rel="noopener noreferrer" title="GitHub: Shay-Howe Advanced HTML &amp; CSS (GitHub).">
             GitHub: Shay-Howe Advanced HTML &amp; CSS (GitHub)</a></li>
-          <li><a id="intro-js" href="https://www.coursera.org/learn/javascript-for-web-development/home/module/1" target="_blank" rel="noopener noreferrer">
+          <li><a id="intro-js" href="https://www.coursera.org/learn/javascript-for-web-development/home/module/1" target="_blank" rel="noopener noreferrer" title="Board Infinity's JS for Web Development.">
             Board Infinity's JS for Web Development</a></li>
-          <li><a href="https://github.com/bbauska/BI-JS-for-Web-Dev" target="_blank" rel="noopener noreferrer">
+          <li><a href="https://github.com/bbauska/BI-JS-for-Web-Dev" target="_blank" rel="noopener noreferrer" 
+		    title="GitHub BI JS for Web Development.">
             GitHub: BI JS for Web Development</a></li>
         </ul>  <!-- style="text-align:left" -->
       </li> <!-- a href="#" meta & Coursera -->
@@ -142,18 +162,24 @@
         <ul>
           <li><a id="WebDev" href="https://web.dev/learn" target="_blank" rel="noopener noreferrer">
             Web.dev for HTML, CSS, JS, Responsive, PWA, Images, Performance &amp; Testing</a></li>
-          <li><a id="2024WebDev" href="https://www.youtube.com/watch?v=8sXRyHI3bLw" target="_blank" rel="noopener noreferrer">
+          <li><a id="2024WebDev" href="https://www.youtube.com/watch?v=8sXRyHI3bLw" target="_blank" 
+		    rel="noopener noreferrer">
             2024 Web Development - Practical Guide (2:43:31)</a></li>
-          <li><a id="Intershship" href="https://github.com/bbauska/internship/tree/main" target="_blank" rel="noopener noreferrer">
+          <li><a id="Intershship" href="https://github.com/bbauska/internship/tree/main" 
+		    target="_blank" rel="noopener noreferrer" title="GitHUb: Internship (What to Know).">
             GitHub: Internship (What to Know)</a></li>
-          <li><a id="React" href="https://www.youtube.com/watch?v=bMknfKXIFA8" target="_blank" rel="noopener noreferrer">
+          <li><a id="React" href="https://www.youtube.com/watch?v=bMknfKXIFA8" target="_blank" 
+		    rel="noopener noreferrer" title="React Courses - Beginner's Tutorial for React JS Library.">
             React Course - Beginner's Tutorial for React JavaScript Library (11:55:27)</a></li>
-          <li><a id="ReactJS" href="https://legacy.reactjs.org/community/courses.html" target="_blank" rel="noopener noreferrer">
+          <li><a id="ReactJS" href="https://legacy.reactjs.org/community/courses.html" target="_blank" 
+		    rel="noopener noreferrer" title="ReactJS Free Courses.">
             ReactJS Free Courses</a></li>
-          <li><a id="RespBoot" href="https://freefrontend.com/bootstrap-dropdowns/" target="_blank" rel="noopener noreferrer">
+          <li><a id="RespBoot" href="https://freefrontend.com/bootstrap-dropdowns/" target="_blank" 
+		    rel="noopener noreferrer" title="Responsive Bootstrap Dropdown Templates.">
             Responsive Bootstrap Dropdown Templates</a></li>
           <li><a id="OnlineTut" href="#tutorials">Online Tutorials</a></li>
-          <li><a id="CodeAcademy" href="https://www.codeacademy.com/learn" target="_blank" rel="noopener noreferrer">
+          <li><a id="CodeAcademy" href="https://www.codeacademy.com/learn" target="_blank" 
+		    rel="noopener noreferrer" title="Code Academy - Intermediate CSS &amp; More...">
             Code Academy - Intermediate CSS &amp; MORE...</a></li>
           <li><a id="VideoTut" href="#video-tutorials">Video Tutorials</a></li>
           <li><a id="CompBooks" href="#computer-books">Computer Books</a></li>
@@ -162,53 +188,84 @@
       </li>  <!-- a href="" Tut's -->
       <li><a href="#" id="JSFrames">JS, JS Frame's &amp; Lib's</a>
         <ul>
-          <li><a href="https://speckyboy.com/top-50-javascript/" target="_blank" rel="noopener noreferrer">
+          <li><a href="https://speckyboy.com/top-50-javascript/" target="_blank" rel="noopener noreferrer" 
+		    title="Top 50 JS Plugins &amp; Libraries (2016-2024) - Specky Boys.">
             Top 50 JS Plugins &amp; Libraries (2016-2024) - Specky Boy</a></li>
           <li><a href="https://www.freecodecamp.org/news/10-javascript-libraries-you-should-try/" 
-            target="_blank" rel="noopener noreferrer">
+            target="_blank" rel="noopener noreferrer" title="10 Awesome JS Libraries to Try in 2021 - freeCodeCamp.">
             10 Awesome JS Libraries to Try in 2021 - freeCodeCamp</a></li>
           <li><a href="https://javascript.plainenglish.io/10-javascript-plugins-that-every-web-developer-should-know-a1cd6449a661" 
-            target="_blank" rel="noopener noreferrer">
+            target="_blank" rel="noopener noreferrer" title="10 JS Plugins Every Web Developer Should Know">
             10 JS Plugins Every Web Developer Should Know (2021)</a></li>
           <li><a href="https://technostacks.com/blog/best-frontend-frameworks/" 
-            target="_blank" rel="noopener noreferrer">Best Front-end Frameworks</a></li>
-          <li><a href="https://www.creativebloq.com/design-tools/data-visualization-712402" target="_blank" rel="noopener noreferrer">
+            target="_blank" rel="noopener noreferrer" title="Best Front-end Frameworks.">
+			Best Front-end Frameworks</a></li>
+          <li><a href="https://www.creativebloq.com/design-tools/data-visualization-712402" 
+		    target="_blank" rel="noopener noreferrer" title="Data Viz Design Tools">
             Data Viz Design Tools</a></li>
           <li><a href="https://github.com/bbauska/zoom-image" 
             target="_blank" rel="noopener noreferrer">Zoom Image in JavaScript</a></li>
-          <li><a href="https://nanogallery2.nanostudio.org/" target="_blank" rel="noopener noreferrer">
+          <li><a href="https://nanogallery2.nanostudio.org/" target="_blank" rel="noopener noreferrer"
+		    title="nanoGallery2 for images and videos (2021).">
             nanoGallery2 for images and videos (2021)</a></li>
           <li><a href="https://www.ecosia.org/videos?q=html%2Fcss%2Fjavascript%20carousel%20unlimited%20images" 
-            target="_blank" rel="noopener noreferrer">
+            target="_blank" rel="noopener noreferrer" title="infinite Image Carousel.">
             Infinite Image Carousel</a></li>
-          <li><a href="https://en.bloggif.com/cube-3d" target="_blank" rel="noopener noreferrer">
+          <li><a href="https://en.bloggif.com/cube-3d" target="_blank" rel="noopener noreferrer"
+		    title="3d Cube Maker.">
             3d Cube Maker</a></li>
-          <li><a href="https://github.com/bbauska/JS-Notes4-Pros" target="_blank" rel="noopener noreferrer">
+          <li><a href="https://github.com/bbauska/JS-Notes4-Pros" target="_blank" rel="noopener noreferrer"
+		    title="JS Notes 4 Pros JavaScript (github).">
             JS Notes 4 Pros JavaScript (github)</a></li>
-          <li><a href="https://github.com/bbauska/UofM-JS-jQuery-JSON" target="_blank" rel="noopener noreferrer">
+          <li><a href="https://github.com/bbauska/UofM-JS-jQuery-JSON" target="_blank" rel="noopener noreferrer"
+		    title="JS, jQuery &amp; JSON (Univ of Michigan).">
             JS, jQuery &amp; JSON (Univ of Michigan)</a></li>
-          <li><a href="https://github.com/bbauska/JS-Learn-JS" target="_blank" rel="noopener noreferrer">
+          <li><a href="https://github.com/bbauska/JS-Learn-JS" target="_blank" rel="noopener noreferrer" 
+		    title="JS Learn JS (my personal JS manual).">
             JS Learn JS (my personal JS manual)</a></li>
         </ul>
       </li>  <!-- a href="" JS, JS Frame's & Lib's-->
       <li><a href="#" id="W3CxIBM">W3Cx &amp; IBM</a>
         <ul>
-          <li><a href="https://github.com/bbauska/ibm-intermediate-web-dev/blob/main/index.html" target="_blank" rel="noopener noreferrer">
+          <li><a href="https://github.com/bbauska/ibm-intermediate-web-dev/blob/main/index.html" 
+		    target="_blank" rel="noopener noreferrer" title="GitHub IBM Intermediate Web &amp; Front-end Development.">
             GitHub IBM Intermediate Web &amp; Front-end Development</a></li>
-          <li><a href="https://ibm-web-dev.bauska.org/" target="_blank" rel="noopener noreferrer">
+          <li><a href="https://ibm-web-dev.bauska.org/" target="_blank" rel="noopener noreferrer" 
+		    title="IBM/GitHub Intermediate Web &amp; Front-end Development."
             IBM/GitHub Intermediate Web &amp; Front-end Development</a></li>
-          <li><a href="https://github.com/bbauska/W3Cx-1of5" target="_blank" rel="noopener noreferrer">
-            GitHub - W3Cx-1of5-CSS.0x</a></li>
-          <li><a href="https://w3cx-1of5.bauska.org/" target="_blank" rel="noopener noreferrer">W3Cx-1of5-CSS.0x (css basics)</a></li>
-          <li><a href="https://github.com/bbauska/W3Cx-2of5" target="_blank" rel="noopener noreferrer">Github - W3Cx-2of5-HTML5.0x</a></li>
-          <li><a href="https://w3cx-2of5.bauska.org/" target="_blank" rel="noopener noreferrer">W3Cx-2of5-HTML5.0x (html/css basics)</a></li>
-          <li><a href="https://github.com/bbauska/W3Cx-3of5" target="_blank" rel="noopener noreferrer">Github - W3Cx-3of5-HTML5.1x</a></li>
-          <li><a href="https://w3cx-3of5.bauska.org/" target="_blank" rel="noopener noreferrer">W3Cx-3of5-HTML5.1x (intermediate)</a></li>
-          <li><a href="https://github.com/bbauska/W3Cx-4of5" target="_blank" rel="noopener noreferrer">Github - W3Cx-4of5-HTML5.1x</a></li>
-          <li><a href="https://w3cx-4of5.bauska.org/" target="_blank" rel="noopener noreferrer">W3Cx-4of5-HTML5.2x (advanced)</a></li>
-          <li><a href="https://github.com/bbauska/W3Cx-5of5" target="_blank" rel="noopener noreferrer">Github - W3Cx-5of5-JS.0x</a></li>
-          <li><a href="https://w3cx-5of5.bauska.org/" target="_blank" rel="noopener noreferrer">W3Cx-5of5-JS.0x (javascript)</a></li>
-          <li><a href="https://github.com/bbauska/w3.CSS-Succinctly" target="_blank" rel="noopener noreferrer">Github - W3.CSS Succinctly</a></li>
+          <li><a href="https://github.com/bbauska/W3Cx-1of5" target="_blank" rel="noopener noreferrer" 
+		    title="GitHub - W3Cx-1of5-CSS.0x.">
+			GitHub - W3Cx-1of5-CSS.0x</a></li>
+          <li><a href="https://w3cx-1of5.bauska.org/" target="_blank" rel="noopener noreferrer"
+		    title="W3Cx-1of5-CSS.0x (css basics).">
+			W3Cx-1of5-CSS.0x (css basics)</a></li>
+          <li><a href="https://github.com/bbauska/W3Cx-2of5" target="_blank" rel="noopener noreferrer"
+		    title="Github - W3Cx-2of5-HTML5.0x">
+			GitHub - W3Cx-2of5-HTML5.0x</a></li>
+          <li><a href="https://w3cx-2of5.bauska.org/" target="_blank" rel="noopener noreferrer" 
+		    title="W3Cx-2of5-HTML5.0x (html/css basics).">
+			W3Cx-2of5-HTML5.0x (html/css basics)</a></li>
+          <li><a href="https://github.com/bbauska/W3Cx-3of5" target="_blank" rel="noopener noreferrer" 
+		    title="GitHub - W3Cx-3of5-HTML5.1x">
+			GitHub - W3Cx-3of5-HTML5.1x</a></li>
+          <li><a href="https://w3cx-3of5.bauska.org/" target="_blank" rel="noopener noreferrer" 
+		    title="W3Cx-3of5-HTML5.1x (intermediate).">
+			W3Cx-3of5-HTML5.1x (intermediate)</a></li>
+          <li><a href="https://github.com/bbauska/W3Cx-4of5" target="_blank" rel="noopener noreferrer" 
+		    title="GitHub - W3Cx-4of5-HTML5.2x">
+			GitHub - W3Cx-4of5-HTML5.2x</a></li>
+          <li><a href="https://w3cx-4of5.bauska.org/" target="_blank" rel="noopener noreferrer" 
+		    title="W3Cx-4of5-HTML5.2x (advanced).">
+			W3Cx-4of5-HTML5.2x (advanced)</a></li>
+          <li><a href="https://github.com/bbauska/W3Cx-5of5" target="_blank" rel="noopener noreferrer" 
+		    title="GitHub - W3Cx-5of5.JS.0x">
+			GitHub - W3Cx-5of5-JS.0x</a></li>
+          <li><a href="https://w3cx-5of5.bauska.org/" target="_blank" rel="noopener noreferrer" 
+		    title="W3Cx-5of5-JS.0x (javascript).">
+			W3Cx-5of5-JS.0x (javascript)</a></li>
+          <li><a href="https://github.com/bbauska/w3.CSS-Succinctly" target="_blank" rel="noopener noreferrer" 
+		    title="GitHub - W3.CSS Succinctly.">
+			GitHub - W3.CSS Succinctly</a></li>
         </ul>
       </li>  <!-- a href="#" W3Cx & IBM -->
       <!-- 15 support options -->
@@ -1808,41 +1865,38 @@
     alt="The underappreciated house cat.">
 </div>
 
-<p id="cat-1">The cat (Felis catus), also known as the domestic cat or housecat
-to distinguish it from other felines and felids, is a small domesticated
-carnivorous mammal that is valued by humans for its companionship and 
-ability to hunt vermin and household pests. Cats have been associated with
-humans for at least 9,500 years, and are currently the most popular pet in 
-the world. Owing to their close association with humans, cats are now found 
-almost everywhere on Earth.</p>
+<p id="cat-1">The cat (Felis catus), also known as the domestic cat or housecat to distinguish it 
+from other felines and felids, is a small domesticated carnivorous mammal that is valued by humans 
+for its companionship and ability to hunt vermin and household pests. Cats have been associated 
+with humans for at least 9,500 years, and are currently the most popular pet in the world. Owing 
+to their close association with humans, cats are now found almost everywhere on Earth.</p>
 
-<p id="cat-2">Cats are similar in anatomy to the other felids, with strong, flexible bodies,
-quick reflexes, sharp retractable claws, and teeth adapted to killing small prey.
-As nocturnal predators, cats use their acute hearing and ability to see in near 
-darkness to locate prey. Not only can cats hear sounds too faint for human ears, 
-they can also hear sounds higher in frequency than humans can perceive. This is 
-because cats' usual prey (particularly rodents such as mice) make high frequency 
-noises, so cats' hearing has evolved to pinpoint these faint high-pitched sounds. 
-Cats rely more on smell than taste, and have a vastly better sense of smell than 
-humans.</p>
+<p id="cat-2">Cats are similar in anatomy to the other felids, with strong, flexible bodies, quick 
+reflexes, sharp retractable claws, and teeth adapted to killing small prey. As nocturnal predators, 
+cats use their acute hearing and ability to see in near darkness to locate prey. Not only can cats 
+hear sounds too faint for human ears, they can also hear sounds higher in frequency than humans 
+can perceive. This is because cats' usual prey (particularly rodents such as mice) make high 
+frequency noises, so cats' hearing has evolved to pinpoint these faint high-pitched sounds. Cats 
+rely more on smell than taste, and have a vastly better sense of smell than humans.</p>
 
-<p id="cat-3">Despite being solitary hunters, cats are a social species and use a variety 
-of vocalizations, pheromones and types of body language for communication. 
-These include meowing, purring, trilling, hissing, growling, and grunting.</p>
-<p>Cats have a rapid breeding rate. Under controlled breeding, they can be bred 
-and shown as registered pedigree pets, a hobby known as cat fancy. Failure to 
-control the breeding of pet cats by spaying and neutering and the abandonment 
-of former household pets has resulted in problems caused by large numbers of 
-feral cats worldwide, with a population of up to 60 million of these animals
-in the United States alone.</p>
+<p id="cat-3">Despite being solitary hunters, cats are a social species and use a variety of 
+vocalizations, pheromones and types of body language for communication. These include meowing, 
+purring, trilling, hissing, growling, and grunting.</p>
+
+<p>Cats have a rapid breeding rate. Under controlled breeding, they can be bred and shown as 
+registered pedigree pets, a hobby known as cat fancy. Failure to control the breeding of pet cats 
+by spaying and neutering and the abandonment of former household pets has resulted in problems 
+caused by large numbers of feral cats worldwide, with a population of up to 60 million of these 
+animals in the United States alone.</p>
 
 <p id="cat-wiki">Read more on <a href="http://en.wikipedia.org/wiki/Cat" target="_blank" 
-rel="noopener noreferrer">Wikipedia</a>.</p>
+rel="noopener noreferrer" title="Wikipedia (lies)">Wikipedia</a>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ end cats & body ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <br>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ footer ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p id="cellar-lastupdate">Penned by <a href="https://cellardoor.bauska.org" target="_blank"
-  rel="noopener noreferrer">bbauska on GitHub.io</a>. Last updated: 11:26am Wed 4/10/2024</p>
+  rel="noopener noreferrer" title="Brian Bauska's cellardoor.bauska.org">
+  bbauska on GitHub.io</a>. Last updated: 11:26am Wed 4/10/2024</p>
 </footer>
 
 </body>
