@@ -3,6 +3,8 @@
   "short_name": "Cellardoor", 
   "start_url": "index.html",
   "display": "standalone", 
+  "theme_color": "#c3f9f9",
+  "background_color": "#c3f9f9",
   "orientation": "landscape"
   "icons": [
   {
