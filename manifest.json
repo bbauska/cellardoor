@@ -1,8 +1,9 @@
 {
   "name": "Cellardoor Menu",
   "short_name": "Cellardoor", 
-  "start_url": "cellardoor.bauska.org",
+  "start_url": "index.html",
   "display": "standalone", 
+  "orientation": "landscape"
   "icons": [
   {
    "src": "\/images/android-icon-36x36.png",
